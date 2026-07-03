@@ -1,0 +1,76 @@
+name: Publish to npm
+
+on:
+  workflow_dispatch:
+    inputs:
+      package:
+        description: Package to publish
+        required: true
+        default: all
+        type: choice
+        options:
+          - all
+          - coptic-antonios-unicode
+          - coptic-pronounce
+  push:
+    tags:
+      - v*
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish-antonios:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'coptic-antonios-unicode'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: coptic-antonios-unicode
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: https://registry.npmjs.org
+          cache: npm
+          cache-dependency-path: coptic-antonios-unicode/package-lock.json
+
+      - name: Install, build, publish
+        run: |
+          npm ci
+          npm run build
+          npm publish --access public --provenance
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  publish-pronounce:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'coptic-pronounce'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: coptic-pronounce
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: https://registry.npmjs.org
+          cache: npm
+          cache-dependency-path: coptic-pronounce/package-lock.json
+
+      - name: Install, build, publish
+        run: |
+          npm ci
+          npm run build
+          npm publish --access public --provenance
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
