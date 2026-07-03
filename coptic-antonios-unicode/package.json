@@ -31,9 +31,14 @@
   ],
   "license": "MIT",
   "homepage": "https://www.npmjs.com/package/coptic-antonios-unicode",
+  "publishConfig": {
+    "access": "public",
+    "provenance": false
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonymelek/coptic-tools"
+    "url": "git+https://github.com/tonymelek/coptic-tools.git",
+    "directory": "coptic-antonios-unicode"
   },
   "bugs": {
     "url": "https://github.com/tonymelek/coptic-tools/issues"

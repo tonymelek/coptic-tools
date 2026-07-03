@@ -52,12 +52,29 @@ jobs:
           always-auth=true
           EOF
 
-      - name: Install, build, publish
+      - name: Install and build
         working-directory: coptic-antonios-unicode
         run: |
           npm ci --ignore-scripts
           npm run build
-          npm publish --access public --ignore-scripts
+
+      - name: Debug publish manifest
+        working-directory: coptic-antonios-unicode
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/coptic-antonios-unicode-*.tgz package/package.json
+          rm -f /tmp/coptic-antonios-unicode-*.tgz
+
+      - name: Publish
+        working-directory: coptic-antonios-unicode
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
 
   publish-pronounce:
     if: >-
@@ -94,9 +111,26 @@ jobs:
           always-auth=true
           EOF
 
-      - name: Install, build, publish
+      - name: Install and build
         working-directory: coptic-pronounce
         run: |
           npm ci --ignore-scripts
           npm run build
-          npm publish --access public --ignore-scripts
+
+      - name: Debug publish manifest
+        working-directory: coptic-pronounce
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/coptic-pronounce-*.tgz package/package.json
+          rm -f /tmp/coptic-pronounce-*.tgz
+
+      - name: Publish
+        working-directory: coptic-pronounce
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
