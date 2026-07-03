@@ -17,6 +17,7 @@ pnpm-debug.log*
 # env / secrets
 .env
 .env.*
+.npmrc
 
 # OS / editor
 .DS_Store

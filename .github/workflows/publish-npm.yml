@@ -20,9 +20,6 @@ permissions:
   contents: read
   id-token: write
 
-env:
-  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-
 jobs:
   publish-antonios:
     if: >-
@@ -30,15 +27,14 @@ jobs:
       inputs.package == 'all' ||
       inputs.package == 'coptic-antonios-unicode'
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: coptic-antonios-unicode
     steps:
-      - name: Check NPM_TOKEN secret
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          if [ -z "$NODE_AUTH_TOKEN" ]; then
+          if [ -z "$NPM_TOKEN" ]; then
             echo "::error::NPM_TOKEN repository secret is not set."
-            echo "Add an npm Automation token at Settings → Secrets → Actions."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
             exit 1
           fi
 
@@ -47,11 +43,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          registry-url: https://registry.npmjs.org
           cache: npm
           cache-dependency-path: coptic-antonios-unicode/package-lock.json
 
+      - name: Configure npm authentication
+        working-directory: coptic-antonios-unicode
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
       - name: Install, build, publish
+        working-directory: coptic-antonios-unicode
         run: |
           npm ci --ignore-scripts
           npm run build
@@ -63,15 +69,14 @@ jobs:
       inputs.package == 'all' ||
       inputs.package == 'coptic-pronounce'
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: coptic-pronounce
     steps:
-      - name: Check NPM_TOKEN secret
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          if [ -z "$NODE_AUTH_TOKEN" ]; then
+          if [ -z "$NPM_TOKEN" ]; then
             echo "::error::NPM_TOKEN repository secret is not set."
-            echo "Add an npm Automation token at Settings → Secrets → Actions."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
             exit 1
           fi
 
@@ -80,11 +85,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          registry-url: https://registry.npmjs.org
           cache: npm
           cache-dependency-path: coptic-pronounce/package-lock.json
 
+      - name: Configure npm authentication
+        working-directory: coptic-pronounce
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
       - name: Install, build, publish
+        working-directory: coptic-pronounce
         run: |
           npm ci --ignore-scripts
           npm run build

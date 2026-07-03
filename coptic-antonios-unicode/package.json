@@ -17,8 +17,6 @@
   ],
   "scripts": {
     "build": "tsup",
-    "prepare": "npm run build",
-    "prepack": "npm run build",
     "prepublishOnly": "npm run build",
     "pack:check": "npm pack --dry-run",
     "publish:dry-run": "npm publish --dry-run",
@@ -33,6 +31,14 @@
   ],
   "license": "MIT",
   "homepage": "https://www.npmjs.com/package/coptic-antonios-unicode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymelek/coptic-tools.git",
+    "directory": "coptic-antonios-unicode"
+  },
+  "bugs": {
+    "url": "https://github.com/tonymelek/coptic-tools/issues"
+  },
   "devDependencies": {
     "tsup": "^8.5.0",
     "typescript": "^5.9.2"
