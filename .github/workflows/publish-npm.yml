@@ -20,6 +20,9 @@ permissions:
   contents: read
   id-token: write
 
+env:
+  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
 jobs:
   publish-antonios:
     if: >-
@@ -31,6 +34,14 @@ jobs:
       run:
         working-directory: coptic-antonios-unicode
     steps:
+      - name: Check NPM_TOKEN secret
+        run: |
+          if [ -z "$NODE_AUTH_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Add an npm Automation token at Settings → Secrets → Actions."
+            exit 1
+          fi
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
@@ -42,11 +53,9 @@ jobs:
 
       - name: Install, build, publish
         run: |
-          npm ci
+          npm ci --ignore-scripts
           npm run build
-          npm publish --access public --provenance
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          npm publish --access public --provenance --ignore-scripts
 
   publish-pronounce:
     if: >-
@@ -58,6 +67,14 @@ jobs:
       run:
         working-directory: coptic-pronounce
     steps:
+      - name: Check NPM_TOKEN secret
+        run: |
+          if [ -z "$NODE_AUTH_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Add an npm Automation token at Settings → Secrets → Actions."
+            exit 1
+          fi
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
@@ -69,8 +86,6 @@ jobs:
 
       - name: Install, build, publish
         run: |
-          npm ci
+          npm ci --ignore-scripts
           npm run build
-          npm publish --access public --provenance
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          npm publish --access public --provenance --ignore-scripts
