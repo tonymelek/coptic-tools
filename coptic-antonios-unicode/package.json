@@ -33,8 +33,7 @@
   "homepage": "https://www.npmjs.com/package/coptic-antonios-unicode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonymelek/coptic-tools",
-    "directory": "coptic-antonios-unicode"
+    "url": "https://github.com/tonymelek/coptic-tools"
   },
   "bugs": {
     "url": "https://github.com/tonymelek/coptic-tools/issues"
