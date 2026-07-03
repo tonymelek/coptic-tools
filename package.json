@@ -5,5 +5,9 @@
     "pack:check": "npm run pack:check --prefix coptic-antonios-unicode && npm run pack:check --prefix coptic-pronounce",
     "publish:dry-run": "npm run publish:dry-run --prefix coptic-antonios-unicode && npm run publish:dry-run --prefix coptic-pronounce",
     "publish:npm": "npm run publish:npm --prefix coptic-antonios-unicode && npm run publish:npm --prefix coptic-pronounce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonymelek/coptic-tools"
   }
 }
