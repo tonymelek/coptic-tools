@@ -53,6 +53,7 @@ const specialCases: { pattern: RegExp; replacement: string }[] = [
   { pattern: /ⲟ̅ⲥ̅/g, replacement: 'chois' },
   { pattern: /ⲭ̅ⲥ̅/g, replacement: 'Ekrestos' },
   { pattern: /(ⲉ̀̅ⲑ̅ⲩ̅|ⲉ̅ⲑ̅ⲩ̅)/g, replacement: 'Eth-ouab' },
+  { pattern: /ⲥ̅ⲱ̅ⲣ̅/g, replacement: 'Sotir' },
 ];
 
 function copticToEnglishPronunciation(copticWord: string): string {

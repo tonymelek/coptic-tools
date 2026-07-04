@@ -8,7 +8,8 @@ function isCopticChar(char: string): boolean {
   return (
     (code >= 0x2c80 && code <= 0x2cff) ||
     (code >= 0x03e2 && code <= 0x03ef) ||
-    (code >= 0x0300 && code <= 0x036f)
+    (code >= 0x0300 && code <= 0x036f) ||
+    code === 0x60 // ` jenkim marker in Antonios / legacy text
   );
 }
 

@@ -30,8 +30,23 @@ const pronunciationMap: Record<string, string> = {
   'Ϫ': 'ج', 'ϫ': 'ج',
   'Ϭ': 'تش', 'ϭ': 'تش',
   'Ϯ': 'تي', 'ϯ': 'تي',
-  '\u0300': 'ا', // jenkim (combining grave accent / backtick)
+  '\u0300': 'ا', // jenkim (combining grave accent)
 };
+
+const JENKIM_CHARS = new Set(['\u0300', '`']);
+
+function mapsToAlef(char: string): boolean {
+  return pronunciationMap[char] === 'ا';
+}
+
+function nextSignificantChar(chars: string[], fromIndex: number): string | undefined {
+  for (let i = fromIndex + 1; i < chars.length; i++) {
+    const char = chars[i];
+    if (JENKIM_CHARS.has(char) || OTHER_COMBINING_MARKS.test(char)) continue;
+    return char;
+  }
+  return undefined;
+}
 
 // NOTE: liturgical entries are best-effort Arabic phonetic renderings —
 // verify against a trusted Coptic/Arabic liturgical reference before production use.
@@ -57,6 +72,7 @@ const specialCases: { pattern: RegExp; replacement: string }[] = [
   { pattern: /ⲛⲕ/g, replacement: 'نك' },
   { pattern: /ⲛⲅ/g, replacement: 'نج' },
   { pattern: /ⲛⲭ/g, replacement: 'نخ' },
+  { pattern: /ⲥ̅ⲱ̅ⲣ̅/g, replacement: 'سوتير' },
 ];
 
 const OTHER_COMBINING_MARKS = /[\u0301-\u036F]/g;
@@ -70,10 +86,18 @@ function copticToArabicPronunciation(copticWord: string): string {
     word = word.replace(pattern, replacement);
   });
 
-  const transliterated = word
-    .split('')
-    .map((char) => pronunciationMap[char] ?? char)
-    .join('')
+  const chars = word.split('');
+  const transliterated = chars
+    .reduce<string>((result, char, index) => {
+      if (JENKIM_CHARS.has(char)) {
+        const next = nextSignificantChar(chars, index);
+        if (next && mapsToAlef(next)) {
+          return result.length > 0 ? result + ' ' : result;
+        }
+        return result + (result.length > 0 ? ' ا' : 'ا');
+      }
+      return result + (pronunciationMap[char] ?? char);
+    }, '')
     .replace(OTHER_COMBINING_MARKS, '');
 
   return transliterated + suffix;

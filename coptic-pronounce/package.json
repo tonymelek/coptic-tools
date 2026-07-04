@@ -1,6 +1,6 @@
 {
   "name": "coptic-pronounce",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Coptic Unicode to English and Arabic phonetic transliteration",
   "main": "./dist/index.cjs",
   "types": "./dist/index.d.ts",
