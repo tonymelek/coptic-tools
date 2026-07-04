@@ -1,6 +1,6 @@
 {
   "name": "coptic-antonios-unicode",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Convert Antonios-font Latin encoding to Coptic Unicode",
   "main": "./dist/index.cjs",
   "types": "./dist/index.d.ts",

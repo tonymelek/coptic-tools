@@ -30,6 +30,7 @@ const pronunciationMap: Record<string, string> = {
   'Ϫ': 'ج', 'ϫ': 'ج',
   'Ϭ': 'تش', 'ϭ': 'تش',
   'Ϯ': 'تي', 'ϯ': 'تي',
+  '\u0300': 'ا', // jenkim (combining grave accent / backtick)
 };
 
 // NOTE: liturgical entries are best-effort Arabic phonetic renderings —
@@ -58,7 +59,7 @@ const specialCases: { pattern: RegExp; replacement: string }[] = [
   { pattern: /ⲛⲭ/g, replacement: 'نخ' },
 ];
 
-const COMBINING_MARKS = /[\u0300-\u036F]/g;
+const OTHER_COMBINING_MARKS = /[\u0301-\u036F]/g;
 const TRAILING_PUNCT = /[.,:;!?]+$/;
 
 function copticToArabicPronunciation(copticWord: string): string {
@@ -73,7 +74,7 @@ function copticToArabicPronunciation(copticWord: string): string {
     .split('')
     .map((char) => pronunciationMap[char] ?? char)
     .join('')
-    .replace(COMBINING_MARKS, '');
+    .replace(OTHER_COMBINING_MARKS, '');
 
   return transliterated + suffix;
 }
