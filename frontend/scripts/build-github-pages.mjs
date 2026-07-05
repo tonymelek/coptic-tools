@@ -54,6 +54,11 @@ function prefixRootPaths(content) {
 }
 
 function shouldRewrite(filePath) {
+  const rel = path.relative(distDir, filePath)
+  if (rel.startsWith(`assets${path.sep}`) || rel.includes(`${path.sep}assets${path.sep}`)) {
+    return false
+  }
+
   const base = path.basename(filePath)
   if (TEXT_FILENAMES.has(base)) return true
   return TEXT_EXTENSIONS.has(path.extname(filePath))
@@ -103,10 +108,23 @@ if (fs.existsSync(builtAssets)) {
 
 fs.writeFileSync(path.join(distDir, '.nojekyll'), '')
 
+function removeDsStore(dir) {
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const filePath = path.join(dir, entry.name)
+    if (entry.isDirectory()) {
+      removeDsStore(filePath)
+    } else if (entry.name === '.DS_Store') {
+      fs.rmSync(filePath, { force: true })
+    }
+  }
+}
+
 const appHtml = path.join(distDir, 'app.html')
 if (fs.existsSync(appHtml)) {
   fs.copyFileSync(appHtml, path.join(distDir, '404.html'))
   fs.copyFileSync(appHtml, path.join(appDistDir, 'index.html'))
 }
+
+removeDsStore(distDir)
 
 console.log('GitHub Pages build ready in dist/')
