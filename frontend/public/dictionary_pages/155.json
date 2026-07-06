@@ -209,17 +209,6 @@
     }
   },
   {
-    "headword": "hen=",
-    "copticWord": "ϩⲉⲛ",
-    "englishTransliteration": "hen",
-    "gloss": "To move self",
-    "definition": "To move self",
-    "crossReference": {
-      "target": "(2)hini",
-      "gloss": "To move self"
-    }
-  },
-  {
     "headword": "heli",
     "copticWord": "ϩⲉⲗⲓ",
     "englishTransliteration": "heli",
@@ -368,6 +357,15 @@
         "word": "h/t=",
         "copticWord": "ϩⲏⲧ",
         "englishTransliteration": "hit"
+      },
+      {
+        "headword": "(13) he nteu",
+        "copticWord": "ϩⲏ ⲛⲧⲏⲩ",
+        "englishTransliteration": "he nteu",
+        "gloss": "breeze",
+        "definition": "breeze",
+        "reference": "440a",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "640b",

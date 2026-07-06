@@ -9,20 +9,6 @@
     "definition": "Heap of grain"
   },
   {
-    "headword": "(2) hoi",
-    "copticWord": "ϩⲟⲓ",
-    "englishTransliteration": "hoi",
-    "reference": "651a",
-    "senses": [
-      {
-        "label": "aterholi",
-        "partOfSpeech": "adj",
-        "gloss": "Incorruptible, indis-tructible",
-        "definition": "Incorruptible, indis-tructible"
-      }
-    ]
-  },
-  {
     "headword": "m. Bellows. hoker (Q) v. hko - To be hungry. hoklef",
     "copticWord": "ⲙ. Ⲃⲉⲗⲗⲟⲱϣ. ϩⲟⲕⲉⲣ (Ϧ) ⲫ. ϩⲕⲟ - Ⲧⲟ ⲃⲉ ϩⲩⲛⲅⲣⲑ. ϩⲟⲕⲗⲉϥ",
     "englishTransliteration": "m. Velloōsh. hoker (Kh) f. hko - To ve hyngrth. hoklef",
@@ -60,17 +46,6 @@
     "partOfSpeech": "n",
     "gloss": "An implement",
     "definition": "An implement"
-  },
-  {
-    "headword": "hom=",
-    "copticWord": "ϩⲟⲙ",
-    "englishTransliteration": "hom",
-    "gloss": "To tread",
-    "definition": "To tread",
-    "crossReference": {
-      "target": "hwmi",
-      "gloss": "To tread"
-    }
   },
   {
     "headword": "homi (Q) v. hwmi - To be trampled. hombe",
@@ -169,32 +144,12 @@
     }
   },
   {
-    "headword": "hotp",
-    "copticWord": "ϩⲟⲧⲡ",
-    "englishTransliteration": "hotp",
-    "gloss": "Chain",
-    "definition": "Chain",
-    "crossReference": {
-      "target": "hwtp",
-      "gloss": "Chain"
-    }
-  },
-  {
     "headword": "hoter (Q)",
     "copticWord": "ϩⲟⲧⲉⲣ (Ϧ)",
     "englishTransliteration": "hoter (Kh)",
     "reference": "726a",
     "gloss": "vi. To be joined, doubled",
     "definition": "vi. To be joined, doubled"
-  },
-  {
-    "headword": "hboui",
-    "copticWord": "ϩⲃⲟⲩⲓ",
-    "englishTransliteration": "hvoui",
-    "reference": "740b",
-    "partOfSpeech": "m",
-    "gloss": "Serpent",
-    "definition": "Serpent"
   },
   {
     "headword": "[aphof",
@@ -341,34 +296,6 @@
     "partOfSpeech": "vb",
     "gloss": "To be afraid",
     "definition": "]ho]: vb. To give fear, terrify"
-  },
-  {
-    "headword": "hiho]",
-    "copticWord": "ϩⲓϩⲟϯ",
-    "englishTransliteration": "hihoti",
-    "partOfSpeech": "vb",
-    "gloss": "To cast, put fear",
-    "definition": "To cast, put fear"
-  },
-  {
-    "headword": "hop=",
-    "copticWord": "ϩⲟⲡ",
-    "englishTransliteration": "hop",
-    "gloss": "To hide. hopc= v. hwbc - To cover. hopc (Q) v. hwbc - To be covered. (hopt=) v. hwtp - To join. hopt (Q) v. wtp - To enclose. hopt v. hwtp - Chain. horp= v. (2)hwrp - To be wet. horp (Q) v. (1)hwrp - To be asleep. horp (Q) v. (2)hwrp - To be wet. hort= v. (hwrt)- To seize. hortf: (704b)",
-    "definition": "m. Phantasm, ghost;",
-    "crossReference": {
-      "target": "(1)hwp",
-      "gloss": "To hide. hopc= v. hwbc - To cover. hopc (Q) v. hwbc - To be covered. (hopt=) v. hwtp - To join. hopt (Q) v. wtp - To enclose. hopt v. hwtp - Chain. horp= v. (2)hwrp - To be wet. horp (Q) v. (1)hwrp - To be asleep. horp (Q) v. (2)hwrp - To be wet. hort= v. (hwrt)- To seize. hortf: (704b)"
-    }
-  },
-  {
-    "headword": "(2)ho]",
-    "copticWord": "ϩⲟϯ",
-    "englishTransliteration": "hoti",
-    "reference": "721b",
-    "partOfSpeech": "f",
-    "gloss": "hour, moment",
-    "definition": "hour, moment"
   },
   {
     "headword": "nouho]",

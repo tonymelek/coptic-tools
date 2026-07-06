@@ -108,17 +108,6 @@
     "definition": "`yes'"
   },
   {
-    "headword": "ajo=",
-    "copticWord": "ⲁϫⲟ",
-    "englishTransliteration": "ajo",
-    "gloss": "To say",
-    "definition": "To say",
-    "crossReference": {
-      "target": "jw",
-      "gloss": "To say"
-    }
-  },
-  {
     "headword": "ajol]",
     "copticWord": "ⲁϫⲟⲗϯ",
     "englishTransliteration": "ajolti",
@@ -228,22 +217,6 @@
     ]
   },
   {
-    "headword": "(2) ajw",
-    "copticWord": "ⲁϫⲱ",
-    "englishTransliteration": "ajō",
-    "variants": [
-      {
-        "word": "jo",
-        "copticWord": "ϫⲟ",
-        "englishTransliteration": "jo"
-      }
-    ],
-    "reference": "753b",
-    "partOfSpeech": "m",
-    "gloss": "Crook-back or haunch back",
-    "definition": "Crook-back or haunch back"
-  },
-  {
     "headword": "a[in",
     "copticWord": "ⲁϭⲓⲛ",
     "englishTransliteration": "achin",
@@ -310,13 +283,6 @@
     ]
   },
   {
-    "headword": "anahwr",
-    "copticWord": "ⲁⲛⲁϩⲱⲣ",
-    "englishTransliteration": "anahōr",
-    "gloss": "pl. Store-houses",
-    "definition": "pl. Store-houses"
-  },
-  {
     "headword": "ata[ni",
     "copticWord": "ⲁⲧⲁϭⲛⲓ",
     "englishTransliteration": "atachni",
@@ -354,7 +320,22 @@
     "englishTransliteration": "hiachni",
     "partOfSpeech": "vb",
     "gloss": "To cast a stain",
-    "definition": "To cast a stain"
+    "definition": "To cast a stain",
+    "variants": [
+      {
+        "headword": "(7) hiachni (nsa-)",
+        "copticWord": "ϩⲓⲁϭⲛⲓ (ⲛⲥⲁ-)",
+        "englishTransliteration": "hiachni (nsa-)",
+        "gloss": "cast a stain",
+        "definition": "cast a stain",
+        "reference": "26b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "johm",
+          "gloss": "beflecken (S)"
+        }
+      }
+    ]
   },
   {
     "headword": "a[r/n",

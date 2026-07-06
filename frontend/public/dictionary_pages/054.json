@@ -1,14 +1,5 @@
 [
   {
-    "headword": "(2) laji",
-    "copticWord": "ⲗⲁϫⲓ",
-    "englishTransliteration": "laji",
-    "reference": "151a",
-    "partOfSpeech": "n",
-    "gloss": "Impudent, persistent person",
-    "definition": "Impudent, persistent person"
-  },
-  {
     "headword": "(w/ er-)",
     "copticWord": "(ⲱⲏ ⲉⲣ-)",
     "englishTransliteration": "(ōi er-)",
@@ -334,21 +325,6 @@
     "definition": "Shout"
   },
   {
-    "headword": "es",
-    "copticWord": "ⲉϣ",
-    "englishTransliteration": "esh",
-    "variants": [
-      {
-        "word": "sl/loui",
-        "copticWord": "ϣⲗⲏⲗⲟⲩⲓ",
-        "englishTransliteration": "shliloui"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To shout aloud",
-    "definition": "To shout aloud"
-  },
-  {
     "headword": "l/pon",
     "copticWord": "ⲗⲏⲡⲟⲛ",
     "englishTransliteration": "lipon",
@@ -388,32 +364,23 @@
     "definition": "Lebanon. libi, (Q) lobi, p.c"
   },
   {
-    "headword": "lab",
-    "copticWord": "ⲗⲁⲃ",
-    "englishTransliteration": "lav",
-    "variants": [
-      {
-        "word": "la",
-        "copticWord": "ⲗⲁ",
-        "englishTransliteration": "la"
-      }
-    ],
-    "reference": "136b"
-  },
-  {
-    "headword": "vi",
-    "copticWord": "ⲫⲓ",
-    "englishTransliteration": "fi",
-    "gloss": "To be made",
-    "definition": "To be made"
-  },
-  {
     "headword": "lele",
     "copticWord": "ⲗⲉⲗⲉ",
     "englishTransliteration": "lele",
     "reference": "141a",
     "gloss": "vi. To wander about",
-    "definition": "--- ebol: vb. To wander forth, about"
+    "definition": "--- ebol: vb. To wander forth, about",
+    "variants": [
+      {
+        "headword": "(2) lele ebol",
+        "copticWord": "ⲗⲉⲗⲉ ⲉⲃⲟⲗ",
+        "englishTransliteration": "lele ebol",
+        "gloss": "wander forth, about",
+        "definition": "wander forth, about",
+        "reference": "141a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "metreflele ebol",
@@ -451,14 +418,6 @@
     }
   },
   {
-    "headword": "nem",
-    "copticWord": "ⲛⲉⲙ",
-    "englishTransliteration": "nem",
-    "partOfSpeech": "vb",
-    "gloss": "To be mad after",
-    "definition": "To be mad after"
-  },
-  {
     "headword": "lel/m",
     "copticWord": "ⲗⲉⲗⲏⲙ",
     "englishTransliteration": "lelim",
@@ -468,22 +427,6 @@
       "target": "lehl/m",
       "gloss": "Flea"
     }
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To be made after",
-    "definition": "To be made after"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To be mad through, made mad by",
-    "definition": "To be mad through, made mad by"
   },
   {
     "headword": "lenji",
@@ -540,14 +483,6 @@
     "definition": "Madman"
   },
   {
-    "headword": "lamaqt",
-    "copticWord": "ⲗⲁⲙⲁϧⲧ",
-    "englishTransliteration": "lamakht",
-    "partOfSpeech": "adj",
-    "gloss": "Belly-mad, gluttonous",
-    "definition": "Belly-mad, gluttonous"
-  },
-  {
     "headword": "metlamaqt",
     "copticWord": "ⲙⲉⲧⲗⲁⲙⲁϧⲧ",
     "englishTransliteration": "metlamakht",
@@ -569,14 +504,6 @@
     "partOfSpeech": "adj",
     "gloss": "Glutton",
     "definition": "Glutton"
-  },
-  {
-    "headword": "lafchimi",
-    "copticWord": "ⲗⲁϥⲥϩⲓⲙⲓ",
-    "englishTransliteration": "lafshimi",
-    "partOfSpeech": "adj",
-    "gloss": "Woman-mad, greedy person",
-    "definition": "Woman-mad, greedy person"
   },
   {
     "headword": "metlafchimi",

@@ -110,17 +110,6 @@
     "definition": "Mouse-colored"
   },
   {
-    "headword": "vork",
-    "copticWord": "ⲫⲟⲣⲕ",
-    "englishTransliteration": "fork",
-    "gloss": "Pallium. vork v. (2)vwrk - Calf",
-    "definition": "Pallium. vork v. (2)vwrk - Calf",
-    "crossReference": {
-      "target": "(2)vwrk",
-      "gloss": "Pallium. vork v. (2)vwrk - Calf"
-    }
-  },
-  {
     "headword": "viri",
     "copticWord": "ⲫⲓⲣⲓ",
     "englishTransliteration": "firi",
@@ -139,6 +128,22 @@
         "word": "(Q)veriwou",
         "copticWord": "(Ϧ)ⲫⲉⲣⲓⲱⲟⲩ",
         "englishTransliteration": "(Kh)feriōou"
+      },
+      {
+        "headword": "(2) phiri (e)",
+        "copticWord": "ⲫⲓⲣⲓ (ⲉ)",
+        "englishTransliteration": "phiri (e)",
+        "gloss": "put forth, announce, tell, proclaim",
+        "definition": "put forth, announce, tell, proclaim",
+        "reference": "267a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "pher- (e)",
+            "copticWord": "ⲫⲉⲣ- (ⲉ)",
+            "englishTransliteration": "pher- (e)"
+          }
+        ]
       }
     ],
     "reference": "267a",
@@ -300,17 +305,6 @@
     }
   },
   {
-    "headword": "voth=",
-    "copticWord": "ⲫⲟⲧϩ",
-    "englishTransliteration": "foth",
-    "gloss": "To carve",
-    "definition": "To carve",
-    "crossReference": {
-      "target": "vwth",
-      "gloss": "To carve"
-    }
-  },
-  {
     "headword": "vosn=",
     "copticWord": "ⲫⲟϣⲛ",
     "englishTransliteration": "foshn",
@@ -401,13 +395,6 @@
     "definition": "Bench"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To attain to",
-    "definition": "vi. To attain to"
-  },
-  {
     "headword": "von=",
     "copticWord": "ⲫⲟⲛ",
     "englishTransliteration": "fon",
@@ -449,17 +436,6 @@
   },
   {
     "headword": "volj",
-    "copticWord": "ⲫⲟⲗϫ",
-    "englishTransliteration": "folj",
-    "gloss": "To deliver",
-    "definition": "To deliver",
-    "crossReference": {
-      "target": "vwlj",
-      "gloss": "To deliver"
-    }
-  },
-  {
-    "headword": "volj=",
     "copticWord": "ⲫⲟⲗϫ",
     "englishTransliteration": "folj",
     "gloss": "To deliver",

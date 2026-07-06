@@ -1,4 +1,6 @@
 <script setup>
+import { toDictionaryUnicode } from '../lib/dictionaryUnicode'
+
 defineProps({
   entry: {
     type: Object,
@@ -9,6 +11,16 @@ defineProps({
     required: true,
   },
 })
+
+const normalize = (value) => (value || '').replace(/\s+/g, ' ').trim()
+
+// Definition is only worth showing when it adds something beyond the gloss.
+// In most entries gloss === definition (often with stray PDF whitespace), so
+// comparing normalized text avoids rendering the same meaning twice.
+function definitionAddsInfo(gloss, definition) {
+  const d = normalize(definition)
+  return Boolean(d) && d !== normalize(gloss)
+}
 </script>
 
 <template>
@@ -47,12 +59,14 @@ defineProps({
     </header>
 
     <div class="mt-4 space-y-4">
-      <div v-if="entry.gloss">
-        <h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Gloss</h3>
-        <p class="mt-1 text-slate-800 leading-relaxed">{{ entry.gloss }}</p>
+      <div v-if="entry.gloss || entry.definition">
+        <h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Meaning</h3>
+        <p class="mt-1 text-slate-800 leading-relaxed break-words">
+          {{ entry.gloss || entry.definition }}
+        </p>
       </div>
 
-      <div v-if="entry.definition">
+      <div v-if="definitionAddsInfo(entry.gloss, entry.definition)">
         <h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Definition</h3>
         <p class="mt-1 text-slate-800 leading-relaxed whitespace-pre-wrap break-words">
           {{ entry.definition }}
@@ -87,14 +101,22 @@ defineProps({
             :key="`${sense.label}-${index}`"
             class="rounded-lg border border-slate-100 bg-slate-50 px-3 py-2"
           >
-            <div class="flex flex-wrap items-center gap-2 text-xs text-slate-600">
+            <div
+              v-if="sense.label || sense.reference || sense.partOfSpeech || sense.isGreek"
+              class="flex flex-wrap items-center gap-2 text-xs text-slate-600"
+            >
               <span v-if="sense.label" class="font-semibold text-burgundy-800">{{ sense.label }}</span>
               <span v-if="sense.reference">{{ sense.reference }}</span>
               <span v-if="sense.partOfSpeech">{{ sense.partOfSpeech }}</span>
               <span v-if="sense.isGreek">Greek</span>
             </div>
-            <p v-if="sense.gloss" class="mt-1 text-slate-800">{{ sense.gloss }}</p>
-            <p v-if="sense.definition" class="mt-1 text-slate-700 whitespace-pre-wrap break-words">
+            <p v-if="sense.gloss || sense.definition" class="mt-1 text-slate-800">
+              {{ sense.gloss || sense.definition }}
+            </p>
+            <p
+              v-if="definitionAddsInfo(sense.gloss, sense.definition)"
+              class="mt-1 text-slate-700 whitespace-pre-wrap break-words"
+            >
               {{ sense.definition }}
             </p>
           </li>
@@ -106,7 +128,7 @@ defineProps({
         class="rounded-lg border border-burgundy-100 bg-burgundy-50 px-3 py-2 text-sm text-burgundy-900"
       >
         <span class="font-semibold">See also:</span>
-        {{ entry.crossReference.target }}
+        <span class="font-coptic text-base">{{ toDictionaryUnicode(entry.crossReference.target) }}</span>
         <span v-if="entry.crossReference.gloss"> — {{ entry.crossReference.gloss }}</span>
       </div>
     </div>

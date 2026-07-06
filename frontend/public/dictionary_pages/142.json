@@ -25,20 +25,6 @@
     "definition": "vt. To sharpen, incite."
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To pray to, for",
-    "definition": "vi. To pray to, for"
-  },
-  {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "gloss": "vi. To pray over, for",
-    "definition": "vi. To pray over, for"
-  },
-  {
     "headword": "sobsep",
     "copticWord": "ϣⲟⲃϣⲉⲡ",
     "englishTransliteration": "shovshep",
@@ -48,13 +34,6 @@
       "target": "sobseb",
       "gloss": "To sharpen"
     }
-  },
-  {
-    "headword": "sa",
-    "copticWord": "ϣⲁ",
-    "englishTransliteration": "sha",
-    "gloss": "vi. To pray to",
-    "definition": "vi. To pray to"
   },
   {
     "headword": "soyref",
@@ -68,13 +47,6 @@
     }
   },
   {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "gloss": "vi. To pray about, for",
-    "definition": "vi. To pray about, for"
-  },
-  {
     "headword": "sok",
     "copticWord": "ϣⲟⲕ",
     "englishTransliteration": "shok",
@@ -84,51 +56,6 @@
       "target": "swk",
       "gloss": "To dig"
     }
-  },
-  {
-    "headword": "epswi ha",
-    "copticWord": "ⲉⲡϣⲱⲓ ϩⲁ",
-    "englishTransliteration": "epshōi ha",
-    "gloss": "vi. To pray up to",
-    "definition": "vi. To pray up to"
-  },
-  {
-    "headword": "sok=",
-    "copticWord": "ϣⲟⲕ",
-    "englishTransliteration": "shok",
-    "gloss": "To dig",
-    "definition": "To dig",
-    "crossReference": {
-      "target": "swk",
-      "gloss": "To dig"
-    }
-  },
-  {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "gloss": "vi. To pray over",
-    "definition": "vi. To pray over",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Prayer",
-        "definition": "Prayer"
-      },
-      {
-        "label": "atsl/l",
-        "partOfSpeech": "adj",
-        "gloss": "Without prayer",
-        "definition": "Without prayer"
-      },
-      {
-        "label": "slol",
-        "reference": "559b",
-        "partOfSpeech": "m",
-        "gloss": "Folk, people, nation",
-        "definition": "Folk, people, nation"
-      }
-    ]
   },
   {
     "headword": "soki",
@@ -155,12 +82,6 @@
     "reference": "557a",
     "gloss": "vt. To dig, pick, hollow",
     "definition": "vt. To dig, pick, hollow"
-  },
-  {
-    "headword": "(2) soksek",
-    "copticWord": "ϣⲟⲕϣⲉⲕ",
-    "englishTransliteration": "shokshek",
-    "reference": "557a"
   },
   {
     "headword": "vi. To hiss. sokh",
@@ -263,33 +184,6 @@
     "reference": "565a"
   },
   {
-    "headword": "vi",
-    "copticWord": "ⲫⲓ",
-    "englishTransliteration": "fi",
-    "gloss": "To be light, fine, subtle",
-    "definition": "To be light, fine, subtle"
-  },
-  {
-    "headword": "(2)sol",
-    "copticWord": "ϣⲟⲗ",
-    "englishTransliteration": "shol",
-    "reference": "557b",
-    "partOfSpeech": "m",
-    "gloss": "Bundle",
-    "definition": "Bundle"
-  },
-  {
-    "headword": "sol=",
-    "copticWord": "ϣⲟⲗ",
-    "englishTransliteration": "shol",
-    "gloss": "To despoil",
-    "definition": "To despoil",
-    "crossReference": {
-      "target": "(1)swl",
-      "gloss": "To despoil"
-    }
-  },
-  {
     "headword": "solbi",
     "copticWord": "ϣⲟⲗⲃⲓ",
     "englishTransliteration": "sholvi",
@@ -302,17 +196,6 @@
   },
   {
     "headword": "solk",
-    "copticWord": "ϣⲟⲗⲕ",
-    "englishTransliteration": "sholk",
-    "gloss": "To weave",
-    "definition": "To weave",
-    "crossReference": {
-      "target": "swlk",
-      "gloss": "To weave"
-    }
-  },
-  {
-    "headword": "solk=",
     "copticWord": "ϣⲟⲗⲕ",
     "englishTransliteration": "sholk",
     "gloss": "To weave",
@@ -501,17 +384,6 @@
     }
   },
   {
-    "headword": "sobi",
-    "copticWord": "ϣⲟⲃⲓ",
-    "englishTransliteration": "shovi",
-    "gloss": "Hypocrite",
-    "definition": "Hypocrite",
-    "crossReference": {
-      "target": "sebi",
-      "gloss": "Hypocrite"
-    }
-  },
-  {
     "headword": "sobt=",
     "copticWord": "ϣⲟⲃⲧ",
     "englishTransliteration": "shovt",
@@ -573,6 +445,35 @@
     "englishTransliteration": "shōp",
     "partOfSpeech": "m",
     "gloss": "A group of 4",
-    "definition": "A group of 4"
+    "definition": "A group of 4",
+    "variants": [
+      {
+        "headword": "(2) shop e-",
+        "copticWord": "ϣⲱⲡ ⲉ-",
+        "englishTransliteration": "shop e-",
+        "gloss": "accept, take to self",
+        "definition": "accept, take to self",
+        "reference": "575a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) shop ejn-",
+        "copticWord": "ϣⲱⲡ ⲉϫⲛ-",
+        "englishTransliteration": "shop ejn-",
+        "gloss": "on behalf of",
+        "definition": "on behalf of",
+        "reference": "575b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) shop n-",
+        "copticWord": "ϣⲱⲡ ⲛ-",
+        "englishTransliteration": "shop n-",
+        "gloss": "acquire, expend on",
+        "definition": "acquire, expend on",
+        "reference": "575b",
+        "partOfSpeech": "vb"
+      }
+    ]
   }
 ]

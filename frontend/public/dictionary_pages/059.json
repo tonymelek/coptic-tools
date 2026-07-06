@@ -105,15 +105,6 @@
     "definition": "Axe, pick"
   },
   {
-    "headword": "(2) mau",
-    "copticWord": "ⲙⲁⲩ",
-    "englishTransliteration": "mav",
-    "reference": "197a",
-    "partOfSpeech": "f",
-    "gloss": "Mother",
-    "definition": "Mother"
-  },
-  {
     "headword": "senmau",
     "copticWord": "ϣⲉⲛⲙⲁⲩ",
     "englishTransliteration": "shenmav",
@@ -196,33 +187,7 @@
     }
   },
   {
-    "headword": "ma",
-    "copticWord": "ⲙⲁ",
-    "englishTransliteration": "ma",
-    "variants": [
-      {
-        "word": "era",
-        "copticWord": "ⲉⲣⲁ",
-        "englishTransliteration": "era"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Sword",
-    "definition": "Sword"
-  },
-  {
     "headword": "mas",
-    "copticWord": "ⲙⲁϣ",
-    "englishTransliteration": "mash",
-    "gloss": "To fight",
-    "definition": "To fight",
-    "crossReference": {
-      "target": "misi",
-      "gloss": "To fight"
-    }
-  },
-  {
-    "headword": "mas=",
     "copticWord": "ⲙⲁϣ",
     "englishTransliteration": "mash",
     "gloss": "To fight",
@@ -456,14 +421,6 @@
     "definition": "Testimony"
   },
   {
-    "headword": "ermeyre",
-    "copticWord": "ⲉⲣⲙⲉⲑⲣⲉ",
-    "englishTransliteration": "ermethre",
-    "partOfSpeech": "vb",
-    "gloss": "To testify, bear witness",
-    "definition": "--- n-: vb. To testify of, concerning; --- n- (dat-): vb. To testify to;"
-  },
-  {
     "headword": "maqt",
     "copticWord": "ⲙⲁϧⲧ",
     "englishTransliteration": "makht",
@@ -492,40 +449,6 @@
     "partOfSpeech": "adj",
     "gloss": "Without bowels (of compassion)",
     "definition": "Without bowels (of compassion)"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To testify against, in respect of, for",
-    "definition": "To testify against, in respect of, for",
-    "senses": [
-      {
-        "label": "qa",
-        "partOfSpeech": "vb",
-        "gloss": "To testify on behalf of",
-        "definition": "To testify on behalf of"
-      },
-      {
-        "label": "eybe",
-        "partOfSpeech": "vb",
-        "gloss": "To testify concerning",
-        "definition": "To testify concerning"
-      },
-      {
-        "label": "ejen",
-        "partOfSpeech": "vb",
-        "gloss": "To testify concerning",
-        "definition": "To testify concerning"
-      },
-      {
-        "label": "nem",
-        "partOfSpeech": "vb",
-        "gloss": "To testify to, for",
-        "definition": "To testify to, for"
-      }
-    ]
   },
   {
     "headword": "maqoul",

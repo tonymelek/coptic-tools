@@ -262,30 +262,6 @@
     ]
   },
   {
-    "headword": "(2) vwrk",
-    "copticWord": "ⲫⲱⲣⲕ",
-    "englishTransliteration": "fōrk",
-    "variants": [
-      {
-        "word": "vork",
-        "copticWord": "ⲫⲟⲣⲕ",
-        "englishTransliteration": "fork"
-      }
-    ],
-    "reference": "268a",
-    "partOfSpeech": "m",
-    "gloss": "Pallium",
-    "definition": "Pallium"
-  },
-  {
-    "headword": "vork",
-    "copticWord": "ⲫⲟⲣⲕ",
-    "englishTransliteration": "fork",
-    "partOfSpeech": "m",
-    "gloss": "Foal, calf, macvork: m. Mule",
-    "definition": "Foal, calf, macvork: m. Mule"
-  },
-  {
     "headword": "(vwsem) vasm=",
     "copticWord": "(ⲫⲱϣⲉⲙ) ⲫⲁϣⲙ",
     "englishTransliteration": "(fōshem) fashm",

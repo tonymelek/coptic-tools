@@ -68,6 +68,703 @@
         "word": "mou",
         "copticWord": "ⲙⲟⲩ",
         "englishTransliteration": "mou"
+      },
+      {
+        "headword": "(8) ma neloole",
+        "copticWord": "ⲙⲁ ⲛⲉⲗⲟⲟⲗⲉ",
+        "englishTransliteration": "ma neloole",
+        "gloss": "vineyard",
+        "definition": "vineyard",
+        "reference": "55a",
+        "partOfSpeech": "m",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "-ma naloli",
+            "copticWord": "ⲙⲁ ⲛⲁⲗⲟⲗⲓ",
+            "englishTransliteration": "ma naloli"
+          }
+        ],
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(19) ma nko ebol",
+        "copticWord": "ⲙⲁ ⲛⲕⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ma nko ebol",
+        "gloss": "place of forgiveness, mercy-seat",
+        "definition": "place of forgiveness, mercy-seat",
+        "reference": "97b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nchop",
+        "copticWord": "ⲙⲁ ⲛⲭⲱⲡ",
+        "englishTransliteration": "ma nchop",
+        "gloss": "hiding place",
+        "definition": "hiding place",
+        "reference": "114a",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(3) ma nkash",
+        "copticWord": "ⲙⲁ ⲛⲕⲁϣ",
+        "englishTransliteration": "ma nkash",
+        "gloss": "bed, plantation of reeds",
+        "definition": "bed, plantation of reeds",
+        "reference": "130b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(5) ma nrme",
+        "copticWord": "ⲙⲁ ⲛⲣⲙⲏ",
+        "englishTransliteration": "ma nrme",
+        "gloss": "anus",
+        "definition": "anus",
+        "reference": "158b",
+        "partOfSpeech": "n",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "place"
+        }
+      },
+      {
+        "headword": "(2) ma mmoone",
+        "copticWord": "ⲙⲁ ⲙⲙⲟⲟⲛⲉ",
+        "englishTransliteration": "ma mmoone",
+        "gloss": "place of pasture",
+        "definition": "place of pasture",
+        "reference": "173a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) ma mmour",
+        "copticWord": "ⲙⲁ ⲙⲙⲟⲩⲣ",
+        "englishTransliteration": "ma mmour",
+        "gloss": "place of binding, prison",
+        "definition": "place of binding, prison",
+        "reference": "182a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(32) ma mmooshe",
+        "copticWord": "ⲙⲁ ⲙⲙⲟⲟϣⲉ",
+        "englishTransliteration": "ma mmooshe",
+        "gloss": "place of walking, path",
+        "definition": "place of walking, path",
+        "reference": "205b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(13) ma nnkotk",
+        "copticWord": "ⲙⲁ ⲛⲛⲕⲟⲧⲕ",
+        "englishTransliteration": "ma nnkotk",
+        "gloss": "place of lying, couch",
+        "definition": "place of lying, couch",
+        "reference": "225a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nnout",
+        "copticWord": "ⲙⲁ ⲛⲛⲟⲩⲧ",
+        "englishTransliteration": "ma nnout",
+        "gloss": "milling place, mill",
+        "definition": "milling place, mill",
+        "reference": "229b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma mporsh",
+        "copticWord": "ⲙⲁ ⲙⲡⲱⲣϣ",
+        "englishTransliteration": "ma mporsh",
+        "gloss": "place spread, couch",
+        "definition": "place spread, couch",
+        "reference": "271a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) ma nporj",
+        "copticWord": "ⲙⲁ ⲛⲡⲱⲣϫ",
+        "englishTransliteration": "ma nporj",
+        "gloss": "place of dividing, frontier",
+        "definition": "place of dividing, frontier",
+        "reference": "273a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) ma mpot",
+        "copticWord": "ⲙⲁ ⲙⲡⲱⲧ",
+        "englishTransliteration": "ma mpot",
+        "gloss": "place of refuge",
+        "definition": "place of refuge",
+        "reference": "275b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) ma mpot ebol",
+        "copticWord": "ⲙⲁ ⲙⲡⲱⲧ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ma mpot ebol",
+        "gloss": "outgoing, exit",
+        "definition": "outgoing, exit",
+        "reference": "275b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) ma mposh",
+        "copticWord": "ⲙⲁ ⲙⲡⲱϣ",
+        "englishTransliteration": "ma mposh",
+        "gloss": "place of dividing",
+        "definition": "place of dividing",
+        "reference": "278a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(12) ma njipahre",
+        "copticWord": "ⲙⲁ ⲛϫⲓⲡⲁϩⲣⲉ",
+        "englishTransliteration": "ma njipahre",
+        "gloss": "place of healing, pharmacy",
+        "definition": "place of healing, pharmacy",
+        "reference": "283a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) ma nroeis",
+        "copticWord": "ⲙⲁ ⲛⲣⲟⲉⲓⲥ",
+        "englishTransliteration": "ma nroeis",
+        "gloss": "place of watching",
+        "definition": "place of watching",
+        "reference": "301b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(8) ma ntisbo",
+        "copticWord": "ⲙⲁ ⲛϯⲥⲃⲱ",
+        "englishTransliteration": "ma ntisbo",
+        "gloss": "teaching place, school",
+        "definition": "teaching place, school",
+        "reference": "320a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma njisbo",
+          "gloss": "Lernstätte"
+        }
+      },
+      {
+        "headword": "(13) ma njisbo",
+        "copticWord": "ⲙⲁ ⲛϫⲓⲥⲃⲱ",
+        "englishTransliteration": "ma njisbo",
+        "gloss": "learning place, school",
+        "definition": "learning place, school",
+        "reference": "320b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma ntisbo",
+          "gloss": "Unterrichtsstätte"
+        }
+      },
+      {
+        "headword": "(4) ma nsobe",
+        "copticWord": "ⲙⲁ ⲛⲥⲱⲃⲉ",
+        "englishTransliteration": "ma nsobe",
+        "gloss": "jesting place",
+        "definition": "jesting place",
+        "reference": "321b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) ma nchisme",
+        "copticWord": "ⲙⲁ ⲛϭⲓⲥⲙⲏ",
+        "englishTransliteration": "ma nchisme",
+        "gloss": "place of hearing, of trial",
+        "definition": "place of hearing, of trial",
+        "reference": "335a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "receive, take"
+        }
+      },
+      {
+        "headword": "(6) ma nsini",
+        "copticWord": "ⲙⲁ ⲛⲥⲓⲛⲓ",
+        "englishTransliteration": "ma nsini",
+        "gloss": "passage, path crossing",
+        "definition": "passage, path crossing",
+        "reference": "344b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nsonh",
+        "copticWord": "ⲙⲁ ⲛⲥⲱⲛϩ",
+        "englishTransliteration": "ma nsonh",
+        "gloss": "place of binding, prison",
+        "definition": "place of binding, prison",
+        "reference": "349a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma ntebne",
+        "copticWord": "ⲙⲁ ⲛⲧⲉⲃⲛⲏ",
+        "englishTransliteration": "ma ntebne",
+        "gloss": "cattle-herd",
+        "definition": "cattle-herd",
+        "reference": "400b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(4) ma ntok",
+        "copticWord": "ⲙⲁ ⲛⲧⲱⲕ",
+        "englishTransliteration": "ma ntok",
+        "gloss": "stoke-hole",
+        "definition": "stoke-hole",
+        "reference": "404b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(7) ma ntalo",
+        "copticWord": "ⲙⲁ ⲛⲧⲁⲗⲟ",
+        "englishTransliteration": "ma ntalo",
+        "gloss": "place of riseing, whereon to mount",
+        "definition": "place of riseing, whereon to mount",
+        "reference": "409b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(2) ma ntoms",
+        "copticWord": "ⲙⲁ ⲛⲧⲱⲙⲥ",
+        "englishTransliteration": "ma ntoms",
+        "gloss": "burial place, tomb",
+        "definition": "burial place, tomb",
+        "reference": "416b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(7) ma ntpe",
+        "copticWord": "ⲙⲁ ⲛⲧⲡⲉ",
+        "englishTransliteration": "ma ntpe",
+        "gloss": "upper part of the house",
+        "definition": "upper part of the house",
+        "reference": "259b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(4) ma ntso",
+        "copticWord": "ⲙⲁ ⲛⲧⲥⲟ",
+        "englishTransliteration": "ma ntso",
+        "gloss": "watering place",
+        "definition": "watering place",
+        "reference": "434b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(5) ma nstho",
+        "copticWord": "ⲙⲁ ⲛⲥⲑⲟ",
+        "englishTransliteration": "ma nstho",
+        "gloss": "sanctuary, abode",
+        "definition": "sanctuary, abode",
+        "reference": "437a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nteu",
+        "copticWord": "ⲙⲁ ⲛⲧⲏⲩ",
+        "englishTransliteration": "ma nteu",
+        "gloss": "place of breath, life",
+        "definition": "place of breath, life",
+        "reference": "440a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(5) ma nthoouti",
+        "copticWord": "ⲙⲁ ⲛⲑⲱⲟⲩϯ",
+        "englishTransliteration": "ma nthoouti",
+        "gloss": "place of meeting",
+        "definition": "place of meeting",
+        "reference": "448a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(2) ma nhareh ntiche",
+        "copticWord": "ⲙⲁ ⲛϩⲁⲣⲉϩ ⲛϯϭⲉ",
+        "englishTransliteration": "ma nhareh ntiche",
+        "gloss": "hut of a garden-watcher",
+        "definition": "hut of a garden-watcher",
+        "reference": "464a",
+        "partOfSpeech": "m",
+        "isGreek": true,
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(4) ma nouoeie",
+        "copticWord": "ⲙⲁ ⲛⲟⲩⲟⲉⲓⲉ",
+        "englishTransliteration": "ma nouoeie",
+        "gloss": "arable land, farmland",
+        "definition": "arable land, farmland",
+        "reference": "473a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(22) ma nouom",
+        "copticWord": "ⲙⲁ ⲛⲟⲩⲱⲙ",
+        "englishTransliteration": "ma nouom",
+        "gloss": "eating place, refectory",
+        "definition": "eating place, refectory",
+        "reference": "479a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(4) ma nouote",
+        "copticWord": "ⲙⲁ ⲛⲟⲩⲟⲧⲉ",
+        "englishTransliteration": "ma nouote",
+        "gloss": "herb-garden",
+        "definition": "herb-garden",
+        "reference": "493b",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "ma nouoote",
+            "copticWord": "ⲙⲁ ⲛⲟⲩⲟⲟⲧⲉ",
+            "englishTransliteration": "ma nouoote"
+          }
+        ],
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(3) ma nouoshm",
+        "copticWord": "ⲙⲁ ⲛⲟⲩⲱϣⲙ",
+        "englishTransliteration": "ma nouoshm",
+        "gloss": "kneading place",
+        "definition": "kneading place",
+        "reference": "503a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(2) ma nouoshouesh",
+        "copticWord": "ⲙⲁ ⲛⲟⲩⲟϣⲟⲩⲉϣ",
+        "englishTransliteration": "ma nouoshouesh",
+        "gloss": "threshing floor",
+        "definition": "threshing floor",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(4) ma nomk",
+        "copticWord": "ⲙⲁ ⲛⲱⲙⲕ",
+        "englishTransliteration": "ma nomk",
+        "gloss": "throat",
+        "definition": "throat",
+        "reference": "523a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(5) ma none",
+        "copticWord": "ⲙⲁ ⲛⲱⲛⲉ",
+        "englishTransliteration": "ma none",
+        "gloss": "stony place",
+        "definition": "stony place",
+        "reference": "524b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(5) ma norj",
+        "copticWord": "ⲙⲁ ⲛⲱⲣϫ",
+        "englishTransliteration": "ma norj",
+        "gloss": "place for shutting, strong place",
+        "definition": "place for shutting, strong place",
+        "reference": "530b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(3) ma notp ehoun",
+        "copticWord": "ⲙⲁ ⲛⲱⲧⲡ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "ma notp ehoun",
+        "gloss": "place of confinement, prison",
+        "definition": "place of confinement, prison",
+        "reference": "532a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(19) ma nosh",
+        "copticWord": "ⲙⲁ ⲛⲱϣ",
+        "englishTransliteration": "ma nosh",
+        "gloss": "place of, passage for reading",
+        "definition": "place of, passage for reading",
+        "reference": "534b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ma",
+          "gloss": "Platz, Ort, Stelle"
+        }
+      },
+      {
+        "headword": "(7) ma nahe erat",
+        "copticWord": "ⲙⲁ ⲛⲁϩⲉ ⲉⲣⲁⲧ⸗",
+        "englishTransliteration": "ma nahe erat",
+        "gloss": "place of standing",
+        "definition": "place of standing",
+        "reference": "538b",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "-ma naherat",
+            "copticWord": "ⲙⲁ ⲛⲁϩⲉⲣⲁⲧ⸗",
+            "englishTransliteration": "ma naherat"
+          }
+        ],
+        "crossReference": {
+          "target": "ahe",
+          "gloss": "stehen"
+        }
+      },
+      {
+        "headword": "(4) ma nsha",
+        "copticWord": "ⲙⲁ ⲛϣⲁ",
+        "englishTransliteration": "ma nsha",
+        "gloss": "place of rising, east",
+        "definition": "place of rising, east",
+        "reference": "543a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nsholm",
+        "copticWord": "ⲙⲁ ⲛϣⲱⲗⲙ",
+        "englishTransliteration": "ma nsholm",
+        "gloss": "place, organ of smell, nostril",
+        "definition": "place, organ of smell, nostril",
+        "reference": "560a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nsheleet",
+        "copticWord": "ⲙⲁ ⲛϣⲉⲗⲉⲉⲧ",
+        "englishTransliteration": "ma nsheleet",
+        "gloss": "place of marriage, bridechamber, marriage",
+        "definition": "place of marriage, bridechamber, marriage",
+        "reference": "560b-561a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nshen",
+        "copticWord": "ⲙⲁ ⲛϣⲏⲛ",
+        "englishTransliteration": "ma nshen",
+        "gloss": "forest, grove",
+        "definition": "forest, grove",
+        "reference": "568b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(7) ma nshine",
+        "copticWord": "ⲙⲁ ⲛϣⲓⲛⲉ",
+        "englishTransliteration": "ma nshine",
+        "gloss": "place of inquiry, oracle",
+        "definition": "place of inquiry, oracle",
+        "reference": "570a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) ma nshope",
+        "copticWord": "ⲙⲁ ⲛϣⲱⲡⲉ",
+        "englishTransliteration": "ma nshope",
+        "gloss": "dwelling place, monk's cell, monastery",
+        "definition": "dwelling place, monk's cell, monastery",
+        "reference": "580a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma neshot",
+        "copticWord": "ⲙⲁ ⲛⲉϣⲱⲧ",
+        "englishTransliteration": "ma neshot",
+        "gloss": "place of traders",
+        "definition": "place of traders",
+        "reference": "590b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nshoje",
+        "copticWord": "ⲙⲁ ⲛϣⲱϫⲉ",
+        "englishTransliteration": "ma nshoje",
+        "gloss": "place of contest, arena",
+        "definition": "place of contest, arena",
+        "reference": "615a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nhol",
+        "copticWord": "ⲙⲁ ⲛϩⲱⲗ",
+        "englishTransliteration": "ma nhol",
+        "gloss": "exit",
+        "definition": "exit",
+        "reference": "666b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nehmou",
+        "copticWord": "ⲙⲁ ⲛⲉϩⲙⲟⲩ",
+        "englishTransliteration": "ma nehmou",
+        "gloss": "saline, saltworks",
+        "definition": "saline, saltworks",
+        "reference": "677a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nhmoos",
+        "copticWord": "ⲙⲁ ⲛϩⲙⲟⲟⲥ",
+        "englishTransliteration": "ma nhmoos",
+        "gloss": "seat, privy, anus",
+        "definition": "seat, privy, anus",
+        "reference": "680b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma nhon",
+        "copticWord": "ⲙⲁ ⲛϩⲱⲛ",
+        "englishTransliteration": "ma nhon",
+        "gloss": "shallows",
+        "definition": "shallows",
+        "reference": "688b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) ma ntihap",
+        "copticWord": "ⲙⲁ ⲛϯϩⲁⲡ",
+        "englishTransliteration": "ma ntihap",
+        "gloss": "place of judgment",
+        "definition": "place of judgment",
+        "reference": "694b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nhate",
+        "copticWord": "ⲙⲁ ⲛϩⲁⲧⲉ",
+        "englishTransliteration": "ma nhate",
+        "gloss": "channel",
+        "definition": "channel",
+        "reference": "719b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nhotp",
+        "copticWord": "ⲙⲁ ⲛϩⲱⲧⲡ",
+        "englishTransliteration": "ma nhotp",
+        "gloss": "place of sinking (of sun), West",
+        "definition": "place of sinking (of sun), West",
+        "reference": "725b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) ma njo",
+        "copticWord": "ⲙⲁ ⲛϫⲟ",
+        "englishTransliteration": "ma njo",
+        "gloss": "piece of wall",
+        "definition": "piece of wall",
+        "reference": "753b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) ma nchoile",
+        "copticWord": "ⲙⲁ ⲛϭⲟⲓⲗⲉ",
+        "englishTransliteration": "ma nchoile",
+        "gloss": "dwelling place",
+        "definition": "dwelling place",
+        "reference": "808b",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "ma nchoeile",
+            "copticWord": "ⲙⲁ ⲛϭⲟⲉⲓⲗⲉ",
+            "englishTransliteration": "ma nchoeile"
+          }
+        ]
+      },
+      {
+        "headword": "(4) ma nchosht",
+        "copticWord": "ⲙⲁ ⲛϭⲱϣⲧ",
+        "englishTransliteration": "ma nchosht",
+        "gloss": "lookout place",
+        "definition": "lookout place",
+        "reference": "839a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) ma nchoji",
+        "copticWord": "ⲙⲁ ⲛϭⲟϫⲓ",
+        "englishTransliteration": "ma nchoji",
+        "gloss": "path",
+        "definition": "path",
+        "reference": "841a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) ma nchoch",
+        "copticWord": "ⲙⲁ ⲛϭⲟϭ",
+        "englishTransliteration": "ma nchoch",
+        "gloss": "baked, rosted food",
+        "definition": "baked, rosted food",
+        "reference": "843b",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "153a",
@@ -195,17 +892,6 @@
   },
   {
     "headword": "maio",
-    "copticWord": "ⲙⲁⲓⲟ",
-    "englishTransliteration": "maio",
-    "gloss": "To justify",
-    "definition": "To justify",
-    "crossReference": {
-      "target": "ymaio",
-      "gloss": "To justify"
-    }
-  },
-  {
-    "headword": "maio=",
     "copticWord": "ⲙⲁⲓⲟ",
     "englishTransliteration": "maio",
     "gloss": "To justify",

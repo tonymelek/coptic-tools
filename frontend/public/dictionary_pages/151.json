@@ -20,15 +20,6 @@
     "definition": "A title"
   },
   {
-    "headword": "(2) qemc",
-    "copticWord": "ϧⲉⲙⲥ",
-    "englishTransliteration": "khems",
-    "reference": "679a",
-    "partOfSpeech": "m",
-    "gloss": "Ear of corn (Wheat). qemqwm= v. qomqem - To crush",
-    "definition": "Ear of corn (Wheat). qemqwm= v. qomqem - To crush"
-  },
-  {
     "headword": "q/k",
     "copticWord": "ϧⲏⲕ",
     "englishTransliteration": "khik",
@@ -54,45 +45,6 @@
     "partOfSpeech": "m",
     "gloss": "Road, street, quarter",
     "definition": "Road, street, quarter"
-  },
-  {
-    "headword": "(2) qir",
-    "copticWord": "ϧⲓⲣ",
-    "englishTransliteration": "khir",
-    "reference": "697a",
-    "partOfSpeech": "m",
-    "gloss": "Stripe, line",
-    "definition": "Stripe, line"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "variants": [
-      {
-        "word": "nq/t=",
-        "copticWord": "ⲛϧⲏⲧ",
-        "englishTransliteration": "nkhit"
-      }
-    ],
-    "reference": "683a",
-    "gloss": "prep. (of place) in, at, on",
-    "definition": "(of time) in, at, on; by, with",
-    "senses": [
-      {
-        "label": "eqoun",
-        "partOfSpeech": "adv",
-        "gloss": "Into, toward, at, within",
-        "definition": "eqr/i qen: down in, into; nqr/i, nhr/i qen: in; qenpjinyre-: when."
-      }
-    ]
-  },
-  {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "gloss": "From in, from",
-    "definition": "From in, from"
   },
   {
     "headword": "qici",

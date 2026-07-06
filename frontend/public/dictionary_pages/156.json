@@ -44,27 +44,6 @@
     "definition": "From beginning"
   },
   {
-    "headword": "(2) h/",
-    "copticWord": "ϩⲏ",
-    "englishTransliteration": "hi",
-    "variants": [
-      {
-        "word": "he",
-        "copticWord": "ϩⲉ",
-        "englishTransliteration": "he"
-      },
-      {
-        "word": "h",
-        "copticWord": "ϩ",
-        "englishTransliteration": "h"
-      }
-    ],
-    "reference": "643b",
-    "partOfSpeech": "m",
-    "gloss": "Season",
-    "definition": "Season"
-  },
-  {
     "headword": "henoufi",
     "copticWord": "ϩⲉⲛⲟⲩϥⲓ",
     "englishTransliteration": "henoufi",
@@ -79,21 +58,6 @@
     "partOfSpeech": "vb",
     "gloss": "To be in plenty",
     "definition": "To be in plenty"
-  },
-  {
-    "headword": "met",
-    "copticWord": "ⲙⲉⲧ",
-    "englishTransliteration": "met",
-    "variants": [
-      {
-        "word": "ah/t",
-        "copticWord": "ⲁϩⲏⲧ",
-        "englishTransliteration": "ahit"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Reason, sense",
-    "definition": "Reason, sense"
   },
   {
     "headword": "h/bi",
@@ -128,21 +92,6 @@
         "definition": "To grieve, mourn"
       }
     ]
-  },
-  {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "iri nh/t",
-        "copticWord": "ⲓⲣⲓ ⲛϩⲏⲧ",
-        "englishTransliteration": "iri nhit"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To reflect, criticize, repent, regret",
-    "definition": "To reflect, criticize, repent, regret"
   },
   {
     "headword": "h/t cemni",
@@ -180,14 +129,6 @@
       "target": "hko",
       "gloss": "Poor"
     }
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To give mind, devote self to, give heed to, be careful of",
-    "definition": "To give mind, devote self to, give heed to, be careful of"
   },
   {
     "headword": "metat]ht/f",
@@ -249,40 +190,6 @@
     "definition": "vb. To have pity;"
   },
   {
-    "headword": "(1) h/mi",
-    "copticWord": "ϩⲏⲙⲓ",
-    "englishTransliteration": "himi",
-    "variants": [
-      {
-        "word": "hemi",
-        "copticWord": "ϩⲉⲙⲓ",
-        "englishTransliteration": "hemi"
-      },
-      {
-        "word": "him/",
-        "copticWord": "ϩⲓⲙⲏ",
-        "englishTransliteration": "himi"
-      },
-      {
-        "word": "h/m/",
-        "copticWord": "ϩⲏⲙⲏ",
-        "englishTransliteration": "himi"
-      }
-    ],
-    "reference": "675b",
-    "partOfSpeech": "f",
-    "gloss": "Fare, freight",
-    "definition": "Fare, freight",
-    "senses": [
-      {
-        "label": "]h/mi",
-        "partOfSpeech": "vb",
-        "gloss": "To pay fare",
-        "definition": "To pay fare"
-      }
-    ]
-  },
-  {
     "headword": "atsenh/t",
     "copticWord": "ⲁⲧϣⲉⲛϩⲏⲧ",
     "englishTransliteration": "atshenhit",
@@ -320,23 +227,52 @@
         "word": "h/t=",
         "copticWord": "ϩⲏⲧ",
         "englishTransliteration": "hit"
+      },
+      {
+        "headword": "(10) mntreftake het",
+        "copticWord": "ⲙⲛⲧⲣⲉϥⲧⲁⲕⲉ ϩⲏⲧ",
+        "englishTransliteration": "mntreftake het",
+        "gloss": "deception",
+        "definition": "deception",
+        "reference": "406a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "mnt-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(2) het nouot",
+        "copticWord": "ϩⲏⲧ ⲛⲟⲩⲱⲧ",
+        "englishTransliteration": "het nouot",
+        "gloss": "single heart, one mind",
+        "definition": "single heart, one mind",
+        "reference": "714a",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(3) het snau",
+        "copticWord": "ϩⲏⲧ ⲥⲛⲁⲩ",
+        "englishTransliteration": "het snau",
+        "gloss": "two hearts, double-minded",
+        "definition": "two hearts, double-minded",
+        "reference": "714b",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(4) het shem",
+        "copticWord": "ϩⲏⲧ ϣⲏⲙ",
+        "englishTransliteration": "het shem",
+        "gloss": "small heart, impatient",
+        "definition": "small heart, impatient",
+        "reference": "714b",
+        "partOfSpeech": "adj"
       }
     ],
     "reference": "718a",
     "partOfSpeech": "m",
     "gloss": "Tip, edge",
     "definition": "Tip, edge"
-  },
-  {
-    "headword": "h/t=",
-    "copticWord": "ϩⲏⲧ",
-    "englishTransliteration": "hit",
-    "gloss": "Beginning",
-    "definition": "Beginning",
-    "crossReference": {
-      "target": "h/",
-      "gloss": "Beginning"
-    }
   },
   {
     "headword": "h/ou",

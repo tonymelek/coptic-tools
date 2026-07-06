@@ -12,6 +12,35 @@
         "gloss": "The numeral '10', m/t, m/]",
         "definition": "The numeral '10', m/t, m/]"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(8) i (ehren-)",
+        "copticWord": "ⲓ (ⲉϩⲣⲉⲛ-)",
+        "englishTransliteration": "i (ehren-)",
+        "gloss": "come against, to meet",
+        "definition": "come against, to meet",
+        "reference": "70b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(15) i (hijen-)",
+        "copticWord": "ⲓ (ϩⲓϫⲉⲛ-)",
+        "englishTransliteration": "i (hijen-)",
+        "gloss": "come up to, upon",
+        "definition": "come up to, upon",
+        "reference": "71a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(22) i (epshoi)",
+        "copticWord": "ⲓ (ⲉⲡϣⲱⲓ)",
+        "englishTransliteration": "i (epshoi)",
+        "gloss": "come, go up",
+        "definition": "come, go up",
+        "reference": "72a",
+        "partOfSpeech": "vb"
+      }
     ]
   },
   {
@@ -23,14 +52,6 @@
     "definition": "Coming"
   },
   {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "m",
-    "gloss": "Coming forth",
-    "definition": "Coming forth"
-  },
-  {
     "headword": "ia",
     "copticWord": "ⲓⲁ",
     "englishTransliteration": "ia",
@@ -38,17 +59,6 @@
     "partOfSpeech": "m",
     "gloss": "Valley, ravine",
     "definition": "Valley, ravine"
-  },
-  {
-    "headword": "ia=",
-    "copticWord": "ⲓⲁ",
-    "englishTransliteration": "ia",
-    "gloss": "To wash",
-    "definition": "To wash",
-    "crossReference": {
-      "target": "iwi",
-      "gloss": "To wash"
-    }
   },
   {
     "headword": "iabi",
@@ -119,7 +129,18 @@
     "crossReference": {
       "target": "(1)iohi",
       "gloss": "Field"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(3) iah nknte",
+        "copticWord": "ⲓⲁϩ ⲛⲕⲛⲧⲉ",
+        "englishTransliteration": "iah nknte",
+        "gloss": "fig-garden",
+        "definition": "fig-garden",
+        "reference": "112b",
+        "partOfSpeech": "n"
+      }
+    ]
   },
   {
     "headword": "ibi",

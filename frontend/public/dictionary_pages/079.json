@@ -12,137 +12,115 @@
         "gloss": "The numeral 'seventy'",
         "definition": "The numeral 'seventy'"
       }
-    ]
-  },
-  {
-    "headword": "(1) o",
-    "copticWord": "ⲟ",
-    "englishTransliteration": "o",
+    ],
     "variants": [
       {
-        "word": "w",
-        "copticWord": "ⲱ",
-        "englishTransliteration": "ō"
-      }
-    ],
-    "reference": "253a",
-    "partOfSpeech": "adj",
-    "gloss": "Great",
-    "definition": "Great",
-    "senses": [
-      {
-        "label": "(2)",
-        "gloss": "o: def. art. m. in Greek words only. obi (Q) v. ibi - To be thirsty. obs= v. wbs - To forget. obs (Q) v. wbs - To be forgotten. oeis v. wis - Cry",
-        "definition": "o: def. art. m. in Greek words only. obi (Q) v. ibi - To be thirsty. obs= v. wbs - To forget. obs (Q) v. wbs - To be forgotten. oeis v. wis - Cry"
-      },
-      {
-        "label": "oyen",
-        "reference": "Gk",
-        "partOfSpeech": "adv",
-        "gloss": "Whence, where, whither. oi (Q) v. aiai - Great",
-        "definition": "Whence, where, whither. oi (Q) v. aiai - Great",
-        "isGreek": true
-      },
-      {
-        "gloss": "oi (Q) v. iri - To be doing",
-        "definition": "oi (Q) v. iri - To be doing"
-      },
-      {
-        "label": "oikonomia",
-        "reference": "Gk",
-        "partOfSpeech": "f",
-        "gloss": "Management of a household or family, husbandry, thrift, regulation",
-        "definition": "economy; oikonomoc: m. one who manages a household; manager, administrator, economist; eroikonomin: vb. To manage, administrate, economize, regulate.",
-        "isGreek": true
-      },
-      {
-        "label": "oikonomoc",
-        "gloss": "Manager. oikoumen/, oikomen/: (Gk)",
-        "definition": "f. Inhabited region, the world."
-      },
-      {
-        "label": "oikoumenikoc",
-        "partOfSpeech": "adj",
-        "gloss": "Ecumenical, open to the whole world",
-        "definition": "Ecumenical, open to the whole world"
-      },
-      {
-        "label": "oili",
-        "gloss": "Ram",
-        "definition": "Ram"
-      },
-      {
-        "gloss": "okem (Q) v. wkem - To be dark",
-        "definition": "okem (Q) v. wkem - To be dark"
-      },
-      {
-        "label": "oktwbrioc",
-        "reference": "Gk",
-        "partOfSpeech": "n",
-        "gloss": "The month 'October'. ol= v. wli - To hold",
-        "definition": "The month 'October'. ol= v. wli - To hold",
-        "isGreek": true
-      },
-      {
-        "label": "ol",
-        "gloss": "To be contained",
-        "definition": "To be contained"
-      },
-      {
-        "label": "olk=",
-        "gloss": "To become bent",
-        "definition": "To become bent"
-      },
-      {
-        "gloss": "olk (Q) v. wlk - To become bent",
-        "definition": "olk (Q) v. wlk - To become bent"
-      },
-      {
-        "label": "oloc/rikoc",
-        "reference": "Gk",
-        "partOfSpeech": "n",
-        "gloss": "Silk, of silk",
-        "definition": "Silk, of silk",
-        "isGreek": true
-      },
-      {
-        "label": "olocirikon",
-        "gloss": "Silk. omi: (254b)",
-        "definition": "mf. Clay, mud;"
-      },
-      {
-        "label": "oi nomi",
+        "headword": "(5) o nbote",
+        "copticWord": "ⲟ ⲛⲃⲟⲧⲉ",
+        "englishTransliteration": "o nbote",
+        "gloss": "become, be hateful",
+        "definition": "become, be hateful",
+        "reference": "45b",
         "partOfSpeech": "vb",
-        "gloss": "To become clay, mud",
-        "definition": "ouamomi: f. Earth-eater; jajomi: pl. Metal agricultural tool. omk= v. wmk - To swallow."
+        "isGreek": true,
+        "crossReference": {
+          "target": "oreb",
+          "gloss": "verabscheuen (B)"
+        }
       },
       {
-        "label": "omolog/t/c",
-        "gloss": "Confessor. omologia, -goia, homologia: f. Agreement, vow, confession",
-        "definition": "omolog/t/c, -git/c, homolog/t/c: m. Sponsor, confessor; eromologin, eromologoin,"
-      },
-      {
-        "label": "erhomologoin",
+        "headword": "(8) o nsaeie",
+        "copticWord": "ⲟ ⲛⲥⲁⲉⲓⲏ",
+        "englishTransliteration": "o nsaeie",
+        "gloss": "be beautiful",
+        "definition": "be beautiful",
+        "reference": "315b",
         "partOfSpeech": "vb",
-        "gloss": "To confess. omologit/c v. omologia - Confessor. omologoia v. omologia - Confession. omoiwc v. omoc - Like",
-        "definition": "To confess. omologit/c v. omologia - Confessor. omologoia v. omologia - Confession. omoiwc v. omoc - Like"
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
       },
       {
-        "label": "omoc",
-        "reference": "Gk",
-        "gloss": "Like, resembling",
-        "definition": "the same; equal; likewise, similar.",
-        "isGreek": true
+        "headword": "(2) o ntar",
+        "copticWord": "ⲟ ⲛⲧⲁⲣ",
+        "englishTransliteration": "o ntar",
+        "gloss": "have points",
+        "definition": "have points",
+        "reference": "423b-424a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "oi ntartar",
+            "copticWord": "ⲟⲓ ⲛⲧⲁⲣⲧⲁⲣ",
+            "englishTransliteration": "oi ntartar"
+          }
+        ],
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
       },
       {
-        "label": "omc",
-        "gloss": "To dip",
-        "definition": "To dip"
+        "headword": "(22) o nteshe",
+        "copticWord": "ⲟ ⲛⲧⲉϣⲉ",
+        "englishTransliteration": "o nteshe",
+        "gloss": "adjoin, be a neighbour",
+        "definition": "adjoin, be a neighbour",
+        "reference": "452b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
       },
       {
-        "label": "omc=",
-        "gloss": "To dip",
-        "definition": "To dip"
+        "headword": "(3) o nhon",
+        "copticWord": "ⲟ ⲛϩⲱⲛ",
+        "englishTransliteration": "o nhon",
+        "gloss": "be shallow",
+        "definition": "be shallow",
+        "reference": "688b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(2) o njo",
+        "copticWord": "ⲟ ⲛϫⲟ",
+        "englishTransliteration": "o njo",
+        "gloss": "be hunchbacked",
+        "definition": "be hunchbacked",
+        "reference": "753b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(6) o njolk",
+        "copticWord": "ⲟ ⲛϫⲱⲗⲕ",
+        "englishTransliteration": "o njolk",
+        "gloss": "be in anxiety (?)",
+        "definition": "be in anxiety (?)",
+        "reference": "767b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(3) o njne",
+        "copticWord": "ⲟ ⲛϫⲛⲉ",
+        "englishTransliteration": "o njne",
+        "gloss": "tire out, be wearied",
+        "definition": "tire out, be wearied",
+        "reference": "774a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
       }
     ]
   },
@@ -212,14 +190,6 @@
     "reference": "525a",
     "gloss": "vi. To be astonished, dazed",
     "definition": "vi. To be astonished, dazed"
-  },
-  {
-    "headword": "--- ebol",
-    "copticWord": "--- ⲉⲃⲟⲗ",
-    "englishTransliteration": "--- evol",
-    "partOfSpeech": "vb",
-    "gloss": "To gape, muse, be in trance",
-    "definition": "To gape, muse, be in trance"
   },
   {
     "headword": "onq=",

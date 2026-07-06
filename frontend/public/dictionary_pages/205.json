@@ -1,0 +1,1249 @@
+[
+  {
+    "headword": "hulugia",
+    "copticWord": "ϩⲩⲗⲩⲅⲓⲁ",
+    "englishTransliteration": "hulugia",
+    "gloss": "contemporary",
+    "definition": "contemporary",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hulegia",
+        "copticWord": "ϩⲩⲗⲏⲅⲓⲁ",
+        "englishTransliteration": "hulegia"
+      }
+    ]
+  },
+  {
+    "headword": "humekranion",
+    "copticWord": "ϩⲩⲙⲉⲕⲣⲁⲛⲓⲟⲛ",
+    "englishTransliteration": "humekranion",
+    "gloss": "pain on one side of the head or face; migraine",
+    "definition": "pain on one side of the head or face; migraine",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "humen",
+    "copticWord": "ϩⲩⲙⲏⲛ",
+    "englishTransliteration": "humen",
+    "gloss": "outer membrane (primordial hypostasis and region)",
+    "definition": "outer membrane (primordial hypostasis and region)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phuemen",
+        "copticWord": "ⲫⲩⲏⲙⲏⲛ",
+        "englishTransliteration": "phuemen"
+      },
+      {
+        "word": "phumen",
+        "copticWord": "ⲫⲩⲙⲏⲛ",
+        "englishTransliteration": "phumen"
+      }
+    ]
+  },
+  {
+    "headword": "humneue",
+    "copticWord": "ϩⲩⲙⲛⲉⲩⲉ",
+    "englishTransliteration": "humneue",
+    "gloss": "to sing (in praise) (object: none)",
+    "definition": "to sing (in praise) (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-h",
+        "copticWord": "ϩ",
+        "englishTransliteration": "h"
+      },
+      {
+        "word": "hemneue",
+        "copticWord": "ϩⲉⲙⲛⲉⲩⲉ",
+        "englishTransliteration": "hemneue"
+      },
+      {
+        "word": "hemneue",
+        "copticWord": "ϩⲏⲙⲛⲉⲩⲉ",
+        "englishTransliteration": "hemneue"
+      },
+      {
+        "word": "himneue",
+        "copticWord": "ϩⲓⲙⲛⲉⲩⲉ",
+        "englishTransliteration": "himneue"
+      },
+      {
+        "word": "-humneu",
+        "copticWord": "ϩⲩⲙⲛⲉⲩ",
+        "englishTransliteration": "humneu"
+      },
+      {
+        "word": "humneui",
+        "copticWord": "ϩⲩⲙⲛⲉⲩⲓ",
+        "englishTransliteration": "humneui"
+      }
+    ]
+  },
+  {
+    "headword": "humni",
+    "copticWord": "ϩⲩⲙⲛⲓ",
+    "englishTransliteration": "humni",
+    "gloss": "to sing (in praise) (object: none)",
+    "definition": "to sing (in praise) (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hemnesi",
+        "copticWord": "ϩⲉⲙⲛⲉⲥⲓ",
+        "englishTransliteration": "hemnesi"
+      },
+      {
+        "word": "humnei",
+        "copticWord": "ϩⲩⲙⲛⲉⲓ",
+        "englishTransliteration": "humnei"
+      },
+      {
+        "word": "humneue",
+        "copticWord": "ϩⲩⲙⲛⲉⲩⲉ",
+        "englishTransliteration": "humneue"
+      }
+    ]
+  },
+  {
+    "headword": "humnologei",
+    "copticWord": "ϩⲩⲙⲛⲟⲗⲟⲅⲉⲓ",
+    "englishTransliteration": "humnologei",
+    "gloss": "to sing songs of praise (object: none)",
+    "definition": "to sing songs of praise (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "humnologia",
+    "copticWord": "ϩⲩⲙⲛⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "humnologia",
+    "gloss": "singing of hymns",
+    "definition": "singing of hymns",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "humnos",
+    "copticWord": "ϩⲩⲙⲛⲟⲥ",
+    "englishTransliteration": "humnos",
+    "gloss": "hymn",
+    "definition": "hymn",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "humnotos",
+    "copticWord": "ϩⲩⲙⲛⲱⲧⲟⲥ",
+    "englishTransliteration": "humnotos",
+    "gloss": "psalmist (appellation for King David)",
+    "definition": "psalmist (appellation for King David)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hupagoreue",
+    "copticWord": "ϩⲩⲡⲁⲅⲟⲣⲉⲩⲉ",
+    "englishTransliteration": "hupagoreue",
+    "gloss": "to dictate s.th.",
+    "definition": "to dictate s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupares",
+    "copticWord": "ϩⲩⲡⲁⲣⲏⲥ",
+    "englishTransliteration": "hupares",
+    "gloss": "(a kind of official, a title)",
+    "definition": "(a kind of official, a title)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "huparis",
+        "copticWord": "ϩⲩⲡⲁⲣⲓⲥ",
+        "englishTransliteration": "huparis"
+      },
+      {
+        "word": "phepares",
+        "copticWord": "ⲫⲏⲡⲁⲣⲏⲥ",
+        "englishTransliteration": "phepares"
+      }
+    ]
+  },
+  {
+    "headword": "huparxis",
+    "copticWord": "ϩⲩⲡⲁⲣⲝⲓⲥ",
+    "englishTransliteration": "huparxis",
+    "gloss": "substance, existence",
+    "definition": "substance, existence",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thuparxis",
+        "copticWord": "ⲑⲩⲡⲁⲣⲝⲓⲥ",
+        "englishTransliteration": "thuparxis"
+      }
+    ]
+  },
+  {
+    "headword": "huparchonta",
+    "copticWord": "ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ",
+    "englishTransliteration": "huparchonta",
+    "gloss": "possessions",
+    "definition": "possessions",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "heparchonta",
+        "copticWord": "ϩⲏⲡⲁⲣⲭⲟⲛⲧⲁ",
+        "englishTransliteration": "heparchonta"
+      },
+      {
+        "word": "-huparchon",
+        "copticWord": "ϩⲩⲡⲁⲣⲭⲱⲛ",
+        "englishTransliteration": "huparchon"
+      },
+      {
+        "word": "huparchonta",
+        "copticWord": "ϩⲩⲡⲁⲣⲭⲱⲛⲧⲁ",
+        "englishTransliteration": "huparchonta"
+      },
+      {
+        "word": "uparchonta",
+        "copticWord": "ⲩⲡⲁⲣⲭⲟⲛⲧⲁ",
+        "englishTransliteration": "uparchonta"
+      }
+    ]
+  },
+  {
+    "headword": "hupeuthenos",
+    "copticWord": "ϩⲩⲡⲉⲩⲑⲉⲛⲟⲥ",
+    "englishTransliteration": "hupeuthenos",
+    "gloss": "responsible, liable",
+    "definition": "responsible, liable",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "huperesia",
+    "copticWord": "ϩⲩⲡⲏⲣⲉⲥⲓⲁ",
+    "englishTransliteration": "huperesia",
+    "gloss": "service rendered, use",
+    "definition": "service rendered, use",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "heperesia",
+        "copticWord": "ϩⲏⲡⲉⲣⲏⲥⲓⲁ",
+        "englishTransliteration": "heperesia"
+      },
+      {
+        "word": "huperesia",
+        "copticWord": "ϩⲩⲡⲉⲣⲉⲥⲓⲁ",
+        "englishTransliteration": "huperesia"
+      },
+      {
+        "word": "-hupresia",
+        "copticWord": "ϩⲩⲡⲣⲉⲥⲓⲁ",
+        "englishTransliteration": "hupresia"
+      },
+      {
+        "word": "hupuresia",
+        "copticWord": "ϩⲩⲡⲩⲣⲏⲥⲓⲁ",
+        "englishTransliteration": "hupuresia"
+      },
+      {
+        "word": "thuperesia",
+        "copticWord": "ⲑⲩⲡⲉⲣⲉⲥⲓⲁ",
+        "englishTransliteration": "thuperesia"
+      },
+      {
+        "word": "thuperesia",
+        "copticWord": "ⲑⲩⲡⲏⲣⲉⲥⲓⲁ",
+        "englishTransliteration": "thuperesia"
+      }
+    ]
+  },
+  {
+    "headword": "huperetei",
+    "copticWord": "ϩⲩⲡⲏⲣⲉⲧⲉⲓ",
+    "englishTransliteration": "huperetei",
+    "gloss": "to serve (object: none)",
+    "definition": "to serve (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hepereti",
+        "copticWord": "ϩⲏⲡⲉⲣⲉϯ",
+        "englishTransliteration": "hepereti"
+      },
+      {
+        "word": "huperetei",
+        "copticWord": "ϩⲩⲡⲉⲣⲏⲧⲉⲓ",
+        "englishTransliteration": "huperetei"
+      },
+      {
+        "word": "hupourgei",
+        "copticWord": "ϩⲩⲡⲟⲩⲣⲅⲉⲓ",
+        "englishTransliteration": "hupourgei"
+      },
+      {
+        "word": "uperetei",
+        "copticWord": "ⲩⲡⲏⲣⲉⲧⲉⲓ",
+        "englishTransliteration": "uperetei"
+      }
+    ]
+  },
+  {
+    "headword": "huperetes",
+    "copticWord": "ϩⲩⲡⲏⲣⲉⲧⲏⲥ",
+    "englishTransliteration": "huperetes",
+    "gloss": "servant, assistant",
+    "definition": "servant, assistant",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "heperetes",
+        "copticWord": "ϩⲏⲡⲉⲣⲉⲧⲏⲥ",
+        "englishTransliteration": "heperetes"
+      },
+      {
+        "word": "heperetes",
+        "copticWord": "ϩⲏⲡⲉⲣⲏⲧⲏⲥ",
+        "englishTransliteration": "heperetes"
+      },
+      {
+        "word": "heperites",
+        "copticWord": "ϩⲏⲡⲏⲣⲓⲧⲏⲥ",
+        "englishTransliteration": "heperites"
+      },
+      {
+        "word": "huperetes",
+        "copticWord": "ϩⲩⲡⲉⲣⲉⲧⲏⲥ",
+        "englishTransliteration": "huperetes"
+      },
+      {
+        "word": "huperetes",
+        "copticWord": "ϩⲩⲡⲉⲣⲏⲧⲏⲥ",
+        "englishTransliteration": "huperetes"
+      },
+      {
+        "word": "huperetes",
+        "copticWord": "ϩⲩⲡⲏⲣⲏⲧⲏⲥ",
+        "englishTransliteration": "huperetes"
+      },
+      {
+        "word": "phuperetes",
+        "copticWord": "ⲫⲩⲡⲉⲣⲉⲧⲏⲥ",
+        "englishTransliteration": "phuperetes"
+      }
+    ]
+  },
+  {
+    "headword": "hupischou",
+    "copticWord": "ϩⲩⲡⲓⲥⲭⲟⲩ",
+    "englishTransliteration": "hupischou",
+    "gloss": "to promise (precise sense or object unclear)",
+    "definition": "to promise (precise sense or object unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupobale",
+    "copticWord": "ϩⲩⲡⲟⲃⲁⲗⲉ",
+    "englishTransliteration": "hupobale",
+    "gloss": "to throw, put or lay under",
+    "definition": "to throw, put or lay under",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupographeus",
+    "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲉⲩⲥ",
+    "englishTransliteration": "hupographeus",
+    "gloss": "subscriber, clerk, secretary",
+    "definition": "subscriber, clerk, secretary",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupoggrageus",
+        "copticWord": "ϩⲩⲡⲟⲅⲅⲣⲁⲅⲉⲩⲥ",
+        "englishTransliteration": "hupoggrageus"
+      },
+      {
+        "word": "-hupographes",
+        "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲏⲥ",
+        "englishTransliteration": "hupographes"
+      },
+      {
+        "word": "hupographeus",
+        "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲏⲩⲥ",
+        "englishTransliteration": "hupographeus"
+      },
+      {
+        "word": "-hupographe",
+        "copticWord": "ϩⲩⲡⲱⲅⲣⲁⲫⲉ",
+        "englishTransliteration": "hupographe"
+      }
+    ]
+  },
+  {
+    "headword": "hupographe",
+    "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲉ",
+    "englishTransliteration": "hupographe",
+    "gloss": "to subscribe to, agree with s.th. (object: content)",
+    "definition": "to subscribe to, agree with s.th. (object: content)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hepographe",
+        "copticWord": "ϩⲉⲡⲟⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "hepographe"
+      },
+      {
+        "word": "-hupogra",
+        "copticWord": "ϩⲩⲡⲟⲅⲣⲁ",
+        "englishTransliteration": "hupogra"
+      },
+      {
+        "word": "-hupograph",
+        "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫ",
+        "englishTransliteration": "hupograph"
+      },
+      {
+        "word": "hupographe",
+        "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "hupographe"
+      },
+      {
+        "word": "hupoigraphe",
+        "copticWord": "ϩⲩⲡⲟⲓⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "hupoigraphe"
+      },
+      {
+        "word": "hupographe",
+        "copticWord": "ϩⲩⲡⲱⲅⲣⲁⲫⲉ",
+        "englishTransliteration": "hupographe"
+      }
+    ]
+  },
+  {
+    "headword": "hupographe",
+    "copticWord": "ϩⲩⲡⲟⲅⲣⲁⲫⲏ",
+    "englishTransliteration": "hupographe",
+    "gloss": "subscription, signature",
+    "definition": "subscription, signature",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hepographe",
+        "copticWord": "ϩⲉⲡⲟⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "hepographe"
+      },
+      {
+        "word": "hepographe",
+        "copticWord": "ϩⲏⲡⲟⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "hepographe"
+      },
+      {
+        "word": "-hupogaphe",
+        "copticWord": "ϩⲩⲡⲟⲅⲁⲫⲏ",
+        "englishTransliteration": "hupogaphe"
+      },
+      {
+        "word": "hupokraphe",
+        "copticWord": "ϩⲩⲡⲟⲕⲣⲁⲫⲏ",
+        "englishTransliteration": "hupokraphe"
+      },
+      {
+        "word": "thupographe",
+        "copticWord": "ⲑⲩⲡⲟⲅⲣⲁⲫⲏ",
+        "englishTransliteration": "thupographe"
+      }
+    ]
+  },
+  {
+    "headword": "hupodiakonos",
+    "copticWord": "ϩⲩⲡⲟⲇⲓⲁⲕⲟⲛⲟⲥ",
+    "englishTransliteration": "hupodiakonos",
+    "gloss": "subdeacon",
+    "definition": "subdeacon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupodiokonos",
+        "copticWord": "ϩⲩⲡⲟⲇⲓⲟⲕⲟⲛⲟⲥ",
+        "englishTransliteration": "hupodiokonos"
+      }
+    ]
+  },
+  {
+    "headword": "hupodiakon",
+    "copticWord": "ϩⲩⲡⲟⲇⲓⲁⲕⲱⲛ",
+    "englishTransliteration": "hupodiakon",
+    "gloss": "subdeacon",
+    "definition": "subdeacon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hupothesis",
+    "copticWord": "ϩⲩⲡⲟⲑⲉⲥⲓⲥ",
+    "englishTransliteration": "hupothesis",
+    "gloss": "event, case, occasion, eventuality",
+    "definition": "event, case, occasion, eventuality",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thupothesis",
+        "copticWord": "ⲑⲩⲡⲟⲑⲏⲥⲓⲥ",
+        "englishTransliteration": "thupothesis"
+      },
+      {
+        "word": "upothesis",
+        "copticWord": "ⲩⲡⲟⲑⲉⲥⲓⲥ",
+        "englishTransliteration": "upothesis"
+      }
+    ]
+  },
+  {
+    "headword": "hupotheke",
+    "copticWord": "ϩⲩⲡⲟⲑⲏⲕⲏ",
+    "englishTransliteration": "hupotheke",
+    "gloss": "(document of) pledge (here: deed of sale-pledge)",
+    "definition": "(document of) pledge (here: deed of sale-pledge)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thupotheke",
+        "copticWord": "ⲑⲩⲡⲟⲑⲏⲕⲏ",
+        "englishTransliteration": "thupotheke"
+      }
+    ]
+  },
+  {
+    "headword": "hupokeisthai",
+    "copticWord": "ϩⲩⲡⲟⲕⲉⲓⲥⲑⲁⲓ",
+    "englishTransliteration": "hupokeisthai",
+    "gloss": "to be subjected (takes no object)",
+    "definition": "to be subjected (takes no object)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hupokisthe",
+        "copticWord": "ϩⲩⲡⲟⲕⲓⲥⲑⲉ",
+        "englishTransliteration": "hupokisthe"
+      },
+      {
+        "word": "-hupokusthai",
+        "copticWord": "ϩⲩⲡⲟⲕⲩⲥⲑⲁⲓ",
+        "englishTransliteration": "hupokusthai"
+      }
+    ]
+  },
+  {
+    "headword": "hupokemenos",
+    "copticWord": "ϩⲩⲡⲟⲕⲉιⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "hupokemenos",
+    "gloss": "subjected one",
+    "definition": "subjected one",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupokeimenos",
+        "copticWord": "ϩⲩⲡⲟⲕⲉⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "hupokeimenos"
+      }
+    ]
+  },
+  {
+    "headword": "hupokoreue",
+    "copticWord": "ϩⲩⲡⲟⲕⲟⲣⲉⲩⲉ",
+    "englishTransliteration": "hupokoreue",
+    "gloss": "to nickname, to call by an endearing or diminutive name",
+    "definition": "to nickname, to call by an endearing or diminutive name",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupokrine",
+    "copticWord": "ϩⲩⲡⲟⲕⲣⲓⲛⲉ",
+    "englishTransliteration": "hupokrine",
+    "gloss": "to be a hypocrite, disingenuous, of two minds (object: none)",
+    "definition": "to be a hypocrite, disingenuous, of two minds (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupokrisis",
+    "copticWord": "ϩⲩⲡⲟⲕⲣⲓⲥⲓⲥ",
+    "englishTransliteration": "hupokrisis",
+    "gloss": "hypocrisy",
+    "definition": "hypocrisy",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupokrusis",
+        "copticWord": "ϩⲩⲡⲟⲕⲣⲩⲥⲓⲥ",
+        "englishTransliteration": "hupokrusis"
+      },
+      {
+        "word": "thupokrisis",
+        "copticWord": "ⲑⲩⲡⲟⲕⲣⲓⲥⲓⲥ",
+        "englishTransliteration": "thupokrisis"
+      }
+    ]
+  },
+  {
+    "headword": "hupokrites",
+    "copticWord": "ϩⲩⲡⲟⲕⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "hupokrites",
+    "gloss": "hypocrite, pretender",
+    "definition": "hypocrite, pretender",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "upokrites",
+        "copticWord": "ⲩⲡⲟⲕⲣⲓⲧⲏⲥ",
+        "englishTransliteration": "upokrites"
+      }
+    ]
+  },
+  {
+    "headword": "hupolumpsis",
+    "copticWord": "ϩⲩⲡⲟⲗⲩⲙⲯⲓⲥ",
+    "englishTransliteration": "hupolumpsis",
+    "gloss": "character, personality",
+    "definition": "character, personality",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thupolumpsis",
+        "copticWord": "ⲑⲩⲡⲟⲗⲩⲙⲯⲓⲥ",
+        "englishTransliteration": "thupolumpsis"
+      }
+    ]
+  },
+  {
+    "headword": "hupomine",
+    "copticWord": "ϩⲩⲡⲟⲙⲓⲛⲉ",
+    "englishTransliteration": "hupomine",
+    "gloss": "to hold out, endure, be patient (object: none)",
+    "definition": "to hold out, endure, be patient (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hipomine",
+        "copticWord": "ϩ̅ⲓ̅ⲡⲱⲙⲓⲛⲉ",
+        "englishTransliteration": "hipomine"
+      },
+      {
+        "word": "hupomeine",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲓⲛⲉ",
+        "englishTransliteration": "hupomeine"
+      },
+      {
+        "word": "hupomenai",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲛⲁⲓ",
+        "englishTransliteration": "hupomenai"
+      },
+      {
+        "word": "hupomene",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲛⲉ",
+        "englishTransliteration": "hupomene"
+      },
+      {
+        "word": "hupomene",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲛⲏ",
+        "englishTransliteration": "hupomene"
+      },
+      {
+        "word": "hupomeni",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲛⲓ",
+        "englishTransliteration": "hupomeni"
+      },
+      {
+        "word": "hupomenin",
+        "copticWord": "ϩⲩⲡⲟⲙⲉⲛⲓⲛ",
+        "englishTransliteration": "hupomenin"
+      },
+      {
+        "word": "hupomine",
+        "copticWord": "ϩⲩⲡⲟⲙⲓⲛⲏ",
+        "englishTransliteration": "hupomine"
+      },
+      {
+        "word": "upomeine",
+        "copticWord": "ⲩⲡⲟⲙⲉⲓⲛⲉ",
+        "englishTransliteration": "upomeine"
+      },
+      {
+        "word": "upomine",
+        "copticWord": "ⲩⲡⲟⲙⲓⲛⲉ",
+        "englishTransliteration": "upomine"
+      }
+    ]
+  },
+  {
+    "headword": "hupomnema",
+    "copticWord": "ϩⲩⲡⲟⲙⲛⲏⲙⲁ",
+    "englishTransliteration": "hupomnema",
+    "gloss": "(act of) remembering",
+    "definition": "(act of) remembering",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "upomnema",
+        "copticWord": "ⲩⲡⲟⲙⲛⲏⲙⲁ",
+        "englishTransliteration": "upomnema"
+      },
+      {
+        "word": "phupomnema",
+        "copticWord": "ⲫⲩⲡⲟⲙⲛⲏⲙⲁ",
+        "englishTransliteration": "phupomnema"
+      }
+    ]
+  },
+  {
+    "headword": "hupomnesis",
+    "copticWord": "ϩⲩⲡⲟⲙⲛⲏⲥⲓⲥ",
+    "englishTransliteration": "hupomnesis",
+    "gloss": "reminder",
+    "definition": "reminder",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hupomneske",
+    "copticWord": "ϩⲩⲡⲟⲙⲛⲏⲥⲕⲉ",
+    "englishTransliteration": "hupomneske",
+    "gloss": "to call to mind, remember (object: reflexive)",
+    "definition": "to call to mind, remember (object: reflexive)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupomnize",
+    "copticWord": "ϩⲩⲡⲟⲙⲛⲓⲍⲉ",
+    "englishTransliteration": "hupomnize",
+    "gloss": "to admonish, warn s.o.",
+    "definition": "to admonish, warn s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupomone",
+    "copticWord": "ϩⲩⲡⲟⲙⲟⲛⲏ",
+    "englishTransliteration": "hupomone",
+    "gloss": "patience, endurance, constancy",
+    "definition": "patience, endurance, constancy",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thupomone",
+        "copticWord": "ⲑⲩⲡⲟⲙⲟⲛⲏ",
+        "englishTransliteration": "thupomone"
+      }
+    ]
+  },
+  {
+    "headword": "hupopodion",
+    "copticWord": "ϩⲩⲡⲟⲡⲟⲇⲓⲟⲛ",
+    "englishTransliteration": "hupopodion",
+    "gloss": "footstool, the earth (for God in heaven)",
+    "definition": "footstool, the earth (for God in heaven)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hepopodion",
+        "copticWord": "ϩⲏⲡⲟⲡⲟⲇⲓⲟⲛ",
+        "englishTransliteration": "hepopodion"
+      },
+      {
+        "word": "-hupopod",
+        "copticWord": "ϩⲩⲡⲟⲡⲟⲇ",
+        "englishTransliteration": "hupopod"
+      },
+      {
+        "word": "hupopodaion",
+        "copticWord": "ϩⲩⲡⲟⲡⲟⲇⲁⲓⲟⲛ",
+        "englishTransliteration": "hupopodaion"
+      },
+      {
+        "word": "-hupotion",
+        "copticWord": "ϩⲩⲡⲱϯⲱⲛ",
+        "englishTransliteration": "hupotion"
+      },
+      {
+        "word": "upopodion",
+        "copticWord": "ⲩⲡⲟⲡⲟⲇⲓⲟⲛ",
+        "englishTransliteration": "upopodion"
+      },
+      {
+        "word": "phupopodion",
+        "copticWord": "ⲫⲩⲡⲟⲡⲟⲇⲓⲟⲛ",
+        "englishTransliteration": "phupopodion"
+      },
+      {
+        "word": "phupopotion",
+        "copticWord": "ⲫⲩⲡⲟⲡⲟⲧⲓⲟⲛ",
+        "englishTransliteration": "phupopotion"
+      }
+    ]
+  },
+  {
+    "headword": "hupostasis",
+    "copticWord": "ϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ",
+    "englishTransliteration": "hupostasis",
+    "gloss": "substance, essence, nature",
+    "definition": "substance, essence, nature",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hepostasis",
+        "copticWord": "ϩⲏⲡⲟⲥⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "hepostasis"
+      },
+      {
+        "word": "hipostasis",
+        "copticWord": "ϩⲓⲡⲟⲥⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "hipostasis"
+      },
+      {
+        "word": "hupaostasis",
+        "copticWord": "ϩⲩⲡⲁⲟⲥⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "hupaostasis"
+      },
+      {
+        "word": "thepostasis",
+        "copticWord": "ⲑⲏⲡⲟⲥⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "thepostasis"
+      },
+      {
+        "word": "thupostasis",
+        "copticWord": "ⲑⲩⲡⲟⲥⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "thupostasis"
+      }
+    ]
+  },
+  {
+    "headword": "hupotage",
+    "copticWord": "ϩⲩⲡⲟⲧⲁⲅⲏ",
+    "englishTransliteration": "hupotage",
+    "gloss": "submission, obedience",
+    "definition": "submission, obedience",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupodake",
+        "copticWord": "ϩⲩⲡⲟⲇⲁⲕⲏ",
+        "englishTransliteration": "hupodake"
+      },
+      {
+        "word": "hupotake",
+        "copticWord": "ϩⲩⲡⲟⲧⲁⲕⲏ",
+        "englishTransliteration": "hupotake"
+      },
+      {
+        "word": "thepotage",
+        "copticWord": "ⲑⲏⲡⲟⲧⲁⲅⲏ",
+        "englishTransliteration": "thepotage"
+      }
+    ]
+  },
+  {
+    "headword": "hupotasse",
+    "copticWord": "ϩⲩⲡⲟⲧⲁⲥⲥⲉ",
+    "englishTransliteration": "hupotasse",
+    "gloss": "to be obedient, subservient (object: none)",
+    "definition": "to be obedient, subservient (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hepotahsi",
+        "copticWord": "ϩⲉⲡⲱⲧⲁϩⲥⲓ",
+        "englishTransliteration": "hepotahsi"
+      },
+      {
+        "word": "hepotazse",
+        "copticWord": "ϩⲏⲡⲟⲧⲁⲍⲥⲉ",
+        "englishTransliteration": "hepotazse"
+      },
+      {
+        "word": "-hepotase",
+        "copticWord": "ϩⲏⲡⲟⲧⲁⲥⲉ",
+        "englishTransliteration": "hepotase"
+      },
+      {
+        "word": "hepotasse",
+        "copticWord": "ϩⲏⲡⲟⲧⲁⲥⲥⲉ",
+        "englishTransliteration": "hepotasse"
+      },
+      {
+        "word": "hupostasse",
+        "copticWord": "ϩⲩⲡⲟⲥⲧⲁⲥⲥⲉ",
+        "englishTransliteration": "hupostasse"
+      },
+      {
+        "word": "-hupotase",
+        "copticWord": "ϩⲩⲡⲟⲧⲁⲥⲉ",
+        "englishTransliteration": "hupotase"
+      },
+      {
+        "word": "hupotasis",
+        "copticWord": "ϩⲩⲡⲟⲧⲁⲥⲓⲥ",
+        "englishTransliteration": "hupotasis"
+      },
+      {
+        "word": "-hupotase",
+        "copticWord": "ϩⲩⲡⲱⲧⲁⲥⲉ",
+        "englishTransliteration": "hupotase"
+      }
+    ]
+  },
+  {
+    "headword": "hupourgei",
+    "copticWord": "ϩⲩⲡⲟⲩⲣⲅⲉⲓ",
+    "englishTransliteration": "hupourgei",
+    "gloss": "to assist, help (object: none)",
+    "definition": "to assist, help (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-heporge",
+        "copticWord": "ϩⲉⲡⲟⲣⲅⲉ",
+        "englishTransliteration": "heporge"
+      },
+      {
+        "word": "-hiporge",
+        "copticWord": "ϩⲓⲡⲟⲣⲅⲉ",
+        "englishTransliteration": "hiporge"
+      },
+      {
+        "word": "-huporgi",
+        "copticWord": "ϩⲩⲡⲟⲣⲅⲓ",
+        "englishTransliteration": "huporgi"
+      },
+      {
+        "word": "-hupourgi",
+        "copticWord": "ϩⲩⲡⲟⲩⲣⲅⲓ",
+        "englishTransliteration": "hupourgi"
+      }
+    ]
+  },
+  {
+    "headword": "hupourgia",
+    "copticWord": "ϩⲩⲡⲟⲩⲣⲅⲓⲁ",
+    "englishTransliteration": "hupourgia",
+    "gloss": "service rendered (specific sense unclear)",
+    "definition": "service rendered (specific sense unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thupourgia",
+        "copticWord": "ⲑⲩⲡⲟⲩⲣⲅⲓⲁ",
+        "englishTransliteration": "thupourgia"
+      }
+    ]
+  },
+  {
+    "headword": "hupourgisthe",
+    "copticWord": "ϩⲩⲡⲟⲩⲣⲅⲓⲥⲑⲉ",
+    "englishTransliteration": "hupourgisthe",
+    "gloss": "to perform s.th., carry out s.th. as a service",
+    "definition": "to perform s.th., carry out s.th. as a service",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hupochorei",
+    "copticWord": "ϩⲩⲡⲟⲭⲟⲣⲉⲓ",
+    "englishTransliteration": "hupochorei",
+    "gloss": "to withdraw, to draw back (object: none)",
+    "definition": "to withdraw, to draw back (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "huporaon",
+    "copticWord": "ϩⲩⲡⲱⲣⲁⲟⲛ",
+    "englishTransliteration": "huporaon",
+    "gloss": "(hyporaion)-tree (substantive)",
+    "definition": "(hyporaion)-tree (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hupora",
+    "copticWord": "ϩⲩⲡⲱⲣⲁ",
+    "englishTransliteration": "hupora",
+    "gloss": "fruits",
+    "definition": "fruits",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hussopon",
+    "copticWord": "ϩⲩⲥⲥⲱⲡⲟⲛ",
+    "englishTransliteration": "hussopon",
+    "gloss": "(branch of the) hyssop plant (Origanum hirtum)",
+    "definition": "(branch of the) hyssop plant (Origanum hirtum)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "husterema",
+    "copticWord": "ϩⲩⲥⲧⲉⲣⲏⲙⲁ",
+    "englishTransliteration": "husterema",
+    "gloss": "deficiency, lack (in the aeonic realm; source of cosmic evil)",
+    "definition": "deficiency, lack (in the aeonic realm; source of cosmic evil)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "husuchia",
+    "copticWord": "ϩⲩⲥⲩⲭⲓⲁ",
+    "englishTransliteration": "husuchia",
+    "gloss": "quiet, silence",
+    "definition": "quiet, silence",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hesuchia",
+        "copticWord": "ϩⲏⲥⲩⲭⲓⲁ",
+        "englishTransliteration": "hesuchia"
+      },
+      {
+        "word": "esichia",
+        "copticWord": "ⲏⲥⲓⲭⲓⲁ",
+        "englishTransliteration": "esichia"
+      },
+      {
+        "word": "esuchia",
+        "copticWord": "ⲏⲥⲩⲭⲓⲁ",
+        "englishTransliteration": "esuchia"
+      }
+    ]
+  },
+  {
+    "headword": "horoskopos",
+    "copticWord": "ϩⲱⲣⲟⲥⲕⲟⲡⲟⲥ",
+    "englishTransliteration": "horoskopos",
+    "gloss": "decan",
+    "definition": "decan",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hoste",
+    "copticWord": "ϩⲱⲥⲧⲉ",
+    "englishTransliteration": "hoste",
+    "gloss": "so that, in order that (introduces purpose clause with ⲉ- + infinitive)",
+    "definition": "so that, in order that (introduces purpose clause with ⲉ- + infinitive)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hosde",
+        "copticWord": "ϩⲟⲥⲇⲉ",
+        "englishTransliteration": "hosde"
+      },
+      {
+        "word": "hoste",
+        "copticWord": "ϩⲟⲥⲧⲉ",
+        "englishTransliteration": "hoste"
+      },
+      {
+        "word": "hosde",
+        "copticWord": "ϩⲱⲥⲇⲉ",
+        "englishTransliteration": "hosde"
+      },
+      {
+        "word": "hoste",
+        "copticWord": "ϩⲱⲥⲧⲏ",
+        "englishTransliteration": "hoste"
+      },
+      {
+        "word": "oste",
+        "copticWord": "ⲱⲥⲧⲉ",
+        "englishTransliteration": "oste"
+      }
+    ]
+  },
+  {
+    "headword": "jioexousia",
+    "copticWord": "ϫⲓⲟⲉⲝⲟⲩⲥⲓⲁ",
+    "englishTransliteration": "jioexousia",
+    "gloss": "to have authority to do s.th. (object: act, deed)",
+    "definition": "to have authority to do s.th. (object: act, deed)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "exousia",
+        "copticWord": "ⲉⲝⲟⲩⲥⲓⲁ",
+        "englishTransliteration": "exousia"
+      }
+    ]
+  },
+  {
+    "headword": "chinsou",
+    "copticWord": "ϭⲓⲛⲥ⳨ⲟ︦ⲩ︦",
+    "englishTransliteration": "chinsou",
+    "gloss": "crucifixion (object: reflexive)",
+    "definition": "crucifixion (object: reflexive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "strou",
+        "copticWord": "ⲥⲧⲣⲟ︦ⲩ︦",
+        "englishTransliteration": "strou"
+      }
+    ]
+  },
+  {
+    "headword": "cholle",
+    "copticWord": "ϭⲟⲗⲗⲉ",
+    "englishTransliteration": "cholle",
+    "gloss": "glue",
+    "definition": "glue",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "tiathusis",
+    "copticWord": "ϯⲁⲑⲩⲥⲓⲥ",
+    "englishTransliteration": "tiathusis",
+    "gloss": "bodily state, condition (a state of disease)",
+    "definition": "bodily state, condition (a state of disease)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "tiathesis",
+        "copticWord": "ϯⲁⲑⲏⲥⲓⲥ",
+        "englishTransliteration": "tiathesis"
+      }
+    ]
+  },
+  {
+    "headword": "tialegithai",
+    "copticWord": "ϯⲁⲗⲏⲅⲓⲑⲁⲓ",
+    "englishTransliteration": "tialegithai",
+    "gloss": "to hold forth, declaim, preach",
+    "definition": "to hold forth, declaim, preach",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "alegisthai",
+        "copticWord": "ⲁⲗⲏⲅⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "alegisthai"
+      }
+    ]
+  },
+  {
+    "headword": "tikneue",
+    "copticWord": "ϯⲕⲛⲉⲩⲉ",
+    "englishTransliteration": "tikneue",
+    "gloss": "to explain s.th. to s.o.",
+    "definition": "to explain s.th. to s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  }
+]

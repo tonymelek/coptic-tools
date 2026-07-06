@@ -17,6 +17,47 @@
         "gloss": "The numeral '900'",
         "definition": "The numeral '900'"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(9) r ejn-",
+        "copticWord": "ⲣ ⲉϫⲛ-",
+        "englishTransliteration": "r ejn-",
+        "gloss": "be over (?)",
+        "definition": "be over (?)",
+        "reference": "758a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(11) r hajo",
+        "copticWord": "ⲣ ϩⲁϫⲱ⸗",
+        "englishTransliteration": "r hajo",
+        "gloss": "go toward",
+        "definition": "go toward",
+        "reference": "758b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(15) r hijn-",
+        "copticWord": "ⲣ ϩⲓϫⲛ-",
+        "englishTransliteration": "r hijn-",
+        "gloss": "be over",
+        "definition": "be over",
+        "reference": "759b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      }
     ]
   },
   {
@@ -28,6 +69,39 @@
         "word": "ra",
         "copticWord": "ⲣⲁ",
         "englishTransliteration": "ra"
+      },
+      {
+        "headword": "(2) ra mpite",
+        "copticWord": "ⲣⲁ ⲙⲡⲓⲧⲉ",
+        "englishTransliteration": "ra mpite",
+        "gloss": "loop-hole",
+        "definition": "loop-hole",
+        "reference": "276a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ra",
+          "gloss": "Lage, Stellung (oder ⲣⲟ \"Mund, Öffnung\"?)"
+        }
+      },
+      {
+        "headword": "(5) ra nsha",
+        "copticWord": "ⲣⲁ ⲛϣⲁ",
+        "englishTransliteration": "ra nsha",
+        "gloss": "eastern side",
+        "definition": "eastern side",
+        "reference": "543a",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "-rasha",
+            "copticWord": "ⲣⲁϣⲁ",
+            "englishTransliteration": "rasha"
+          }
+        ],
+        "crossReference": {
+          "target": "ra",
+          "gloss": "Lage, Stelle"
+        }
       }
     ],
     "reference": "287a",
@@ -160,14 +234,6 @@
     "definition": "vi. to rejoice"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To rejoice at, over",
-    "definition": "--- nem-: vb. To rejoice with;"
-  },
-  {
     "headword": "ran",
     "copticWord": "ⲣⲁⲛ",
     "englishTransliteration": "ran",
@@ -251,17 +317,6 @@
     "crossReference": {
       "target": "rwqi",
       "gloss": "Cleaner"
-    }
-  },
-  {
-    "headword": "raqt=",
-    "copticWord": "ⲣⲁϧⲧ",
-    "englishTransliteration": "rakht",
-    "gloss": "To strike",
-    "definition": "To strike",
-    "crossReference": {
-      "target": "rwqt",
-      "gloss": "To strike"
     }
   },
   {

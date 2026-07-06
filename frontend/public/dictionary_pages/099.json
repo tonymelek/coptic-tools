@@ -175,35 +175,12 @@
     "definition": "Back of man or beast"
   },
   {
-    "headword": "(2) coi",
-    "copticWord": "ⲥⲟⲓ",
-    "englishTransliteration": "soi",
-    "reference": "317b",
-    "partOfSpeech": "mf",
-    "gloss": "Wood beam",
-    "definition": "Wood beam"
-  },
-  {
     "headword": "ouahcoi",
     "copticWord": "ⲟⲩⲁϩⲥⲟⲓ",
     "englishTransliteration": "ouahsoi",
     "partOfSpeech": "f",
     "gloss": "Addition of beams",
     "definition": "Addition of beams"
-  },
-  {
-    "headword": "(3) coi",
-    "copticWord": "ⲥⲟⲓ",
-    "englishTransliteration": "soi",
-    "reference": "318a",
-    "senses": [
-      {
-        "label": "cok mfwi",
-        "partOfSpeech": "m",
-        "gloss": "Hair sacking",
-        "definition": "Hair sacking"
-      }
-    ]
   },
   {
     "headword": "m. a type of trees. cok",
@@ -223,17 +200,6 @@
   },
   {
     "headword": "cok",
-    "copticWord": "ⲥⲟⲕ",
-    "englishTransliteration": "sok",
-    "gloss": "To flow",
-    "definition": "To flow",
-    "crossReference": {
-      "target": "cwk",
-      "gloss": "To flow"
-    }
-  },
-  {
-    "headword": "cok=",
     "copticWord": "ⲥⲟⲕ",
     "englishTransliteration": "sok",
     "gloss": "To flow",
@@ -320,17 +286,6 @@
     "definition": "vt. To stretch, bind;"
   },
   {
-    "headword": "col=",
-    "copticWord": "ⲥⲟⲗ",
-    "englishTransliteration": "sol",
-    "gloss": "To dissipate",
-    "definition": "To dissipate",
-    "crossReference": {
-      "target": "cwl",
-      "gloss": "To dissipate"
-    }
-  },
-  {
     "headword": "coli",
     "copticWord": "ⲥⲟⲗⲓ",
     "englishTransliteration": "soli",
@@ -353,28 +308,6 @@
     }
   },
   {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To stretch, extend. comt (Q) v. comt= - To be stretched. con, pl. cn/ou: (342b) m. Brother",
-    "definition": "To stretch, extend. comt (Q) v. comt= - To be stretched. con, pl. cn/ou: (342b) m. Brother",
-    "senses": [
-      {
-        "label": "nis] ncon",
-        "partOfSpeech": "m",
-        "gloss": "Elder brother",
-        "definition": "kouji ncon: m. Younger brother; cwni: f. Sister;"
-      },
-      {
-        "label": "nis] ncwni",
-        "partOfSpeech": "f",
-        "gloss": "Older sister",
-        "definition": "kouji ncwni: f. Younger sister; ercon: vb. To be brother."
-      }
-    ]
-  },
-  {
     "headword": "colp=",
     "copticWord": "ⲥⲟⲗⲡ",
     "englishTransliteration": "solp",
@@ -384,40 +317,6 @@
       "target": "cwlep",
       "gloss": "To break"
     }
-  },
-  {
-    "headword": "(1) colcel",
-    "copticWord": "ⲥⲟⲗⲥⲉⲗ",
-    "englishTransliteration": "solsel",
-    "variants": [
-      {
-        "word": "celcwl=",
-        "copticWord": "ⲥⲉⲗⲥⲱⲗ",
-        "englishTransliteration": "selsōl"
-      },
-      {
-        "word": "celcwl",
-        "note": "Q",
-        "copticWord": "ⲥⲉⲗⲥⲱⲗ",
-        "englishTransliteration": "selsōl"
-      }
-    ],
-    "reference": "331b",
-    "gloss": "vt. To adorn",
-    "definition": "vt. To adorn",
-    "senses": [
-      {
-        "label": "(Q)",
-        "gloss": "qen-: vb. To adorn with",
-        "definition": "adorned;"
-      },
-      {
-        "label": "ebol",
-        "partOfSpeech": "vb",
-        "gloss": "To adorn",
-        "definition": "--: m. Adornment; celcil: adj. Orderly."
-      }
-    ]
   },
   {
     "headword": "coni",

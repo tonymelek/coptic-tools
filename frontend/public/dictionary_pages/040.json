@@ -5,7 +5,82 @@
     "englishTransliteration": "nhit",
     "partOfSpeech": "vb",
     "gloss": "To consent, agree",
-    "definition": "To consent, agree"
+    "definition": "To consent, agree",
+    "variants": [
+      {
+        "headword": "(2) sihi nhet",
+        "copticWord": "ⲥⲓϩⲓ ⲛϩⲏⲧ",
+        "englishTransliteration": "sihi nhet",
+        "gloss": "derangement of mind",
+        "definition": "derangement of mind",
+        "reference": "379b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      },
+      {
+        "headword": "(6) attot nhet",
+        "copticWord": "ⲁⲧⲧⲱⲧ ⲛϩⲏⲧ",
+        "englishTransliteration": "attot nhet",
+        "gloss": "unconvinced, disagreeing",
+        "definition": "unconvinced, disagreeing",
+        "reference": "438b-439a",
+        "partOfSpeech": "adj",
+        "crossReference": {
+          "target": "at-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(8) metattot nhet",
+        "copticWord": "ⲙⲉⲧⲁⲧⲧⲱⲧ ⲛϩⲏⲧ",
+        "englishTransliteration": "metattot nhet",
+        "gloss": "refusal",
+        "definition": "refusal",
+        "reference": "439a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "mnt-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(6) athouom nhet",
+        "copticWord": "ⲁⲑⲟⲩⲱⲙ ⲛϩⲏⲧ",
+        "englishTransliteration": "athouom nhet",
+        "gloss": "unrepentant",
+        "definition": "unrepentant",
+        "reference": "479a",
+        "partOfSpeech": "adj",
+        "crossReference": {
+          "target": "at-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(3) refoou nhet",
+        "copticWord": "ⲣⲉϥⲱⲟⲩ ⲛϩⲏⲧ",
+        "englishTransliteration": "refoou nhet",
+        "gloss": "patient person",
+        "definition": "patient person",
+        "reference": "533a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(17) tijre nhet",
+        "copticWord": "ϯϫⲣⲉ ⲛϩⲏⲧ",
+        "englishTransliteration": "tijre nhet",
+        "gloss": "encourage, console",
+        "definition": "encourage, console",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      }
+    ]
   },
   {
     "headword": "metyat",
@@ -88,6 +163,19 @@
         "note": "Q",
         "copticWord": "ⲑⲟⲩⲏⲧ",
         "englishTransliteration": "thouit"
+      },
+      {
+        "headword": "(3) thoouti mpishe",
+        "copticWord": "ⲑⲱⲟⲩϯ ⲙⲡⲓϣⲉ",
+        "englishTransliteration": "thoouti mpishe",
+        "gloss": "ring, sound the gong",
+        "definition": "ring, sound the gong",
+        "reference": "447b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "she",
+          "gloss": "Holz"
+        }
       }
     ],
     "reference": "447b",
@@ -155,14 +243,6 @@
     ]
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To mix with",
-    "definition": "To mix with"
-  },
-  {
     "headword": "nem",
     "copticWord": "ⲛⲉⲙ",
     "englishTransliteration": "nem",
@@ -176,7 +256,18 @@
     "englishTransliteration": "khen",
     "partOfSpeech": "vb",
     "gloss": "To mix with (agent)",
-    "definition": "To mix with (agent)"
+    "definition": "To mix with (agent)",
+    "variants": [
+      {
+        "headword": "(4) khen ouchop",
+        "copticWord": "ϧⲉⲛ ⲟⲩⲭⲱⲡ",
+        "englishTransliteration": "khen ouchop",
+        "gloss": "secretly",
+        "definition": "secretly",
+        "reference": "114a",
+        "partOfSpeech": "adv"
+      }
+    ]
   },
   {
     "headword": "atywq",
@@ -211,14 +302,6 @@
     "reference": "458b",
     "gloss": "vi. To knock (on door), summon, invite",
     "definition": "vt. to summon;"
-  },
-  {
-    "headword": "ehr/i",
-    "copticWord": "ⲉϩⲣⲏⲓ",
-    "englishTransliteration": "ehrii",
-    "partOfSpeech": "vb",
-    "gloss": "To call up",
-    "definition": "To call up"
   },
   {
     "headword": "refywhem",
@@ -297,17 +380,6 @@
   },
   {
     "headword": "yqmo",
-    "copticWord": "ⲑϧⲙⲟ",
-    "englishTransliteration": "thkhmo",
-    "gloss": "To warm",
-    "definition": "To warm",
-    "crossReference": {
-      "target": "tqmo",
-      "gloss": "To warm"
-    }
-  },
-  {
-    "headword": "yqmo=",
     "copticWord": "ⲑϧⲙⲟ",
     "englishTransliteration": "thkhmo",
     "gloss": "To warm",

@@ -33,22 +33,6 @@
     "definition": "Hunter"
   },
   {
-    "headword": "jorjc",
-    "copticWord": "ϫⲟⲣϫⲥ",
-    "englishTransliteration": "jorjs",
-    "partOfSpeech": "f",
-    "gloss": "Ambush, snare",
-    "definition": "Ambush, snare"
-  },
-  {
-    "headword": "jer/j",
-    "copticWord": "ϫⲉⲣⲏϫ",
-    "englishTransliteration": "jerij",
-    "partOfSpeech": "m",
-    "gloss": "Hunter",
-    "definition": "Hunter"
-  },
-  {
     "headword": "(1) jwf",
     "copticWord": "ϫⲱϥ",
     "englishTransliteration": "jōf",
@@ -97,51 +81,6 @@
     ]
   },
   {
-    "headword": "(2) jwrj",
-    "copticWord": "ϫⲱⲣϫ",
-    "englishTransliteration": "jōrj",
-    "variants": [
-      {
-        "word": "jorj=",
-        "copticWord": "ϫⲟⲣϫ",
-        "englishTransliteration": "jorj"
-      },
-      {
-        "word": "(Q) jorj",
-        "copticWord": "(Ϧ) ϫⲟⲣϫ",
-        "englishTransliteration": "(Kh) jorj"
-      }
-    ],
-    "reference": "831a",
-    "gloss": "vt. To prepare, provide",
-    "definition": "vt. To prepare, provide"
-  },
-  {
-    "headword": "(3) jwrj",
-    "copticWord": "ϫⲱⲣϫ",
-    "englishTransliteration": "jōrj",
-    "variants": [
-      {
-        "word": "jorj",
-        "copticWord": "ϫⲟⲣϫ",
-        "englishTransliteration": "jorj"
-      },
-      {
-        "word": "jorj=",
-        "copticWord": "ϫⲟⲣϫ",
-        "englishTransliteration": "jorj"
-      },
-      {
-        "word": "(Q) jorj",
-        "copticWord": "(Ϧ) ϫⲟⲣϫ",
-        "englishTransliteration": "(Kh) jorj"
-      }
-    ],
-    "reference": "831b",
-    "gloss": "vi. To be inhabited",
-    "definition": "vi. To be inhabited"
-  },
-  {
     "headword": "(2) (Q) j/f",
     "copticWord": "(Ϧ) ϫⲏϥ",
     "englishTransliteration": "(Kh) jif",
@@ -166,15 +105,6 @@
     "definition": "Pillar"
   },
   {
-    "headword": "(2) jwt",
-    "copticWord": "ϫⲱⲧ",
-    "englishTransliteration": "jōt",
-    "reference": "794b",
-    "partOfSpeech": "adj",
-    "gloss": "Twenty",
-    "definition": "Twenty"
-  },
-  {
     "headword": "jwfi",
     "copticWord": "ϫⲱϥⲓ",
     "englishTransliteration": "jōfi",
@@ -182,15 +112,6 @@
     "partOfSpeech": "m",
     "gloss": "Fenugreek. jwht v. jwth - To wound",
     "definition": "Fenugreek. jwht v. jwth - To wound"
-  },
-  {
-    "headword": "(3) jwt",
-    "copticWord": "ϫⲱⲧ",
-    "englishTransliteration": "jōt",
-    "reference": "833a",
-    "partOfSpeech": "f",
-    "gloss": "Drinking trough",
-    "definition": "Drinking trough"
   },
   {
     "headword": "(1) jwj",
@@ -220,33 +141,6 @@
     "partOfSpeech": "vb",
     "gloss": "To make, be head",
     "definition": "To make, be head"
-  },
-  {
-    "headword": "(2) jwj",
-    "copticWord": "ϫⲱϫ",
-    "englishTransliteration": "jōj",
-    "variants": [
-      {
-        "word": "joj=",
-        "copticWord": "ϫⲟϫ",
-        "englishTransliteration": "joj"
-      },
-      {
-        "word": "(Q) j/j",
-        "copticWord": "(Ϧ) ϫⲏϫ",
-        "englishTransliteration": "(Kh) jij"
-      }
-    ],
-    "reference": "843a",
-    "gloss": "vi. To roast, bake",
-    "definition": "vi. To roast, bake",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Baked (bread)",
-        "definition": "Baked (bread)"
-      }
-    ]
   },
   {
     "headword": "jwth",
@@ -286,17 +180,6 @@
     "partOfSpeech": "m",
     "gloss": "Generation",
     "definition": "Generation"
-  },
-  {
-    "headword": "jwoui",
-    "copticWord": "ϫⲱⲟⲩⲓ",
-    "englishTransliteration": "jōoui",
-    "gloss": "Songs",
-    "definition": "Songs",
-    "crossReference": {
-      "target": "(2)jw",
-      "gloss": "Songs"
-    }
   },
   {
     "headword": "jwoun",
@@ -386,13 +269,6 @@
     "reference": "836b",
     "gloss": "vi",
     "definition": "vi"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To pour forth into, onto",
-    "definition": "vi. To pour forth into, onto"
   },
   {
     "headword": "jwji",

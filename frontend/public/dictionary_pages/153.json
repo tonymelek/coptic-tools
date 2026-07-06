@@ -1,19 +1,5 @@
 [
   {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "gloss": "vt. To gird with, in",
-    "definition": "vt. To gird with, in"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "gloss": "vt. To gird (with emphasis)",
-    "definition": "vt. To gird (with emphasis)"
-  },
-  {
     "headword": "qwki",
     "copticWord": "ϧⲱⲕⲓ",
     "englishTransliteration": "khōki",
@@ -128,26 +114,6 @@
     "reference": "631b",
     "gloss": "vi. To tighten, strengthen",
     "definition": "vi. To tighten, strengthen"
-  },
-  {
-    "headword": "(2) qwq",
-    "copticWord": "ϧⲱϧ",
-    "englishTransliteration": "khōkh",
-    "variants": [
-      {
-        "word": "qaq=",
-        "copticWord": "ϧⲁϧ",
-        "englishTransliteration": "khakh"
-      },
-      {
-        "word": "(Q) q/q",
-        "copticWord": "(Ϧ) ϧⲏϧ",
-        "englishTransliteration": "(Kh) khikh"
-      }
-    ],
-    "reference": "742a",
-    "gloss": "vi. To be scraped, itch",
-    "definition": "vt. To scrape, scratch"
   },
   {
     "headword": "qaqou",

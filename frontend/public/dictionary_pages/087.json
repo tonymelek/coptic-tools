@@ -71,13 +71,6 @@
     "definition": "In this manner, thus"
   },
   {
-    "headword": "mvr/]",
-    "copticWord": "ⲙⲫⲣⲏϯ",
-    "englishTransliteration": "mfriti",
-    "gloss": "In form, manner, like as",
-    "definition": "In form, manner, like as"
-  },
-  {
     "headword": "mpair/]",
     "copticWord": "ⲙⲡⲁⲓⲣⲏϯ",
     "englishTransliteration": "mpairiti",
@@ -120,14 +113,6 @@
     "definition": "Freedom"
   },
   {
-    "headword": "erremhe",
-    "copticWord": "ⲉⲣⲣⲉⲙϩⲉ",
-    "englishTransliteration": "erremhe",
-    "partOfSpeech": "vb",
-    "gloss": "To make free, become free",
-    "definition": "To make free, become free"
-  },
-  {
     "headword": "remh/",
     "copticWord": "ⲣⲉⲙϩⲏ",
     "englishTransliteration": "remhi",
@@ -168,17 +153,6 @@
     "partOfSpeech": "f",
     "gloss": "Cell, room",
     "definition": "Cell, room"
-  },
-  {
-    "headword": "rem=",
-    "copticWord": "ⲣⲉⲙ",
-    "englishTransliteration": "rem",
-    "gloss": "Name",
-    "definition": "Name",
-    "crossReference": {
-      "target": "ran",
-      "gloss": "Name"
-    }
   },
   {
     "headword": "rib/",

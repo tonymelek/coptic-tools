@@ -9,6 +9,27 @@
         "word": "mitwoui",
         "copticWord": "ⲙⲓⲧⲱⲟⲩⲓ",
         "englishTransliteration": "mitōoui"
+      },
+      {
+        "headword": "(10) moit nsini",
+        "copticWord": "ⲙⲱⲓⲧ ⲛⲥⲓⲛⲓ",
+        "englishTransliteration": "moit nsini",
+        "gloss": "passage",
+        "definition": "passage",
+        "reference": "188b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) moit ntepitoh",
+        "copticWord": "ⲙⲱⲓⲧ ⲛⲧⲉⲡⲓⲧⲟϩ",
+        "englishTransliteration": "moit ntepitoh",
+        "gloss": "Milky Way",
+        "definition": "Milky Way",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "moeit",
+          "gloss": "Straße"
+        }
       }
     ],
     "reference": "188a",
@@ -55,14 +76,6 @@
     ]
   },
   {
-    "headword": "nh/t",
-    "copticWord": "ⲛϩⲏⲧ",
-    "englishTransliteration": "nhit",
-    "partOfSpeech": "n",
-    "gloss": "Rest, satisfaction",
-    "definition": "---: m. Rest, ease, relief;"
-  },
-  {
     "headword": "qen oumton",
     "copticWord": "ϧⲉⲛ ⲟⲩⲙⲧⲟⲛ",
     "englishTransliteration": "khen oumton",
@@ -87,14 +100,6 @@
     "definition": "Place of resting"
   },
   {
-    "headword": "ermton",
-    "copticWord": "ⲉⲣⲙⲧⲟⲛ",
-    "englishTransliteration": "ermton",
-    "partOfSpeech": "vb",
-    "gloss": "To be, set at rest, ease",
-    "definition": "]mton: vb. To set at ease, content, set a pause;"
-  },
-  {
     "headword": "[imton",
     "copticWord": "ϭⲓⲙⲧⲟⲛ",
     "englishTransliteration": "chimton",
@@ -109,14 +114,6 @@
     "partOfSpeech": "f",
     "gloss": "Ease",
     "definition": "Ease"
-  },
-  {
-    "headword": "moynec",
-    "copticWord": "ⲙⲟⲑⲛⲉⲥ",
-    "englishTransliteration": "mothnes",
-    "partOfSpeech": "f",
-    "gloss": "Ease, contentment",
-    "definition": "facility, opportunity;"
   },
   {
     "headword": "mwou",
@@ -237,14 +234,6 @@
         "definition": "- Part. of denial"
       }
     ]
-  },
-  {
-    "headword": "ermwou",
-    "copticWord": "ⲉⲣⲙⲱⲟⲩ",
-    "englishTransliteration": "ermōou",
-    "partOfSpeech": "vb",
-    "gloss": "To become water, liquify",
-    "definition": "To become water, liquify"
   },
   {
     "headword": "cermwou",
@@ -379,33 +368,6 @@
     "partOfSpeech": "n",
     "gloss": "Name of 6th month of the Coptic Calendar 'Amshir'",
     "definition": "Name of 6th month of the Coptic Calendar 'Amshir'"
-  },
-  {
-    "headword": "mwini",
-    "copticWord": "ⲙⲱⲓⲛⲓ",
-    "englishTransliteration": "mōini",
-    "gloss": "take",
-    "definition": "take",
-    "crossReference": {
-      "target": "mo",
-      "gloss": "take"
-    }
-  },
-  {
-    "headword": "(2)msir",
-    "copticWord": "ⲙϣⲓⲣ",
-    "englishTransliteration": "mshir",
-    "variants": [
-      {
-        "word": "emsir",
-        "copticWord": "ⲉⲙϣⲓⲣ",
-        "englishTransliteration": "emshir"
-      }
-    ],
-    "reference": "206a",
-    "partOfSpeech": "m",
-    "gloss": "Pot, box (for incense)",
-    "definition": "Pot, box (for incense)"
   },
   {
     "headword": "msis",

@@ -1,12 +1,5 @@
 [
   {
-    "headword": "epswi",
-    "copticWord": "ⲉⲡϣⲱⲓ",
-    "englishTransliteration": "epshōi",
-    "gloss": "vi. To sing upward",
-    "definition": "vi. To sing upward"
-  },
-  {
     "headword": "(1) hwou",
     "copticWord": "ϩⲱⲟⲩ",
     "englishTransliteration": "hōou",
@@ -59,35 +52,6 @@
     "definition": "Singing, song"
   },
   {
-    "headword": "hwc",
-    "copticWord": "ϩⲱⲥ",
-    "englishTransliteration": "hōs",
-    "partOfSpeech": "m",
-    "gloss": "Big drum",
-    "definition": "Big drum"
-  },
-  {
-    "headword": "(2) hwc",
-    "copticWord": "ϩⲱⲥ",
-    "englishTransliteration": "hōs",
-    "variants": [
-      {
-        "word": "hoc",
-        "copticWord": "ϩⲟⲥ",
-        "englishTransliteration": "hos"
-      }
-    ],
-    "reference": "710a",
-    "senses": [
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "To make sail to",
-        "definition": "To make sail to"
-      }
-    ]
-  },
-  {
     "headword": "m. Thread",
     "copticWord": "ⲙ. Ⲧϩⲣⲉⲁⲇ",
     "englishTransliteration": "m. Thread",
@@ -101,14 +65,6 @@
     "reference": "718b",
     "gloss": "(w/er) vb. To make sail, float",
     "definition": "(w/er) vb. To make sail, float"
-  },
-  {
-    "headword": "(2) hwou",
-    "copticWord": "ϩⲱⲟⲩ",
-    "englishTransliteration": "hōou",
-    "reference": "732a",
-    "gloss": "vi. To rain",
-    "definition": "---: m. Rain, moisture"
   },
   {
     "headword": "mounhwou",
@@ -252,38 +208,12 @@
     "definition": "Wooden Pole"
   },
   {
-    "headword": "(2) hw]",
-    "copticWord": "ϩⲱϯ",
-    "englishTransliteration": "hōti",
-    "reference": "722a",
-    "partOfSpeech": "m",
-    "gloss": "Tribute",
-    "definition": "]hw]: vb. To pay tribute"
-  },
-  {
     "headword": "athw]",
     "copticWord": "ⲁⲧϩⲱϯ",
     "englishTransliteration": "athōti",
     "partOfSpeech": "adj",
     "gloss": "Tax-free",
     "definition": "Tax-free"
-  },
-  {
-    "headword": "(3) hw]",
-    "copticWord": "ϩⲱϯ",
-    "englishTransliteration": "hōti",
-    "reference": "722b",
-    "partOfSpeech": "n",
-    "gloss": "Necessity. As impers. vb. It is needful",
-    "definition": "Necessity. As impers. vb. It is needful",
-    "senses": [
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "If is needful for. hfot, hfwt: (696b)",
-        "definition": "Fathom. hfour hroub: (741a); m. Young fish. hfw v. hof - Young fish. hfwt v. hfot - Fathom."
-      }
-    ]
   },
   {
     "headword": "hwtf",

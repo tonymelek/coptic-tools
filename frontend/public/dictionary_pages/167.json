@@ -48,13 +48,6 @@
     "definition": "Saying, speech"
   },
   {
-    "headword": "jere",
-    "copticWord": "ϫⲉⲣⲉ",
-    "englishTransliteration": "jere",
-    "gloss": "To mean",
-    "definition": "To mean"
-  },
-  {
     "headword": "II",
     "copticWord": "ⲒⲒ",
     "englishTransliteration": "II",
@@ -76,14 +69,6 @@
     "partOfSpeech": "m",
     "gloss": "Singer, minstrel",
     "definition": "Singer, minstrel"
-  },
-  {
-    "headword": "jokhf",
-    "copticWord": "ϫⲟⲕϩϥ",
-    "englishTransliteration": "jokhf",
-    "partOfSpeech": "n",
-    "gloss": "Goad",
-    "definition": "Goad"
   },
   {
     "headword": "joul",
@@ -127,7 +112,31 @@
     "crossReference": {
       "target": "(1)jwf",
       "gloss": "To burn"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(2) jouf (ebol)",
+        "copticWord": "ϫⲟⲩϥ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "jouf (ebol)",
+        "gloss": "flare up",
+        "definition": "flare up",
+        "reference": "796a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) jouf nhet",
+        "copticWord": "ϫⲟⲩϥ ⲛϩⲏⲧ",
+        "englishTransliteration": "jouf nhet",
+        "gloss": "be warm at heart, feel warmly",
+        "definition": "be warm at heart, feel warmly",
+        "reference": "796a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": " het ",
+          "gloss": "Herz, Sinn"
+        }
+      }
+    ]
   },
   {
     "headword": "jw=",
@@ -204,67 +213,11 @@
     "definition": "Modesty"
   },
   {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "variants": [
-      {
-        "word": "ejw=",
-        "copticWord": "ⲉϫⲱ",
-        "englishTransliteration": "ejō"
-      }
-    ],
-    "gloss": "Prep. Upon, over",
-    "definition": "for, on account of; against; to; in addition to, after"
-  },
-  {
-    "headword": "ebol ejen",
-    "copticWord": "ⲉⲃⲟⲗ ⲉϫⲉⲛ",
-    "englishTransliteration": "evol ejen",
-    "gloss": "Out upon",
-    "definition": "Out upon"
-  },
-  {
-    "headword": "qajen",
-    "copticWord": "ϧⲁϫⲉⲛ",
-    "englishTransliteration": "khajen",
-    "variants": [
-      {
-        "word": "qajw=",
-        "copticWord": "ϧⲁϫⲱ",
-        "englishTransliteration": "khajō"
-      }
-    ],
-    "gloss": "Prep. Before",
-    "definition": "Prep. Before"
-  },
-  {
     "headword": "icjen qajw=",
     "copticWord": "ⲓⲥϫⲉⲛ ϧⲁϫⲱ",
     "englishTransliteration": "isjen khajō",
     "gloss": "Since before",
     "definition": "Since before"
-  },
-  {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "variants": [
-      {
-        "word": "hijw=",
-        "copticWord": "ϩⲓϫⲱ",
-        "englishTransliteration": "heegō"
-      }
-    ],
-    "gloss": "Prep. lit. on head of",
-    "definition": "upon, over"
-  },
-  {
-    "headword": "ebol hijen",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲉⲛ",
-    "englishTransliteration": "evol heegen",
-    "gloss": "From upon",
-    "definition": "From upon"
   },
   {
     "headword": "jvo",
@@ -319,14 +272,6 @@
     "definition": "jwb, jwbi, f"
   },
   {
-    "headword": "jobi",
-    "copticWord": "ϫⲟⲃⲓ",
-    "englishTransliteration": "jovi",
-    "partOfSpeech": "m",
-    "gloss": "Weak person",
-    "definition": "Weak person"
-  },
-  {
     "headword": "metjwb",
     "copticWord": "ⲙⲉⲧϫⲱⲃ",
     "englishTransliteration": "metjōv",
@@ -362,17 +307,6 @@
     "partOfSpeech": "m",
     "gloss": "Earthen basin",
     "definition": "Earthen basin"
-  },
-  {
-    "headword": "jvo=",
-    "copticWord": "ϫⲫⲟ",
-    "englishTransliteration": "jfo",
-    "gloss": "To beget",
-    "definition": "To beget",
-    "crossReference": {
-      "target": "jvo",
-      "gloss": "To beget"
-    }
   },
   {
     "headword": "jvoi",
@@ -427,32 +361,6 @@
     }
   },
   {
-    "headword": "(1) jw",
-    "copticWord": "ϫⲱ",
-    "englishTransliteration": "jō",
-    "variants": [
-      {
-        "word": "joi",
-        "copticWord": "ϫⲟⲓ",
-        "englishTransliteration": "joi"
-      },
-      {
-        "word": "jwi",
-        "copticWord": "ϫⲱⲓ",
-        "englishTransliteration": "jōi"
-      },
-      {
-        "word": "ji",
-        "copticWord": "ϫⲓ",
-        "englishTransliteration": "ji"
-      }
-    ],
-    "reference": "753b",
-    "partOfSpeech": "f",
-    "gloss": "Wall",
-    "definition": "Wall"
-  },
-  {
     "headword": "jinym/]",
     "copticWord": "ϫⲓⲛⲑⲙⲏϯ",
     "englishTransliteration": "jinthmiti",
@@ -474,12 +382,5 @@
     "reference": "807b",
     "gloss": "vi. To dwell",
     "definition": "vi. To dwell"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To dwell at, visit",
-    "definition": "vi. To dwell at, visit"
   }
 ]

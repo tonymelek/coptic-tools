@@ -15,101 +15,6 @@
     ]
   },
   {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "partOfSpeech": "vb",
-    "gloss": "To cast out from",
-    "definition": "To cast out from"
-  },
-  {
-    "headword": "ebol hijen",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲉⲛ",
-    "englishTransliteration": "evol heegen",
-    "partOfSpeech": "vb",
-    "gloss": "To cast out upon",
-    "definition": "To cast out upon"
-  },
-  {
-    "headword": "epec/t",
-    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
-    "englishTransliteration": "epesit",
-    "partOfSpeech": "vb",
-    "gloss": "To throw down",
-    "definition": "To throw down"
-  },
-  {
-    "headword": "epswi",
-    "copticWord": "ⲉⲡϣⲱⲓ",
-    "englishTransliteration": "epshōi",
-    "partOfSpeech": "vb",
-    "gloss": "To cast, bring up",
-    "definition": "To cast, bring up"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "vb",
-    "gloss": "To cast in",
-    "definition": "To cast in"
-  },
-  {
-    "headword": "eqr/i",
-    "copticWord": "ⲉϧⲣⲏⲓ",
-    "englishTransliteration": "ekhrii",
-    "partOfSpeech": "vb",
-    "gloss": "To cast down",
-    "definition": "To cast down"
-  },
-  {
-    "headword": "ehr/i",
-    "copticWord": "ⲉϩⲣⲏⲓ",
-    "englishTransliteration": "ehrii",
-    "partOfSpeech": "vb",
-    "gloss": "To throw up",
-    "definition": "To throw up",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Thing thrown, seed",
-        "definition": "Thing thrown, seed"
-      },
-      {
-        "label": "jinci]",
-        "partOfSpeech": "m",
-        "gloss": "Sowing",
-        "definition": "Sowing"
-      },
-      {
-        "label": "cetebr/j",
-        "gloss": "nn. Lightning",
-        "definition": "ca]: mf. Arrow dart."
-      },
-      {
-        "label": "ckandalon",
-        "gloss": "Scandal",
-        "definition": "Scandal"
-      },
-      {
-        "label": "ckandaloc",
-        "reference": "Gk",
-        "partOfSpeech": "m",
-        "gloss": "Trap, snare",
-        "definition": "stumbling-block, offence, scandal; erckandalizin, -zecye: vb. To cause to stumble, give offence or scandal; to take offence.",
-        "isGreek": true
-      },
-      {
-        "label": "ckav/",
-        "reference": "Gk",
-        "partOfSpeech": "f",
-        "gloss": "Boat, small vessel",
-        "definition": "Boat, small vessel",
-        "isGreek": true
-      }
-    ]
-  },
-  {
     "headword": "ckerker=",
     "copticWord": "ⲥⲕⲉⲣⲕⲉⲣ",
     "englishTransliteration": "skerker",
@@ -290,13 +195,6 @@
     "partOfSpeech": "n",
     "gloss": "Side",
     "definition": "Side"
-  },
-  {
-    "headword": "ecken",
-    "copticWord": "ⲉⲥⲕⲉⲛ",
-    "englishTransliteration": "esken",
-    "gloss": "prep. Beside",
-    "definition": "prep. Beside"
   },
   {
     "headword": "ckenho",

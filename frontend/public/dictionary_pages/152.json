@@ -93,17 +93,6 @@
     "definition": "vt. To smite, crush"
   },
   {
-    "headword": "qok=",
-    "copticWord": "ϧⲟⲕ",
-    "englishTransliteration": "khok",
-    "gloss": "To gird",
-    "definition": "To gird",
-    "crossReference": {
-      "target": "qwk",
-      "gloss": "To gird"
-    }
-  },
-  {
     "headword": "qolqel",
     "copticWord": "ϧⲟⲗϧⲉⲗ",
     "englishTransliteration": "kholkhel",
@@ -192,14 +181,6 @@
     "definition": "Handful"
   },
   {
-    "headword": "eqr/i",
-    "copticWord": "ⲉϧⲣⲏⲓ",
-    "englishTransliteration": "ekhrii",
-    "partOfSpeech": "adv",
-    "gloss": "To below, downward",
-    "definition": "appended to vbs of motion"
-  },
-  {
     "headword": "nqr/i",
     "copticWord": "ⲛϧⲣⲏⲓ",
     "englishTransliteration": "nkhrii",
@@ -283,14 +264,6 @@
     "definition": "Inward part"
   },
   {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "adv",
-    "gloss": "To inside, inward",
-    "definition": "To inside, inward"
-  },
-  {
     "headword": "caqoun",
     "copticWord": "ⲥⲁϧⲟⲩⲛ",
     "englishTransliteration": "sakhoun",
@@ -368,6 +341,33 @@
         "word": "es qrwou",
         "copticWord": "ⲉϣ ϧⲣⲱⲟⲩ",
         "englishTransliteration": "esh khrōou"
+      },
+      {
+        "headword": "(2) osh ebol",
+        "copticWord": "ⲱϣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "osh ebol",
+        "gloss": "cry out, shout",
+        "definition": "cry out, shout",
+        "reference": "533b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) osh epshei",
+        "copticWord": "ⲱϣ ⲉⲡϣⲏⲓ",
+        "englishTransliteration": "osh epshei",
+        "gloss": "cry up, implore",
+        "definition": "cry up, implore",
+        "reference": "533b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) osh ehrai",
+        "copticWord": "ⲱϣ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "osh ehrai",
+        "gloss": "cry up, implore",
+        "definition": "cry up, implore",
+        "reference": "533b-534a",
+        "partOfSpeech": "vb"
       }
     ],
     "partOfSpeech": "vb",

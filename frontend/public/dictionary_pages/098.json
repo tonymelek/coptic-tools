@@ -273,13 +273,6 @@
     "definition": "vi. To pray, entreat, comfort"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To comfort",
-    "definition": "vi. To comfort"
-  },
-  {
     "headword": "cmot",
     "copticWord": "ⲥⲙⲟⲧ",
     "englishTransliteration": "smot",
@@ -304,6 +297,52 @@
         "word": "oi ncmot",
         "copticWord": "ⲟⲓ ⲛⲥⲙⲟⲧ",
         "englishTransliteration": "oi nsmot"
+      },
+      {
+        "headword": "(25) iri mbok",
+        "copticWord": "ⲓⲣⲓ ⲙⲃⲱⲕ",
+        "englishTransliteration": "iri mbok",
+        "gloss": "enslave",
+        "definition": "enslave",
+        "reference": "30b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(2) iri mshish",
+        "copticWord": "ⲓⲣⲓ ⲙϣⲓϣ",
+        "englishTransliteration": "iri mshish",
+        "gloss": "do vengeance for, requite",
+        "definition": "do vengeance for, requite",
+        "reference": "207b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "erpmshish",
+            "copticWord": "ⲉⲣⲡⲙϣⲓϣ",
+            "englishTransliteration": "erpmshish"
+          }
+        ],
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(6) iri mphreti",
+        "copticWord": "ⲓⲣⲓ ⲙⲫⲣⲏϯ",
+        "englishTransliteration": "iri mphreti",
+        "gloss": "be in manner, likeness, be as",
+        "definition": "be in manner, likeness, be as",
+        "reference": "305a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
       }
     ],
     "partOfSpeech": "vb",
@@ -325,14 +364,6 @@
     "partOfSpeech": "m",
     "gloss": "Beguiler. cobt, pl",
     "definition": "Beguiler. cobt, pl"
-  },
-  {
-    "headword": "cbyaiou",
-    "copticWord": "ⲥⲃⲑⲁⲓⲟⲩ",
-    "englishTransliteration": "svthaiou",
-    "partOfSpeech": "m",
-    "gloss": "Wall (of city), fence",
-    "definition": "Wall (of city), fence"
   },
   {
     "headword": "cmou",

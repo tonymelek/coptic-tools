@@ -84,14 +84,6 @@
     "definition": "Bitumen extracted from embalmed corpses"
   },
   {
-    "headword": "mac",
-    "copticWord": "ⲙⲁⲥ",
-    "englishTransliteration": "mas",
-    "reference": "184b",
-    "gloss": "vi. To bear, bring forth",
-    "definition": "vt. to bear young, beget; Qual. to be newly delivered, give suck;"
-  },
-  {
     "headword": "belle mmici",
     "copticWord": "ⲃⲉⲗⲗⲉ ⲙⲙⲓⲥⲓ",
     "englishTransliteration": "velle mmisi",
@@ -125,21 +117,6 @@
       "target": "mici",
       "gloss": "Womb. m/t, f. m/]"
     }
-  },
-  {
-    "headword": "met",
-    "copticWord": "ⲙⲉⲧ",
-    "englishTransliteration": "met",
-    "variants": [
-      {
-        "word": "m/t",
-        "copticWord": "ⲙⲏⲧ",
-        "englishTransliteration": "mit"
-      }
-    ],
-    "reference": "187b",
-    "gloss": "The numeral '10'",
-    "definition": "The numeral '10'"
   },
   {
     "headword": "m/t",
@@ -254,14 +231,6 @@
     "definition": "To bring forth"
   },
   {
-    "headword": "ermec",
-    "copticWord": "ⲉⲣⲙⲉⲥ",
-    "englishTransliteration": "ermes",
-    "partOfSpeech": "vb",
-    "gloss": "To bring forth",
-    "definition": "To bring forth"
-  },
-  {
     "headword": "macnou]",
     "copticWord": "ⲙⲁⲥⲛⲟⲩϯ",
     "englishTransliteration": "masnouti",
@@ -294,28 +263,12 @@
     "definition": "Birth, generation"
   },
   {
-    "headword": "maci",
-    "copticWord": "ⲙⲁⲥⲓ",
-    "englishTransliteration": "masi",
-    "partOfSpeech": "m",
-    "gloss": "Young animal, calf, bull, cow",
-    "definition": "Young animal, calf, bull, cow"
-  },
-  {
     "headword": "(1)m/ci",
     "copticWord": "ⲙⲏⲥⲓ",
     "englishTransliteration": "misi",
     "partOfSpeech": "f",
     "gloss": "One with child",
     "definition": "child-birth;"
-  },
-  {
-    "headword": "(2)m/ci",
-    "copticWord": "ⲙⲏⲥⲓ",
-    "englishTransliteration": "misi",
-    "partOfSpeech": "f",
-    "gloss": "Offspring of mony, usury, interest",
-    "definition": "Offspring of mony, usury, interest"
   },
   {
     "headword": "[i eym/ci",
@@ -340,14 +293,6 @@
     "partOfSpeech": "adj",
     "gloss": "Many, great",
     "definition": "Many, great"
-  },
-  {
-    "headword": "eroum/s",
-    "copticWord": "ⲉⲣⲟⲩⲙⲏϣ",
-    "englishTransliteration": "eroumish",
-    "partOfSpeech": "vb",
-    "gloss": "To be a crowd",
-    "definition": "To be a crowd"
   },
   {
     "headword": "m/]",

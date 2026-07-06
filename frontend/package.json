@@ -6,12 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:pages": "node scripts/build-github-pages.mjs",
+    "build:pages": "node ../scripts/build-github-pages.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
     "coptic-antonios-unicode": "^1.0.8",
     "coptic-pronounce": "^1.0.5",
+    "fuse.js": "^7.4.2",
     "vue": "^3.5.39",
     "vue-router": "^5.1.0"
   },

@@ -71,21 +71,6 @@
     "definition": "To add interest (to a loan)"
   },
   {
-    "headword": "meciw]",
-    "copticWord": "ⲙⲉⲥⲓⲱϯ",
-    "englishTransliteration": "mesiōti",
-    "variants": [
-      {
-        "word": "m/ciw]",
-        "copticWord": "ⲙⲏⲥⲓⲱϯ",
-        "englishTransliteration": "misiōti"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Womb",
-    "definition": "nursing, having given birth"
-  },
-  {
     "headword": "mec qen /i",
     "copticWord": "ⲙⲉⲥ ϧⲉⲛ ⲏⲓ",
     "englishTransliteration": "mes khen ii",
@@ -100,20 +85,6 @@
     "partOfSpeech": "f",
     "gloss": "lit. Birth-place, seat",
     "definition": "so childbirth, parturition"
-  },
-  {
-    "headword": "ymecio",
-    "copticWord": "ⲑⲙⲉⲥⲓⲟ",
-    "englishTransliteration": "thmesio",
-    "variants": [
-      {
-        "word": "ymecie",
-        "copticWord": "ⲑⲙⲉⲥⲓⲉ",
-        "englishTransliteration": "thmesie"
-      }
-    ],
-    "gloss": "vt. To bring to birth, act as midwife",
-    "definition": "vt. To bring to birth, act as midwife"
   },
   {
     "headword": "micitopoc",
@@ -186,6 +157,15 @@
         "word": "(Q) masi",
         "copticWord": "(Ϧ) ⲙⲁϣⲓ",
         "englishTransliteration": "(Kh) mashi"
+      },
+      {
+        "headword": "(12) mishi (hijen-)",
+        "copticWord": "ⲙⲓϣⲓ (ϩⲓϫⲉⲛ-)",
+        "englishTransliteration": "mishi (hijen-)",
+        "gloss": "fight on behalf of",
+        "definition": "fight on behalf of",
+        "reference": "203a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "202b",
@@ -222,22 +202,6 @@
     ],
     "reference": "198b",
     "partOfSpeech": "adj"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To fight for, fight bravely",
-    "definition": "fight against, attack;"
-  },
-  {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "partOfSpeech": "vb",
-    "gloss": "To fight for, on behalf of, strike upon",
-    "definition": "To fight for, on behalf of, strike upon"
   },
   {
     "headword": "ehr/i ejen",
@@ -338,38 +302,20 @@
         "word": "emmon",
         "copticWord": "ⲉⲙⲙⲟⲛ",
         "englishTransliteration": "emmon"
+      },
+      {
+        "headword": "(6) jn mmon",
+        "copticWord": "ϫⲛ ⲙⲙⲟⲛ",
+        "englishTransliteration": "jn mmon",
+        "gloss": "or not, or else, rather",
+        "definition": "or not, or else, rather",
+        "reference": "168b",
+        "partOfSpeech": "ptc"
       }
     ],
     "partOfSpeech": "part",
     "gloss": "No (in answering",
     "definition": "No (in answering"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To strike",
-    "definition": "To strike",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Fight, quarrel",
-        "definition": "Fight, quarrel"
-      },
-      {
-        "label": "atmisi",
-        "partOfSpeech": "adj",
-        "gloss": "Not attacked, unhurt",
-        "definition": "refmisi: m. Fighter;"
-      },
-      {
-        "label": "errefmisi",
-        "partOfSpeech": "vb",
-        "gloss": "To be quarrelsome, hostile",
-        "definition": "To be quarrelsome, hostile"
-      }
-    ]
   },
   {
     "headword": "jinmisi",
@@ -424,15 +370,6 @@
         "definition": "To give pain"
       }
     ]
-  },
-  {
-    "headword": "(2) mmon",
-    "copticWord": "ⲙⲙⲟⲛ",
-    "englishTransliteration": "mmon",
-    "reference": "169a",
-    "partOfSpeech": "adv",
-    "gloss": "Verily, for. mmonte- v. (1)mmon - Not to have",
-    "definition": "Verily, for. mmonte- v. (1)mmon - Not to have"
   },
   {
     "headword": "sepmkah",

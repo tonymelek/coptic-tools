@@ -87,23 +87,6 @@
     "definition": "Ececuter, governor"
   },
   {
-    "headword": "proceu",
-    "copticWord": "ⲡⲣⲟⲥⲉⲩ",
-    "englishTransliteration": "prosev",
-    "variants": [
-      {
-        "word": "/",
-        "copticWord": "ⲏ",
-        "englishTransliteration": "i"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "f",
-    "isGreek": true,
-    "gloss": "Prayer",
-    "definition": "Prayer"
-  },
-  {
     "headword": "erprocu",
     "copticWord": "ⲉⲣⲡⲣⲟⲥⲩ",
     "englishTransliteration": "erprosy",

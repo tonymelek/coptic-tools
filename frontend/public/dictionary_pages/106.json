@@ -8,75 +8,35 @@
     "definition": "To remain over from"
   },
   {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To ascribe to, inscribe",
-    "definition": "write down;"
-  },
-  {
     "headword": "sa",
     "copticWord": "ϣⲁ",
     "englishTransliteration": "sha",
     "gloss": "(v. --- erat=)",
-    "definition": "(v. --- erat=)"
-  },
-  {
-    "headword": "ebol ha",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
-    "englishTransliteration": "evol ha",
-    "partOfSpeech": "vb",
-    "gloss": "To remain over from",
-    "definition": "To remain over from"
-  },
-  {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "partOfSpeech": "vb",
-    "gloss": "To write about, report upon",
-    "definition": "To write about, report upon"
-  },
-  {
-    "headword": "hi",
-    "copticWord": "ϩⲓ",
-    "englishTransliteration": "hi",
-    "partOfSpeech": "vb",
-    "gloss": "To remain over on, in",
-    "definition": "To remain over on, in"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To write in, with",
-    "definition": "To write in, with"
-  },
-  {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "partOfSpeech": "vb",
-    "gloss": "To write upon, over",
-    "definition": "To write upon, over"
-  },
-  {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "partOfSpeech": "vb",
-    "gloss": "To remain over from",
-    "definition": "To remain over from"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To write outward, publish",
-    "definition": "To write outward, publish"
+    "definition": "(v. --- erat=)",
+    "variants": [
+      {
+        "headword": "(11) sha tenou",
+        "copticWord": "ϣⲁ ⲧⲉⲛⲟⲩ",
+        "englishTransliteration": "sha tenou",
+        "gloss": "till now",
+        "definition": "till now",
+        "reference": "485a",
+        "partOfSpeech": "adv"
+      },
+      {
+        "headword": "(7) sha o",
+        "copticWord": "ϣⲁ ⲱ",
+        "englishTransliteration": "sha o",
+        "gloss": "great festival",
+        "definition": "great festival",
+        "reference": "543b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "o",
+          "gloss": "groß"
+        }
+      }
+    ]
   },
   {
     "headword": "eqr/i qen",
@@ -87,187 +47,12 @@
     "definition": "To remain over in"
   },
   {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "vb",
-    "gloss": "To write in (to palace)",
-    "definition": "inscribe, register;",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Writting, letter",
-        "definition": "Writting, letter"
-      },
-      {
-        "label": "[icqai",
-        "partOfSpeech": "vb",
-        "gloss": "To receive letter",
-        "definition": "To receive letter"
-      },
-      {
-        "label": "metcqai",
-        "partOfSpeech": "f",
-        "gloss": "Writing",
-        "definition": "Writing"
-      },
-      {
-        "label": "atcqai",
-        "partOfSpeech": "adj",
-        "gloss": "Without letters, illiterate refcekcqai: m. Courier",
-        "definition": "Without letters, illiterate refcekcqai: m. Courier"
-      },
-      {
-        "label": "jincqai",
-        "partOfSpeech": "m",
-        "gloss": "Act, form of writing",
-        "definition": "cqi: m. Written copy, diploma;"
-      },
-      {
-        "label": "caq",
-        "partOfSpeech": "mf",
-        "gloss": "Writer, teacher, master",
-        "definition": "Writer, teacher, master"
-      },
-      {
-        "label": "metcaq",
-        "partOfSpeech": "f",
-        "gloss": "Skill",
-        "definition": "Skill"
-      },
-      {
-        "label": "cqe",
-        "gloss": "To write",
-        "definition": "To write"
-      },
-      {
-        "gloss": "cq/out (Q) v. cqai - To be written",
-        "definition": "cq/out (Q) v. cqai - To be written"
-      },
-      {
-        "label": "cq/t",
-        "gloss": "To write",
-        "definition": "To write"
-      },
-      {
-        "label": "cq/t=",
-        "gloss": "To write",
-        "definition": "To write"
-      },
-      {
-        "label": "cqi",
-        "gloss": "Written copy",
-        "definition": "Written copy"
-      },
-      {
-        "label": "cqo",
-        "reference": "384b",
-        "partOfSpeech": "m",
-        "gloss": "Plough-handle",
-        "definition": "Plough-handle"
-      },
-      {
-        "label": "cqoui",
-        "gloss": "Teachers",
-        "definition": "Teachers"
-      },
-      {
-        "label": "chimi",
-        "reference": "385a",
-        "partOfSpeech": "f",
-        "gloss": "Woman, wife, female of animals",
-        "definition": "Woman, wife, female of animals"
-      },
-      {
-        "label": "atchimi",
-        "partOfSpeech": "adj",
-        "gloss": "Wifeless",
-        "definition": "Wifeless"
-      },
-      {
-        "label": "ma nchimi",
-        "partOfSpeech": "m",
-        "gloss": "Woman's place",
-        "definition": "Woman's place"
-      },
-      {
-        "label": "erchimi",
-        "partOfSpeech": "vb",
-        "gloss": "To become, be wife",
-        "definition": "[ichimi: vb. To take wife."
-      },
-      {
-        "label": "chouer",
-        "gloss": "To curse",
-        "definition": "To curse"
-      },
-      {
-        "label": "chouort",
-        "gloss": "To Be cursed",
-        "definition": "To Be cursed"
-      },
-      {
-        "label": "chouwr=",
-        "gloss": "To curse",
-        "definition": "To curse"
-      },
-      {
-        "label": "c[r/h",
-        "reference": "389b",
-        "partOfSpeech": "m",
-        "gloss": "Quiet, rest",
-        "definition": "Quiet, rest"
-      },
-      {
-        "label": "c]",
-        "gloss": ",arion v. cti,arion - Thin tunic",
-        "definition": ",arion v. cti,arion - Thin tunic"
-      }
-    ]
-  },
-  {
-    "headword": "evahou",
-    "copticWord": "ⲉⲫⲁϩⲟⲩ",
-    "englishTransliteration": "efahou",
-    "partOfSpeech": "vb",
-    "gloss": "To remain over behind",
-    "definition": "To remain over behind",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Remainder",
-        "definition": "Remainder"
-      },
-      {
-        "label": "cw]",
-        "reference": "362a",
-        "gloss": "vi. To redeem, rescue",
-        "definition": "vi. To redeem, rescue"
-      }
-    ]
-  },
-  {
     "headword": "nten",
     "copticWord": "ⲛⲧⲉⲛ",
     "englishTransliteration": "nten",
     "partOfSpeech": "vb",
     "gloss": "To save from",
     "definition": "To save from"
-  },
-  {
-    "headword": "iri",
-    "copticWord": "ⲓⲣⲓ",
-    "englishTransliteration": "iri",
-    "variants": [
-      {
-        "word": "oi ncw]",
-        "copticWord": "ⲟⲓ ⲛⲥⲱϯ",
-        "englishTransliteration": "oi nsōti"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be, make redemption",
-    "definition": "To be, make redemption"
   },
   {
     "headword": "[icw]",

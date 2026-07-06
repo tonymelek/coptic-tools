@@ -1,75 +1,5 @@
 [
   {
-    "headword": "wp",
-    "copticWord": "ⲱⲡ",
-    "englishTransliteration": "ōp",
-    "variants": [
-      {
-        "word": "ep",
-        "copticWord": "ⲉⲡ",
-        "englishTransliteration": "ep"
-      },
-      {
-        "word": "op=",
-        "copticWord": "ⲟⲡ",
-        "englishTransliteration": "op"
-      },
-      {
-        "word": "(Q) /p",
-        "copticWord": "(Ϧ) ⲏⲡ",
-        "englishTransliteration": "(Kh) ip"
-      }
-    ],
-    "reference": "526a",
-    "gloss": "vi. To count, esteem",
-    "definition": "vi. To count, esteem",
-    "senses": [
-      {
-        "label": "e",
-        "gloss": "vi. To count to",
-        "definition": "Q. Belonging, related to;"
-      },
-      {
-        "label": "eqoun e",
-        "gloss": "vt. To count in, include",
-        "definition": "vt. To count in, include"
-      },
-      {
-        "label": "nem",
-        "gloss": "vt. To number with",
-        "definition": "vt. To number with"
-      },
-      {
-        "label": "n",
-        "gloss": "vt. + Dat",
-        "definition": "vt. + Dat"
-      },
-      {
-        "label": "nten",
-        "gloss": "vt. To count with, for",
-        "definition": "--- qen: vt. To count in, among; ---: m. Reckoning;"
-      },
-      {
-        "label": "atwp",
-        "partOfSpeech": "adj",
-        "gloss": "Unesteemed",
-        "definition": "Unesteemed"
-      },
-      {
-        "label": "]wp",
-        "partOfSpeech": "vb",
-        "gloss": "To give account",
-        "definition": "fiwp: vb. To take reckoning, calculate; metfiwp: f. Reckoning; reffiwp: m. Accountant;"
-      },
-      {
-        "label": "hiwp",
-        "partOfSpeech": "vb",
-        "gloss": "To make reckoning, calculation",
-        "definition": "To make reckoning, calculation"
-      }
-    ]
-  },
-  {
     "headword": "wmk",
     "copticWord": "ⲱⲙⲕ",
     "englishTransliteration": "ōmk",
@@ -83,6 +13,24 @@
         "word": "omk=",
         "copticWord": "ⲟⲙⲕ",
         "englishTransliteration": "omk"
+      },
+      {
+        "headword": "(2) omk epeset",
+        "copticWord": "ⲱⲙⲕ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "omk epeset",
+        "gloss": "be engulfed",
+        "definition": "be engulfed",
+        "reference": "523a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) omk ekhrei",
+        "copticWord": "ⲱⲙⲕ ⲉϧⲣⲏⲓ",
+        "englishTransliteration": "omk ekhrei",
+        "gloss": "swallow down, overwhelm",
+        "definition": "swallow down, overwhelm",
+        "reference": "523a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "523a",
@@ -115,6 +63,42 @@
         "word": "omc=",
         "copticWord": "ⲟⲙⲥ",
         "englishTransliteration": "oms"
+      },
+      {
+        "headword": "(2) oms ebol",
+        "copticWord": "ⲱⲙⲥ ⲉⲃⲟⲗ",
+        "englishTransliteration": "oms ebol",
+        "gloss": "sink, dip",
+        "definition": "sink, dip",
+        "reference": "523b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) oms epeset",
+        "copticWord": "ⲱⲙⲥ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "oms epeset",
+        "gloss": "sink down",
+        "definition": "sink down",
+        "reference": "523b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) oms ehrai",
+        "copticWord": "ⲱⲙⲥ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "oms ehrai",
+        "gloss": "sink down",
+        "definition": "sink down",
+        "reference": "523b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) oms ekhrei",
+        "copticWord": "ⲱⲙⲥ ⲉϧⲣⲏⲓ",
+        "englishTransliteration": "oms ekhrei",
+        "gloss": "sinking",
+        "definition": "sinking",
+        "reference": "523b",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "523a",
@@ -211,6 +195,21 @@
         "label": "nnouj",
         "gloss": "vt. To swear falsely",
         "definition": "refwrk nnouj: m. False swearer;"
+      }
+    ],
+    "variants": [
+      {
+        "headword": "(2) ork nnouj",
+        "copticWord": "ⲱⲣⲕ ⲛⲛⲟⲩϫ",
+        "englishTransliteration": "ork nnouj",
+        "gloss": "swear falsely",
+        "definition": "swear falsely",
+        "reference": "529b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "nouj",
+          "gloss": "falsch"
+        }
       }
     ]
   },

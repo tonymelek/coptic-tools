@@ -83,17 +83,6 @@
     }
   },
   {
-    "headword": "kel",
-    "copticWord": "ⲕⲉⲗ",
-    "englishTransliteration": "kel",
-    "gloss": "Knee",
-    "definition": "Knee",
-    "crossReference": {
-      "target": "kal",
-      "gloss": "Knee"
-    }
-  },
-  {
     "headword": "kelebin",
     "copticWord": "ⲕⲉⲗⲉⲃⲓⲛ",
     "englishTransliteration": "kelevin",
@@ -266,14 +255,6 @@
     "definition": "Same meaning"
   },
   {
-    "headword": "(2)kelwl",
-    "copticWord": "ⲕⲉⲗⲱⲗ",
-    "englishTransliteration": "kelōl",
-    "reference": "104a",
-    "gloss": "pl. Curling hair",
-    "definition": "pl. Curling hair"
-  },
-  {
     "headword": "kelfi",
     "copticWord": "ⲕⲉⲗϥⲓ",
     "englishTransliteration": "kelfi",
@@ -381,13 +362,6 @@
     "definition": "Trea-surer"
   },
   {
-    "headword": "erkerma",
-    "copticWord": "ⲉⲣⲕⲉⲣⲙⲁ",
-    "englishTransliteration": "erkerma",
-    "gloss": "vb",
-    "definition": "vb"
-  },
-  {
     "headword": "To spend",
     "copticWord": "Ⲧⲟ ϣⲡⲉⲛⲇ",
     "englishTransliteration": "To shpend",
@@ -402,14 +376,6 @@
     "partOfSpeech": "mf",
     "gloss": "Ash, soot, dust",
     "definition": "Ash, soot, dust"
-  },
-  {
-    "headword": "erkermi",
-    "copticWord": "ⲉⲣⲕⲉⲣⲙⲓ",
-    "englishTransliteration": "erkermi",
-    "partOfSpeech": "vb",
-    "gloss": "To become ashes, dust",
-    "definition": "To become ashes, dust"
   },
   {
     "headword": "kerc",

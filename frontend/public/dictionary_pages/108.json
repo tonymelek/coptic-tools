@@ -21,17 +21,6 @@
     "definition": "vt. To increase, multiply"
   },
   {
-    "headword": "tanso=",
-    "copticWord": "ⲧⲁⲛϣⲟ",
-    "englishTransliteration": "tansho",
-    "gloss": "To increase",
-    "definition": "To increase",
-    "crossReference": {
-      "target": "taso",
-      "gloss": "To increase"
-    }
-  },
-  {
     "headword": "tanqe",
     "copticWord": "ⲧⲁⲛϧⲉ",
     "englishTransliteration": "tankhe",
@@ -61,17 +50,6 @@
     "reference": "421a",
     "gloss": "vt",
     "definition": "vt"
-  },
-  {
-    "headword": "tarso=",
-    "copticWord": "ⲧⲁⲣϣⲟ",
-    "englishTransliteration": "tarsho",
-    "gloss": "To increase. tacye- v. tacyo - To bring back",
-    "definition": "To increase. tacye- v. tacyo - To bring back",
-    "crossReference": {
-      "target": "tarso",
-      "gloss": "To increase. tacye- v. tacyo - To bring back"
-    }
   },
   {
     "headword": "tacy/out",
@@ -276,17 +254,6 @@
     ]
   },
   {
-    "headword": "taouo=",
-    "copticWord": "ⲧⲁⲟⲩⲟ",
-    "englishTransliteration": "taouo",
-    "gloss": "To send",
-    "definition": "To send",
-    "crossReference": {
-      "target": "taouo",
-      "gloss": "To send"
-    }
-  },
-  {
     "headword": "tap",
     "copticWord": "ⲧⲁⲡ",
     "englishTransliteration": "tap",
@@ -302,17 +269,6 @@
     "partOfSpeech": "m",
     "gloss": "Return",
     "definition": "Return"
-  },
-  {
-    "headword": "tacyo=",
-    "copticWord": "ⲧⲁⲥⲑⲟ",
-    "englishTransliteration": "tastho",
-    "gloss": "To bring back",
-    "definition": "To bring back",
-    "crossReference": {
-      "target": "tacyo",
-      "gloss": "To bring back"
-    }
   },
   {
     "headword": "tatci",
@@ -429,16 +385,5 @@
     "reference": "430a",
     "gloss": "vt. To make to swear, adjure, entreat",
     "definition": "vt. To make to swear, adjure, entreat"
-  },
-  {
-    "headword": "tarko=",
-    "copticWord": "ⲧⲁⲣⲕⲟ",
-    "englishTransliteration": "tarko",
-    "gloss": "To make to swear",
-    "definition": "To make to swear",
-    "crossReference": {
-      "target": "tarko",
-      "gloss": "To make to swear"
-    }
   }
 ]

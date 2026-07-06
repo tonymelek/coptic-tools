@@ -139,21 +139,6 @@
     ]
   },
   {
-    "headword": "ersrwic",
-    "copticWord": "ⲉⲣϣⲣⲱⲓⲥ",
-    "englishTransliteration": "ershrōis",
-    "partOfSpeech": "vb",
-    "gloss": "To keep vigil. rwkh, rekh-, rokh=, rokh (Q): (293a)",
-    "definition": "To keep vigil. rwkh, rekh-, rokh=, rokh (Q): (293a)",
-    "senses": [
-      {
-        "label": "vi",
-        "gloss": "To burn",
-        "definition": "e-: vb. To burn toward, after; nten-: vb. To burn by, through; qen: vb. To burn with, by; --- hiten: Same meaning; ---: m. Burning, fervor; refrwkh: m. One who burns, burning; rokh, rwkh: m. Fuel, firewood; rakhi: f. Fuel."
-      }
-    ]
-  },
-  {
     "headword": "atrwous",
     "copticWord": "ⲁⲧⲣⲱⲟⲩϣ",
     "englishTransliteration": "atrōoush",
@@ -214,44 +199,5 @@
     "reference": "303b",
     "gloss": "I. vi. To grow, sprout, be covered with a growth as vegetation or hair",
     "definition": "I. vi. To grow, sprout, be covered with a growth as vegetation or hair"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To Grow forth",
-    "definition": "To Grow forth"
-  },
-  {
-    "headword": "epswi",
-    "copticWord": "ⲉⲡϣⲱⲓ",
-    "englishTransliteration": "epshōi",
-    "partOfSpeech": "vb",
-    "gloss": "To Grow upward",
-    "definition": "To Grow upward"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "vb",
-    "gloss": "To stick in",
-    "definition": "To stick in"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "partOfSpeech": "vb",
-    "gloss": "To be overgrown, be covered with",
-    "definition": "To be overgrown, be covered with",
-    "senses": [
-      {
-        "label": "II",
-        "gloss": "vt. To bring forth",
-        "definition": "--, pl. ro]: m. Growth. rwteb, royb=, roteb (Q): (305b); vi. To recline; vt. To make to recline; ma nrwteb: m. Place of reclining. rwoui v. arwoui - Stubble."
-      }
-    ]
   }
 ]

@@ -1,52 +1,5 @@
 [
   {
-    "headword": "]",
-    "copticWord": "ϯ",
-    "englishTransliteration": "ti",
-    "gloss": "The 31st letter of the Coptic Alphabet",
-    "definition": "The 31st letter of the Coptic Alphabet"
-  },
-  {
-    "headword": "epec/t",
-    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
-    "englishTransliteration": "epesit",
-    "partOfSpeech": "vb",
-    "gloss": "To put, send downward",
-    "definition": "To put, send downward"
-  },
-  {
-    "headword": "epswi",
-    "copticWord": "ⲉⲡϣⲱⲓ",
-    "englishTransliteration": "epshōi",
-    "partOfSpeech": "vb",
-    "gloss": "To raise up",
-    "definition": "To raise up"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "vb",
-    "gloss": "To give, hand in",
-    "definition": "To give, hand in"
-  },
-  {
-    "headword": "eqr/i",
-    "copticWord": "ⲉϧⲣⲏⲓ",
-    "englishTransliteration": "ekhrii",
-    "partOfSpeech": "vb",
-    "gloss": "To give, send up, in",
-    "definition": "lay down;"
-  },
-  {
-    "headword": "eqr/i e",
-    "copticWord": "ⲉϧⲣⲏⲓ ⲉ",
-    "englishTransliteration": "ekhrii e",
-    "partOfSpeech": "vb",
-    "gloss": "To lift up, commit to",
-    "definition": "To lift up, commit to"
-  },
-  {
     "headword": "[i]",
     "copticWord": "ϭⲓϯ",
     "englishTransliteration": "chiti",
@@ -68,7 +21,61 @@
     "englishTransliteration": "refti",
     "partOfSpeech": "m",
     "gloss": "Giver, fighter",
-    "definition": "Giver, fighter"
+    "definition": "Giver, fighter",
+    "variants": [
+      {
+        "headword": "(17) refti ebol",
+        "copticWord": "ⲣⲉϥϯ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refti ebol",
+        "gloss": "seller",
+        "definition": "seller",
+        "reference": "394b-395a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref",
+          "gloss": "the one who . . ."
+        }
+      },
+      {
+        "headword": "(7) refti oube-",
+        "copticWord": "ⲣⲉϥϯ ⲟⲩⲃⲉ-",
+        "englishTransliteration": "refti oube-",
+        "gloss": "opponent",
+        "definition": "opponent",
+        "reference": "394a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref",
+          "gloss": "the one who . . ."
+        }
+      },
+      {
+        "headword": "(12) refti (ekhoun ehrn-)",
+        "copticWord": "ⲣⲉϥϯ (ⲉϧⲟⲩⲛ ⲉϩⲣⲛ-)",
+        "englishTransliteration": "refti (ekhoun ehrn-)",
+        "gloss": "opposer",
+        "definition": "opposer",
+        "reference": "395b",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref",
+          "gloss": "the one who . . ."
+        }
+      },
+      {
+        "headword": "(13) refti ekhoun (ehrn-)",
+        "copticWord": "ⲣⲉϥϯ ⲉϧⲟⲩⲛ (ⲉϩⲣⲛ-)",
+        "englishTransliteration": "refti ekhoun (ehrn-)",
+        "gloss": "opposer",
+        "definition": "opposer",
+        "reference": "395b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "ref",
+          "gloss": "the one who . . ."
+        }
+      }
+    ]
   },
   {
     "headword": "metref]",
@@ -76,7 +83,35 @@
     "englishTransliteration": "metrefti",
     "partOfSpeech": "f",
     "gloss": "Generosity, charity",
-    "definition": "Generosity, charity"
+    "definition": "Generosity, charity",
+    "variants": [
+      {
+        "headword": "(9) metrefti oube-",
+        "copticWord": "ⲙⲉⲧⲣⲉϥϯ ⲟⲩⲃⲉ-",
+        "englishTransliteration": "metrefti oube-",
+        "gloss": "opposition",
+        "definition": "opposition",
+        "reference": "394a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref ",
+          "gloss": "man who . . ."
+        }
+      },
+      {
+        "headword": "(14) metrefti (ekhoun ehrn-)",
+        "copticWord": "ⲙⲉⲧⲣⲉϥϯ (ⲉϧⲟⲩⲛ ⲉϩⲣⲛ-)",
+        "englishTransliteration": "metrefti (ekhoun ehrn-)",
+        "gloss": "opposition",
+        "definition": "opposition",
+        "reference": "395b",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref ",
+          "gloss": "man who . . ."
+        }
+      }
+    ]
   },
   {
     "headword": "erref]",
@@ -85,14 +120,6 @@
     "partOfSpeech": "vb",
     "gloss": "To be giver",
     "definition": "To be giver"
-  },
-  {
-    "headword": "jin]",
-    "copticWord": "ϫⲓⲛϯ",
-    "englishTransliteration": "jinti",
-    "partOfSpeech": "m",
-    "gloss": "Giving, selling, fighting",
-    "definition": "Giving, selling, fighting"
   },
   {
     "headword": "]mi",
@@ -119,14 +146,6 @@
     "definition": "Villager, citizen"
   },
   {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "partOfSpeech": "vb",
-    "gloss": "To give, sell for",
-    "definition": "To give, sell for"
-  },
-  {
     "headword": "(1)]pi",
     "copticWord": "ϯⲡⲓ",
     "englishTransliteration": "tipi",
@@ -134,23 +153,6 @@
     "partOfSpeech": "f",
     "gloss": "Loins",
     "definition": "Loins"
-  },
-  {
-    "headword": "hi",
-    "copticWord": "ϩⲓ",
-    "englishTransliteration": "hi",
-    "partOfSpeech": "vb",
-    "gloss": "To lay upon, clothe",
-    "definition": "To lay upon, clothe"
-  },
-  {
-    "headword": "(2) ]pi",
-    "copticWord": "ϯⲡⲓ",
-    "englishTransliteration": "tipi",
-    "reference": "423a",
-    "partOfSpeech": "f",
-    "gloss": "Taste",
-    "definition": "Taste"
   },
   {
     "headword": "jin[i]pi",
@@ -173,42 +175,6 @@
     ],
     "gloss": "vi. To take taste, taste",
     "definition": "vi. To take taste, taste"
-  },
-  {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "gloss": "vi. To give for, on behalf of",
-    "definition": "vi. To give for, on behalf of"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "gloss": "vi. To give forth, away, sell",
-    "definition": "vi. To give forth, away, sell"
-  },
-  {
-    "headword": "]pouoi",
-    "copticWord": "ϯⲡⲟⲩⲟⲓ",
-    "englishTransliteration": "tipouoi",
-    "gloss": "To go forward",
-    "definition": "To go forward",
-    "crossReference": {
-      "target": "(1)ouoi",
-      "gloss": "To go forward"
-    }
-  },
-  {
-    "headword": "]ouoi",
-    "copticWord": "ϯⲟⲩⲟⲓ",
-    "englishTransliteration": "tiouoi",
-    "gloss": "Progress",
-    "definition": "Progress",
-    "crossReference": {
-      "target": "(1)ouoi",
-      "gloss": "Progress"
-    }
   },
   {
     "headword": "]]",

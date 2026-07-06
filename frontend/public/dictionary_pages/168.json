@@ -34,6 +34,15 @@
         "word": "(Q) jolk",
         "copticWord": "(Ϧ) ϫⲟⲗⲕ",
         "englishTransliteration": "(Kh) jolk"
+      },
+      {
+        "headword": "(2) jolk (ebol)",
+        "copticWord": "ϫⲱⲗⲕ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "jolk (ebol)",
+        "gloss": "stretching, extent",
+        "definition": "stretching, extent",
+        "reference": "767b",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "768a",
@@ -82,26 +91,6 @@
     "reference": "769a",
     "gloss": "vi. To draw, scoop (water, wine)",
     "definition": "vi. To draw, scoop (water, wine)"
-  },
-  {
-    "headword": "(2) jwlh",
-    "copticWord": "ϫⲱⲗϩ",
-    "englishTransliteration": "jōlh",
-    "variants": [
-      {
-        "word": "jolh=",
-        "copticWord": "ϫⲟⲗϩ",
-        "englishTransliteration": "jolh"
-      },
-      {
-        "word": "(Q) jolh",
-        "copticWord": "(Ϧ) ϫⲟⲗϩ",
-        "englishTransliteration": "(Kh) jolh"
-      }
-    ],
-    "reference": "769b",
-    "gloss": "vt. To swathe, clothe, cover",
-    "definition": "vt. To swathe, clothe, cover"
   },
   {
     "headword": "jinjwlh",
@@ -346,6 +335,15 @@
         "word": "(Q) j/l",
         "copticWord": "(Ϧ) ϫⲏⲗ",
         "englishTransliteration": "(Kh) jil"
+      },
+      {
+        "headword": "(3) jol (ebol)",
+        "copticWord": "ϫⲱⲗ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "jol (ebol)",
+        "gloss": "deny, reject",
+        "definition": "deny, reject",
+        "reference": "807b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "809a",
@@ -404,77 +402,6 @@
     ]
   },
   {
-    "headword": "(2) jwl",
-    "copticWord": "ϫⲱⲗ",
-    "englishTransliteration": "jōl",
-    "reference": "765b",
-    "partOfSpeech": "m",
-    "gloss": "Honeycomb",
-    "definition": "Honeycomb"
-  },
-  {
-    "headword": "(3) jwl",
-    "copticWord": "ϫⲱⲗ",
-    "englishTransliteration": "jōl",
-    "variants": [
-      {
-        "word": "kwl",
-        "copticWord": "ⲕⲱⲗ",
-        "englishTransliteration": "kōl"
-      },
-      {
-        "word": "jel",
-        "copticWord": "ϫⲉⲗ",
-        "englishTransliteration": "jel"
-      },
-      {
-        "word": "kel",
-        "copticWord": "ⲕⲉⲗ",
-        "englishTransliteration": "kel"
-      },
-      {
-        "word": "kol=",
-        "copticWord": "ⲕⲟⲗ",
-        "englishTransliteration": "kol"
-      },
-      {
-        "word": "jol=",
-        "copticWord": "ϫⲟⲗ",
-        "englishTransliteration": "jol"
-      },
-      {
-        "word": "(Q) j/l",
-        "copticWord": "(Ϧ) ϫⲏⲗ",
-        "englishTransliteration": "(Kh) jil"
-      }
-    ],
-    "reference": "807a",
-    "gloss": "vi. To return, roll back, curl up",
-    "definition": "vi. To return, roll back, curl up",
-    "senses": [
-      {
-        "label": "To turn back; deny; jinjwk ebol",
-        "partOfSpeech": "m",
-        "gloss": "Apostasy",
-        "definition": "Apostasy"
-      }
-    ]
-  },
-  {
-    "headword": "kwl",
-    "copticWord": "ⲕⲱⲗ",
-    "englishTransliteration": "kōl",
-    "variants": [
-      {
-        "word": "jwl ebol",
-        "copticWord": "ϫⲱⲗ ⲉⲃⲟⲗ",
-        "englishTransliteration": "jōl evol"
-      }
-    ],
-    "gloss": "vi. To return",
-    "definition": "vt."
-  },
-  {
     "headword": "(jwreb); p.c. jareb",
     "copticWord": "(ϫⲱⲣⲉⲃ)ⲑ ⲡ.ⲥ. ϫⲁⲣⲉⲃ",
     "englishTransliteration": "(jōrev)th p.s. garev",
@@ -493,17 +420,6 @@
     "reference": "785a",
     "gloss": "vt. To cut open",
     "definition": "vt. To cut open"
-  },
-  {
-    "headword": "jwl",
-    "copticWord": "ϫⲱⲗ",
-    "englishTransliteration": "jōl",
-    "gloss": "Loaf",
-    "definition": "Loaf",
-    "crossReference": {
-      "target": "(2)jol",
-      "gloss": "Loaf"
-    }
   },
   {
     "headword": "jwri",

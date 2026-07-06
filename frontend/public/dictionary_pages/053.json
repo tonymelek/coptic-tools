@@ -178,14 +178,6 @@
     "definition": "she-bear."
   },
   {
-    "headword": "(2) lapci",
-    "copticWord": "ⲗⲁⲡⲥⲓ",
-    "englishTransliteration": "lapsi",
-    "reference": "144b",
-    "gloss": "Fragment, small portion",
-    "definition": "Fragment, small portion"
-  },
-  {
     "headword": "laboc",
     "copticWord": "ⲗⲁⲃⲟⲥ",
     "englishTransliteration": "lavos",
@@ -260,6 +252,62 @@
         "gloss": "pl. Tongue-cutting",
         "definition": "pl. Tongue-cutting"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(4) las neiom",
+        "copticWord": "ⲗⲁⲥ ⲛⲉⲓⲟⲙ",
+        "englishTransliteration": "las neiom",
+        "gloss": "sea-tongue",
+        "definition": "sea-tongue",
+        "reference": "144b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(5) las nkam",
+        "copticWord": "ⲗⲁⲥ ⲛⲕⲁⲙ",
+        "englishTransliteration": "las nkam",
+        "gloss": "splinter, needle of reed",
+        "definition": "splinter, needle of reed",
+        "reference": "144b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) las nnoub",
+        "copticWord": "ⲗⲁⲥ ⲛⲛⲟⲩⲃ",
+        "englishTransliteration": "las nnoub",
+        "gloss": "wedge of gold",
+        "definition": "wedge of gold",
+        "reference": "144b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(7) las nshire",
+        "copticWord": "ⲗⲁⲥ ⲛϣⲓⲣⲉ",
+        "englishTransliteration": "las nshire",
+        "gloss": "uvula",
+        "definition": "uvula",
+        "reference": "144b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(8) las nmsah",
+        "copticWord": "ⲗⲁⲥ ⲛⲙⲥⲁϩ",
+        "englishTransliteration": "las nmsah",
+        "gloss": "crocodile's tongue",
+        "definition": "crocodile's tongue",
+        "reference": "144b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(9) las nouhoor",
+        "copticWord": "ⲗⲁⲥ ⲛⲟⲩϩⲟⲟⲣ",
+        "englishTransliteration": "las nouhoor",
+        "gloss": "hound's tongue",
+        "definition": "hound's tongue",
+        "reference": "144b",
+        "partOfSpeech": "m"
+      }
     ]
   },
   {
@@ -331,17 +379,6 @@
     "partOfSpeech": "n",
     "gloss": "Skip, bound",
     "definition": "Skip, bound"
-  },
-  {
-    "headword": "lac=",
-    "copticWord": "ⲗⲁⲥ",
-    "englishTransliteration": "las",
-    "gloss": "To bruise",
-    "definition": "To bruise",
-    "crossReference": {
-      "target": "lwc",
-      "gloss": "To bruise"
-    }
   },
   {
     "headword": "lakh",
@@ -553,17 +590,6 @@
     "reference": "150a",
     "gloss": "pl. Meaning unknown",
     "definition": "pl. Meaning unknown"
-  },
-  {
-    "headword": "lalw=",
-    "copticWord": "ⲗⲁⲗⲱ",
-    "englishTransliteration": "lalō",
-    "gloss": "To smear",
-    "definition": "To smear",
-    "crossReference": {
-      "target": "lalw",
-      "gloss": "To smear"
-    }
   },
   {
     "headword": "lajan",

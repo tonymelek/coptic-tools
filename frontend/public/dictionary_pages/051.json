@@ -9,6 +9,60 @@
         "note": "Q",
         "copticWord": "ⲕⲟⲗϩ",
         "englishTransliteration": "kolh"
+      },
+      {
+        "headword": "(2) kolh (ejen-)",
+        "copticWord": "ⲕⲱⲗϩ (ⲉϫⲉⲛ-)",
+        "englishTransliteration": "kolh (ejen-)",
+        "gloss": "strike upon",
+        "definition": "strike upon",
+        "reference": "106b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) kolh (n-)",
+        "copticWord": "ⲕⲱⲗϩ (ⲛ-)",
+        "englishTransliteration": "kolh (n-)",
+        "gloss": "knock for",
+        "definition": "knock for",
+        "reference": "107a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) kolh (khen-)",
+        "copticWord": "ⲕⲱⲗϩ (ϧⲉⲛ-)",
+        "englishTransliteration": "kolh (khen-)",
+        "gloss": "strike upon, in",
+        "definition": "strike upon, in",
+        "reference": "107a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) kolh (hiren-)",
+        "copticWord": "ⲕⲱⲗϩ (ϩⲓⲣⲉⲛ-)",
+        "englishTransliteration": "kolh (hiren-)",
+        "gloss": "knock on, at",
+        "definition": "knock on, at",
+        "reference": "107a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) kolh (ebol)",
+        "copticWord": "ⲕⲱⲗϩ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "kolh (ebol)",
+        "gloss": "knock outwards",
+        "definition": "knock outwards",
+        "reference": "107a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) kolh (ehoun)",
+        "copticWord": "ⲕⲱⲗϩ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "kolh (ehoun)",
+        "gloss": "knock inwards",
+        "definition": "knock inwards",
+        "reference": "107a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "106b",
@@ -54,14 +108,6 @@
     "definition": "Cymbal"
   },
   {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To strike upon, in",
-    "definition": "To strike upon, in"
-  },
-  {
     "headword": "kundineuin",
     "copticWord": "ⲕⲩⲛⲇⲓⲛⲉⲩⲓⲛ",
     "englishTransliteration": "kyndinevin",
@@ -90,22 +136,6 @@
       "target": "kindinoc",
       "gloss": "Danger"
     }
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To knock outwards (from within)",
-    "definition": "To knock outwards (from within)"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "partOfSpeech": "vb",
-    "gloss": "To knock inwards (from without)",
-    "definition": "To knock inwards (from without)"
   },
   {
     "headword": "kwlj",
@@ -246,14 +276,6 @@
     "partOfSpeech": "f",
     "gloss": "Lady, mistress, madam",
     "definition": "Lady, mistress, madam"
-  },
-  {
-    "headword": "keiric]mw",
-    "copticWord": "ⲕⲉⲓⲣⲓⲥϯⲙⲱ",
-    "englishTransliteration": "kiristimō",
-    "partOfSpeech": "m",
-    "gloss": "Head, leader",
-    "definition": "Head, leader"
   },
   {
     "headword": "kwb",
@@ -397,51 +419,12 @@
     "definition": "Broken nosed"
   },
   {
-    "headword": "kerjkac",
-    "copticWord": "ⲕⲉⲣϫⲕⲁⲥ",
-    "englishTransliteration": "kerjkas",
-    "partOfSpeech": "vb",
-    "gloss": "To break bone",
-    "definition": "To break bone"
-  },
-  {
     "headword": "kakbal",
     "copticWord": "ⲕⲁⲕⲃⲁⲗ",
     "englishTransliteration": "kakval",
     "partOfSpeech": "m",
     "gloss": "With bare eyes",
     "definition": "With bare eyes"
-  },
-  {
-    "headword": "kakhraf",
-    "copticWord": "ⲕⲁⲕϩⲣⲁϥ",
-    "englishTransliteration": "kakhraf",
-    "partOfSpeech": "m",
-    "gloss": "Bare-faced",
-    "definition": "Bare-faced"
-  },
-  {
-    "headword": "kouki",
-    "copticWord": "ⲕⲟⲩⲕⲓ",
-    "englishTransliteration": "kouki",
-    "partOfSpeech": "f",
-    "gloss": "Rind, skin",
-    "definition": "Rind, skin"
-  },
-  {
-    "headword": "k/kc",
-    "copticWord": "ⲕⲏⲕⲥ",
-    "englishTransliteration": "kiks",
-    "variants": [
-      {
-        "word": "kekc",
-        "copticWord": "ⲕⲉⲕⲥ",
-        "englishTransliteration": "keks"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "What is peeled off, strip, scale",
-    "definition": "What is peeled off, strip, scale"
   },
   {
     "headword": "kwl",
@@ -506,14 +489,6 @@
     ]
   },
   {
-    "headword": "kalp",
-    "copticWord": "ⲕⲁⲗⲡ",
-    "englishTransliteration": "kalp",
-    "reference": "105b",
-    "gloss": "vt. To steal, rob",
-    "definition": "vt. To steal, rob"
-  },
-  {
     "headword": "jinkwlp",
     "copticWord": "ϫⲓⲛⲕⲱⲗⲡ",
     "englishTransliteration": "jinkōlp",
@@ -528,14 +503,6 @@
     "partOfSpeech": "adj",
     "gloss": "Unstolen, inviolate",
     "definition": "Unstolen, inviolate"
-  },
-  {
-    "headword": "kolpc",
-    "copticWord": "ⲕⲟⲗⲡⲥ",
-    "englishTransliteration": "kolps",
-    "partOfSpeech": "f",
-    "gloss": "Theft",
-    "definition": "Theft"
   },
   {
     "headword": "kwt",
@@ -557,6 +524,15 @@
         "note": "Q",
         "copticWord": "ⲕⲏⲧ",
         "englishTransliteration": "kit"
+      },
+      {
+        "headword": "(2) kot (ebol)",
+        "copticWord": "ⲕⲱⲧ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "kot (ebol)",
+        "gloss": "build",
+        "definition": "build",
+        "reference": "122a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "122a",

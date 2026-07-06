@@ -22,28 +22,6 @@
     }
   },
   {
-    "headword": "sop=",
-    "copticWord": "ϣⲟⲡ",
-    "englishTransliteration": "shop",
-    "gloss": "To receive",
-    "definition": "To receive",
-    "crossReference": {
-      "target": "(2)swp",
-      "gloss": "To receive"
-    }
-  },
-  {
-    "headword": "sop",
-    "copticWord": "ϣⲟⲡ",
-    "englishTransliteration": "shop",
-    "gloss": "Cucumber",
-    "definition": "Cucumber",
-    "crossReference": {
-      "target": "(2)swpi",
-      "gloss": "Cucumber"
-    }
-  },
-  {
     "headword": "spe",
     "copticWord": "ϣⲡⲉ",
     "englishTransliteration": "shpe",
@@ -77,21 +55,6 @@
     }
   },
   {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "oi nsrw",
-        "copticWord": "ⲟⲓ ⲛϣⲣⲱ",
-        "englishTransliteration": "oi nshrō"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be menstruous. srwic v. rwic - Guard",
-    "definition": "To be menstruous. srwic v. rwic - Guard"
-  },
-  {
     "headword": "sorp",
     "copticWord": "ϣⲟⲣⲡ",
     "englishTransliteration": "shorp",
@@ -117,17 +80,6 @@
     "partOfSpeech": "m",
     "gloss": "Edge, fringe, border (of garment)",
     "definition": "Edge, fringe, border (of garment)"
-  },
-  {
-    "headword": "sorp=",
-    "copticWord": "ϣⲟⲣⲡ",
-    "englishTransliteration": "shorp",
-    "gloss": "To be early. sorpi v. swrp - First",
-    "definition": "To be early. sorpi v. swrp - First",
-    "crossReference": {
-      "target": "swrp",
-      "gloss": "To be early. sorpi v. swrp - First"
-    }
   },
   {
     "headword": "stekwou",
@@ -195,17 +147,6 @@
     }
   },
   {
-    "headword": "stmo=",
-    "copticWord": "ϣⲧⲙⲟ",
-    "englishTransliteration": "shtmo",
-    "gloss": "To make small",
-    "definition": "To make small",
-    "crossReference": {
-      "target": "tsmo",
-      "gloss": "To make small"
-    }
-  },
-  {
     "headword": "sotem(Q)",
     "copticWord": "ϣⲟⲧⲉⲙ(Ϧ)",
     "englishTransliteration": "shotem(Kh)",
@@ -246,17 +187,6 @@
     "crossReference": {
       "target": "sto",
       "gloss": "To lay down"
-    }
-  },
-  {
-    "headword": "sou",
-    "copticWord": "ϣⲟⲩ",
-    "englishTransliteration": "shou",
-    "gloss": "Son",
-    "definition": "Son",
-    "crossReference": {
-      "target": "s/ri",
-      "gloss": "Son"
     }
   },
   {
@@ -319,17 +249,6 @@
     "crossReference": {
       "target": "swoui",
       "gloss": "Dryness"
-    }
-  },
-  {
-    "headword": "sos=",
-    "copticWord": "ϣⲟϣ",
-    "englishTransliteration": "shosh",
-    "gloss": "To despise",
-    "definition": "To despise",
-    "crossReference": {
-      "target": "(1)sws",
-      "gloss": "To despise"
     }
   },
   {
@@ -401,17 +320,6 @@
     "reference": "602a",
     "gloss": "vi. To flow, pour, discharge",
     "definition": "vi. To flow, pour, discharge"
-  },
-  {
-    "headword": "souo=",
-    "copticWord": "ϣⲟⲩⲟ",
-    "englishTransliteration": "shouo",
-    "gloss": "To flow",
-    "definition": "To flow",
-    "crossReference": {
-      "target": "souo",
-      "gloss": "To flow"
-    }
   },
   {
     "headword": "sour/",

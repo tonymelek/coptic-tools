@@ -39,14 +39,6 @@
     "definition": "error, illusion; overstepping"
   },
   {
-    "headword": "erparabenin",
-    "copticWord": "ⲉⲣⲡⲁⲣⲁⲃⲉⲛⲓⲛ",
-    "englishTransliteration": "erparavenin",
-    "partOfSpeech": "vb",
-    "gloss": "To break the law, overstep, transgress",
-    "definition": "To break the law, overstep, transgress"
-  },
-  {
     "headword": "parabat/c",
     "copticWord": "ⲡⲁⲣⲁⲃⲁⲧⲏⲥ",
     "englishTransliteration": "paravatis",
@@ -251,14 +243,6 @@
     "definition": "Mockery, insult"
   },
   {
-    "headword": "erparalalize",
-    "copticWord": "ⲉⲣⲡⲁⲣⲁⲗⲁⲗⲓⲍⲉ",
-    "englishTransliteration": "erparalalize",
-    "partOfSpeech": "vb",
-    "gloss": "To mock, insult",
-    "definition": "To mock, insult"
-  },
-  {
     "headword": "pallation",
     "copticWord": "ⲡⲁⲗⲗⲁⲧⲓⲟⲛ",
     "englishTransliteration": "pallation",
@@ -305,28 +289,6 @@
     "isGreek": true,
     "gloss": "Baramoun, the eve of a feast",
     "definition": "obligation to continue in service; endurance."
-  },
-  {
-    "headword": "panim",
-    "copticWord": "ⲡⲁⲛⲓⲙ",
-    "englishTransliteration": "panim",
-    "gloss": "Belonging to whom",
-    "definition": "Belonging to whom",
-    "crossReference": {
-      "target": "va (2)",
-      "gloss": "Belonging to whom"
-    }
-  },
-  {
-    "headword": "paranomoc",
-    "copticWord": "ⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
-    "englishTransliteration": "paranomos",
-    "gloss": "Criminal",
-    "definition": "Criminal",
-    "crossReference": {
-      "target": "nomoc",
-      "gloss": "Criminal"
-    }
   },
   {
     "headword": "paraptwma",
@@ -479,7 +441,22 @@
     "crossReference": {
       "target": "tap",
       "gloss": "Unicorn"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(2) paptap nouot",
+        "copticWord": "ⲡⲁⲡⲧⲁⲡ ⲛⲟⲩⲱⲧ",
+        "englishTransliteration": "paptap nouot",
+        "gloss": "unicorn",
+        "definition": "unicorn",
+        "reference": "422a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "pa-",
+          "gloss": "Possessivpräfix sg. m."
+        }
+      }
+    ]
   },
   {
     "headword": "paryenoc",

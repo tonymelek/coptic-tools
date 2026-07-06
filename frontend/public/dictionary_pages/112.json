@@ -54,74 +54,12 @@
     "definition": "--- e-: vi. To set seal upon; --- n-: vi. To seal with, by means of; --- qen-: vi. To seal with"
   },
   {
-    "headword": "tebc",
-    "copticWord": "ⲧⲉⲃⲥ",
-    "englishTransliteration": "tevs",
-    "variants": [
-      {
-        "word": "tobc",
-        "copticWord": "ⲧⲟⲃⲥ",
-        "englishTransliteration": "tovs"
-      },
-      {
-        "word": "topc",
-        "copticWord": "ⲧⲟⲡⲥ",
-        "englishTransliteration": "tops"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Seal's impress",
-    "definition": "Seal's impress"
-  },
-  {
-    "headword": "tobf",
-    "copticWord": "ⲧⲟⲃϥ",
-    "englishTransliteration": "tovf",
-    "variants": [
-      {
-        "word": "topf",
-        "copticWord": "ⲧⲟⲡϥ",
-        "englishTransliteration": "topf"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "Seal's impress",
-    "definition": "Seal's impress"
-  },
-  {
-    "headword": "ebol ha",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
-    "englishTransliteration": "evol ha",
-    "partOfSpeech": "vb",
-    "gloss": "To be saved from",
-    "definition": "To be saved from"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To saved in, from",
-    "definition": "---: n. Saftey, salvation;"
-  },
-  {
     "headword": "reftoujo",
     "copticWord": "ⲣⲉϥⲧⲟⲩϫⲟ",
     "englishTransliteration": "reftoujo",
     "partOfSpeech": "m",
     "gloss": "Health-giver, savior, saver",
     "definition": "Health-giver, savior, saver"
-  },
-  {
-    "headword": "toujo=",
-    "copticWord": "ⲧⲟⲩϫⲟ",
-    "englishTransliteration": "toujo",
-    "gloss": "To save",
-    "definition": "To save",
-    "crossReference": {
-      "target": "toujo",
-      "gloss": "To save"
-    }
   },
   {
     "headword": "toj=",
@@ -133,44 +71,6 @@
       "target": "twji",
       "gloss": "To be joined"
     }
-  },
-  {
-    "headword": "(2) twb",
-    "copticWord": "ⲧⲱⲃ",
-    "englishTransliteration": "tōv",
-    "variants": [
-      {
-        "word": "twp",
-        "copticWord": "ⲧⲱⲡ",
-        "englishTransliteration": "tōp"
-      },
-      {
-        "word": "tob",
-        "copticWord": "ⲧⲟⲃ",
-        "englishTransliteration": "tov"
-      },
-      {
-        "word": "tob=",
-        "copticWord": "ⲧⲟⲃ",
-        "englishTransliteration": "tov"
-      },
-      {
-        "word": "top=",
-        "copticWord": "ⲧⲟⲡ",
-        "englishTransliteration": "top"
-      }
-    ],
-    "reference": "398b",
-    "gloss": "vi. To repay, requite",
-    "definition": "--- n-: vi. To repay to"
-  },
-  {
-    "headword": "topou",
-    "copticWord": "ⲧⲟⲡⲟⲩ",
-    "englishTransliteration": "topou",
-    "partOfSpeech": "m",
-    "gloss": "Requital",
-    "definition": "Requital"
   },
   {
     "headword": "tojc",
@@ -222,15 +122,6 @@
     "partOfSpeech": "n",
     "gloss": "Name of 5th month",
     "definition": "Name of 5th month"
-  },
-  {
-    "headword": "(2) twbi",
-    "copticWord": "ⲧⲱⲃⲓ",
-    "englishTransliteration": "tōvi",
-    "reference": "398a",
-    "partOfSpeech": "f",
-    "gloss": "Brick",
-    "definition": "Brick"
   },
   {
     "headword": "vave twbi",

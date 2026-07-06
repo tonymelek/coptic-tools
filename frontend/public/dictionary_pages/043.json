@@ -8,6 +8,14 @@
         "word": "h//pe ic",
         "copticWord": "ϩⲏⲏⲡⲉ ⲓⲥ",
         "englishTransliteration": "hiipe is"
+      },
+      {
+        "headword": "(10) heppe is",
+        "copticWord": "ϩⲏⲡⲡⲉ ⲓⲥ",
+        "englishTransliteration": "heppe is",
+        "gloss": "behold, lo, here is (before pronouns and verbs mostly = ⲉⲓⲥ ϩⲏⲏⲧⲉ S; before nouns\n              = ⲉⲓⲥ S)",
+        "definition": "behold, lo, here is (before pronouns and verbs mostly = ⲉⲓⲥ ϩⲏⲏⲧⲉ S; before nouns\n              = ⲉⲓⲥ S)",
+        "reference": "86a"
       }
     ],
     "gloss": "Same meaning (w/pron, vb)",
@@ -60,23 +68,6 @@
         "definition": "refi/c: m. One that hastens; iwc, i/c: m. Speed, diligence. qen oui/c: adv. Diligently, hurriedly. iwrh: (84b); vi. To see, perceive; --: m. Sight, vision; metiorh: f. Sagacity; jiniwrh: n. Vision, power to see."
       }
     ]
-  },
-  {
-    "headword": "ic",
-    "copticWord": "ⲓⲥ",
-    "englishTransliteration": "is",
-    "variants": [
-      {
-        "word": "uroc",
-        "copticWord": "ⲩⲣⲟⲥ",
-        "englishTransliteration": "yros"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "m",
-    "isGreek": true,
-    "gloss": "Strong, powerful, forcible, violent, severe, vigorous, mighty",
-    "definition": "Strong, powerful, forcible, violent, severe, vigorous, mighty"
   },
   {
     "headword": "(1) iwt",
@@ -199,15 +190,6 @@
     }
   },
   {
-    "headword": "(2)iwt",
-    "copticWord": "ⲓⲱⲧ",
-    "englishTransliteration": "iōt",
-    "reference": "87b",
-    "partOfSpeech": "m",
-    "gloss": "Barley",
-    "definition": "Barley"
-  },
-  {
     "headword": "iwi",
     "copticWord": "ⲓⲱⲓ",
     "englishTransliteration": "iōi",
@@ -284,6 +266,15 @@
         "note": "Q",
         "copticWord": "ⲁϣⲓ",
         "englishTransliteration": "ashi"
+      },
+      {
+        "headword": "(5) ishi (epshoi)",
+        "copticWord": "ⲓϣⲓ (ⲉⲡϣⲱⲓ)",
+        "englishTransliteration": "ishi (epshoi)",
+        "gloss": "hang up",
+        "definition": "hang up",
+        "reference": "88b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "88a",
@@ -344,13 +335,6 @@
         "definition": "Hanging, crucifixtion"
       }
     ]
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "gloss": "Same meaning",
-    "definition": "Same meaning"
   },
   {
     "headword": "ayiwou",

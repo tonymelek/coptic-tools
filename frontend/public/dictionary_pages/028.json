@@ -135,18 +135,22 @@
     "crossReference": {
       "target": "iri",
       "gloss": "To do"
-    }
-  },
-  {
-    "headword": "eragapan",
-    "copticWord": "ⲉⲣⲁⲅⲁⲡⲁⲛ",
-    "englishTransliteration": "eragapan",
-    "gloss": "To love",
-    "definition": "To love",
-    "crossReference": {
-      "target": "agap/",
-      "gloss": "To love"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(7) er natthot nhet",
+        "copticWord": "ⲉⲣ ⲛⲁⲧⲑⲱⲧ ⲛϩⲏⲧ",
+        "englishTransliteration": "er natthot nhet",
+        "gloss": "disagree",
+        "definition": "disagree",
+        "reference": "439a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      }
+    ]
   },
   {
     "headword": "erkat/,in",
@@ -179,17 +183,6 @@
     "crossReference": {
       "target": "kat/,oumen/",
       "gloss": "To in-struct"
-    }
-  },
-  {
-    "headword": "eranomin",
-    "copticWord": "ⲉⲣⲁⲛⲟⲙⲓⲛ",
-    "englishTransliteration": "eranomin",
-    "gloss": "To transgress",
-    "definition": "To transgress",
-    "crossReference": {
-      "target": "anomia",
-      "gloss": "To transgress"
     }
   },
   {

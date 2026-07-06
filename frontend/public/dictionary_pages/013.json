@@ -1,22 +1,5 @@
 [
   {
-    "headword": "ar",
-    "copticWord": "ⲁⲣ",
-    "englishTransliteration": "ar",
-    "variants": [
-      {
-        "word": "/diakwn",
-        "copticWord": "ⲏⲇⲓⲁⲕⲱⲛ",
-        "englishTransliteration": "idiakōn"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "m",
-    "isGreek": true,
-    "gloss": "Archdeacon",
-    "definition": "Archdeacon"
-  },
-  {
     "headword": "ar,/cunagwgou",
     "copticWord": "ⲁⲣⲭⲏⲥⲩⲛⲁⲅⲱⲅⲟⲩ",
     "englishTransliteration": "arkhisynagōgou",

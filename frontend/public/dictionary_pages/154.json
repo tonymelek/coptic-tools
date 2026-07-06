@@ -45,28 +45,6 @@
     "definition": "To give judgement, go to law"
   },
   {
-    "headword": "ha",
-    "copticWord": "ϩⲁ",
-    "englishTransliteration": "ha",
-    "variants": [
-      {
-        "word": "haro=",
-        "copticWord": "ϩⲁⲣⲟ",
-        "englishTransliteration": "haro"
-      }
-    ],
-    "reference": "634a",
-    "gloss": "Prep. To, toward",
-    "definition": "Prep. To, toward"
-  },
-  {
-    "headword": "ebol ha",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
-    "englishTransliteration": "evol ha",
-    "gloss": "From",
-    "definition": "From"
-  },
-  {
     "headword": "eqoun ha",
     "copticWord": "ⲉϧⲟⲩⲛ ϩⲁ",
     "englishTransliteration": "ekhoun ha",
@@ -313,27 +291,49 @@
     "englishTransliteration": "he",
     "reference": "640a",
     "gloss": "interj. Ho!",
-    "definition": "interj. Ho!"
-  },
-  {
-    "headword": "(2) he",
-    "copticWord": "ϩⲉ",
-    "englishTransliteration": "he",
-    "reference": "640a",
-    "partOfSpeech": "n",
-    "gloss": "Hinder part, back",
-    "definition": "Hinder part, back"
-  },
-  {
-    "headword": "he",
-    "copticWord": "ϩⲉ",
-    "englishTransliteration": "he",
-    "gloss": "Season",
-    "definition": "Season",
-    "crossReference": {
-      "target": "(2)h/",
-      "gloss": "Season"
-    }
+    "definition": "interj. Ho!",
+    "variants": [
+      {
+        "headword": "(9) he epouoeish",
+        "copticWord": "ϩⲉ ⲉⲡⲟⲩⲟⲉⲓϣ",
+        "englishTransliteration": "he epouoeish",
+        "gloss": "find time",
+        "definition": "find time",
+        "reference": "500a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "he",
+          "gloss": "fallen, finden"
+        }
+      },
+      {
+        "headword": "(2) he e-",
+        "copticWord": "ϩⲉ ⲉ-",
+        "englishTransliteration": "he e-",
+        "gloss": "fall upon, into",
+        "definition": "fall upon, into",
+        "reference": "637a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) he ebol",
+        "copticWord": "ϩⲉ ⲉⲃⲟⲗ",
+        "englishTransliteration": "he ebol",
+        "gloss": "fall out, away, perish",
+        "definition": "fall out, away, perish",
+        "reference": "637b-638a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) he ehrai",
+        "copticWord": "ϩⲉ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "he ehrai",
+        "gloss": "fall down",
+        "definition": "fall down",
+        "reference": "638a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "halmi",
@@ -362,15 +362,6 @@
     "reference": "655b",
     "gloss": "vi. To be low, short",
     "definition": "vi. To be low, short"
-  },
-  {
-    "headword": "(2) hebi",
-    "copticWord": "ϩⲉⲃⲓ",
-    "englishTransliteration": "hevi",
-    "reference": "656b",
-    "partOfSpeech": "m",
-    "gloss": "Plough",
-    "definition": "Plough"
   },
   {
     "headword": "moulwl nhebi",

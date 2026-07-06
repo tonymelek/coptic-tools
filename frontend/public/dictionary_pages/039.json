@@ -99,26 +99,6 @@
     "definition": "vi. To be fixed, sunk"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To be fixed in. ywm, yem-, yom=, y/m (Q), p.c. yam-",
-    "definition": "To be fixed in. ywm, yem-, yom=, y/m (Q), p.c. yam-",
-    "senses": [
-      {
-        "gloss": ": (412b)",
-        "definition": "vb. To shut mouth, door, or eyes;"
-      },
-      {
-        "label": "h/t",
-        "partOfSpeech": "vb",
-        "gloss": "To shut the heart",
-        "definition": "--: m. Shutting, hardening of heart; ---: m. That which shuts, fence, barrier."
-      }
-    ]
-  },
-  {
     "headword": "youw=",
     "copticWord": "ⲑⲟⲩⲱ",
     "englishTransliteration": "thouō",
@@ -164,17 +144,6 @@
     "partOfSpeech": "m",
     "gloss": "Idol, pillar, shrine",
     "definition": "Idol, pillar, shrine"
-  },
-  {
-    "headword": "youwt=",
-    "copticWord": "ⲑⲟⲩⲱⲧ",
-    "englishTransliteration": "thouōt",
-    "gloss": "To gather",
-    "definition": "To gather",
-    "crossReference": {
-      "target": "ywou]",
-      "gloss": "To gather"
-    }
   },
   {
     "headword": "yw=",
@@ -244,6 +213,21 @@
         "word": "ywsp",
         "copticWord": "ⲑⲱϣⲡ",
         "englishTransliteration": "thōshp"
+      },
+      {
+        "headword": "thobsh (ebol)",
+        "copticWord": "ⲑⲱⲃϣ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "thobsh (ebol)",
+        "gloss": "be asthonished, stare with astonishment",
+        "definition": "be asthonished, stare with astonishment",
+        "reference": "68b",
+        "variants": [
+          {
+            "word": "-thoshp",
+            "copticWord": "ⲑⲱϣⲡ",
+            "englishTransliteration": "thoshp"
+          }
+        ]
       }
     ],
     "reference": "68a",
@@ -304,55 +288,6 @@
       "target": "yok",
       "gloss": "Knife"
     }
-  },
-  {
-    "headword": "(1) ywk",
-    "copticWord": "ⲑⲱⲕ",
-    "englishTransliteration": "thōk",
-    "variants": [
-      {
-        "word": "yok",
-        "copticWord": "ⲑⲟⲕ",
-        "englishTransliteration": "thok"
-      }
-    ],
-    "reference": "69b",
-    "partOfSpeech": "m",
-    "gloss": "Mast of ship",
-    "definition": "Mast of ship"
-  },
-  {
-    "headword": "(2) ywk",
-    "copticWord": "ⲑⲱⲕ",
-    "englishTransliteration": "thōk",
-    "variants": [
-      {
-        "word": "toji",
-        "copticWord": "ⲧⲟϫⲓ",
-        "englishTransliteration": "toji"
-      }
-    ],
-    "reference": "404a",
-    "gloss": "(a) vi. To kindle (fire), stoke, heat (oven)",
-    "definition": "(a) vi. To kindle (fire), stoke, heat (oven)",
-    "senses": [
-      {
-        "label": "ejw=",
-        "gloss": "vi. To kindle fire at, above",
-        "definition": "vi. To kindle fire at, above"
-      },
-      {
-        "label": "qa",
-        "gloss": "vi. To kindle below",
-        "definition": "vi. To kindle below"
-      },
-      {
-        "label": "vt. To stoke",
-        "partOfSpeech": "m",
-        "gloss": "Fuel",
-        "definition": "Fuel"
-      }
-    ]
   },
   {
     "headword": "ywri",
@@ -418,21 +353,6 @@
     "definition": "Sewer, tailor"
   },
   {
-    "headword": "yrapc",
-    "copticWord": "ⲑⲣⲁⲡⲥ",
-    "englishTransliteration": "thraps",
-    "variants": [
-      {
-        "word": "trapc",
-        "copticWord": "ⲧⲣⲁⲡⲥ",
-        "englishTransliteration": "traps"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Awl, spike",
-    "definition": "Awl, spike"
-  },
-  {
     "headword": "ywrs",
     "copticWord": "ⲑⲱⲣϣ",
     "englishTransliteration": "thōrsh",
@@ -469,14 +389,6 @@
     ],
     "gloss": "vi. Same as above",
     "definition": "vi. Same as above"
-  },
-  {
-    "headword": "yik",
-    "copticWord": "ⲑⲓⲕ",
-    "englishTransliteration": "thik",
-    "partOfSpeech": "m",
-    "gloss": "Spark",
-    "definition": "Spark"
   },
   {
     "headword": "ywkem",
@@ -575,7 +487,534 @@
     "englishTransliteration": "evol",
     "partOfSpeech": "vb",
     "gloss": "To draw forth",
-    "definition": "To draw forth"
+    "definition": "To draw forth",
+    "variants": [
+      {
+        "headword": "(4) ebol je-",
+        "copticWord": "ⲉⲃⲟⲗ ϫⲉ-",
+        "englishTransliteration": "ebol je-",
+        "gloss": "because, for",
+        "definition": "because, for",
+        "reference": "34b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "je-",
+          "gloss": "Konjunktion"
+        }
+      },
+      {
+        "headword": "(2) hiebrej ebol",
+        "copticWord": "ϩⲓⲉⲃⲣⲏϫ ⲉⲃⲟⲗ",
+        "englishTransliteration": "hiebrej ebol",
+        "gloss": "hurl lightnings",
+        "definition": "hurl lightnings",
+        "reference": "53b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "hioue",
+          "gloss": "werfen, schleudern"
+        }
+      },
+      {
+        "headword": "(7) touneiat ebol",
+        "copticWord": "ⲧⲟⲩⲛⲉⲓⲁⲧ⸗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "touneiat ebol",
+        "gloss": "instruct, inform",
+        "definition": "instruct, inform",
+        "reference": "73b-74a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "touneeiat ebol",
+            "copticWord": "ⲧⲟⲩⲛⲉⲉⲓⲁⲧ⸗ ⲉⲃⲟⲗ",
+            "englishTransliteration": "touneeiat ebol"
+          }
+        ],
+        "crossReference": {
+          "target": "ouon",
+          "gloss": "open, be open"
+        }
+      },
+      {
+        "headword": "(4) refeio ebol",
+        "copticWord": "ⲣⲉϥⲉⲓⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refeio ebol",
+        "gloss": "washer (in baths)",
+        "definition": "washer (in baths)",
+        "reference": "75b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(18) atcho ebol",
+        "copticWord": "ⲁⲧⲭⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "atcho ebol",
+        "gloss": "without forgiveness",
+        "definition": "without forgiveness",
+        "reference": "97b",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(20) refko ebol",
+        "copticWord": "ⲣⲉϥⲕⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refko ebol",
+        "gloss": "forgiver",
+        "definition": "forgiver",
+        "reference": "97b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(21) mntrefko ebol",
+        "copticWord": "ⲙⲛⲧⲣⲉϥⲕⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "mntrefko ebol",
+        "gloss": "forgiveness",
+        "definition": "forgiveness",
+        "reference": "97b",
+        "partOfSpeech": "f",
+        "variants": [
+          {
+            "word": "metrefcho ebol",
+            "copticWord": "ⲙⲉⲧⲣⲉϥⲭⲱ ⲉⲃⲟⲗ",
+            "englishTransliteration": "metrefcho ebol"
+          }
+        ]
+      },
+      {
+        "headword": "koole ebol",
+        "copticWord": "ⲕⲱⲱⲗⲉ ⲉⲃⲟⲗ",
+        "englishTransliteration": "koole ebol",
+        "gloss": "meaning uncertain",
+        "definition": "meaning uncertain",
+        "reference": "102b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "kosks ebol",
+        "copticWord": "ⲕⲟⲥⲕⲥ ⲉⲃⲟⲗ",
+        "englishTransliteration": "kosks ebol",
+        "gloss": "bend, entwine (refl.)",
+        "definition": "bend, entwine (refl.)",
+        "reference": "121b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "li ebol",
+        "copticWord": "ⲗⲓ ⲉⲃⲟⲗ",
+        "englishTransliteration": "li ebol",
+        "gloss": "meaning unknown",
+        "definition": "meaning unknown",
+        "reference": "135a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) mntreflele ebol",
+        "copticWord": "ⲙⲛⲧⲣⲉϥⲗⲉⲗⲉ ⲉⲃⲟⲗ",
+        "englishTransliteration": "mntreflele ebol",
+        "gloss": "wandering about",
+        "definition": "wandering about",
+        "reference": "141a",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(5) nejloulai ebol",
+        "copticWord": "ⲛⲉϫⲗⲟⲩⲗⲁⲓ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nejloulai ebol",
+        "gloss": "utter shout",
+        "definition": "utter shout",
+        "reference": "141b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "nouje",
+          "gloss": "throw, cast"
+        }
+      },
+      {
+        "headword": "nouhr ebol",
+        "copticWord": "ⲛⲟⲩϩⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nouhr ebol",
+        "gloss": "meaning unknown",
+        "definition": "meaning unknown",
+        "reference": "245a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) atpoht ebol",
+        "copticWord": "ⲁⲧⲡⲱϩⲧ ⲉⲃⲟⲗ",
+        "englishTransliteration": "atpoht ebol",
+        "gloss": "not pouring (blood)",
+        "definition": "not pouring (blood)",
+        "reference": "284a",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(5) mntpoht ebol",
+        "copticWord": "ⲙⲛⲧⲡⲱϩⲧ ⲉⲃⲟⲗ",
+        "englishTransliteration": "mntpoht ebol",
+        "gloss": "pouring out, shedding (blood)",
+        "definition": "pouring out, shedding (blood)",
+        "reference": "284a",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(6) refpoht ebol",
+        "copticWord": "ⲣⲉϥⲡⲱϩⲧ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refpoht ebol",
+        "gloss": "shedder (blood)",
+        "definition": "shedder (blood)",
+        "reference": "284a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) ebol sa-",
+        "copticWord": "ⲉⲃⲟⲗ ⲥⲁ-",
+        "englishTransliteration": "ebol sa-",
+        "gloss": "from the side, from",
+        "definition": "from the side, from",
+        "reference": "313b",
+        "partOfSpeech": "prep"
+      },
+      {
+        "headword": "(5) refsor ebol",
+        "copticWord": "ⲣⲉϥⲥⲱⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refsor ebol",
+        "gloss": "layer out, founder",
+        "definition": "layer out, founder",
+        "reference": "354a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(6) chinsor ebol",
+        "copticWord": "ϭⲓⲛⲥⲱⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "chinsor ebol",
+        "gloss": "laying out",
+        "definition": "laying out",
+        "reference": "354a",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(2) nejtber ebol",
+        "copticWord": "ⲛⲉϫⲧⲃⲏⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nejtber ebol",
+        "gloss": "kick",
+        "definition": "kick",
+        "reference": "401a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ref ",
+          "gloss": "man who . . . (nominal prefix)"
+        }
+      },
+      {
+        "headword": "(4) reftitber ebol",
+        "copticWord": "ⲣⲉϥϯⲧⲃⲏⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "reftitber ebol",
+        "gloss": "kicker",
+        "definition": "kicker",
+        "reference": "401a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "ref",
+          "gloss": "the one who . . ."
+        }
+      },
+      {
+        "headword": "(6) hithber ebol",
+        "copticWord": "ϩⲓⲑⲃⲏⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "hithber ebol",
+        "gloss": "kick",
+        "definition": "kick",
+        "reference": "401a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "hioue",
+          "gloss": "schlagen, werfen, stoßen, setzen"
+        }
+      },
+      {
+        "headword": "(2) tekeial ebol",
+        "copticWord": "ⲧⲉⲕⲉⲓⲁⲗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "tekeial ebol",
+        "gloss": "shine",
+        "definition": "shine",
+        "reference": "404a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eial",
+          "gloss": "Spiegel"
+        }
+      },
+      {
+        "headword": "(4) ebol ton",
+        "copticWord": "ⲉⲃⲟⲗ ⲧⲱⲛ",
+        "englishTransliteration": "ebol ton",
+        "gloss": "whence?",
+        "definition": "whence?",
+        "reference": "417b-418a",
+        "partOfSpeech": "adv",
+        "crossReference": {
+          "target": "ebol",
+          "gloss": "heraus"
+        }
+      },
+      {
+        "headword": "(3) rattar ebol",
+        "copticWord": "ⲣⲁⲧⲧⲁⲣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "rattar ebol",
+        "gloss": "put forth branches",
+        "definition": "put forth branches",
+        "reference": "424a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "rot",
+          "gloss": "wachsen"
+        }
+      },
+      {
+        "headword": "(13) bolshtore ebol",
+        "copticWord": "ⲃⲱⲗϣⲧⲱⲣⲉ ⲉⲃⲟⲗ",
+        "englishTransliteration": "bolshtore ebol",
+        "gloss": "dissolve a guarantee",
+        "definition": "dissolve a guarantee",
+        "reference": "425b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "bol",
+          "gloss": "loosen, untie (of chains, cords etc.)"
+        }
+      },
+      {
+        "headword": "(22) atka toot ebol",
+        "copticWord": "ⲁⲧⲕⲁ ⲧⲟⲟⲧ⸗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "atka toot ebol",
+        "gloss": "continuous, incessant",
+        "definition": "continuous, incessant",
+        "reference": "426b",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(34) ebol ntn-",
+        "copticWord": "ⲉⲃⲟⲗ ⲛⲧⲛ-",
+        "englishTransliteration": "ebol ntn-",
+        "gloss": "from",
+        "definition": "from",
+        "reference": "428b",
+        "partOfSpeech": "prep",
+        "crossReference": {
+          "target": "ebol",
+          "gloss": "heraus"
+        }
+      },
+      {
+        "headword": "(37) ebol hitn-",
+        "copticWord": "ⲉⲃⲟⲗ ϩⲓⲧⲛ-",
+        "englishTransliteration": "ebol hitn-",
+        "gloss": "by the hand of, through, by, from",
+        "definition": "by the hand of, through, by, from",
+        "reference": "429b",
+        "variants": [
+          {
+            "word": "ebol hitoot",
+            "copticWord": "ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧ⸗",
+            "englishTransliteration": "ebol hitoot"
+          }
+        ],
+        "crossReference": {
+          "target": "ebol",
+          "gloss": "heraus"
+        }
+      },
+      {
+        "headword": "(4) nejteu ebol",
+        "copticWord": "ⲛⲉϫⲧⲏⲩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nejteu ebol",
+        "gloss": "cast out breath, expire",
+        "definition": "cast out breath, expire",
+        "reference": "440a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "nouje",
+          "gloss": "throw, cast"
+        }
+      },
+      {
+        "headword": "(2) touneiat ebol",
+        "copticWord": "ⲧⲟⲩⲛⲉⲓⲁⲧ ⲉⲃⲟⲗ",
+        "englishTransliteration": "touneiat ebol",
+        "gloss": "make the eyes to open",
+        "definition": "make the eyes to open",
+        "reference": "73b-74a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ouon",
+          "gloss": "öffnen"
+        }
+      },
+      {
+        "headword": "(1) thlo ebol",
+        "copticWord": "ⲑⲗⲟ ⲉⲃⲟⲗ",
+        "englishTransliteration": "thlo ebol",
+        "gloss": "make to fly, drive away, scatter",
+        "definition": "make to fly, drive away, scatter",
+        "reference": "458a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "hol",
+          "gloss": "fliegen"
+        }
+      },
+      {
+        "headword": "(7) hn ououonh ebol",
+        "copticWord": "ϩⲛ ⲟⲩⲟⲩⲱⲛϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "hn ououonh ebol",
+        "gloss": "in openness, openly",
+        "definition": "in openness, openly",
+        "reference": "487b",
+        "partOfSpeech": "adv",
+        "variants": [
+          {
+            "word": "-hn ouonh ebol",
+            "copticWord": "ϩⲛ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ",
+            "englishTransliteration": "hn ouonh ebol"
+          }
+        ]
+      },
+      {
+        "headword": "(8) atouonh ebol",
+        "copticWord": "ⲁⲧⲟⲩⲱⲛϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "atouonh ebol",
+        "gloss": "unshown, invisible",
+        "definition": "unshown, invisible",
+        "reference": "487b",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(9) ratouonh ebol",
+        "copticWord": "ⲣⲁⲧⲟⲩⲱⲛϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ratouonh ebol",
+        "gloss": "be invisible, inconspicuous",
+        "definition": "be invisible, inconspicuous",
+        "reference": "487a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(2) ebol oute-",
+        "copticWord": "ⲉⲃⲟⲗ ⲟⲩⲧⲉ-",
+        "englishTransliteration": "ebol oute-",
+        "gloss": "from among",
+        "definition": "from among",
+        "reference": "494b-495a",
+        "partOfSpeech": "prep"
+      },
+      {
+        "headword": "(4) ouoti ebol",
+        "copticWord": "ⲟⲩⲱϯ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouoti ebol",
+        "gloss": "separation",
+        "definition": "separation",
+        "reference": "495b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) jinouoti ebol",
+        "copticWord": "ϫⲓⲛⲟⲩⲱϯ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jinouoti ebol",
+        "gloss": "separation",
+        "definition": "separation",
+        "reference": "495b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "chin-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(9) jinouoteb ebol",
+        "copticWord": "ϫⲓⲛⲟⲩⲱⲧⲉⲃ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jinouoteb ebol",
+        "gloss": "migration, death",
+        "definition": "migration, death",
+        "reference": "497a",
+        "partOfSpeech": "f",
+        "crossReference": {
+          "target": "chin-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(4) enoutah ebol",
+        "copticWord": "ⲉⲛⲟⲩⲧⲁϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "enoutah ebol",
+        "gloss": "bring forth fruit",
+        "definition": "bring forth fruit",
+        "reference": "498a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eine",
+          "gloss": "bringen, tragen, führen"
+        }
+      },
+      {
+        "headword": "(12) jinouoth ebol",
+        "copticWord": "ϫⲓⲛⲟⲩⲱⲧϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jinouoth ebol",
+        "gloss": "act of pouring",
+        "definition": "act of pouring",
+        "reference": "499a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "chin-",
+          "gloss": "Präfix"
+        }
+      },
+      {
+        "headword": "(2) atshol ebol",
+        "copticWord": "ⲁⲧϣⲱⲗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "atshol ebol",
+        "gloss": "indestructible (or similar)",
+        "definition": "indestructible (or similar)",
+        "reference": "557b-558a",
+        "partOfSpeech": "adj"
+      },
+      {
+        "headword": "(2) ebol ha-",
+        "copticWord": "ⲉⲃⲟⲗ ϩⲁ-",
+        "englishTransliteration": "ebol ha-",
+        "gloss": "away from",
+        "definition": "away from",
+        "reference": "633b-634a",
+        "partOfSpeech": "prep"
+      },
+      {
+        "headword": "(2) ebol hn-",
+        "copticWord": "ⲉⲃⲟⲗ ϩⲛ-",
+        "englishTransliteration": "ebol hn-",
+        "gloss": "from in, from",
+        "definition": "from in, from",
+        "reference": "684a",
+        "partOfSpeech": "prep"
+      },
+      {
+        "headword": "(14) ebol hijn-",
+        "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲛ-",
+        "englishTransliteration": "ebol hijn-",
+        "gloss": "from upon",
+        "definition": "from upon",
+        "reference": "759a",
+        "partOfSpeech": "prep"
+      },
+      {
+        "headword": "(5) jinjol ebol",
+        "copticWord": "ϫⲓⲛϫⲱⲗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jinjol ebol",
+        "gloss": "apostasy",
+        "definition": "apostasy",
+        "reference": "807b",
+        "partOfSpeech": "n"
+      }
+    ]
   },
   {
     "headword": "ywkc",

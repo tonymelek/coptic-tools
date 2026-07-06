@@ -512,22 +512,6 @@
     }
   },
   {
-    "headword": "c",
-    "copticWord": "ⲥ",
-    "englishTransliteration": "s",
-    "variants": [
-      {
-        "word": "im",
-        "copticWord": "ⲓⲙ",
-        "englishTransliteration": "im"
-      }
-    ],
-    "reference": "328b",
-    "partOfSpeech": "m",
-    "gloss": "Discolored or gray hair",
-    "definition": "Discolored or gray hair"
-  },
-  {
     "headword": "cau",
     "copticWord": "ⲥⲁⲩ",
     "englishTransliteration": "sav",

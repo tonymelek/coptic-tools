@@ -260,14 +260,6 @@
     "definition": "Burning heat, fever, heat"
   },
   {
-    "headword": "erkauma",
-    "copticWord": "ⲉⲣⲕⲁⲩⲙⲁ",
-    "englishTransliteration": "erkavma",
-    "partOfSpeech": "vb",
-    "gloss": "To burn, kindle",
-    "definition": "To burn, kindle"
-  },
-  {
     "headword": "kbwou",
     "copticWord": "ⲕⲃⲱⲟⲩ",
     "englishTransliteration": "kvōou",
@@ -382,17 +374,6 @@
     ]
   },
   {
-    "headword": "kas=",
-    "copticWord": "ⲕⲁϣ",
-    "englishTransliteration": "kash",
-    "gloss": "To break",
-    "definition": "To break",
-    "crossReference": {
-      "target": "kws",
-      "gloss": "To break"
-    }
-  },
-  {
     "headword": "kebi",
     "copticWord": "ⲕⲉⲃⲓ",
     "englishTransliteration": "kevi",
@@ -446,17 +427,6 @@
     "crossReference": {
       "target": "keh",
       "gloss": "Arm"
-    }
-  },
-  {
-    "headword": "kah=",
-    "copticWord": "ⲕⲁϩ",
-    "englishTransliteration": "kah",
-    "gloss": "To smooth",
-    "definition": "To smooth",
-    "crossReference": {
-      "target": "kwh",
-      "gloss": "To smooth"
     }
   },
   {

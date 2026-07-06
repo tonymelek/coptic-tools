@@ -1,21 +1,5 @@
 [
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To weep about",
-    "definition": "To weep about"
-  },
-  {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "partOfSpeech": "vb",
-    "gloss": "To weep about, for",
-    "definition": "To weep about, for"
-  },
-  {
     "headword": "epswi ha",
     "copticWord": "ⲉⲡϣⲱⲓ ϩⲁ",
     "englishTransliteration": "epshōi ha",
@@ -167,44 +151,12 @@
     "partOfSpeech": "m"
   },
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "partOfSpeech": "vb",
-    "gloss": "To weep about, for",
-    "definition": "To weep about, for"
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To weep after",
-    "definition": "---: m. Weeping;"
-  },
-  {
     "headword": "[irimi",
     "copticWord": "ϭⲓⲣⲓⲙⲓ",
     "englishTransliteration": "chirimi",
     "partOfSpeech": "vb",
     "gloss": "To weep",
     "definition": "To weep"
-  },
-  {
-    "headword": "erm/",
-    "copticWord": "ⲉⲣⲙⲏ",
-    "englishTransliteration": "ermi",
-    "variants": [
-      {
-        "type": "pl.",
-        "word": "ermwoui & sg as pl",
-        "copticWord": "ⲉⲣⲙⲱⲟⲩⲓ & ϣⲅ ⲁϣ ⲡⲗ",
-        "englishTransliteration": "ermōoui & shg ash pl"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Tear",
-    "definition": "Tear"
   },
   {
     "headword": "] erm/",
@@ -257,14 +209,6 @@
     ],
     "gloss": "Each year, annually",
     "definition": "Each year, annually"
-  },
-  {
-    "headword": "errompi",
-    "copticWord": "ⲉⲣⲣⲟⲙⲡⲓ",
-    "englishTransliteration": "errompi",
-    "partOfSpeech": "vb",
-    "gloss": "To reach year of age, send year",
-    "definition": "To reach year of age, send year"
   },
   {
     "headword": "romcin",
@@ -342,21 +286,6 @@
       "target": "ro",
       "gloss": "Mouth"
     }
-  },
-  {
-    "headword": "rw",
-    "copticWord": "ⲣⲱ",
-    "englishTransliteration": "rō",
-    "variants": [
-      {
-        "word": "ro",
-        "copticWord": "ⲣⲟ",
-        "englishTransliteration": "ro"
-      }
-    ],
-    "reference": "290a",
-    "gloss": "Enclitic part., emphatic or explicative",
-    "definition": "Enclitic part., emphatic or explicative"
   },
   {
     "headword": "a)",

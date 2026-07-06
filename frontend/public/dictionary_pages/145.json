@@ -141,21 +141,6 @@
     ]
   },
   {
-    "headword": "(2) swnt",
-    "copticWord": "ϣⲱⲛⲧ",
-    "englishTransliteration": "shōnt",
-    "variants": [
-      {
-        "word": "(Q) sont",
-        "copticWord": "(Ϧ) ϣⲟⲛⲧ",
-        "englishTransliteration": "(Kh) shont"
-      }
-    ],
-    "reference": "572b",
-    "gloss": "vi. To quarrel",
-    "definition": "vi. To quarrel"
-  },
-  {
     "headword": "ma nswnt",
     "copticWord": "ⲙⲁ ⲛϣⲱⲛⲧ",
     "englishTransliteration": "ma nshōnt",
@@ -192,13 +177,6 @@
     "reference": "550b",
     "gloss": "vi. To shave, clip",
     "definition": "vi. To shave, clip"
-  },
-  {
-    "headword": "sebjw",
-    "copticWord": "ϣⲉⲃϫⲱ",
-    "englishTransliteration": "shevjō",
-    "gloss": "vi. To shave head",
-    "definition": "vi. To shave head"
   },
   {
     "headword": "(2) (Q) s/p",
@@ -246,21 +224,6 @@
         "definition": "Receiver; --: m. Acceptance; atswp, atsop=: adj. Uncontain-able, limitless; refswp: m. Receiver; jinswp: m. Receiving, accepting; sopc: f. Reception, entertaintment."
       }
     ]
-  },
-  {
-    "headword": "(2) swpi",
-    "copticWord": "ϣⲱⲡⲓ",
-    "englishTransliteration": "shōpi",
-    "variants": [
-      {
-        "word": "sop",
-        "copticWord": "ϣⲟⲡ",
-        "englishTransliteration": "shop"
-      }
-    ],
-    "reference": "580b",
-    "gloss": "mf Cucumber, gourd",
-    "definition": "mf Cucumber, gourd"
   },
   {
     "headword": "swpt",
@@ -333,25 +296,6 @@
         "definition": "er sorp, oi nsorp: vb. To be before, first; hasten."
       }
     ]
-  },
-  {
-    "headword": "(3) swp",
-    "copticWord": "ϣⲱⲡ",
-    "englishTransliteration": "shōp",
-    "variants": [
-      {
-        "word": "spe",
-        "copticWord": "ϣⲡⲉ",
-        "englishTransliteration": "shpe"
-      },
-      {
-        "word": "nswp",
-        "copticWord": "ⲛϣⲱⲡ",
-        "englishTransliteration": "nshōp"
-      }
-    ],
-    "reference": "576b",
-    "partOfSpeech": "n"
   },
   {
     "headword": "swrt",

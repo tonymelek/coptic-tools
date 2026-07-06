@@ -1,19 +1,5 @@
 [
   {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "gloss": "vt. To respond to",
-    "definition": "vt. To respond to"
-  },
-  {
-    "headword": "nahren",
-    "copticWord": "ⲛⲁϩⲣⲉⲛ",
-    "englishTransliteration": "nahren",
-    "gloss": "vt. To respond in the presence of",
-    "definition": "vt. To respond in the presence of"
-  },
-  {
     "headword": "metatouw] ebol",
     "copticWord": "ⲙⲉⲧⲁⲧⲟⲩⲱϯ ⲉⲃⲟⲗ",
     "englishTransliteration": "metatouōti evol",
@@ -27,56 +13,6 @@
     "englishTransliteration": "ouve",
     "gloss": "vt. To contradict, object",
     "definition": "vt. To contradict, object"
-  },
-  {
-    "headword": "ouot",
-    "copticWord": "ⲟⲩⲟⲧ",
-    "englishTransliteration": "ouot",
-    "gloss": "impers. vb. It is different",
-    "definition": "impers. vb. It is different"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "gloss": "vt. To interpret",
-    "definition": "vt. To interpret",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Answer, objection, interpretation",
-        "definition": "Answer, objection, interpretation"
-      },
-      {
-        "label": "nouwhem",
-        "partOfSpeech": "adv",
-        "gloss": "Again",
-        "definition": "Again"
-      },
-      {
-        "label": "atbwhem",
-        "partOfSpeech": "adj",
-        "gloss": "Without reponse jinouwhem: m. Opposition",
-        "definition": "Without reponse jinouwhem: m. Opposition"
-      },
-      {
-        "label": "ouwhn",
-        "gloss": "To cover. ouwj, bwj, ouej-, ouoj=: (511a)",
-        "definition": "vt. To cut, cut off."
-      },
-      {
-        "label": "ouwjp",
-        "reference": "513a",
-        "gloss": "vi. To break, be broken",
-        "definition": "---: m. Breakage, collapse."
-      },
-      {
-        "label": "ouw]",
-        "reference": "495a",
-        "gloss": "vi. To send",
-        "definition": "vi. To send"
-      }
-    ]
   },
   {
     "headword": "ousap",
@@ -162,19 +98,5 @@
         "definition": "--: m Health, safety, weal --: adj. Health-giving, healthy metatoujai: f Unsoundness."
       }
     ]
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "Q. Different from, surpassing",
-    "definition": "--- ehote: Q. Different from, surpassing;"
-  },
-  {
-    "headword": "oute",
-    "copticWord": "ⲟⲩⲧⲉ",
-    "englishTransliteration": "oute",
-    "gloss": "vi. To separate between",
-    "definition": "--- ebol: vi. To separate out, send forth;"
   }
 ]

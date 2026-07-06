@@ -91,14 +91,6 @@
     "definition": "Clothing"
   },
   {
-    "headword": "hebcw",
-    "copticWord": "ϩⲉⲃⲥⲱ",
-    "englishTransliteration": "hevsō",
-    "partOfSpeech": "f",
-    "gloss": "Garment",
-    "definition": "Garment"
-  },
-  {
     "headword": "hwimi",
     "copticWord": "ϩⲱⲓⲙⲓ",
     "englishTransliteration": "hōimi",
@@ -137,15 +129,6 @@
     "partOfSpeech": "vb",
     "gloss": "To throw up waves",
     "definition": "To throw up waves"
-  },
-  {
-    "headword": "(2) hwn",
-    "copticWord": "ϩⲱⲛ",
-    "englishTransliteration": "hōn",
-    "reference": "688a",
-    "partOfSpeech": "n",
-    "gloss": "from vb. go aground in shallows",
-    "definition": "from vb. go aground in shallows"
   },
   {
     "headword": "hwiri",
@@ -265,14 +248,6 @@
     "definition": "Scraper"
   },
   {
-    "headword": "qwk",
-    "copticWord": "ϧⲱⲕ",
-    "englishTransliteration": "khōk",
-    "partOfSpeech": "m",
-    "gloss": "Fleece",
-    "definition": "Fleece"
-  },
-  {
     "headword": "(1) hwl",
     "copticWord": "ϩⲱⲗ",
     "englishTransliteration": "hōl",
@@ -299,19 +274,6 @@
         "definition": "halwouli: m. Flight of bird."
       }
     ]
-  },
-  {
-    "headword": "(2) hwp",
-    "copticWord": "ϩⲱⲡ",
-    "englishTransliteration": "hōp",
-    "variants": [
-      {
-        "word": "hwb",
-        "copticWord": "ϩⲱⲃ",
-        "englishTransliteration": "hōv"
-      }
-    ],
-    "reference": "696a"
   },
   {
     "headword": "n. Horn. hwpc v. hwbc - To cover. hwr",
@@ -343,54 +305,6 @@
     "reference": "703a",
     "gloss": "vi. To sleep, doze",
     "definition": "vi. To sleep, doze"
-  },
-  {
-    "headword": "(2) hwrp",
-    "copticWord": "ϩⲱⲣⲡ",
-    "englishTransliteration": "hōrp",
-    "variants": [
-      {
-        "word": "horp=",
-        "copticWord": "ϩⲟⲣⲡ",
-        "englishTransliteration": "horp"
-      },
-      {
-        "word": "(Q) horp",
-        "copticWord": "(Ϧ) ϩⲟⲣⲡ",
-        "englishTransliteration": "(Kh) horp"
-      }
-    ],
-    "reference": "703b",
-    "gloss": "vi. to be wet, drenched",
-    "definition": "vt. To wet drench;",
-    "senses": [
-      {
-        "label": "n",
-        "gloss": "vi. To be drenched with, in",
-        "definition": "vt. To drench with."
-      }
-    ]
-  },
-  {
-    "headword": "(2) hwl",
-    "copticWord": "ϩⲱⲗ",
-    "englishTransliteration": "hōl",
-    "variants": [
-      {
-        "word": "qwl",
-        "copticWord": "ϧⲱⲗ",
-        "englishTransliteration": "khōl"
-      }
-    ],
-    "reference": "666b",
-    "senses": [
-      {
-        "label": "To seize",
-        "partOfSpeech": "m",
-        "gloss": "Rapine, spoil.",
-        "definition": "refhwlem: m. Seizer, ravener, thief."
-      }
-    ]
   },
   {
     "headword": "vi. To be hoarse. hwlem",

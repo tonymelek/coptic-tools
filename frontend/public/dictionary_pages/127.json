@@ -1,20 +1,5 @@
 [
   {
-    "headword": "kbwou",
-    "copticWord": "ⲕⲃⲱⲟⲩ",
-    "englishTransliteration": "kvōou",
-    "partOfSpeech": "n",
-    "gloss": "coolness",
-    "definition": "coolness"
-  },
-  {
-    "headword": "tkbo",
-    "copticWord": "ⲧⲕⲃⲟ",
-    "englishTransliteration": "tkvo",
-    "gloss": "vt. To make cool",
-    "definition": "vt. To make cool"
-  },
-  {
     "headword": ",a",
     "copticWord": "ⲭⲁ",
     "englishTransliteration": "kha",
@@ -37,17 +22,6 @@
     }
   },
   {
-    "headword": ",a=",
-    "copticWord": "ⲭⲁ",
-    "englishTransliteration": "kha",
-    "gloss": "To put",
-    "definition": "To put",
-    "crossReference": {
-      "target": ",w",
-      "gloss": "To put"
-    }
-  },
-  {
     "headword": "elmi",
     "copticWord": "ⲉⲗⲙⲓ",
     "englishTransliteration": "elmi",
@@ -66,26 +40,6 @@
       "target": "y/ou",
       "gloss": "Window"
     }
-  },
-  {
-    "headword": "el",
-    "copticWord": "ⲉⲗ",
-    "englishTransliteration": "el",
-    "variants": [
-      {
-        "word": "a",
-        "copticWord": "ⲁ",
-        "englishTransliteration": "a"
-      },
-      {
-        "word": "wf",
-        "copticWord": "ⲱϥ",
-        "englishTransliteration": "ōf"
-      }
-    ],
-    "reference": "516b",
-    "gloss": "pl. abscess, tumor",
-    "definition": "pl. abscess, tumor"
   },
   {
     "headword": "ak",
@@ -170,26 +124,6 @@
     }
   },
   {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "aki",
-        "copticWord": "ⲁⲕⲓ",
-        "englishTransliteration": "aki"
-      }
-    ],
-    "gloss": "vb To be, become dark. ,akkamau, kakkamau: (516b)",
-    "definition": "vb To be, become dark. ,akkamau, kakkamau: (516b)",
-    "senses": [
-      {
-        "gloss": "Small night owl",
-        "definition": "Small night owl"
-      }
-    ]
-  },
-  {
     "headword": "f",
     "copticWord": "ϥ",
     "englishTransliteration": "f",
@@ -214,27 +148,6 @@
     "partOfSpeech": "f",
     "gloss": "Share plough",
     "definition": "Share plough"
-  },
-  {
-    "headword": "ere",
-    "copticWord": "ⲉⲣⲉ",
-    "englishTransliteration": "ere",
-    "variants": [
-      {
-        "word": "pl",
-        "copticWord": "ⲡⲗ",
-        "englishTransliteration": "pl"
-      },
-      {
-        "word": "erete",
-        "copticWord": "ⲉⲣⲉⲧⲉ",
-        "englishTransliteration": "erete"
-      }
-    ],
-    "reference": "Gk",
-    "isGreek": true,
-    "gloss": "greeting",
-    "definition": "greeting"
   },
   {
     "headword": ",ereb",
@@ -332,26 +245,6 @@
       "target": "qrwou",
       "gloss": "Thunder"
     }
-  },
-  {
-    "headword": "et",
-    "copticWord": "ⲉⲧ",
-    "englishTransliteration": "et",
-    "variants": [
-      {
-        "word": "f",
-        "copticWord": "ϥ",
-        "englishTransliteration": "f"
-      },
-      {
-        "word": "e]",
-        "copticWord": "ⲉϯ",
-        "englishTransliteration": "eti"
-      }
-    ],
-    "reference": "92a",
-    "gloss": "m another",
-    "definition": "m another"
   },
   {
     "headword": "apso",
@@ -488,15 +381,6 @@
     ]
   },
   {
-    "headword": "/pi",
-    "copticWord": "ⲏⲡⲓ",
-    "englishTransliteration": "ipi",
-    "reference": "114a",
-    "partOfSpeech": "f",
-    "gloss": "Vaulted place, cellar, canopy",
-    "definition": "Vaulted place, cellar, canopy"
-  },
-  {
     "headword": "/ra",
     "copticWord": "ⲏⲣⲁ",
     "englishTransliteration": "ira",
@@ -538,15 +422,6 @@
     "partOfSpeech": "n",
     "gloss": "Compulsion, forced labor",
     "definition": "Compulsion, forced labor"
-  },
-  {
-    "headword": "ift",
-    "copticWord": "ⲓϥⲧ",
-    "englishTransliteration": "ift",
-    "reference": "517b",
-    "partOfSpeech": "m",
-    "gloss": "Plant Pulicaria",
-    "definition": "Plant Pulicaria"
   },
   {
     "headword": "lal",
@@ -623,7 +498,210 @@
     "reference": "102b",
     "partOfSpeech": "m",
     "gloss": "Vegetable",
-    "definition": "poison used for arrows."
+    "definition": "poison used for arrows.",
+    "variants": [
+      {
+        "headword": "(2) lo (e-)",
+        "copticWord": "ⲗⲟ (ⲉ-)",
+        "englishTransliteration": "lo (e-)",
+        "gloss": "cease from, leave",
+        "definition": "cease from, leave",
+        "reference": "135b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (e-)",
+            "copticWord": "ⲗⲁ (ⲉ-)",
+            "englishTransliteration": "la (e-)"
+          }
+        ]
+      },
+      {
+        "headword": "(3) lo (n-)",
+        "copticWord": "ⲗⲟ (ⲛ-)",
+        "englishTransliteration": "lo (n-)",
+        "gloss": "cease, recede from",
+        "definition": "cease, recede from",
+        "reference": "135b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (n-)",
+            "copticWord": "ⲗⲁ (ⲛ-)",
+            "englishTransliteration": "la (n-)"
+          }
+        ]
+      },
+      {
+        "headword": "(4) lo (oube-)",
+        "copticWord": "ⲗⲟ (ⲟⲩⲃⲉ-)",
+        "englishTransliteration": "lo (oube-)",
+        "gloss": "cease from opposing",
+        "definition": "cease from opposing",
+        "reference": "135b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (oube-)",
+            "copticWord": "ⲗⲁ (ⲟⲩⲃⲉ-)",
+            "englishTransliteration": "la (oube-)"
+          }
+        ]
+      },
+      {
+        "headword": "(5) lo (oute-)",
+        "copticWord": "ⲗⲟ (ⲟⲩⲧⲉ-)",
+        "englishTransliteration": "lo (oute-)",
+        "gloss": "cease from among",
+        "definition": "cease from among",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (oute-)",
+            "copticWord": "ⲗⲁ (ⲟⲩⲧⲉ-)",
+            "englishTransliteration": "la (oute-)"
+          }
+        ]
+      },
+      {
+        "headword": "(6) lo (ha-)",
+        "copticWord": "ⲗⲟ (ϩⲁ-)",
+        "englishTransliteration": "lo (ha-)",
+        "gloss": "cease from, leave, allow",
+        "definition": "cease from, leave, allow",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (ha-)",
+            "copticWord": "ⲗⲁ (ϩⲁ-)",
+            "englishTransliteration": "la (ha-)"
+          }
+        ]
+      },
+      {
+        "headword": "(7) lo (habol-)",
+        "copticWord": "ⲗⲟ (ϩⲁⲃⲟⲗ-)",
+        "englishTransliteration": "lo (habol-)",
+        "gloss": "depart from",
+        "definition": "depart from",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (habol-)",
+            "copticWord": "ⲗⲁ (ϩⲁⲃⲟⲗ-)",
+            "englishTransliteration": "la (habol-)"
+          }
+        ]
+      },
+      {
+        "headword": "(8) lo (hi-)",
+        "copticWord": "ⲗⲟ (ϩⲓ-)",
+        "englishTransliteration": "lo (hi-)",
+        "gloss": "cease, depart from",
+        "definition": "cease, depart from",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (hi-)",
+            "copticWord": "ⲗⲁ (ϩⲓ-)",
+            "englishTransliteration": "la (hi-)"
+          }
+        ]
+      },
+      {
+        "headword": "(9) lo (hn-)",
+        "copticWord": "ⲗⲟ (ϩⲛ-)",
+        "englishTransliteration": "lo (hn-)",
+        "gloss": "cease form, quit",
+        "definition": "cease form, quit",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (hn-)",
+            "copticWord": "ⲗⲁ (ϩⲛ-)",
+            "englishTransliteration": "la (hn-)"
+          }
+        ]
+      },
+      {
+        "headword": "(10) lo (hirn-)",
+        "copticWord": "ⲗⲟ (ϩⲓⲣⲛ-)",
+        "englishTransliteration": "lo (hirn-)",
+        "gloss": "depart form above, upon",
+        "definition": "depart form above, upon",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (hirn-)",
+            "copticWord": "ⲗⲁ (ϩⲓⲣⲛ-)",
+            "englishTransliteration": "la (hirn-)"
+          }
+        ]
+      },
+      {
+        "headword": "(11) lo (hijn-)",
+        "copticWord": "ⲗⲟ (ϩⲓϫⲛ-)",
+        "englishTransliteration": "lo (hijn-)",
+        "gloss": "cease from",
+        "definition": "cease from",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (hijn-)",
+            "copticWord": "ⲗⲁ (ϩⲓϫⲛ-)",
+            "englishTransliteration": "la (hijn-)"
+          }
+        ]
+      },
+      {
+        "headword": "(12) lo (abal)",
+        "copticWord": "ⲗⲟ (ⲁⲃⲁⲗ)",
+        "englishTransliteration": "lo (abal)",
+        "gloss": "cease (from sickness), be healed",
+        "definition": "cease (from sickness), be healed",
+        "reference": "136a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) lo (mmau)",
+        "copticWord": "ⲗⲟ (ⲙⲙⲁⲩ)",
+        "englishTransliteration": "lo (mmau)",
+        "gloss": "cease thence, cease",
+        "definition": "cease thence, cease",
+        "reference": "136a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (mmau)",
+            "copticWord": "ⲗⲁ (ⲙⲙⲁⲩ)",
+            "englishTransliteration": "la (mmau)"
+          }
+        ]
+      },
+      {
+        "headword": "(14) lo (nbol)",
+        "copticWord": "ⲗⲟ (ⲛⲃⲟⲗ)",
+        "englishTransliteration": "lo (nbol)",
+        "gloss": "cease",
+        "definition": "cease",
+        "reference": "136b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "la (nbol)",
+            "copticWord": "ⲗⲁ (ⲛⲃⲟⲗ)",
+            "englishTransliteration": "la (nbol)"
+          }
+        ]
+      }
+    ]
   },
   {
     "headword": ",lol",

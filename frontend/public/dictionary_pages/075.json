@@ -101,39 +101,6 @@
     "definition": "Act of smiling"
   },
   {
-    "headword": "(2) nouj",
-    "copticWord": "ⲛⲟⲩϫ",
-    "englishTransliteration": "nouj",
-    "variants": [
-      {
-        "word": "nej",
-        "copticWord": "ⲛⲉϫ",
-        "englishTransliteration": "nej"
-      },
-      {
-        "word": "noj=",
-        "copticWord": "ⲛⲟϫ",
-        "englishTransliteration": "noj"
-      },
-      {
-        "word": "(Q) n/j",
-        "copticWord": "(Ϧ) ⲛⲏϫ",
-        "englishTransliteration": "(Kh) nij"
-      }
-    ],
-    "reference": "247a",
-    "gloss": "vt. To throw, cast",
-    "definition": "--- nca-: vb. To throw after, cast upon;",
-    "senses": [
-      {
-        "label": "ebol",
-        "partOfSpeech": "vb",
-        "gloss": "To cast forth, discard",
-        "definition": "nouj v. nis] - Great."
-      }
-    ]
-  },
-  {
     "headword": "nousp",
     "copticWord": "ⲛⲟⲩϣⲡ",
     "englishTransliteration": "noushp",
@@ -251,6 +218,32 @@
         "word": "(Q) neh",
         "copticWord": "(Ϧ) ⲛⲉϩ",
         "englishTransliteration": "(Kh) neh"
+      },
+      {
+        "headword": "(2) nouh nshieiohe",
+        "copticWord": "ⲛⲟⲩϩ ⲛϣⲓⲉⲓⲱϩⲉ",
+        "englishTransliteration": "nouh nshieiohe",
+        "gloss": "rope for measuring (land)",
+        "definition": "rope for measuring (land)",
+        "reference": "241b",
+        "partOfSpeech": "m",
+        "isGreek": true,
+        "crossReference": {
+          "target": "shi",
+          "gloss": "messen"
+        }
+      },
+      {
+        "headword": "(2) nouh ntouo",
+        "copticWord": "ⲛⲟⲩϩ ⲛⲧⲟⲩⲱ⸗",
+        "englishTransliteration": "nouh ntouo",
+        "gloss": "sit (to eat)",
+        "definition": "sit (to eat)",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "nouh",
+          "gloss": "turn, return"
+        }
       }
     ],
     "reference": "241b",
@@ -342,14 +335,6 @@
     "definition": "Godliness, piety"
   },
   {
-    "headword": "macnou]",
-    "copticWord": "ⲙⲁⲥⲛⲟⲩϯ",
-    "englishTransliteration": "masnouti",
-    "partOfSpeech": "f",
-    "gloss": "God-bearing, mother of God (Virgin Mary)",
-    "definition": "God-bearing, mother of God (Virgin Mary)"
-  },
-  {
     "headword": "refmecnou]",
     "copticWord": "ⲣⲉϥⲙⲉⲥⲛⲟⲩϯ",
     "englishTransliteration": "refmesnouti",
@@ -364,14 +349,6 @@
     "partOfSpeech": "n",
     "gloss": "god-hater",
     "definition": "god-hater"
-  },
-  {
-    "headword": "ernou]",
-    "copticWord": "ⲉⲣⲛⲟⲩϯ",
-    "englishTransliteration": "ernouti",
-    "partOfSpeech": "vb",
-    "gloss": "To be god",
-    "definition": "To be god"
   },
   {
     "headword": "samsenou]",

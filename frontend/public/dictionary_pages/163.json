@@ -150,15 +150,6 @@
     "definition": "Branch"
   },
   {
-    "headword": "(2)jaf",
-    "copticWord": "ϫⲁϥ",
-    "englishTransliteration": "gaf",
-    "reference": "795b",
-    "partOfSpeech": "n",
-    "gloss": "A disease. jaf- p.c. v. jwf - Burner. jafi- p.c. v. j/f - To be of kin",
-    "definition": "A disease. jaf- p.c. v. jwf - Burner. jafi- p.c. v. j/f - To be of kin"
-  },
-  {
     "headword": "jafjif",
     "copticWord": "ϫⲁϥϫⲓϥ",
     "englishTransliteration": "gafjif",
@@ -228,7 +219,18 @@
     "crossReference": {
       "target": "(1)jwj",
       "gloss": "Head"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(2) jaj nlil",
+        "copticWord": "ϫⲁϫ ⲛⲗⲓⲗ",
+        "englishTransliteration": "jaj nlil",
+        "gloss": "a bird",
+        "definition": "a bird",
+        "reference": "798b",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "jamauli",
@@ -309,21 +311,6 @@
     "partOfSpeech": "f",
     "gloss": "Hoe",
     "definition": "Hoe"
-  },
-  {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "oi njaji",
-        "copticWord": "ⲟⲓ ⲛϫⲁϫⲓ",
-        "englishTransliteration": "oi ngaji"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be at enmity. jajiywl: (844a)",
-    "definition": "To be at enmity. jajiywl: (844a)"
   },
   {
     "headword": "mf. Coarse linen",
@@ -450,14 +437,5 @@
     "partOfSpeech": "n",
     "gloss": "bent, maimed person",
     "definition": "bent, maimed person"
-  },
-  {
-    "headword": "(1)je",
-    "copticWord": "ϫⲉ",
-    "englishTransliteration": "je",
-    "reference": "746b",
-    "partOfSpeech": "m",
-    "gloss": "Spathe of date-palm",
-    "definition": "Spathe of date-palm"
   }
 ]

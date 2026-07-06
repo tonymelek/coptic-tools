@@ -1,12 +1,5 @@
 [
   {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "gloss": "vi. To change from",
-    "definition": "---: m. Change;"
-  },
-  {
     "headword": "metsvi/]",
     "copticWord": "ⲙⲉⲧϣⲫⲓⲏϯ",
     "englishTransliteration": "metshfiiti",
@@ -77,17 +70,6 @@
     "definition": "Changeableness, difference"
   },
   {
-    "headword": "si/",
-    "copticWord": "ϣⲓⲏ",
-    "englishTransliteration": "shii",
-    "gloss": "Length",
-    "definition": "Length",
-    "crossReference": {
-      "target": "siai",
-      "gloss": "Length"
-    }
-  },
-  {
     "headword": "(1) sitc",
     "copticWord": "ϣⲓⲧⲥ",
     "englishTransliteration": "shits",
@@ -95,22 +77,6 @@
     "partOfSpeech": "m",
     "gloss": "Agnus castus (plant)",
     "definition": "Agnus castus (plant)"
-  },
-  {
-    "headword": "(2) sitc",
-    "copticWord": "ϣⲓⲧⲥ",
-    "englishTransliteration": "shits",
-    "variants": [
-      {
-        "word": "[itc",
-        "note": "often",
-        "copticWord": "ϭⲓⲧⲥ",
-        "englishTransliteration": "chits"
-      }
-    ],
-    "reference": "598b",
-    "gloss": "pl. Land tortoise",
-    "definition": "pl. Land tortoise"
   },
   {
     "headword": "sik",
@@ -222,82 +188,6 @@
     "definition": "vi. To seek,"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To visit",
-    "definition": "vi. To visit"
-  },
-  {
-    "headword": "eybe",
-    "copticWord": "ⲉⲑⲃⲉ",
-    "englishTransliteration": "ethve",
-    "gloss": "vi. To ask concerning",
-    "definition": "vi. To ask concerning"
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "gloss": "vi. To inquire for, seek after",
-    "definition": "vi. To inquire for, seek after"
-  },
-  {
-    "headword": "nten",
-    "copticWord": "ⲛⲧⲉⲛ",
-    "englishTransliteration": "nten",
-    "gloss": "vi. To ask of, from",
-    "definition": "vi. To ask of, from"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "gloss": "vi. To seek in, among",
-    "definition": "vi. To seek in, among",
-    "senses": [
-      {
-        "label": "sen",
-        "partOfSpeech": "m",
-        "gloss": "Inquiry",
-        "definition": "Inquiry"
-      }
-    ]
-  },
-  {
-    "headword": "(2) si]",
-    "copticWord": "ϣⲓϯ",
-    "englishTransliteration": "shiti",
-    "variants": [
-      {
-        "word": "sat",
-        "copticWord": "ϣⲁⲧ",
-        "englishTransliteration": "shat"
-      },
-      {
-        "word": "sat=",
-        "copticWord": "ϣⲁⲧ",
-        "englishTransliteration": "shat"
-      },
-      {
-        "word": "(Q) sat",
-        "copticWord": "(Ϧ) ϣⲁⲧ",
-        "englishTransliteration": "(Kh) shat"
-      }
-    ],
-    "reference": "594b",
-    "gloss": "vi. To leap, gush, vomit",
-    "definition": "---: m. Vomit."
-  },
-  {
-    "headword": "sennoufi",
-    "copticWord": "ϣⲉⲛⲛⲟⲩϥⲓ",
-    "englishTransliteration": "shennoufi",
-    "partOfSpeech": "m",
-    "gloss": "Good news",
-    "definition": "Good news"
-  },
-  {
     "headword": "hisennoufi",
     "copticWord": "ϩⲓϣⲉⲛⲛⲟⲩϥⲓ",
     "englishTransliteration": "hishennoufi",
@@ -321,13 +211,6 @@
     "partOfSpeech": "m",
     "gloss": "Cry, shout",
     "definition": "Cry, shout"
-  },
-  {
-    "headword": "[i",
-    "copticWord": "ϭⲓ",
-    "englishTransliteration": "chi",
-    "gloss": "mpsini: vb. To get, bring news",
-    "definition": "visit;"
   },
   {
     "headword": "skap",

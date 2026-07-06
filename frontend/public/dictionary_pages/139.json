@@ -195,44 +195,6 @@
     }
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To be estranged from. semmwou v. semmo - Strangers. semsi, semse-, sems/t=, p.c",
-    "definition": "To be estranged from. semmwou v. semmo - Strangers. semsi, semse-, sems/t=, p.c",
-    "senses": [
-      {
-        "label": "samse",
-        "reference": "567a",
-        "gloss": "vi. To serve, worship",
-        "definition": "p.c. worshipper;"
-      },
-      {
-        "partOfSpeech": "m",
-        "gloss": "Service, worship",
-        "definition": "Service, worship"
-      },
-      {
-        "label": "ersemsi",
-        "gloss": "vi. To do service",
-        "definition": "vi. To do service"
-      },
-      {
-        "label": "refsemsi",
-        "partOfSpeech": "m",
-        "gloss": "worshipper, server",
-        "definition": "metrefsemsi: f. Service;"
-      },
-      {
-        "label": "jinsemsi",
-        "partOfSpeech": "m",
-        "gloss": "Service, religion",
-        "definition": "Service, religion"
-      }
-    ]
-  },
-  {
     "headword": "semse",
     "copticWord": "ϣⲉⲙϣⲉ",
     "englishTransliteration": "shemshe",
@@ -283,17 +245,6 @@
     }
   },
   {
-    "headword": "set=",
-    "copticWord": "ϣⲉⲧ",
-    "englishTransliteration": "shet",
-    "gloss": "To demand",
-    "definition": "To demand",
-    "crossReference": {
-      "target": "(1)si]",
-      "gloss": "To demand"
-    }
-  },
-  {
     "headword": "setswt=",
     "copticWord": "ϣⲉⲧϣⲱⲧ",
     "englishTransliteration": "shetshōt",
@@ -313,28 +264,6 @@
     "crossReference": {
       "target": "sotset",
       "gloss": "To be cut"
-    }
-  },
-  {
-    "headword": "ses",
-    "copticWord": "ϣⲉϣ",
-    "englishTransliteration": "shesh",
-    "gloss": "To despise",
-    "definition": "To despise",
-    "crossReference": {
-      "target": "(1)sws",
-      "gloss": "To despise"
-    }
-  },
-  {
-    "headword": "sesnoh",
-    "copticWord": "ϣⲉϣⲛⲟϩ",
-    "englishTransliteration": "sheshnoh",
-    "gloss": "Twist rope",
-    "definition": "Twist rope",
-    "crossReference": {
-      "target": "(2)noh",
-      "gloss": "Twist rope"
     }
   },
   {

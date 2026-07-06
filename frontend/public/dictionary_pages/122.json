@@ -309,21 +309,6 @@
     "definition": "Trap, snare"
   },
   {
-    "headword": "ref",
-    "copticWord": "ⲣⲉϥ",
-    "englishTransliteration": "ref",
-    "variants": [
-      {
-        "word": "avas",
-        "copticWord": "ⲁⲫⲁϣ",
-        "englishTransliteration": "afash"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "Trap setter",
-    "definition": "Trap setter"
-  },
-  {
     "headword": "ver",
     "copticWord": "ⲫⲉⲣ",
     "englishTransliteration": "fer",
@@ -332,17 +317,6 @@
     "crossReference": {
       "target": "viri",
       "gloss": "To come forth"
-    }
-  },
-  {
-    "headword": "vas=",
-    "copticWord": "ⲫⲁϣ",
-    "englishTransliteration": "fash",
-    "gloss": "To divide",
-    "definition": "To divide",
-    "crossReference": {
-      "target": "vws",
-      "gloss": "To divide"
     }
   },
   {
@@ -434,17 +408,6 @@
     }
   },
   {
-    "headword": "vaq=",
-    "copticWord": "ⲫⲁϧ",
-    "englishTransliteration": "fakh",
-    "gloss": "To tear",
-    "definition": "To tear",
-    "crossReference": {
-      "target": "vwq",
-      "gloss": "To tear"
-    }
-  },
-  {
     "headword": "vaqer(Q)",
     "copticWord": "ⲫⲁϧⲉⲣ(Ϧ)",
     "englishTransliteration": "fakher(Kh)",
@@ -490,17 +453,6 @@
   },
   {
     "headword": "vaqt",
-    "copticWord": "ⲫⲁϧⲧ",
-    "englishTransliteration": "fakht",
-    "gloss": "To bend",
-    "definition": "To bend",
-    "crossReference": {
-      "target": "vwqt",
-      "gloss": "To bend"
-    }
-  },
-  {
-    "headword": "vaqt=",
     "copticWord": "ⲫⲁϧⲧ",
     "englishTransliteration": "fakht",
     "gloss": "To bend",

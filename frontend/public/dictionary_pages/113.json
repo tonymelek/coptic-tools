@@ -8,44 +8,6 @@
     "definition": "vi. To meet, befall"
   },
   {
-    "headword": "(2) twmt",
-    "copticWord": "ⲧⲱⲙⲧ",
-    "englishTransliteration": "tōmt",
-    "variants": [
-      {
-        "word": "tomt",
-        "note": "Q",
-        "copticWord": "ⲧⲟⲙⲧ",
-        "englishTransliteration": "tomt"
-      }
-    ],
-    "reference": "416b",
-    "gloss": "vi. To be amazed, stupefied",
-    "definition": "vi. To be amazed, stupefied",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Amazement, stupefaction",
-        "definition": "Amazement, stupefaction"
-      }
-    ]
-  },
-  {
-    "headword": "ebol hiten",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ",
-    "englishTransliteration": "evol hiten",
-    "gloss": "same as hiten. twrp: (430b)",
-    "definition": "vi. To seize, rob;",
-    "senses": [
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "To carry off to",
-        "definition": "---: m. Plunder."
-      }
-    ]
-  },
-  {
     "headword": "twn",
     "copticWord": "ⲧⲱⲛ",
     "englishTransliteration": "tōn",
@@ -53,17 +15,6 @@
     "partOfSpeech": "m",
     "gloss": "Dispute, strife",
     "definition": "Dispute, strife"
-  },
-  {
-    "headword": "twn=",
-    "copticWord": "ⲧⲱⲛ",
-    "englishTransliteration": "tōn",
-    "gloss": "To rise",
-    "definition": "To rise",
-    "crossReference": {
-      "target": "twoun",
-      "gloss": "To rise"
-    }
   },
   {
     "headword": "twou",
@@ -138,99 +89,18 @@
         "word": "twn=",
         "copticWord": "ⲧⲱⲛ",
         "englishTransliteration": "tōn"
+      },
+      {
+        "headword": "(3) tooun (ha-)",
+        "copticWord": "ⲧⲱⲟⲩⲛ (ϩⲁ-)",
+        "englishTransliteration": "tooun (ha-)",
+        "gloss": "rise from",
+        "definition": "rise from",
+        "reference": "445b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "445a"
-  },
-  {
-    "headword": "vi",
-    "copticWord": "ⲫⲓ",
-    "englishTransliteration": "fi",
-    "gloss": "To arise fro",
-    "definition": "vt. to raise, carry;",
-    "senses": [
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "To rise to",
-        "definition": "To rise to"
-      },
-      {
-        "label": "ejen",
-        "partOfSpeech": "vb",
-        "gloss": "To rise upon, against",
-        "definition": "To rise upon, against"
-      },
-      {
-        "label": "n",
-        "partOfSpeech": "vb",
-        "gloss": "To rise from",
-        "definition": "To rise from"
-      },
-      {
-        "label": "qa",
-        "partOfSpeech": "vb",
-        "gloss": "To rise from beneath, from",
-        "definition": "To rise from beneath, from"
-      },
-      {
-        "label": "qen",
-        "partOfSpeech": "vb",
-        "gloss": "To rise from",
-        "definition": "To rise from"
-      },
-      {
-        "label": "hijen",
-        "partOfSpeech": "vb",
-        "gloss": "To rise upon",
-        "definition": "To rise upon"
-      },
-      {
-        "label": "ebol",
-        "partOfSpeech": "vb",
-        "gloss": "Arise",
-        "definition": "Arise"
-      },
-      {
-        "label": "epswi",
-        "partOfSpeech": "vb",
-        "gloss": "To raise up",
-        "definition": "To raise up"
-      },
-      {
-        "label": "ehr/i",
-        "partOfSpeech": "vb",
-        "gloss": "To rise up",
-        "definition": "--: m. Rising, resurrection, what has arisen; twnf: n. Resurrection; reftwnf: m. One who raises, incites; jintwnf: m. Rising, resurrection. twounou v. twoun - To arise. twji toj=: (464a); vi. To be fixed, joined; plant;"
-      },
-      {
-        "label": "ebol",
-        "gloss": "vi. To fix outwardly, set forth, publish",
-        "definition": "vi. To fix outwardly, set forth, publish"
-      },
-      {
-        "label": "tsmo",
-        "reference": "453a",
-        "gloss": "vt. To make small",
-        "definition": "vt. To make small"
-      },
-      {
-        "label": "tsmo",
-        "gloss": "To make small. tsouie v. tsouio - To make dry",
-        "definition": "To make small. tsouie v. tsouio - To make dry"
-      },
-      {
-        "label": "tsouio",
-        "reference": "453a",
-        "gloss": "vt. To make dry, parch",
-        "definition": "vt. To make dry, parch"
-      },
-      {
-        "label": "tsouio=",
-        "gloss": "To make dry. tqmo, tqmom, yemmo, thmo, yqmo-, yqmo=: (459b)",
-        "definition": "vt. To warm; ---: n. Warm thing."
-      }
-    ]
   },
   {
     "headword": "twnou",
@@ -287,14 +157,6 @@
     "reference": "421a",
     "gloss": "vt. To threaten",
     "definition": "vt. To threaten"
-  },
-  {
-    "headword": "tensi",
-    "copticWord": "ⲧⲉⲛϣⲓ",
-    "englishTransliteration": "tenshi",
-    "partOfSpeech": "n",
-    "gloss": "Blow",
-    "definition": "Blow"
   },
   {
     "headword": "twp",
@@ -355,20 +217,6 @@
         "definition": "prep. By hand of, through, by, from"
       }
     ]
-  },
-  {
-    "headword": "tot",
-    "copticWord": "ⲧⲟⲧ",
-    "englishTransliteration": "tot",
-    "variants": [
-      {
-        "word": "ten",
-        "copticWord": "ⲧⲉⲛ",
-        "englishTransliteration": "ten"
-      }
-    ],
-    "gloss": "Suffix for 2nd pers. pl. iri nautot=, er autot=: vb. To do to extent of hand('s capacity), endeavor",
-    "definition": "Suffix for 2nd pers. pl. iri nautot=, er autot=: vb. To do to extent of hand('s capacity), endeavor"
   },
   {
     "headword": "tqmom",

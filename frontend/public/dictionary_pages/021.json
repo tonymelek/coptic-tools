@@ -20,15 +20,22 @@
     "copticWord": "ⲉⲣⲃⲱⲧⲥ",
     "englishTransliteration": "ervōts",
     "gloss": "vb Array against, make war with",
-    "definition": "vb Array against, make war with"
-  },
-  {
-    "headword": "betc",
-    "copticWord": "ⲃⲉⲧⲥ",
-    "englishTransliteration": "vets",
-    "partOfSpeech": "n",
-    "gloss": "War",
-    "definition": "War"
+    "definition": "vb Array against, make war with",
+    "variants": [
+      {
+        "headword": "(7) erbots (nem-)",
+        "copticWord": "ⲉⲣⲃⲱⲧⲥ (ⲛⲉⲙ-)",
+        "englishTransliteration": "erbots (nem-)",
+        "gloss": "array against, make war with",
+        "definition": "array against, make war with",
+        "reference": "46a",
+        "isGreek": true,
+        "crossReference": {
+          "target": "mishe",
+          "gloss": "kämpfen (S)"
+        }
+      }
+    ]
   },
   {
     "headword": "besswi",
@@ -52,14 +59,6 @@
     "partOfSpeech": "m",
     "gloss": "Naked person",
     "definition": "Naked person"
-  },
-  {
-    "headword": "b/tc/",
-    "copticWord": "ⲃⲏⲧⲥⲏ",
-    "englishTransliteration": "vitsi",
-    "partOfSpeech": "f",
-    "gloss": "Female warrior",
-    "definition": "Female warrior"
   },
   {
     "headword": "(bwhn)",

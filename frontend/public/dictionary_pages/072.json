@@ -1,19 +1,26 @@
 [
   {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "partOfSpeech": "vb",
-    "gloss": "To awake, arise from",
-    "definition": "To awake, arise from"
-  },
-  {
     "headword": "epswi",
     "copticWord": "ⲉⲡϣⲱⲓ",
     "englishTransliteration": "epshōi",
     "partOfSpeech": "vb",
     "gloss": "To rise up, awake",
-    "definition": "To rise up, awake"
+    "definition": "To rise up, awake",
+    "variants": [
+      {
+        "headword": "(4) charof epshoi",
+        "copticWord": "ⲭⲁⲣⲱϥ ⲉⲡϣⲱⲓ",
+        "englishTransliteration": "charof epshoi",
+        "gloss": "open mouth upward, lift up voice",
+        "definition": "open mouth upward, lift up voice",
+        "reference": "288b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      }
+    ]
   },
   {
     "headword": "nema=",
@@ -66,14 +73,6 @@
       "target": "nece",
       "gloss": "- To be beautiful"
     }
-  },
-  {
-    "headword": "ehr/i",
-    "copticWord": "ⲉϩⲣⲏⲓ",
-    "englishTransliteration": "ehrii",
-    "partOfSpeech": "vb",
-    "gloss": "To rise up, awake",
-    "definition": "To rise up, awake"
   },
   {
     "headword": "jinnehci",
@@ -254,7 +253,18 @@
     "reference": "240b",
     "partOfSpeech": "m",
     "gloss": "Oil",
-    "definition": "Oil"
+    "definition": "Oil",
+    "variants": [
+      {
+        "headword": "(3) neh nsim",
+        "copticWord": "ⲛⲉϩ ⲛⲥⲓⲙ",
+        "englishTransliteration": "neh nsim",
+        "gloss": "radish oil",
+        "definition": "radish oil",
+        "reference": "334a",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "keniwt",
@@ -279,17 +289,6 @@
     "partOfSpeech": "m",
     "gloss": "Oil cellar",
     "definition": "Oil cellar"
-  },
-  {
-    "headword": "neh=",
-    "copticWord": "ⲛⲉϩ",
-    "englishTransliteration": "neh",
-    "gloss": "To shake",
-    "definition": "To shake",
-    "crossReference": {
-      "target": "nouh",
-      "gloss": "To shake"
-    }
   },
   {
     "headword": "nehbal",
@@ -384,22 +383,6 @@
     "definition": "vt. waken, raise up;"
   },
   {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "partOfSpeech": "vb",
-    "gloss": "To rise against",
-    "definition": "To rise against"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To arise from, in",
-    "definition": "To arise from, in"
-  },
-  {
     "headword": "metn/b",
     "copticWord": "ⲙⲉⲧⲛⲏⲃ",
     "englishTransliteration": "metneeb",
@@ -408,50 +391,12 @@
     "definition": "Lordship"
   },
   {
-    "headword": "ern/b",
-    "copticWord": "ⲉⲣⲛⲏⲃ",
-    "englishTransliteration": "erneeb",
-    "partOfSpeech": "vb",
-    "gloss": "To be lord",
-    "definition": "To be lord"
-  },
-  {
-    "headword": "nebahi",
-    "copticWord": "ⲛⲉⲃⲁϩⲓ",
-    "englishTransliteration": "nevahi",
-    "gloss": "Long-lived",
-    "definition": "Long-lived"
-  },
-  {
-    "headword": "neb/i",
-    "copticWord": "ⲛⲉⲃⲏⲓ",
-    "englishTransliteration": "nevii",
-    "partOfSpeech": "n",
-    "gloss": "Lord of house, householder, i.e. landlord, landlady",
-    "definition": "Lord of house, householder, i.e. landlord, landlady"
-  },
-  {
     "headword": "nebiohi",
     "copticWord": "ⲛⲉⲃⲓⲟϩⲓ",
     "englishTransliteration": "neviohi",
     "partOfSpeech": "m",
     "gloss": "Lord of the field, landowner",
     "definition": "Lord of the field, landowner"
-  },
-  {
-    "headword": "nebh/t",
-    "copticWord": "ⲛⲉⲃϩⲏⲧ",
-    "englishTransliteration": "nevhit",
-    "variants": [
-      {
-        "word": "neb/t",
-        "copticWord": "ⲛⲉⲃⲏⲧ",
-        "englishTransliteration": "nevit"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "Lord of mind, man of sense, sensible man",
-    "definition": "Lord of mind, man of sense, sensible man"
   },
   {
     "headword": "n/bi",
@@ -532,14 +477,6 @@
     "definition": "]kouji nn/ctia: n. The little fast, advent, fast preceding the feast of the Nativity"
   },
   {
-    "headword": "ern/cteuin",
-    "copticWord": "ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ",
-    "englishTransliteration": "ernistevin",
-    "partOfSpeech": "vb",
-    "gloss": "To fast, abstain from food",
-    "definition": "To fast, abstain from food"
-  },
-  {
     "headword": "n/cwc",
     "copticWord": "ⲛⲏⲥⲱⲥ",
     "englishTransliteration": "nisōs",
@@ -560,12 +497,5 @@
       "target": "(2)nau",
       "gloss": "When"
     }
-  },
-  {
-    "headword": "nyo",
-    "copticWord": "ⲛⲑⲟ",
-    "englishTransliteration": "ntho",
-    "gloss": "pers pron. 2nd pers f sg. You (f)",
-    "definition": "pers pron. 2nd pers f sg. You (f)"
   }
 ]

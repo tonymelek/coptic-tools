@@ -61,30 +61,36 @@
         "gloss": "To address word to, greet",
         "definition": "n. greeting."
       }
+    ],
+    "variants": [
+      {
+        "headword": "(7) mouti (khajen-)",
+        "copticWord": "ⲙⲟⲩϯ (ϧⲁϫⲉⲛ-)",
+        "englishTransliteration": "mouti (khajen-)",
+        "gloss": "call ahead, forward",
+        "definition": "call ahead, forward",
+        "reference": "192a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) mouti (ha-)",
+        "copticWord": "ⲙⲟⲩϯ (ϩⲁ-)",
+        "englishTransliteration": "mouti (ha-)",
+        "gloss": "call to",
+        "definition": "call to",
+        "reference": "192a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) mouti (ekhrei)",
+        "copticWord": "ⲙⲟⲩϯ (ⲉϧⲣⲏⲓ)",
+        "englishTransliteration": "mouti (ekhrei)",
+        "gloss": "call down (from above)",
+        "definition": "call down (from above)",
+        "reference": "192b",
+        "partOfSpeech": "vb"
+      }
     ]
-  },
-  {
-    "headword": "marmar",
-    "copticWord": "ⲙⲁⲣⲙⲁⲣ",
-    "englishTransliteration": "marmar",
-    "partOfSpeech": "n",
-    "gloss": "Bandage",
-    "definition": "Bandage"
-  },
-  {
-    "headword": "morc",
-    "copticWord": "ⲙⲟⲣⲥ",
-    "englishTransliteration": "mors",
-    "partOfSpeech": "f",
-    "gloss": "Bundle, girdle used as purse",
-    "definition": "Bundle, girdle used as purse"
-  },
-  {
-    "headword": "merqaq",
-    "copticWord": "ⲙⲉⲣϧⲁϧ",
-    "englishTransliteration": "merkhakh",
-    "gloss": "(new) n. Necktie",
-    "definition": "(new) n. Necktie"
   },
   {
     "headword": "mouca",
@@ -217,6 +223,44 @@
         "gloss": "going, pace, journey",
         "definition": "--- e-: vb. To go to; ejen-: vb. To walk upon, go toward; nem-: vb. To walk, agree, consort with; nca-: vb. To go after, follow; --- camenh/: vb. To go after, follow; cavahou: vb. To go after, follow; hivahou: vb. To go after, folloe; --- sa-: vb. To go to; hi-: vb. To walk on, walk in; --- hivouei: vb. To spread abroad; --- qen-: vb. To go, walk in; qajen-: vb. To go before; hijen-: vb. To go upon; ebol: vb. To go forth; jinmosi ebol: m. Going forth; epswi: vb To go up; ey/: vb. To go forward; eqoun: vb. To go in, approach; hay/: vb. To go before; hiy/: vb. To go before; aymosi: adj. Pathless; mammosi: m. Place of walking, path; epswi: m. Path upward; eqoun: m. Path inward; hijen: m. Path upon;"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(7) moshi (nsa-)",
+        "copticWord": "ⲙⲟϣⲓ (ⲛⲥⲁ-)",
+        "englishTransliteration": "moshi (nsa-)",
+        "gloss": "go after, follow",
+        "definition": "go after, follow",
+        "reference": "204a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) moshi (samenhe)",
+        "copticWord": "ⲙⲟϣⲓ (ⲥⲁⲙⲉⲛϩⲏ)",
+        "englishTransliteration": "moshi (samenhe)",
+        "gloss": "go after, follow",
+        "definition": "go after, follow",
+        "reference": "204b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) moshi (saphahou)",
+        "copticWord": "ⲙⲟϣⲓ (ⲥⲁⲫⲁϩⲟⲩ)",
+        "englishTransliteration": "moshi (saphahou)",
+        "gloss": "go after, follow",
+        "definition": "go after, follow",
+        "reference": "204b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(21) moshi (epshoi)",
+        "copticWord": "ⲙⲟϣⲓ (ⲉⲡϣⲱⲓ)",
+        "englishTransliteration": "moshi (epshoi)",
+        "gloss": "go up",
+        "definition": "go up",
+        "reference": "205a",
+        "partOfSpeech": "vb"
+      }
     ]
   },
   {
@@ -247,6 +291,15 @@
         "word": "most=",
         "copticWord": "ⲙⲟϣⲧ",
         "englishTransliteration": "mosht"
+      },
+      {
+        "headword": "(2) mousht (ebol)",
+        "copticWord": "ⲙⲟⲩϣⲧ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "mousht (ebol)",
+        "gloss": "consider, ponder",
+        "definition": "consider, ponder",
+        "reference": "206b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "206b",

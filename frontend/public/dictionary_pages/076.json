@@ -48,30 +48,6 @@
     ]
   },
   {
-    "headword": "ernofri",
-    "copticWord": "ⲉⲣⲛⲟϥⲣⲓ",
-    "englishTransliteration": "ernofri",
-    "partOfSpeech": "vb",
-    "gloss": "To be profitable",
-    "definition": "To be profitable"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To be profitable to do so & so",
-    "definition": "To be profitable to do so & so",
-    "senses": [
-      {
-        "label": "n-(dat)",
-        "partOfSpeech": "vb",
-        "gloss": "To be profitable",
-        "definition": "To be profitable"
-      }
-    ]
-  },
-  {
     "headword": "metnofri",
     "copticWord": "ⲙⲉⲧⲛⲟϥⲣⲓ",
     "englishTransliteration": "metnofri",
@@ -99,14 +75,6 @@
     }
   },
   {
-    "headword": "noufi",
-    "copticWord": "ⲛⲟⲩϥⲓ",
-    "englishTransliteration": "noufi",
-    "partOfSpeech": "adj",
-    "gloss": "Good",
-    "definition": "Good"
-  },
-  {
     "headword": "(1) nte",
     "copticWord": "ⲛⲧⲉ",
     "englishTransliteration": "nte",
@@ -129,32 +97,28 @@
     "definition": "of + pronoun;"
   },
   {
-    "headword": "nofri",
-    "copticWord": "ⲛⲟϥⲣⲓ",
-    "englishTransliteration": "nofri",
-    "gloss": "Good. noft= v. noutf - To loosen",
-    "definition": "Good. noft= v. noutf - To loosen",
-    "crossReference": {
-      "target": "nofer",
-      "gloss": "Good. noft= v. noutf - To loosen"
-    }
-  },
-  {
     "headword": "(1) noh",
     "copticWord": "ⲛⲟϩ",
     "englishTransliteration": "noh",
     "reference": "241a",
     "gloss": "pl. Eyelids",
-    "definition": "pl. Eyelids"
-  },
-  {
-    "headword": "(2) noh",
-    "copticWord": "ⲛⲟϩ",
-    "englishTransliteration": "noh",
-    "reference": "241a",
-    "partOfSpeech": "m",
-    "gloss": "Rope, cord",
-    "definition": "Rope, cord"
+    "definition": "pl. Eyelids",
+    "variants": [
+      {
+        "headword": "(4) noh nrosh",
+        "copticWord": "ⲛⲟϩ ⲛⲣⲱϣ",
+        "englishTransliteration": "noh nrosh",
+        "gloss": "land measure",
+        "definition": "land measure",
+        "reference": "241b",
+        "partOfSpeech": "m",
+        "isGreek": true,
+        "crossReference": {
+          "target": "rosh",
+          "gloss": "messen"
+        }
+      }
+    ]
   },
   {
     "headword": "sesnoh",
@@ -171,17 +135,6 @@
     "partOfSpeech": "m",
     "gloss": "Rope-maker",
     "definition": "Rope-maker"
-  },
-  {
-    "headword": "noh",
-    "copticWord": "ⲛⲟϩ",
-    "englishTransliteration": "noh",
-    "gloss": "To shake. noh nrws v. rws - Measuring cord",
-    "definition": "To shake. noh nrws v. rws - Measuring cord",
-    "crossReference": {
-      "target": "nouh",
-      "gloss": "To shake. noh nrws v. rws - Measuring cord"
-    }
   },
   {
     "headword": "ouonta=",
@@ -277,21 +230,6 @@
     ]
   },
   {
-    "headword": "(2)nte",
-    "copticWord": "ⲛⲧⲉ",
-    "englishTransliteration": "nte",
-    "variants": [
-      {
-        "word": "te",
-        "copticWord": "ⲧⲉ",
-        "englishTransliteration": "te"
-      }
-    ],
-    "reference": "229b",
-    "gloss": "prfx of conjunctive",
-    "definition": "prfx of conjunctive"
-  },
-  {
     "headword": "nt/j",
     "copticWord": "ⲛⲧⲏϫ",
     "englishTransliteration": "ntij",
@@ -323,32 +261,6 @@
     "definition": "fiancee"
   },
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "variants": [
-      {
-        "word": "ai",
-        "copticWord": "ⲁⲓ",
-        "englishTransliteration": "ai"
-      },
-      {
-        "word": "en",
-        "copticWord": "ⲉⲛ",
-        "englishTransliteration": "en"
-      },
-      {
-        "word": "ai",
-        "copticWord": "ⲁⲓ",
-        "englishTransliteration": "ai"
-      }
-    ],
-    "reference": "223a",
-    "partOfSpeech": "m",
-    "gloss": "Thing in general",
-    "definition": "thing to eat, food; property, belongings; --- niben: Everything (mostly inanimate)"
-  },
-  {
     "headword": "nwik",
     "copticWord": "ⲛⲱⲓⲕ",
     "englishTransliteration": "nōik",
@@ -356,14 +268,6 @@
     "partOfSpeech": "m",
     "gloss": "Adulterer",
     "definition": "Adulterer"
-  },
-  {
-    "headword": "ernwik",
-    "copticWord": "ⲉⲣⲛⲱⲓⲕ",
-    "englishTransliteration": "ernōik",
-    "partOfSpeech": "vb",
-    "gloss": "To commit adultery",
-    "definition": "To commit adultery"
   },
   {
     "headword": "refernwik",
@@ -390,17 +294,6 @@
     "crossReference": {
       "target": "noini",
       "gloss": "To shake"
-    }
-  },
-  {
-    "headword": "nwit",
-    "copticWord": "ⲛⲱⲓⲧ",
-    "englishTransliteration": "nōit",
-    "gloss": "Meal",
-    "definition": "Meal",
-    "crossReference": {
-      "target": "nout",
-      "gloss": "Meal"
     }
   },
   {
@@ -441,7 +334,18 @@
     "crossReference": {
       "target": "swp",
       "gloss": "Moment. nsot, ensot, (Q) nast, p.c"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(3) hnoushpe nshop",
+        "copticWord": "ϩⲛⲟⲩϣⲡⲉ ⲛϣⲱⲡ",
+        "englishTransliteration": "hnoushpe nshop",
+        "gloss": "suddenly",
+        "definition": "suddenly",
+        "reference": "576b",
+        "partOfSpeech": "adv"
+      }
+    ]
   },
   {
     "headword": "nast",

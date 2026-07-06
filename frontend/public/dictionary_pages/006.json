@@ -135,23 +135,6 @@
     "definition": "a case box or casket made of alabaster esp. vessel for perfume."
   },
   {
-    "headword": "(2) akakia",
-    "copticWord": "ⲁⲕⲁⲕⲓⲁ",
-    "englishTransliteration": "akakia",
-    "variants": [
-      {
-        "word": "-ac",
-        "copticWord": "-ⲁⲥ",
-        "englishTransliteration": "-as"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "adj",
-    "isGreek": true,
-    "gloss": "Innocence, simplicity",
-    "definition": "Innocence, simplicity"
-  },
-  {
     "headword": "alableb",
     "copticWord": "ⲁⲗⲁⲃⲗⲉⲃ",
     "englishTransliteration": "alavlev",
@@ -338,16 +321,6 @@
     }
   },
   {
-    "headword": "(2) akinoc",
-    "copticWord": "ⲁⲕⲓⲛⲟⲥ",
-    "englishTransliteration": "akinos",
-    "reference": "Gk",
-    "partOfSpeech": "m",
-    "isGreek": true,
-    "gloss": "Basil-thyme",
-    "definition": "Basil-thyme"
-  },
-  {
     "headword": "(1) akl/",
     "copticWord": "ⲁⲕⲗⲏ",
     "englishTransliteration": "akli",
@@ -388,32 +361,6 @@
     "isGreek": true,
     "gloss": "nn mf. Cock, hen",
     "definition": "nn mf. Cock, hen"
-  },
-  {
-    "headword": "(2) akl/",
-    "copticWord": "ⲁⲕⲗⲏ",
-    "englishTransliteration": "akli",
-    "variants": [
-      {
-        "word": "kal/",
-        "copticWord": "ⲕⲁⲗⲏ",
-        "englishTransliteration": "kali"
-      },
-      {
-        "word": "akli",
-        "copticWord": "ⲁⲕⲗⲓ",
-        "englishTransliteration": "akli"
-      },
-      {
-        "word": "alk/",
-        "copticWord": "ⲁⲗⲕⲏ",
-        "englishTransliteration": "alki"
-      }
-    ],
-    "reference": "3b",
-    "partOfSpeech": "f",
-    "gloss": "A pottery vessel used for food or liquid storage",
-    "definition": "A pottery vessel used for food or liquid storage"
   },
   {
     "headword": "alektwr",

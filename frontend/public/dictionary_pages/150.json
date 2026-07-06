@@ -151,24 +151,6 @@
     "definition": "Woof"
   },
   {
-    "headword": "(2) qe",
-    "copticWord": "ϧⲉ",
-    "englishTransliteration": "khe",
-    "reference": "638b",
-    "partOfSpeech": "f",
-    "gloss": "Manner",
-    "definition": "Manner"
-  },
-  {
-    "headword": "(3) qe",
-    "copticWord": "ϧⲉ",
-    "englishTransliteration": "khe",
-    "reference": "643a",
-    "partOfSpeech": "f",
-    "gloss": "Story of house",
-    "definition": "Story of house"
-  },
-  {
     "headword": "qek",
     "copticWord": "ϧⲉⲕ",
     "englishTransliteration": "khek",
@@ -283,17 +265,6 @@
     "crossReference": {
       "target": "qelbi",
       "gloss": "Navel"
-    }
-  },
-  {
-    "headword": "qelsiri",
-    "copticWord": "ϧⲉⲗϣⲓⲣⲓ",
-    "englishTransliteration": "khelshiri",
-    "gloss": "Youth",
-    "definition": "Youth",
-    "crossReference": {
-      "target": "siri",
-      "gloss": "Youth"
     }
   },
   {

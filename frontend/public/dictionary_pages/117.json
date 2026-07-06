@@ -13,6 +13,40 @@
         "word": "ouonta=",
         "copticWord": "ⲟⲩⲟⲛⲧⲁ",
         "englishTransliteration": "ouonta"
+      },
+      {
+        "headword": "(4) ouon nim",
+        "copticWord": "ⲟⲩⲟⲛ ⲛⲓⲙ",
+        "englishTransliteration": "ouon nim",
+        "gloss": "every one",
+        "definition": "every one",
+        "reference": "482a",
+        "partOfSpeech": "pron"
+      },
+      {
+        "headword": "(6) mn ouon",
+        "copticWord": "ⲙⲛ ⲟⲩⲟⲛ",
+        "englishTransliteration": "mn ouon",
+        "gloss": "there is not one, any",
+        "definition": "there is not one, any",
+        "reference": "482b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "mmn ouon",
+            "copticWord": "ⲙⲙⲛ ⲟⲩⲟⲛ",
+            "englishTransliteration": "mmn ouon"
+          }
+        ]
+      },
+      {
+        "headword": "(7) ouon nsaouon",
+        "copticWord": "ⲟⲩⲟⲛ ⲛⲥⲁⲟⲩⲟⲛ",
+        "englishTransliteration": "ouon nsaouon",
+        "gloss": "one after another",
+        "definition": "one after another",
+        "reference": "482b",
+        "partOfSpeech": "pron"
       }
     ],
     "reference": "481a",
@@ -45,32 +79,6 @@
       "target": "ouwh",
       "gloss": "To be (there)"
     }
-  },
-  {
-    "headword": "(2) ouon",
-    "copticWord": "ⲟⲩⲟⲛ",
-    "englishTransliteration": "ouon",
-    "reference": "482a",
-    "gloss": "pron. Someone, something, some",
-    "definition": "pron. Someone, something, some",
-    "senses": [
-      {
-        "label": "keouon",
-        "gloss": "pl. Other ones",
-        "definition": "pl. Other ones"
-      },
-      {
-        "label": "ouon niben",
-        "partOfSpeech": "n",
-        "gloss": "Everyone",
-        "definition": "oun ouon: vb. (rare), There is one, are some;"
-      },
-      {
-        "label": "mmon ouon",
-        "gloss": "There is not one, any",
-        "definition": "ouon nca ouon: One after another."
-      }
-    ]
   },
   {
     "headword": "ouohem",
@@ -119,17 +127,6 @@
     "crossReference": {
       "target": "ouojouej",
       "gloss": "To chew"
-    }
-  },
-  {
-    "headword": "ouonta=",
-    "copticWord": "ⲟⲩⲟⲛⲧⲁ",
-    "englishTransliteration": "ouonta",
-    "gloss": "To have",
-    "definition": "To have",
-    "crossReference": {
-      "target": "(1)ouon",
-      "gloss": "To have"
     }
   },
   {
@@ -184,23 +181,6 @@
     }
   },
   {
-    "headword": "(2)ouoji",
-    "copticWord": "ⲟⲩⲟϫⲓ",
-    "englishTransliteration": "ouoji",
-    "reference": "512b",
-    "partOfSpeech": "f",
-    "gloss": "Jaw, cheek",
-    "definition": "ouejro, pl"
-  },
-  {
-    "headword": "ouejrwou",
-    "copticWord": "ⲟⲩⲉϫⲣⲱⲟⲩ",
-    "englishTransliteration": "ouejrōou",
-    "partOfSpeech": "f",
-    "gloss": "Door's jawbone, door-post",
-    "definition": "Door's jawbone, door-post"
-  },
-  {
     "headword": "ouojp=",
     "copticWord": "ⲟⲩⲟϫⲡ",
     "englishTransliteration": "ouojp",
@@ -209,17 +189,6 @@
     "crossReference": {
       "target": "ouwjp",
       "gloss": "To break"
-    }
-  },
-  {
-    "headword": "ouorp=",
-    "copticWord": "ⲟⲩⲟⲣⲡ",
-    "englishTransliteration": "ouorp",
-    "gloss": "To send",
-    "definition": "To send",
-    "crossReference": {
-      "target": "ouwrp",
-      "gloss": "To send"
     }
   },
   {
@@ -257,6 +226,15 @@
         "word": "becywn",
         "copticWord": "ⲃⲉⲥⲑⲱⲛ",
         "englishTransliteration": "vesthōn"
+      },
+      {
+        "headword": "(3) ouosthen ebol",
+        "copticWord": "ⲟⲩⲟⲥⲑⲉⲛ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouosthen ebol",
+        "gloss": "be broad, be well provided",
+        "definition": "be broad, be well provided",
+        "reference": "492b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "492b",
@@ -352,17 +330,6 @@
     "englishTransliteration": "ourōou",
     "reference": "299a",
     "partOfSpeech": "m"
-  },
-  {
-    "headword": "ouot=",
-    "copticWord": "ⲟⲩⲟⲧ",
-    "englishTransliteration": "ouot",
-    "gloss": "To send",
-    "definition": "To send",
-    "crossReference": {
-      "target": "ouw]",
-      "gloss": "To send"
-    }
   },
   {
     "headword": "ouotb=",

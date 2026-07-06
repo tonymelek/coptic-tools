@@ -56,17 +56,6 @@
     "definition": "Value, price. couen- (vb.) v. cwoun - To know. couen- (m.) v. cwoun - Knowledge"
   },
   {
-    "headword": "couen=",
-    "copticWord": "ⲥⲟⲩⲉⲛ",
-    "englishTransliteration": "souen",
-    "gloss": "Value",
-    "definition": "Value",
-    "crossReference": {
-      "target": "couen",
-      "gloss": "Value"
-    }
-  },
-  {
     "headword": "con]",
     "copticWord": "ⲥⲟⲛϯ",
     "englishTransliteration": "sonti",
@@ -151,29 +140,7 @@
     "definition": "every time, always"
   },
   {
-    "headword": "cop=",
-    "copticWord": "ⲥⲟⲡ",
-    "englishTransliteration": "sop",
-    "gloss": "To dip",
-    "definition": "To dip",
-    "crossReference": {
-      "target": "cwp",
-      "gloss": "To dip"
-    }
-  },
-  {
     "headword": "cor",
-    "copticWord": "ⲥⲟⲣ",
-    "englishTransliteration": "sor",
-    "gloss": "To scatter",
-    "definition": "To scatter",
-    "crossReference": {
-      "target": "cwr",
-      "gloss": "To scatter"
-    }
-  },
-  {
-    "headword": "cor=",
     "copticWord": "ⲥⲟⲣ",
     "englishTransliteration": "sor",
     "gloss": "To scatter",
@@ -254,7 +221,18 @@
     "reference": "369a",
     "partOfSpeech": "m",
     "gloss": "Wheat (Brit. corn)",
-    "definition": "Wheat (Brit. corn)"
+    "definition": "Wheat (Brit. corn)",
+    "variants": [
+      {
+        "headword": "(2) souo nshorj",
+        "copticWord": "ⲥⲟⲩⲟ ⲛϣⲱⲣϫ",
+        "englishTransliteration": "souo nshorj",
+        "gloss": "crush, chop (?)",
+        "definition": "crush, chop (?)",
+        "reference": "589b",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "couri",
@@ -272,20 +250,6 @@
     "partOfSpeech": "vb",
     "gloss": "To produce, grow thorns",
     "definition": "To produce, grow thorns"
-  },
-  {
-    "headword": "cerbnne",
-    "copticWord": "ⲥⲉⲣⲃⲛⲛⲉ",
-    "englishTransliteration": "servnne",
-    "gloss": "Thorn of date palm",
-    "definition": "Thorn of date palm"
-  },
-  {
-    "headword": "cerouji",
-    "copticWord": "ⲥⲉⲣⲟⲩϫⲓ",
-    "englishTransliteration": "serouji",
-    "gloss": "Thistle",
-    "definition": "Thistle"
   },
   {
     "headword": "courot",
@@ -375,29 +339,6 @@
     "definition": "vb. To be shut, projected."
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vt. To stretch (a thing to)",
-    "definition": "--- ejen-: vb. To stretch over; --- nem-: vb. To be right with; --- sa-: vb. To stretch to, as far as; --- qen-: vb. To be upright in, stretch with;"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To stretch out",
-    "definition": "--- epswi: vb. To stretch upward.",
-    "senses": [
-      {
-        "label": "eqoun",
-        "partOfSpeech": "vb",
-        "gloss": "To stretch into,",
-        "definition": "To stretch into,"
-      }
-    ]
-  },
-  {
     "headword": "cotp=",
     "copticWord": "ⲥⲟⲧⲡ",
     "englishTransliteration": "sotp",
@@ -406,7 +347,18 @@
     "crossReference": {
       "target": "cwtp",
       "gloss": "To choose"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(3) sotp (e-)",
+        "copticWord": "ⲥⲟⲧⲡ (ⲉ-)",
+        "englishTransliteration": "sotp (e-)",
+        "gloss": "better than",
+        "definition": "better than",
+        "reference": "365b",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "cotpi",
@@ -420,17 +372,6 @@
     }
   },
   {
-    "headword": "cou",
-    "copticWord": "ⲥⲟⲩ",
-    "englishTransliteration": "sou",
-    "gloss": "Time",
-    "definition": "Time",
-    "crossReference": {
-      "target": "c/ou",
-      "gloss": "Time"
-    }
-  },
-  {
     "headword": "coube",
     "copticWord": "ⲥⲟⲩⲃⲉ",
     "englishTransliteration": "souve",
@@ -439,28 +380,6 @@
     "crossReference": {
       "target": "cebi",
       "gloss": "To circumcise"
-    }
-  },
-  {
-    "headword": "coub/t=",
-    "copticWord": "ⲥⲟⲩⲃⲏⲧ",
-    "englishTransliteration": "souvit",
-    "gloss": "To circumcise",
-    "definition": "To circumcise",
-    "crossReference": {
-      "target": "cebi",
-      "gloss": "To circumcise"
-    }
-  },
-  {
-    "headword": "coub/t",
-    "copticWord": "ⲥⲟⲩⲃⲏⲧ",
-    "englishTransliteration": "souvit",
-    "gloss": "Decent",
-    "definition": "Decent",
-    "crossReference": {
-      "target": "cebi",
-      "gloss": "Decent"
     }
   },
   {

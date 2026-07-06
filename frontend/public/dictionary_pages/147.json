@@ -48,64 +48,12 @@
     "definition": "---: m. Shame, contempt, scorn."
   },
   {
-    "headword": "(2) sws",
-    "copticWord": "ϣⲱϣ",
-    "englishTransliteration": "shōsh",
-    "variants": [
-      {
-        "word": "ses",
-        "copticWord": "ϣⲉϣ",
-        "englishTransliteration": "shesh"
-      },
-      {
-        "word": "sas",
-        "copticWord": "ϣⲁϣ",
-        "englishTransliteration": "shash"
-      },
-      {
-        "word": "sas=",
-        "copticWord": "ϣⲁϣ",
-        "englishTransliteration": "shash"
-      },
-      {
-        "word": "sos=",
-        "copticWord": "ϣⲟϣ",
-        "englishTransliteration": "shosh"
-      },
-      {
-        "word": "(Q) s/s",
-        "copticWord": "(Ϧ) ϣⲏϣ",
-        "englishTransliteration": "(Kh) shish"
-      }
-    ],
-    "reference": "605b",
-    "gloss": "vi. To scatter, spread esp. of oders",
-    "definition": "--- ebol: vi. To scatter abroad; --- ebol e-: vi. To extend to; --- --- hi: vi. To extend from; --- --- qen: To extend forth from"
-  },
-  {
-    "headword": "sws",
-    "copticWord": "ϣⲱϣ",
-    "englishTransliteration": "shōsh",
-    "partOfSpeech": "m",
-    "gloss": "Fork or rake separating grain from chaff",
-    "definition": "Fork or rake separating grain from chaff"
-  },
-  {
     "headword": "ma nss/n",
     "copticWord": "ⲙⲁ ⲛϣϣⲏⲛ",
     "englishTransliteration": "ma nshshin",
     "partOfSpeech": "m",
     "gloss": "Grove. ssot, sswt, pl",
     "definition": "Grove. ssot, sswt, pl"
-  },
-  {
-    "headword": "so]",
-    "copticWord": "ϣⲟϯ",
-    "englishTransliteration": "shoti",
-    "reference": "590a",
-    "partOfSpeech": "m",
-    "gloss": "Pillow, cushion, bag",
-    "definition": "Pillow, cushion, bag"
   },
   {
     "headword": "sswt",
@@ -135,43 +83,6 @@
     "definition": "---: m. Desire, longing;"
   },
   {
-    "headword": "(3) sws",
-    "copticWord": "ϣⲱϣ",
-    "englishTransliteration": "shōsh",
-    "variants": [
-      {
-        "word": "ses",
-        "copticWord": "ϣⲉϣ",
-        "englishTransliteration": "shesh"
-      },
-      {
-        "word": "sas=",
-        "copticWord": "ϣⲁϣ",
-        "englishTransliteration": "shash"
-      },
-      {
-        "word": "sos=",
-        "copticWord": "ϣⲟϣ",
-        "englishTransliteration": "shosh"
-      },
-      {
-        "word": "(Q) s/s",
-        "copticWord": "(Ϧ) ϣⲏϣ",
-        "englishTransliteration": "(Kh) shish"
-      }
-    ],
-    "reference": "606a",
-    "gloss": "vt. To make equal, level, straight",
-    "definition": "vt. To make equal, level, straight",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Equality, sameness",
-        "definition": "--- ebol: m. equality, level."
-      }
-    ]
-  },
-  {
     "headword": "ref[isswou",
     "copticWord": "ⲣⲉϥϭⲓϣϣⲱⲟⲩ",
     "englishTransliteration": "refchishshōou",
@@ -194,59 +105,6 @@
     "partOfSpeech": "f",
     "gloss": "Tale, fable",
     "definition": "Tale, fable"
-  },
-  {
-    "headword": "(2) sfw",
-    "copticWord": "ϣϥⲱ",
-    "englishTransliteration": "shfō",
-    "variants": [
-      {
-        "word": "sbw",
-        "copticWord": "ϣⲃⲱ",
-        "englishTransliteration": "shvō"
-      }
-    ],
-    "reference": "611a",
-    "partOfSpeech": "f",
-    "gloss": "Measure of length, schoenus parasang",
-    "definition": "Measure of length, schoenus parasang"
-  },
-  {
-    "headword": "(4) sws",
-    "copticWord": "ϣⲱϣ",
-    "englishTransliteration": "shōsh",
-    "variants": [
-      {
-        "word": "ses",
-        "copticWord": "ϣⲉϣ",
-        "englishTransliteration": "shesh"
-      },
-      {
-        "word": "(Q) s/s",
-        "copticWord": "(Ϧ) ϣⲏϣ",
-        "englishTransliteration": "(Kh) shish"
-      }
-    ],
-    "reference": "607a",
-    "gloss": "vi. To twist rope & c",
-    "definition": "vi. To twist rope & c"
-  },
-  {
-    "headword": "sasf",
-    "copticWord": "ϣⲁϣϥ",
-    "englishTransliteration": "shashf",
-    "partOfSpeech": "m",
-    "gloss": "Weaver",
-    "definition": "Weaver"
-  },
-  {
-    "headword": "(3) sfw",
-    "copticWord": "ϣϥⲱ",
-    "englishTransliteration": "shfō",
-    "reference": "611a",
-    "partOfSpeech": "f",
-    "gloss": "Tomb",
-    "definition": "Tomb"
   },
   {
     "headword": "sqa]",
@@ -352,21 +210,6 @@
     "partOfSpeech": "n",
     "gloss": "Common tale, gossip",
     "definition": "Common tale, gossip"
-  },
-  {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "oi nsj/i",
-        "copticWord": "ⲟⲓ ⲛϣϫⲏⲓ",
-        "englishTransliteration": "oi nshjii"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be talked of",
-    "definition": "To be talked of"
   },
   {
     "headword": "sjwt",

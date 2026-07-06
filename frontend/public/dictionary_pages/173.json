@@ -24,21 +24,6 @@
     "definition": "vi. To dance"
   },
   {
-    "headword": "[ep",
-    "copticWord": "ϭⲉⲡ",
-    "englishTransliteration": "chep",
-    "variants": [
-      {
-        "word": "sepjwri",
-        "copticWord": "ϣⲉⲡϫⲱⲣⲓ",
-        "englishTransliteration": "shepjōri"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To use strength, force",
-    "definition": "To use strength, force"
-  },
-  {
     "headword": "metjwri",
     "copticWord": "ⲙⲉⲧϫⲱⲣⲓ",
     "englishTransliteration": "metjōri",
@@ -201,6 +186,17 @@
         "gloss": "Runner, pursuer, dispeller",
         "definition": "jin[oji: Act of running."
       }
+    ],
+    "variants": [
+      {
+        "headword": "(2) choji (nsa-)",
+        "copticWord": "ϭⲟϫⲓ (ⲛⲥⲁ-)",
+        "englishTransliteration": "choji (nsa-)",
+        "gloss": "follow, pursue, drive out",
+        "definition": "follow, pursue, drive out",
+        "reference": "841a",
+        "partOfSpeech": "vb"
+      }
     ]
   },
   {
@@ -225,15 +221,6 @@
     "partOfSpeech": "adj",
     "gloss": "Without needs",
     "definition": "Without needs"
-  },
-  {
-    "headword": "[rw",
-    "copticWord": "ϭⲣⲱ",
-    "englishTransliteration": "chrō",
-    "reference": "828a",
-    "partOfSpeech": "f",
-    "gloss": "Dew, fine rain",
-    "definition": "Dew, fine rain"
   },
   {
     "headword": "[rwp",
@@ -445,17 +432,6 @@
     ]
   },
   {
-    "headword": "[wlk=",
-    "copticWord": "ϭⲱⲗⲕ",
-    "englishTransliteration": "chōlk",
-    "gloss": "To be submerged",
-    "definition": "To be submerged",
-    "crossReference": {
-      "target": "jwlk",
-      "gloss": "To be submerged"
-    }
-  },
-  {
     "headword": "(1) [wlp",
     "copticWord": "ϭⲱⲗⲡ",
     "englishTransliteration": "chōlp",
@@ -464,19 +440,19 @@
         "word": "[olp=",
         "copticWord": "ϭⲟⲗⲡ",
         "englishTransliteration": "cholp"
+      },
+      {
+        "headword": "(2) cholp (ebol)",
+        "copticWord": "ϭⲱⲗⲡ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "cholp (ebol)",
+        "gloss": "uncovering, manifestation",
+        "definition": "uncovering, manifestation",
+        "reference": "812b",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "812b",
     "gloss": "vt. To create",
     "definition": "vt. To create"
-  },
-  {
-    "headword": "(2) [wlp",
-    "copticWord": "ϭⲱⲗⲡ",
-    "englishTransliteration": "chōlp",
-    "reference": "812b",
-    "partOfSpeech": "m",
-    "gloss": "Faggot (used as) raft",
-    "definition": "Faggot (used as) raft"
   }
 ]

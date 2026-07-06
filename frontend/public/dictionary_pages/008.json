@@ -64,6 +64,17 @@
         "gloss": "Arrest, restrain",
         "definition": "Arrest, restrain"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(7) amoni nten-",
+        "copticWord": "ⲁⲙⲟⲛⲓ ⲛⲧⲉⲛ-",
+        "englishTransliteration": "amoni nten-",
+        "gloss": "endurance, patience",
+        "definition": "endurance, patience",
+        "reference": "8b",
+        "isGreek": true
+      }
     ]
   },
   {
@@ -168,36 +179,6 @@
       "target": "ametr/toc",
       "gloss": "Immense"
     }
-  },
-  {
-    "headword": "(2) amoni",
-    "copticWord": "ⲁⲙⲟⲛⲓ",
-    "englishTransliteration": "amoni",
-    "variants": [
-      {
-        "word": "moni",
-        "copticWord": "ⲙⲟⲛⲓ",
-        "englishTransliteration": "moni"
-      },
-      {
-        "word": "manou=",
-        "copticWord": "ⲙⲁⲛⲟⲩ",
-        "englishTransliteration": "manou"
-      },
-      {
-        "word": "manouou=",
-        "copticWord": "ⲙⲁⲛⲟⲩⲟⲩ",
-        "englishTransliteration": "manouou"
-      },
-      {
-        "word": "menn/t=",
-        "copticWord": "ⲙⲉⲛⲛⲏⲧ",
-        "englishTransliteration": "mennit"
-      }
-    ],
-    "reference": "173a",
-    "gloss": "(I) vi. To pasture, feed",
-    "definition": "vt. To feed, tend cattle"
   },
   {
     "headword": "ma mmoni",
@@ -382,15 +363,6 @@
       "target": "ammoniakoc",
       "gloss": "Ammonia"
     }
-  },
-  {
-    "headword": "(2) amre",
-    "copticWord": "ⲁⲙⲣⲉ",
-    "englishTransliteration": "amre",
-    "reference": "9a",
-    "partOfSpeech": "f",
-    "gloss": "Cleansed, winowed (wheat)",
-    "definition": "Cleansed, winowed (wheat)"
   },
   {
     "headword": "ammoniakoc",

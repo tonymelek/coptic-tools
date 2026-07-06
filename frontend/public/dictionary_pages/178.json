@@ -1,0 +1,3448 @@
+[
+  {
+    "headword": "(4) reiepshot",
+    "copticWord": "ⲣⲉⲓⲉⲡϣⲱⲧ",
+    "englishTransliteration": "reiepshot",
+    "gloss": "trade",
+    "definition": "trade",
+    "reference": "81b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(5) reiope",
+    "copticWord": "ⲣⲉⲓⲟⲡⲉ",
+    "englishTransliteration": "reiope",
+    "gloss": "spin",
+    "definition": "spin",
+    "reference": "82a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) refreiope",
+    "copticWord": "ⲣⲉϥⲣⲉⲓⲟⲡⲉ",
+    "englishTransliteration": "refreiope",
+    "gloss": "craftsman",
+    "definition": "craftsman",
+    "reference": "82a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref ",
+      "gloss": "man who . . ."
+    }
+  },
+  {
+    "headword": "(8) mntrefreiope",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲣⲉⲓⲟⲡⲉ",
+    "englishTransliteration": "mntrefreiope",
+    "gloss": "craft, art",
+    "definition": "craft, art",
+    "reference": "82a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "act; become, befall; do"
+    }
+  },
+  {
+    "headword": "eipn",
+    "copticWord": "ⲉⲓⲡⲛ",
+    "englishTransliteration": "eipn",
+    "gloss": "this",
+    "definition": "this"
+  },
+  {
+    "headword": "(1) eioor",
+    "copticWord": "ⲉⲓⲟⲟⲣ",
+    "englishTransliteration": "eioor",
+    "gloss": "canal",
+    "definition": "canal",
+    "reference": "82a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) jioor",
+    "copticWord": "ϫⲓⲟⲟⲣ",
+    "englishTransliteration": "jioor",
+    "gloss": "ferry over, ford river, cross (sea or land)",
+    "definition": "ferry over, ford river, cross (sea or land)",
+    "reference": "82a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(4) atjioor",
+    "copticWord": "ⲁⲧϫⲓⲟⲟⲣ",
+    "englishTransliteration": "atjioor",
+    "gloss": "not to be crossed, inaccessible",
+    "definition": "not to be crossed, inaccessible",
+    "reference": "82b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(5) chinjioor",
+    "copticWord": "ϭⲓⲛϫⲓⲟⲟⲣ",
+    "englishTransliteration": "chinjioor",
+    "gloss": "crossing, transit",
+    "definition": "crossing, transit",
+    "reference": "82b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(7) eiero",
+    "copticWord": "ⲉⲓⲉⲣⲟ",
+    "englishTransliteration": "eiero",
+    "gloss": "river (\"great canal\"), stream, Nile",
+    "definition": "river (\"great canal\"), stream, Nile",
+    "reference": "82b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) eire",
+    "copticWord": "ⲉⲓⲣⲉ",
+    "englishTransliteration": "eire",
+    "gloss": "act; become, befall; do",
+    "definition": "act; become, befall; do",
+    "reference": "83a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(7) eire nbrre",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲃⲣⲣⲉ",
+        "englishTransliteration": "eire nbrre",
+        "gloss": "make new, renew",
+        "definition": "make new, renew",
+        "reference": "43b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "iri nberi",
+            "copticWord": "ⲓⲣⲓ ⲛⲃⲉⲣⲓ",
+            "englishTransliteration": "iri nberi"
+          }
+        ],
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(3) eire nbote",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲃⲟⲧⲉ",
+        "englishTransliteration": "eire nbote",
+        "gloss": "make abominable, (also) anathematize",
+        "definition": "make abominable, (also) anathematize",
+        "reference": "45b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(2) eire (e-)",
+        "copticWord": "ⲉⲓⲣⲉ (ⲉ-)",
+        "englishTransliteration": "eire (e-)",
+        "gloss": "befall; be incumbent on",
+        "definition": "befall; be incumbent on",
+        "reference": "83b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) eire (n-)",
+        "copticWord": "ⲉⲓⲣⲉ (ⲛ-)",
+        "englishTransliteration": "eire (n-)",
+        "gloss": "do on behalf of, make into",
+        "definition": "do on behalf of, make into",
+        "reference": "83b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) eire (ejn-)",
+        "copticWord": "ⲉⲓⲣⲉ (ⲉϫⲛ-)",
+        "englishTransliteration": "eire (ejn-)",
+        "gloss": "be at work upon",
+        "definition": "be at work upon",
+        "reference": "83b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) eire (ha-)",
+        "copticWord": "ⲉⲓⲣⲉ (ϩⲁ-)",
+        "englishTransliteration": "eire (ha-)",
+        "gloss": "oblige",
+        "definition": "oblige",
+        "reference": "83b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(2) eire nklom",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲕⲗⲟⲙ",
+        "englishTransliteration": "eire nklom",
+        "gloss": "make a crown, circle",
+        "definition": "make a crown, circle",
+        "reference": "105a",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(6) eire nrro",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲣⲣⲟ",
+        "englishTransliteration": "eire nrro",
+        "gloss": "make king",
+        "definition": "make king",
+        "reference": "299b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(3) eire nousobe",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲟⲩⲥⲱⲃⲉ",
+        "englishTransliteration": "eire nousobe",
+        "gloss": "laugh at, mock",
+        "definition": "laugh at, mock",
+        "reference": "321b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(4) eire nsmot",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲥⲙⲟⲧ",
+        "englishTransliteration": "eire nsmot",
+        "gloss": "have appearance, be like, be pattern",
+        "definition": "have appearance, be like, be pattern",
+        "reference": "341b-342a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(4) eire noutaeio",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲟⲩⲧⲁⲉⲓⲟ",
+        "englishTransliteration": "eire noutaeio",
+        "gloss": "pay respect",
+        "definition": "pay respect",
+        "reference": "391a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(19) eire natoot",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲁⲧⲟⲟⲧ⸗",
+        "englishTransliteration": "eire natoot",
+        "gloss": "endeavour",
+        "definition": "endeavour",
+        "reference": "426a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(8) eire nhae",
+        "copticWord": "ⲉⲓⲣⲉ ⲛϩⲁⲉ",
+        "englishTransliteration": "eire nhae",
+        "gloss": "be last, be in want",
+        "definition": "be last, be in want",
+        "reference": "636a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(5) eire nouchroch",
+        "copticWord": "ⲉⲓⲣⲉ ⲛⲟⲩϭⲣⲟϭ",
+        "englishTransliteration": "eire nouchroch",
+        "gloss": "produce seed, semen, sperm",
+        "definition": "produce seed, semen, sperm",
+        "reference": "832a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "eire nouchrooch",
+            "copticWord": "ⲉⲓⲣⲉ ⲛⲟⲩϭⲣⲟⲟϭ",
+            "englishTransliteration": "eire nouchrooch"
+          }
+        ],
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(8) refeire",
+    "copticWord": "ⲣⲉϥⲉⲓⲣⲉ",
+    "englishTransliteration": "refeire",
+    "gloss": "maker, doer",
+    "definition": "maker, doer",
+    "reference": "84a",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "headword": "(4) refeire mpmaein",
+        "copticWord": "ⲣⲉϥⲉⲓⲣⲉ ⲙⲡⲙⲁⲉⲓⲛ",
+        "englishTransliteration": "refeire mpmaein",
+        "gloss": "wonder-doer",
+        "definition": "wonder-doer",
+        "reference": "171a",
+        "partOfSpeech": "n"
+      }
+    ]
+  },
+  {
+    "headword": "(9) rmneire",
+    "copticWord": "ⲣⲙⲛⲉⲓⲣⲉ",
+    "englishTransliteration": "rmneire",
+    "gloss": "worker",
+    "definition": "worker",
+    "reference": "84a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(12) tasheeire",
+    "copticWord": "ⲧⲁϣⲉⲉⲓⲣⲉ",
+    "englishTransliteration": "tasheeire",
+    "gloss": "do more, increase doing",
+    "definition": "do more, increase doing",
+    "reference": "84a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "tasho",
+      "gloss": "increase"
+    }
+  },
+  {
+    "headword": "(1) eiorm",
+    "copticWord": "ⲉⲓⲱⲣⲙ",
+    "englishTransliteration": "eiorm",
+    "gloss": "stare, be astonished, dumbfounded",
+    "definition": "stare, be astonished, dumbfounded",
+    "reference": "84a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) eiorm (e-)",
+        "copticWord": "ⲉⲓⲱⲣⲙ (ⲉ-)",
+        "englishTransliteration": "eiorm (e-)",
+        "gloss": "follow (with the eyes), look intently",
+        "definition": "follow (with the eyes), look intently",
+        "reference": "84b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) eiorm (nsa-)",
+        "copticWord": "ⲉⲓⲱⲣⲙ (ⲛⲥⲁ-)",
+        "englishTransliteration": "eiorm (nsa-)",
+        "gloss": "stare after",
+        "definition": "stare after",
+        "reference": "84b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) eiorm (ebol)",
+        "copticWord": "ⲉⲓⲱⲣⲙ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "eiorm (ebol)",
+        "gloss": "wonder, expect",
+        "definition": "wonder, expect",
+        "reference": "84b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) eiorm (ehoun)",
+        "copticWord": "ⲉⲓⲱⲣⲙ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "eiorm (ehoun)",
+        "gloss": "look intently",
+        "definition": "look intently",
+        "reference": "84b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) eiorm (ehrai)",
+        "copticWord": "ⲉⲓⲱⲣⲙ (ⲉϩⲣⲁⲓ)",
+        "englishTransliteration": "eiorm (ehrai)",
+        "gloss": "look intently",
+        "definition": "look intently",
+        "reference": "84b",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(8) eiarmes",
+    "copticWord": "ⲉⲓⲁⲣⲙⲉⲥ",
+    "englishTransliteration": "eiarmes",
+    "gloss": "astonishment",
+    "definition": "astonishment",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) eiorh",
+    "copticWord": "ⲉⲓⲱⲣϩ",
+    "englishTransliteration": "eiorh",
+    "gloss": "see, perceive",
+    "definition": "see, perceive",
+    "reference": "84b-85a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) eiorh (nsa-)",
+        "copticWord": "ⲉⲓⲱⲣϩ (ⲛⲥⲁ-)",
+        "englishTransliteration": "eiorh (nsa-)",
+        "gloss": "look after, toward",
+        "definition": "look after, toward",
+        "reference": "85a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(4) metiorh",
+    "copticWord": "ⲙⲉⲧⲓⲟⲣϩ",
+    "englishTransliteration": "metiorh",
+    "gloss": "sagacity",
+    "definition": "sagacity",
+    "reference": "85a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(5) chineiorh",
+    "copticWord": "ϭⲓⲛⲉⲓⲱⲣϩ",
+    "englishTransliteration": "chineiorh",
+    "gloss": "vision, power to see",
+    "definition": "vision, power to see",
+    "reference": "85a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin",
+      "gloss": "act of, manner of"
+    }
+  },
+  {
+    "headword": "(6) eierhe",
+    "copticWord": "ⲉⲓⲉⲣϩⲉ",
+    "englishTransliteration": "eierhe",
+    "gloss": "ray (of light), sight (of eye)",
+    "definition": "ray (of light), sight (of eye)",
+    "reference": "85a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) eis",
+    "copticWord": "ⲉⲓⲥ",
+    "englishTransliteration": "eis",
+    "gloss": "behold, lo, here is (used properly before noun)",
+    "definition": "behold, lo, here is (used properly before noun)",
+    "reference": "85a",
+    "variants": [
+      {
+        "headword": "(3) eis heete",
+        "copticWord": "ⲉⲓⲥ ϩⲏⲏⲧⲉ",
+        "englishTransliteration": "eis heete",
+        "gloss": "behold, lo, here is (properly before pronouns and verbs)",
+        "definition": "behold, lo, here is (properly before pronouns and verbs)",
+        "reference": "85b"
+      },
+      {
+        "headword": "(4) eis heete eis",
+        "copticWord": "ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲉⲓⲥ",
+        "englishTransliteration": "eis heete eis",
+        "gloss": "behold, lo, here is (before nouns)",
+        "definition": "behold, lo, here is (before nouns)",
+        "reference": "85b"
+      },
+      {
+        "headword": "(5) eis heene",
+        "copticWord": "ⲉⲓⲥ ϩⲏⲏⲛⲉ",
+        "englishTransliteration": "eis heene",
+        "gloss": "behold, lo, here is (before pl. nouns or pronouns)",
+        "definition": "behold, lo, here is (before pl. nouns or pronouns)",
+        "reference": "85b"
+      },
+      {
+        "headword": "(6) eis heepe",
+        "copticWord": "ⲉⲓⲥ ϩⲏⲏⲡⲉ",
+        "englishTransliteration": "eis heepe",
+        "gloss": "behold, lo, here is (properly before pronouns and verbs)",
+        "definition": "behold, lo, here is (properly before pronouns and verbs)",
+        "reference": "85b"
+      }
+    ]
+  },
+  {
+    "headword": "(7) eiste",
+    "copticWord": "ⲉⲓⲥⲧⲉ",
+    "englishTransliteration": "eiste",
+    "gloss": "behold, lo, here is (properly before pronouns and verbs) for ⲉⲓⲥ ϩⲏⲏⲧⲉ",
+    "definition": "behold, lo, here is (properly before pronouns and verbs) for ⲉⲓⲥ ϩⲏⲏⲧⲉ",
+    "reference": "85b"
+  },
+  {
+    "headword": "(8) eispe",
+    "copticWord": "ⲉⲓⲥⲡⲉ",
+    "englishTransliteration": "eispe",
+    "gloss": "behold, lo, here is (properly before pronouns and verbs) for ⲉⲓⲥ ϩⲏⲏⲡⲉ",
+    "definition": "behold, lo, here is (properly before pronouns and verbs) for ⲉⲓⲥ ϩⲏⲏⲡⲉ",
+    "reference": "85b"
+  },
+  {
+    "headword": "(1) ios",
+    "copticWord": "ⲓⲱⲥ",
+    "englishTransliteration": "ios",
+    "gloss": "hasten, be urgent",
+    "definition": "hasten, be urgent",
+    "reference": "86a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) ios (n-)",
+        "copticWord": "ⲓⲱⲥ (ⲛ-)",
+        "englishTransliteration": "ios (n-)",
+        "gloss": "hasten, be urgent (refl. meaning)",
+        "definition": "hasten, be urgent (refl. meaning)",
+        "reference": "86a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ios (mmo)",
+            "copticWord": "ⲓⲱⲥ (ⲙⲙⲟ⸗)",
+            "englishTransliteration": "ios (mmo)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "headword": "(3) refies",
+    "copticWord": "ⲣⲉϥⲓⲏⲥ",
+    "englishTransliteration": "refies",
+    "gloss": "one that hastens",
+    "definition": "one that hastens",
+    "reference": "86b",
+    "partOfSpeech": "m",
+    "isGreek": true
+  },
+  {
+    "headword": "(1) eiot",
+    "copticWord": "ⲉⲓⲱⲧ",
+    "englishTransliteration": "eiot",
+    "gloss": "father",
+    "definition": "father",
+    "reference": "86b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) ateiot",
+    "copticWord": "ⲁⲧⲉⲓⲱⲧ",
+    "englishTransliteration": "ateiot",
+    "gloss": "fatherless",
+    "definition": "fatherless",
+    "reference": "87a",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(4) reiot",
+    "copticWord": "ⲣⲉⲓⲱⲧ",
+    "englishTransliteration": "reiot",
+    "gloss": "be father",
+    "definition": "be father",
+    "reference": "87a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(5) mnteiot",
+    "copticWord": "ⲙⲛⲧⲉⲓⲱⲧ",
+    "englishTransliteration": "mnteiot",
+    "gloss": "family",
+    "definition": "family",
+    "reference": "87a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(6) shneiot",
+    "copticWord": "ϣⲛⲉⲓⲱⲧ",
+    "englishTransliteration": "shneiot",
+    "gloss": "relative on father's side",
+    "definition": "relative on father's side",
+    "reference": "87a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "shen",
+      "gloss": "tree"
+    }
+  },
+  {
+    "headword": "(1) eiote",
+    "copticWord": "ⲉⲓⲱⲧⲉ",
+    "englishTransliteration": "eiote",
+    "gloss": "dew",
+    "definition": "dew",
+    "reference": "87b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) eitn",
+    "copticWord": "ⲉⲓⲧⲛ",
+    "englishTransliteration": "eitn",
+    "gloss": "ground, earth, dust, rubbish",
+    "definition": "ground, earth, dust, rubbish",
+    "reference": "87b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) epeitn",
+    "copticWord": "ⲉⲡⲉⲓⲧⲛ",
+    "englishTransliteration": "epeitn",
+    "gloss": "to the ground, downwards",
+    "definition": "to the ground, downwards",
+    "reference": "87b-88a",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(3) mpeitn",
+    "copticWord": "ⲙⲡⲉⲓⲧⲛ",
+    "englishTransliteration": "mpeitn",
+    "gloss": "on the ground, below",
+    "definition": "on the ground, below",
+    "reference": "87b-88a",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(4) epitn",
+    "copticWord": "ⲉⲡⲓⲧⲛ",
+    "englishTransliteration": "epitn",
+    "gloss": "space leading downward, hole",
+    "definition": "space leading downward, hole",
+    "reference": "88a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "eiaau",
+    "copticWord": "ⲉⲓⲁⲁⲩ",
+    "englishTransliteration": "eiaau",
+    "gloss": "linen",
+    "definition": "linen",
+    "reference": "88a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "eioue",
+    "copticWord": "ⲉⲓⲟⲩⲉ",
+    "englishTransliteration": "eioue",
+    "gloss": "waters",
+    "definition": "waters",
+    "reference": "88a",
+    "partOfSpeech": "n",
+    "variants": [
+      {
+        "word": "eiooue",
+        "copticWord": "ⲉⲓⲟⲟⲩⲉ",
+        "englishTransliteration": "eiooue"
+      }
+    ]
+  },
+  {
+    "headword": "eiaouba",
+    "copticWord": "ⲉⲓⲁⲟⲩⲃⲁ",
+    "englishTransliteration": "eiaouba",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "88a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "eiooun",
+    "copticWord": "ⲉⲓⲟⲟⲩⲛ",
+    "englishTransliteration": "eiooun",
+    "gloss": "a title, meaning unknown",
+    "definition": "a title, meaning unknown",
+    "reference": "88a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) eishe",
+    "copticWord": "ⲉⲓϣⲉ",
+    "englishTransliteration": "eishe",
+    "gloss": "hang, suspend",
+    "definition": "hang, suspend",
+    "reference": "88b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) eishe (e-)",
+        "copticWord": "ⲉⲓϣⲉ (ⲉ-)",
+        "englishTransliteration": "eishe (e-)",
+        "gloss": "hang upon, to",
+        "definition": "hang upon, to",
+        "reference": "88b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) eishe (ejn-)",
+        "copticWord": "ⲉⲓϣⲉ (ⲉϫⲛ-)",
+        "englishTransliteration": "eishe (ejn-)",
+        "gloss": "hang upon",
+        "definition": "hang upon",
+        "reference": "88b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) eishe (nsa-)",
+        "copticWord": "ⲉⲓϣⲉ (ⲛⲥⲁ-)",
+        "englishTransliteration": "eishe (nsa-)",
+        "gloss": "hang from",
+        "definition": "hang from",
+        "reference": "88b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) eishe (ehrai)",
+        "copticWord": "ⲉⲓϣⲉ (ⲉϩⲣⲁⲓ)",
+        "englishTransliteration": "eishe (ehrai)",
+        "gloss": "hang up",
+        "definition": "hang up",
+        "reference": "88b",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(8) ashe (e-)",
+    "copticWord": "ⲁϣⲉ (ⲉ-)",
+    "englishTransliteration": "ashe (e-)",
+    "gloss": "depend from/on, rely on",
+    "definition": "depend from/on, rely on",
+    "reference": "88b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(9) ashi (ejen-)",
+    "copticWord": "ⲁϣⲓ (ⲉϫⲉⲛ-)",
+    "englishTransliteration": "ashi (ejen-)",
+    "gloss": "hang over, threaten",
+    "definition": "hang over, threaten",
+    "reference": "88b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(10) ashe (n-)",
+    "copticWord": "ⲁϣⲉ (ⲛ-)",
+    "englishTransliteration": "ashe (n-)",
+    "gloss": "pendant from",
+    "definition": "pendant from",
+    "reference": "88b-89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(11) ashe (nsa-)",
+    "copticWord": "ⲁϣⲉ (ⲛⲥⲁ-)",
+    "englishTransliteration": "ashe (nsa-)",
+    "gloss": "be attached to",
+    "definition": "be attached to",
+    "reference": "88b-89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(12) ashe (hn-)",
+    "copticWord": "ⲁϣⲉ (ϩⲛ-)",
+    "englishTransliteration": "ashe (hn-)",
+    "gloss": "depend on",
+    "definition": "depend on",
+    "reference": "89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(13) ashe (ebol)",
+    "copticWord": "ⲁϣⲉ (ⲉⲃⲟⲗ)",
+    "englishTransliteration": "ashe (ebol)",
+    "gloss": "hang out, overhang",
+    "definition": "hang out, overhang",
+    "reference": "89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(14) ashi (epshoi)",
+    "copticWord": "ⲁϣⲓ (ⲉⲡϣⲱⲓ)",
+    "englishTransliteration": "ashi (epshoi)",
+    "gloss": "be hung up",
+    "definition": "be hung up",
+    "reference": "89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(15) ashe (ehrai)",
+    "copticWord": "ⲁϣⲉ (ⲉϩⲣⲁⲓ)",
+    "englishTransliteration": "ashe (ehrai)",
+    "gloss": "be hung up",
+    "definition": "be hung up",
+    "reference": "89a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(16) jinishi",
+    "copticWord": "ϫⲓⲛⲓϣⲓ",
+    "englishTransliteration": "jinishi",
+    "gloss": "hanging, crucifixion",
+    "definition": "hanging, crucifixion",
+    "reference": "89a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin",
+      "gloss": "act of, manner of"
+    }
+  },
+  {
+    "headword": "isht",
+    "copticWord": "ⲓϣⲧ",
+    "englishTransliteration": "isht",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "89a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "eishouei",
+    "copticWord": "ⲉⲓϣⲟⲩⲉⲓ",
+    "englishTransliteration": "eishouei",
+    "gloss": "roast, dry (by heating)",
+    "definition": "roast, dry (by heating)",
+    "reference": "89a",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "(1) eiohe",
+    "copticWord": "ⲉⲓⲱϩⲉ",
+    "englishTransliteration": "eiohe",
+    "gloss": "field",
+    "definition": "field",
+    "reference": "89b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) shieiohe",
+    "copticWord": "ϣⲓⲉⲓⲱϩⲉ",
+    "englishTransliteration": "shieiohe",
+    "gloss": "measure field",
+    "definition": "measure field",
+    "reference": "90a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "shi ",
+      "gloss": "measure, weigh"
+    }
+  },
+  {
+    "headword": "(3) eiehshen",
+    "copticWord": "ⲉⲓⲉϩϣⲏⲛ",
+    "englishTransliteration": "eiehshen",
+    "gloss": "grove, thicket, copse",
+    "definition": "grove, thicket, copse",
+    "reference": "89b",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "shen",
+      "gloss": "tree"
+    }
+  },
+  {
+    "headword": "(4) steiohe",
+    "copticWord": "ⲥⲧⲉⲓⲱϩⲉ",
+    "englishTransliteration": "steiohe",
+    "gloss": "aroura (a measure of tilled land)",
+    "definition": "aroura (a measure of tilled land)",
+    "reference": "89b",
+    "partOfSpeech": "f",
+    "isGreek": true
+  },
+  {
+    "headword": "eichrei",
+    "copticWord": "ⲉⲓϭⲣⲉⲓ",
+    "englishTransliteration": "eichrei",
+    "gloss": "hasten",
+    "definition": "hasten",
+    "reference": "90b",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "k",
+    "copticWord": "ⲕ︦",
+    "englishTransliteration": "k",
+    "gloss": "20",
+    "definition": "20",
+    "reference": "90a"
+  },
+  {
+    "headword": "k-",
+    "copticWord": "ⲕ-",
+    "englishTransliteration": "k-",
+    "gloss": "prefix of 1st present 2nd person sing. masc.",
+    "definition": "prefix of 1st present 2nd person sing. masc."
+  },
+  {
+    "headword": "(3) ke-",
+    "copticWord": "ⲕⲉ-",
+    "englishTransliteration": "ke-",
+    "gloss": "(the) other . . ., different, any other",
+    "definition": "(the) other . . ., different, any other",
+    "reference": "90b-91a",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(4) keoua",
+    "copticWord": "ⲕⲉⲟⲩⲁ",
+    "englishTransliteration": "keoua",
+    "gloss": "another, (with def. art.) the other",
+    "definition": "another, (with def. art.) the other",
+    "reference": "91a",
+    "partOfSpeech": "pron"
+  },
+  {
+    "headword": "(5) keouei",
+    "copticWord": "ⲕⲉⲟⲩⲉⲓ",
+    "englishTransliteration": "keouei",
+    "gloss": "another, (with def. art.) the other",
+    "definition": "another, (with def. art.) the other",
+    "reference": "91a",
+    "partOfSpeech": "pron"
+  },
+  {
+    "headword": "(7) rpke-",
+    "copticWord": "ⲣⲡⲕⲉ-",
+    "englishTransliteration": "rpke-",
+    "gloss": "be, do also",
+    "definition": "be, do also",
+    "reference": "91b-92a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "erpke-",
+        "copticWord": "ⲉⲣⲡⲕⲉ-",
+        "englishTransliteration": "erpke-"
+      }
+    ],
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "ko",
+    "copticWord": "ⲕⲟ",
+    "englishTransliteration": "ko",
+    "gloss": "bull",
+    "definition": "bull",
+    "reference": "92a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "koie",
+    "copticWord": "ⲕⲟⲓⲉ",
+    "englishTransliteration": "koie",
+    "gloss": "field (high lying as tillage or pasture)",
+    "definition": "field (high lying as tillage or pasture)",
+    "reference": "92b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kou",
+    "copticWord": "ⲕⲟⲩ",
+    "englishTransliteration": "kou",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "92b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) koui",
+    "copticWord": "ⲕⲟⲩⲓ",
+    "englishTransliteration": "koui",
+    "gloss": "small person or thing, young person",
+    "definition": "small person or thing, young person",
+    "reference": "92b-93a",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "headword": "(5) koui shem",
+        "copticWord": "ⲕⲟⲩⲓ ϣⲏⲙ",
+        "englishTransliteration": "koui shem",
+        "gloss": "little child",
+        "definition": "little child",
+        "reference": "563b",
+        "partOfSpeech": "m"
+      }
+    ]
+  },
+  {
+    "headword": "(4) kouinhet",
+    "copticWord": "ⲕⲟⲩⲓⲛϩⲏⲧ",
+    "englishTransliteration": "kouinhet",
+    "gloss": "faint-hearted, impatient person",
+    "definition": "faint-hearted, impatient person",
+    "reference": "93b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(5) rkoui",
+    "copticWord": "ⲣⲕⲟⲩⲓ",
+    "englishTransliteration": "rkoui",
+    "gloss": "be small, few, be young",
+    "definition": "be small, few, be young",
+    "reference": "94a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) mntkoui",
+    "copticWord": "ⲙⲛⲧⲕⲟⲩⲓ",
+    "englishTransliteration": "mntkoui",
+    "gloss": "smallness, youth",
+    "definition": "smallness, youth",
+    "reference": "94a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(1) ko",
+    "copticWord": "ⲕⲱ",
+    "englishTransliteration": "ko",
+    "gloss": "place, appoint, set down, make",
+    "definition": "place, appoint, set down, make",
+    "reference": "94b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(4) ko neuo",
+        "copticWord": "ⲕⲱ ⲛⲉⲩⲱ",
+        "englishTransliteration": "ko neuo",
+        "gloss": "deposit as pledge",
+        "definition": "deposit as pledge",
+        "reference": "62b",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      },
+      {
+        "headword": "(9) ko haeiat",
+        "copticWord": "ⲕⲱ ϩⲁⲉⲓⲁⲧ⸗",
+        "englishTransliteration": "ko haeiat",
+        "gloss": "intend to do",
+        "definition": "intend to do",
+        "reference": "74a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "place, appoint, set down, make"
+        }
+      },
+      {
+        "headword": "(6) ko (e-)",
+        "copticWord": "ⲕⲱ (ⲉ-)",
+        "englishTransliteration": "ko (e-)",
+        "gloss": "rely upon",
+        "definition": "rely upon",
+        "reference": "96a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) ko (ejn-)",
+        "copticWord": "ⲕⲱ (ⲉϫⲛ-)",
+        "englishTransliteration": "ko (ejn-)",
+        "gloss": "put, lay upon",
+        "definition": "put, lay upon",
+        "reference": "96a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) ko (nsa-)",
+        "copticWord": "ⲕⲱ (ⲛⲥⲁ-)",
+        "englishTransliteration": "ko (nsa-)",
+        "gloss": "put, leave behind, renounce",
+        "definition": "put, leave behind, renounce",
+        "reference": "96a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) ko nsa-",
+        "copticWord": "ⲕⲱ ⲛⲥⲁ-",
+        "englishTransliteration": "ko nsa-",
+        "gloss": "leaving behind",
+        "definition": "leaving behind",
+        "reference": "96a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(10) ko (ntn-)",
+        "copticWord": "ⲕⲱ (ⲛⲧⲛ-)",
+        "englishTransliteration": "ko (ntn-)",
+        "gloss": "put, keep in hand, have, entrust to, esteem",
+        "definition": "put, keep in hand, have, entrust to, esteem",
+        "reference": "96a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) ko (ha-)",
+        "copticWord": "ⲕⲱ (ϩⲁ-)",
+        "englishTransliteration": "ko (ha-)",
+        "gloss": "place under, on behalf of, renounce for",
+        "definition": "place under, on behalf of, renounce for",
+        "reference": "96a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) ko (harn-)",
+        "copticWord": "ⲕⲱ (ϩⲁⲣⲛ-)",
+        "englishTransliteration": "ko (harn-)",
+        "gloss": "place before (of food)",
+        "definition": "place before (of food)",
+        "reference": "96b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) ko (harat-)",
+        "copticWord": "ⲕⲱ (ϩⲁⲣⲁⲧ-)",
+        "englishTransliteration": "ko (harat-)",
+        "gloss": "place at feet of, before",
+        "definition": "place at feet of, before",
+        "reference": "96b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) ko (hahtn-)",
+        "copticWord": "ⲕⲱ (ϩⲁϩⲧⲛ-)",
+        "englishTransliteration": "ko (hahtn-)",
+        "gloss": "place before, commit to",
+        "definition": "place before, commit to",
+        "reference": "96b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(15) ko (hijn-)",
+        "copticWord": "ⲕⲱ (ϩⲓϫⲛ-)",
+        "englishTransliteration": "ko (hijn-)",
+        "gloss": "place, let loose upon",
+        "definition": "place, let loose upon",
+        "reference": "96b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(16) ko (ebol)",
+        "copticWord": "ⲕⲱ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "ko (ebol)",
+        "gloss": "release, loosen, dismiss",
+        "definition": "release, loosen, dismiss",
+        "reference": "96b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(17) ko ebol",
+        "copticWord": "ⲕⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ko ebol",
+        "gloss": "freedom, remission, forgiveness",
+        "definition": "freedom, remission, forgiveness",
+        "reference": "97b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(25) ko (epeset)",
+        "copticWord": "ⲕⲱ (ⲉⲡⲉⲥⲏⲧ)",
+        "englishTransliteration": "ko (epeset)",
+        "gloss": "put, let down",
+        "definition": "put, let down",
+        "reference": "97b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(26) ko (epahou)",
+        "copticWord": "ⲕⲱ (ⲉⲡⲁϩⲟⲩ)",
+        "englishTransliteration": "ko (epahou)",
+        "gloss": "leave behind, over",
+        "definition": "leave behind, over",
+        "reference": "97b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(27) ko (ehoun)",
+        "copticWord": "ⲕⲱ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "ko (ehoun)",
+        "gloss": "put in, admit",
+        "definition": "put in, admit",
+        "reference": "97b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(29) ko (ehrai)",
+        "copticWord": "ⲕⲱ (ⲉϩⲣⲁⲓ)",
+        "englishTransliteration": "ko (ehrai)",
+        "gloss": "put, lay down, aside",
+        "definition": "put, lay down, aside",
+        "reference": "98a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(30) ko ehrai",
+        "copticWord": "ⲕⲱ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "ko ehrai",
+        "gloss": "laying down, provision",
+        "definition": "laying down, provision",
+        "reference": "98a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(34) ko (hibol)",
+        "copticWord": "ⲕⲱ (ϩⲓⲃⲟⲗ)",
+        "englishTransliteration": "ko (hibol)",
+        "gloss": "put outside, exclude, excommunicate",
+        "definition": "put outside, exclude, excommunicate",
+        "reference": "98b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) ko nro",
+        "copticWord": "ⲕⲱ ⲛⲣⲱ⸗",
+        "englishTransliteration": "ko nro",
+        "gloss": "place, leave mouth, be silent",
+        "definition": "place, leave mouth, be silent",
+        "reference": "288b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "-karo",
+            "copticWord": "ⲕⲁⲣⲱ⸗",
+            "englishTransliteration": "karo"
+          },
+          {
+            "word": "cho nro",
+            "copticWord": "ⲭⲱ ⲛⲣⲱ⸗",
+            "englishTransliteration": "cho nro"
+          },
+          {
+            "word": "charo",
+            "copticWord": "ⲭⲁⲣⲱ⸗",
+            "englishTransliteration": "charo"
+          }
+        ],
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      },
+      {
+        "headword": "(4) ko nrmhe",
+        "copticWord": "ⲕⲱ ⲛⲣⲙϩⲉ",
+        "englishTransliteration": "ko nrmhe",
+        "gloss": "set free",
+        "definition": "set free",
+        "reference": "297a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      },
+      {
+        "headword": "(21) ko ntoot ebol",
+        "copticWord": "ⲕⲱ ⲛⲧⲟⲟⲧ⸗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ko ntoot ebol",
+        "gloss": "loosen hand, cease, despair, renounce",
+        "definition": "loosen hand, cease, despair, renounce",
+        "reference": "426a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      },
+      {
+        "headword": "(9) ko nhet",
+        "copticWord": "ⲕⲱ ⲛϩⲏⲧ",
+        "englishTransliteration": "ko nhet",
+        "gloss": "trust",
+        "definition": "trust",
+        "reference": "715b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) ko njaie",
+        "copticWord": "ⲕⲱ ⲛϫⲁⲓⲉ",
+        "englishTransliteration": "ko njaie",
+        "gloss": "make desert",
+        "definition": "make desert",
+        "reference": "746a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ko njaeie",
+            "copticWord": "ⲕⲱ ⲛϫⲁⲉⲓⲉ",
+            "englishTransliteration": "ko njaeie"
+          }
+        ],
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(3) jincho",
+    "copticWord": "ϫⲓⲛⲭⲱ",
+    "englishTransliteration": "jincho",
+    "gloss": "placing, laying down",
+    "definition": "placing, laying down",
+    "reference": "95b",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "headword": "(23) jincho ebol",
+        "copticWord": "ϫⲓⲛⲭⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jincho ebol",
+        "gloss": "forgiveness",
+        "definition": "forgiveness",
+        "reference": "97b",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(32) jincho ehrai",
+        "copticWord": "ϫⲓⲛⲭⲱ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "jincho ehrai",
+        "gloss": "laying down, what is laid down, nature, fashion",
+        "definition": "laying down, what is laid down, nature, fashion",
+        "reference": "98b",
+        "partOfSpeech": "m"
+      }
+    ]
+  },
+  {
+    "headword": "(4) chinko",
+    "copticWord": "ϭⲓⲛⲕⲱ",
+    "englishTransliteration": "chinko",
+    "gloss": "placing, laying down",
+    "definition": "placing, laying down",
+    "reference": "95b",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "headword": "(22) chinko ebol",
+        "copticWord": "ϭⲓⲛⲕⲱ ⲉⲃⲟⲗ",
+        "englishTransliteration": "chinko ebol",
+        "gloss": "forgiveness",
+        "definition": "forgiveness",
+        "reference": "97b",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(28) chinko ehoun",
+        "copticWord": "ϭⲓⲛⲕⲱ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "chinko ehoun",
+        "gloss": "entrance",
+        "definition": "entrance",
+        "reference": "98a",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(31) chinko ehrai",
+        "copticWord": "ϭⲓⲛⲕⲱ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "chinko ehrai",
+        "gloss": "laying down, what is laid down, nature, fashion",
+        "definition": "laying down, what is laid down, nature, fashion",
+        "reference": "98b",
+        "partOfSpeech": "f"
+      }
+    ]
+  },
+  {
+    "headword": "(33) cho (sabol)",
+    "copticWord": "ⲭⲱ (ⲥⲁⲃⲟⲗ)",
+    "englishTransliteration": "cho (sabol)",
+    "gloss": "put outside, exclude",
+    "definition": "put outside, exclude",
+    "reference": "98b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) kbbe",
+    "copticWord": "ⲕⲃⲃⲉ",
+    "englishTransliteration": "kbbe",
+    "gloss": "fold, crease",
+    "definition": "fold, crease",
+    "reference": "99a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(4) koobef",
+    "copticWord": "ⲕⲟⲟⲃⲉϥ",
+    "englishTransliteration": "koobef",
+    "gloss": "doubling",
+    "definition": "doubling",
+    "reference": "99a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) koobe",
+    "copticWord": "ⲕⲱⲱⲃⲉ",
+    "englishTransliteration": "koobe",
+    "gloss": "compel, seize by force",
+    "definition": "compel, seize by force",
+    "reference": "99b",
+    "variants": [
+      {
+        "word": "koofe",
+        "copticWord": "ⲕⲱⲱϥⲉ",
+        "englishTransliteration": "koofe"
+      },
+      {
+        "headword": "(23) koobe noukote",
+        "copticWord": "ⲕⲱⲱⲃⲉ ⲛⲟⲩⲕⲱⲧⲉ",
+        "englishTransliteration": "koobe noukote",
+        "gloss": "compel a turn",
+        "definition": "compel a turn",
+        "reference": "126b-127a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(2) kba",
+    "copticWord": "ⲕⲃⲁ",
+    "englishTransliteration": "kba",
+    "gloss": "compulsion, forced labour",
+    "definition": "compulsion, forced labour",
+    "reference": "99b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) rkba",
+    "copticWord": "ⲣⲕⲃⲁ",
+    "englishTransliteration": "rkba",
+    "gloss": "do forced labour",
+    "definition": "do forced labour",
+    "reference": "99b",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) tikba",
+    "copticWord": "ϯⲕⲃⲁ",
+    "englishTransliteration": "tikba",
+    "gloss": "avenge",
+    "definition": "avenge",
+    "reference": "99b",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(7) jikba",
+    "copticWord": "ϫⲓⲕⲃⲁ",
+    "englishTransliteration": "jikba",
+    "gloss": "take vengeance",
+    "definition": "take vengeance",
+    "reference": "99b",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(1) kbo",
+    "copticWord": "ⲕⲃⲟ",
+    "englishTransliteration": "kbo",
+    "gloss": "be, become cool",
+    "definition": "be, become cool",
+    "reference": "100a",
+    "variants": [
+      {
+        "word": "kba",
+        "copticWord": "ⲕⲃⲁ",
+        "englishTransliteration": "kba"
+      }
+    ]
+  },
+  {
+    "headword": "(3) tikbo",
+    "copticWord": "ϯⲕⲃⲟ",
+    "englishTransliteration": "tikbo",
+    "gloss": "make cool",
+    "definition": "make cool",
+    "reference": "100a",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) jikbo",
+    "copticWord": "ϫⲓⲕⲃⲟ",
+    "englishTransliteration": "jikbo",
+    "gloss": "get cooling, refreshment",
+    "definition": "get cooling, refreshment",
+    "reference": "100a",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "kobh",
+    "copticWord": "ⲕⲱⲃϩ",
+    "englishTransliteration": "kobh",
+    "gloss": "sinew, cord",
+    "definition": "sinew, cord",
+    "reference": "100a",
+    "variants": [
+      {
+        "word": "koobh",
+        "copticWord": "ⲕⲟⲟⲃϩ",
+        "englishTransliteration": "koobh"
+      }
+    ]
+  },
+  {
+    "headword": "kouk",
+    "copticWord": "ⲕⲟⲩⲕ",
+    "englishTransliteration": "kouk",
+    "gloss": "rhind",
+    "definition": "rhind",
+    "reference": "100a",
+    "variants": [
+      {
+        "word": "kouke",
+        "copticWord": "ⲕⲟⲩⲕⲉ",
+        "englishTransliteration": "kouke"
+      }
+    ]
+  },
+  {
+    "headword": "(1) kok",
+    "copticWord": "ⲕⲱⲕ",
+    "englishTransliteration": "kok",
+    "gloss": "peel, strip off, divest",
+    "definition": "peel, strip off, divest",
+    "reference": "100b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(3) kok (ebol)",
+        "copticWord": "ⲕⲱⲕ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "kok (ebol)",
+        "gloss": "peel, strip off, divest",
+        "definition": "peel, strip off, divest",
+        "reference": "100b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) kok aheu",
+        "copticWord": "ⲕⲱⲕ ⲁϩⲏⲩ",
+        "englishTransliteration": "kok aheu",
+        "gloss": "strip, make naked",
+        "definition": "strip, make naked",
+        "reference": "101a"
+      }
+    ]
+  },
+  {
+    "headword": "(6) kouke",
+    "copticWord": "ⲕⲟⲩⲕⲉ",
+    "englishTransliteration": "kouke",
+    "gloss": "rind, skin",
+    "definition": "rind, skin",
+    "reference": "101a"
+  },
+  {
+    "headword": "(1) kake",
+    "copticWord": "ⲕⲁⲕⲉ",
+    "englishTransliteration": "kake",
+    "gloss": "darkness",
+    "definition": "darkness",
+    "reference": "101b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) rkake",
+    "copticWord": "ⲣⲕⲁⲕⲉ",
+    "englishTransliteration": "rkake",
+    "gloss": "be, become dark",
+    "definition": "be, become dark",
+    "reference": "101b",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(1) keke",
+    "copticWord": "ⲕⲉⲕⲉ",
+    "englishTransliteration": "keke",
+    "gloss": "child",
+    "definition": "child",
+    "reference": "101b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "koukle",
+    "copticWord": "ⲕⲟⲩⲕⲗⲉ",
+    "englishTransliteration": "koukle",
+    "gloss": "hood, cowl (of monks)",
+    "definition": "hood, cowl (of monks)",
+    "reference": "101b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "koukoumau",
+    "copticWord": "ⲕⲟⲩⲕⲟⲩⲙⲁⲩ",
+    "englishTransliteration": "koukoumau",
+    "gloss": "pan",
+    "definition": "pan",
+    "reference": "102a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kakoupat",
+    "copticWord": "ⲕⲁⲕⲟⲩⲡⲁⲧ",
+    "englishTransliteration": "kakoupat",
+    "gloss": "hoopoe",
+    "definition": "hoopoe",
+    "reference": "102a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kle",
+    "copticWord": "ⲕⲗⲉ",
+    "englishTransliteration": "kle",
+    "gloss": "vessel for liquids",
+    "definition": "vessel for liquids",
+    "reference": "102a",
+    "variants": [
+      {
+        "word": "kele",
+        "copticWord": "ⲕⲉⲗⲏ",
+        "englishTransliteration": "kele"
+      }
+    ]
+  },
+  {
+    "headword": "klo",
+    "copticWord": "ⲕⲗⲟ",
+    "englishTransliteration": "klo",
+    "gloss": "poison",
+    "definition": "poison",
+    "reference": "102b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kale",
+    "copticWord": "ⲕⲁⲗⲉ",
+    "englishTransliteration": "kale",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "102b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kolkl",
+    "copticWord": "ⲕⲟⲗⲕⲗ",
+    "englishTransliteration": "kolkl",
+    "gloss": "be round, curved (?)",
+    "definition": "be round, curved (?)",
+    "reference": "103a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "kalkil",
+    "copticWord": "ⲕⲁⲗⲕⲓⲗ",
+    "englishTransliteration": "kalkil",
+    "gloss": "wheel",
+    "definition": "wheel",
+    "reference": "103a",
+    "variants": [
+      {
+        "word": "kalkel",
+        "copticWord": "ⲕⲁⲗⲕⲉⲗ",
+        "englishTransliteration": "kalkel"
+      },
+      {
+        "word": "kelkil",
+        "copticWord": "ⲕⲉⲗⲕⲓⲗ",
+        "englishTransliteration": "kelkil"
+      },
+      {
+        "word": "chelchil",
+        "copticWord": "ϭⲉⲗϭⲓⲗ",
+        "englishTransliteration": "chelchil"
+      },
+      {
+        "word": "kelkel",
+        "copticWord": "ⲕⲉⲗⲕⲉⲗ",
+        "englishTransliteration": "kelkel"
+      },
+      {
+        "word": "cheilcheil",
+        "copticWord": "ϭⲉⲓⲗϭⲉⲓⲗ",
+        "englishTransliteration": "cheilcheil"
+      }
+    ]
+  },
+  {
+    "headword": "klal",
+    "copticWord": "ⲕⲗⲁⲗ",
+    "englishTransliteration": "klal",
+    "gloss": "chain",
+    "definition": "chain",
+    "reference": "103a",
+    "variants": [
+      {
+        "word": "klel",
+        "copticWord": "ⲕⲗⲏⲗ",
+        "englishTransliteration": "klel"
+      }
+    ]
+  },
+  {
+    "headword": "kalele",
+    "copticWord": "ⲕⲁⲗⲉⲗⲉ",
+    "englishTransliteration": "kalele",
+    "gloss": "sonorous wooden board",
+    "definition": "sonorous wooden board",
+    "reference": "103b",
+    "variants": [
+      {
+        "word": "kaleele",
+        "copticWord": "ⲕⲁⲗⲉⲉⲗⲉ",
+        "englishTransliteration": "kaleele"
+      },
+      {
+        "word": "kalele",
+        "copticWord": "ⲕⲁⲗⲏⲗⲉ",
+        "englishTransliteration": "kalele"
+      },
+      {
+        "word": "kalela",
+        "copticWord": "ⲕⲁⲗⲏⲗⲁ",
+        "englishTransliteration": "kalela"
+      },
+      {
+        "word": "keleele",
+        "copticWord": "ⲕⲉⲗⲉⲉⲗⲉ",
+        "englishTransliteration": "keleele"
+      }
+    ]
+  },
+  {
+    "headword": "(1) klle",
+    "copticWord": "ⲕⲗⲗⲉ",
+    "englishTransliteration": "klle",
+    "gloss": "bolt",
+    "definition": "bolt",
+    "reference": "103b"
+  },
+  {
+    "headword": "(4) kelenkeh",
+    "copticWord": "ⲕⲉⲗⲉⲛⲕⲉϩ",
+    "englishTransliteration": "kelenkeh",
+    "gloss": "elbow",
+    "definition": "elbow",
+    "reference": "104a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(5) kelounjf",
+    "copticWord": "ⲕⲉⲗⲟⲩⲛϫϥ",
+    "englishTransliteration": "kelounjf",
+    "gloss": "jawbone",
+    "definition": "jawbone",
+    "reference": "104a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(6) hamklle",
+    "copticWord": "ϩⲁⲙⲕⲗⲗⲉ",
+    "englishTransliteration": "hamklle",
+    "gloss": "bolt-smith, smith",
+    "definition": "bolt-smith, smith",
+    "reference": "104a",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "ham",
+      "gloss": "craftsman"
+    }
+  },
+  {
+    "headword": "kloole",
+    "copticWord": "ⲕⲗⲟⲟⲗⲉ",
+    "englishTransliteration": "kloole",
+    "gloss": "cloud",
+    "definition": "cloud",
+    "reference": "104a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) kolem",
+    "copticWord": "ⲕⲱⲗⲉⲙ",
+    "englishTransliteration": "kolem",
+    "gloss": "hasten",
+    "definition": "hasten",
+    "reference": "104b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) refcholem",
+    "copticWord": "ⲣⲉϥⲭⲱⲗⲉⲙ",
+    "englishTransliteration": "refcholem",
+    "gloss": "hasty man",
+    "definition": "hasty man",
+    "reference": "104b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(4) nkolem",
+    "copticWord": "ⲛⲕⲱⲗⲉⲙ",
+    "englishTransliteration": "nkolem",
+    "gloss": "in haste, quickly, soon",
+    "definition": "in haste, quickly, soon",
+    "reference": "104b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "kolm",
+    "copticWord": "ⲕⲱⲗⲙ",
+    "englishTransliteration": "kolm",
+    "gloss": "corner of eye",
+    "definition": "corner of eye",
+    "reference": "104b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) klom",
+    "copticWord": "ⲕⲗⲟⲙ",
+    "englishTransliteration": "klom",
+    "gloss": "crown, wreath",
+    "definition": "crown, wreath",
+    "reference": "104b-105a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) tiklom",
+    "copticWord": "ϯⲕⲗⲟⲙ",
+    "englishTransliteration": "tiklom",
+    "gloss": "crown, set a crown",
+    "definition": "crown, set a crown",
+    "reference": "105a",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) jintichlom",
+    "copticWord": "ϫⲓⲛϯⲭⲗⲟⲙ",
+    "englishTransliteration": "jintichlom",
+    "gloss": "crowning",
+    "definition": "crowning",
+    "reference": "105a",
+    "crossReference": {
+      "target": "chin",
+      "gloss": "act of, manner of"
+    }
+  },
+  {
+    "headword": "(5) jiklom",
+    "copticWord": "ϫⲓⲕⲗⲟⲙ",
+    "englishTransliteration": "jiklom",
+    "gloss": "receive, bear crown",
+    "definition": "receive, bear crown",
+    "reference": "105a",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(6) refjiklom",
+    "copticWord": "ⲣⲉϥϫⲓⲕⲗⲟⲙ",
+    "englishTransliteration": "refjiklom",
+    "gloss": "crown bearer",
+    "definition": "crown bearer",
+    "reference": "105a",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "klme",
+    "copticWord": "ⲕⲗⲙⲉ",
+    "englishTransliteration": "klme",
+    "gloss": "pad, poultice",
+    "definition": "pad, poultice",
+    "reference": "105a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kloome",
+    "copticWord": "ⲕⲗⲟⲟⲙⲉ",
+    "englishTransliteration": "kloome",
+    "gloss": "weal",
+    "definition": "weal",
+    "reference": "105a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) kolp",
+    "copticWord": "ⲕⲱⲗⲡ",
+    "englishTransliteration": "kolp",
+    "gloss": "steal, rob",
+    "definition": "steal, rob",
+    "reference": "105b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "kalopou",
+    "copticWord": "ⲕⲁⲗⲱⲡⲟⲩ",
+    "englishTransliteration": "kalopou",
+    "gloss": "small dog, lapdog (?)",
+    "definition": "small dog, lapdog (?)",
+    "reference": "105b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "klps",
+    "copticWord": "ⲕⲗⲯ",
+    "englishTransliteration": "klps",
+    "gloss": "blow",
+    "definition": "blow",
+    "reference": "105b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "klousme",
+    "copticWord": "ⲕⲗⲟⲩⲥⲙⲉ",
+    "englishTransliteration": "klousme",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "106a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kalt-",
+    "copticWord": "ⲕⲁⲗⲧ-",
+    "englishTransliteration": "kalt-",
+    "gloss": "be hairless",
+    "definition": "be hairless",
+    "reference": "106a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "kalajijte",
+    "copticWord": "ⲕⲁⲗⲁϫⲓϫⲧⲉ",
+    "englishTransliteration": "kalajijte",
+    "gloss": "part of a house (on its roof)",
+    "definition": "part of a house (on its roof)",
+    "reference": "106a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(9) klhe",
+    "copticWord": "ⲕⲗϩⲉ",
+    "englishTransliteration": "klhe",
+    "gloss": "blow",
+    "definition": "blow",
+    "reference": "107a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kalahe",
+    "copticWord": "ⲕⲁⲗⲁϩⲏ",
+    "englishTransliteration": "kalahe",
+    "gloss": "womb",
+    "definition": "womb",
+    "reference": "107a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(3) kalajtort",
+    "copticWord": "ⲕⲁⲗⲁϫⲧⲱⲣⲧ",
+    "englishTransliteration": "kalajtort",
+    "gloss": "part of Haus",
+    "definition": "part of Haus",
+    "reference": "107b",
+    "variants": [
+      {
+        "word": "-kaljtort",
+        "copticWord": "ⲕⲁⲗϫⲧⲟⲣⲧ",
+        "englishTransliteration": "kaljtort"
+      }
+    ]
+  },
+  {
+    "headword": "(4) klje",
+    "copticWord": "ⲕⲗϫⲉ",
+    "englishTransliteration": "klje",
+    "gloss": "angle, corner",
+    "definition": "angle, corner",
+    "reference": "108a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(5) metklje",
+    "copticWord": "ⲙⲉⲧⲕⲗϫⲉ",
+    "englishTransliteration": "metklje",
+    "gloss": "crookedness",
+    "definition": "crookedness",
+    "reference": "108a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(4) chinkim",
+    "copticWord": "ϭⲓⲛⲕⲓⲙ",
+    "englishTransliteration": "chinkim",
+    "gloss": "movement",
+    "definition": "movement",
+    "reference": "109a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(6) kmto",
+    "copticWord": "ⲕⲙⲧⲟ",
+    "englishTransliteration": "kmto",
+    "gloss": "moving of the earth, earthquake",
+    "definition": "moving of the earth, earthquake",
+    "reference": "109a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kom",
+    "copticWord": "ⲕⲱⲙ",
+    "englishTransliteration": "kom",
+    "gloss": "part of a farm cart",
+    "definition": "part of a farm cart",
+    "reference": "109a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) kmkm",
+    "copticWord": "ⲕⲙⲕⲙ",
+    "englishTransliteration": "kmkm",
+    "gloss": "strike, beat",
+    "definition": "strike, beat",
+    "reference": "109a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) kmom",
+    "copticWord": "ⲕⲙⲟⲙ",
+    "englishTransliteration": "kmom",
+    "gloss": "be, become black",
+    "definition": "be, become black",
+    "reference": "109b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) kame",
+    "copticWord": "ⲕⲁⲙⲉ",
+    "englishTransliteration": "kame",
+    "gloss": "black",
+    "definition": "black",
+    "reference": "109b",
+    "variants": [
+      {
+        "word": "kame",
+        "copticWord": "ⲕⲁⲙⲏ",
+        "englishTransliteration": "kame"
+      },
+      {
+        "word": "kmme",
+        "copticWord": "ⲕⲙⲙⲉ",
+        "englishTransliteration": "kmme"
+      },
+      {
+        "word": "-kam",
+        "copticWord": "ⲕⲁⲙ",
+        "englishTransliteration": "kam"
+      }
+    ]
+  },
+  {
+    "headword": "(6) rkame",
+    "copticWord": "ⲣⲕⲁⲙⲉ",
+    "englishTransliteration": "rkame",
+    "gloss": "be black",
+    "definition": "be black",
+    "reference": "110a",
+    "variants": [
+      {
+        "word": "rkame",
+        "copticWord": "ⲣⲕⲁⲙⲏ",
+        "englishTransliteration": "rkame"
+      },
+      {
+        "word": "rkmme",
+        "copticWord": "ⲣⲕⲙⲙⲉ",
+        "englishTransliteration": "rkmme"
+      },
+      {
+        "word": "-rkam",
+        "copticWord": "ⲣⲕⲁⲙ",
+        "englishTransliteration": "rkam"
+      }
+    ],
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(7) kme",
+    "copticWord": "ⲕⲙⲉ",
+    "englishTransliteration": "kme",
+    "gloss": "darkness",
+    "definition": "darkness",
+    "reference": "110a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(8) keme",
+    "copticWord": "ⲕⲏⲙⲉ",
+    "englishTransliteration": "keme",
+    "gloss": "the black (land), Egypt",
+    "definition": "the black (land), Egypt",
+    "reference": "110a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(9) rmnkeme",
+    "copticWord": "ⲣⲙⲛⲕⲏⲙⲉ",
+    "englishTransliteration": "rmnkeme",
+    "gloss": "Egyptian",
+    "definition": "Egyptian",
+    "reference": "110a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(10) mntrmnkeme",
+    "copticWord": "ⲙⲛⲧⲣⲙⲛⲕⲏⲙⲉ",
+    "englishTransliteration": "mntrmnkeme",
+    "gloss": "Egyptian nationality, speech",
+    "definition": "Egyptian nationality, speech",
+    "reference": "110a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(12) kmeme",
+    "copticWord": "ⲕⲙⲏⲙⲉ",
+    "englishTransliteration": "kmeme",
+    "gloss": "darkness",
+    "definition": "darkness",
+    "reference": "110b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "komme",
+    "copticWord": "ⲕⲟⲙⲙⲉ",
+    "englishTransliteration": "komme",
+    "gloss": "gum",
+    "definition": "gum",
+    "reference": "110b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) komsh",
+    "copticWord": "ⲕⲱⲙϣ",
+    "englishTransliteration": "komsh",
+    "gloss": "sneer",
+    "definition": "sneer",
+    "reference": "110b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(2) nsakomsh",
+    "copticWord": "ⲛⲥⲁⲕⲱⲙϣ",
+    "englishTransliteration": "nsakomsh",
+    "gloss": "mock, contemn",
+    "definition": "mock, contemn",
+    "reference": "110b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(4) mntrefkomsh",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲕⲱⲙϣ",
+    "englishTransliteration": "mntrefkomsh",
+    "gloss": "mockery, contempt",
+    "definition": "mockery, contempt",
+    "reference": "110b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "koomf",
+    "copticWord": "ⲕⲟⲟⲙϥ",
+    "englishTransliteration": "koomf",
+    "gloss": "blight",
+    "definition": "blight",
+    "reference": "110b",
+    "variants": [
+      {
+        "word": "-komf",
+        "copticWord": "ⲕⲟⲙϥ",
+        "englishTransliteration": "komf"
+      }
+    ]
+  },
+  {
+    "headword": "(2) atken",
+    "copticWord": "ⲁⲧⲕⲏⲛ",
+    "englishTransliteration": "atken",
+    "gloss": "unending",
+    "definition": "unending",
+    "reference": "111b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "koun",
+    "copticWord": "ⲕⲟⲩⲛ⸗",
+    "englishTransliteration": "koun",
+    "gloss": "bosom",
+    "definition": "bosom",
+    "reference": "111b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) knne",
+    "copticWord": "ⲕⲛⲛⲉ",
+    "englishTransliteration": "knne",
+    "gloss": "be fat, sweet",
+    "definition": "be fat, sweet",
+    "reference": "111b-112a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) rknne",
+    "copticWord": "ⲣⲕⲛⲛⲉ",
+    "englishTransliteration": "rknne",
+    "gloss": "be fat",
+    "definition": "be fat",
+    "reference": "112a",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(4) tiknne",
+    "copticWord": "ϯⲕⲛⲛⲉ",
+    "englishTransliteration": "tiknne",
+    "gloss": "make fat, salve, anoint",
+    "definition": "make fat, salve, anoint",
+    "reference": "112a",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(1) kons",
+    "copticWord": "ⲕⲱⲛⲥ",
+    "englishTransliteration": "kons",
+    "gloss": "pierce, slay",
+    "definition": "pierce, slay",
+    "reference": "112a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) refkons",
+    "copticWord": "ⲣⲉϥⲕⲱⲛⲥ",
+    "englishTransliteration": "refkons",
+    "gloss": "slayer",
+    "definition": "slayer",
+    "reference": "112b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) knos",
+    "copticWord": "ⲕⲛⲟⲥ",
+    "englishTransliteration": "knos",
+    "gloss": "stink, be putrid",
+    "definition": "stink, be putrid",
+    "reference": "112b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "knoos",
+        "copticWord": "ⲕⲛⲟⲟⲥ",
+        "englishTransliteration": "knoos"
+      },
+      {
+        "word": "knoos",
+        "copticWord": "ⲕⲛⲱⲱⲥ",
+        "englishTransliteration": "knoos"
+      }
+    ]
+  },
+  {
+    "headword": "(1) knte",
+    "copticWord": "ⲕⲛⲧⲉ",
+    "englishTransliteration": "knte",
+    "gloss": "fig",
+    "definition": "fig",
+    "reference": "112b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "knaau",
+    "copticWord": "ⲕⲛⲁⲁⲩ",
+    "englishTransliteration": "knaau",
+    "gloss": "sheaf",
+    "definition": "sheaf",
+    "reference": "112b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "konf",
+    "copticWord": "ⲕⲟⲛϥ",
+    "englishTransliteration": "konf",
+    "gloss": "a title or epithet",
+    "definition": "a title or epithet",
+    "reference": "113a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "knch",
+    "copticWord": "ⲕⲛⲭ",
+    "englishTransliteration": "knch",
+    "gloss": "a disease",
+    "definition": "a disease",
+    "reference": "113a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "knhe",
+    "copticWord": "ⲕⲛϩⲉ",
+    "englishTransliteration": "knhe",
+    "gloss": "porch, shrine (?)",
+    "definition": "porch, shrine (?)",
+    "reference": "113a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "knher",
+    "copticWord": "ⲕⲛϩⲏⲣ",
+    "englishTransliteration": "knher",
+    "gloss": "artichoke",
+    "definition": "artichoke",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kounjou",
+    "copticWord": "ⲕⲟⲩⲛϫⲟⲩ",
+    "englishTransliteration": "kounjou",
+    "gloss": "a vessel",
+    "definition": "a vessel",
+    "reference": "113a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kip",
+    "copticWord": "ⲕⲓⲡ",
+    "englishTransliteration": "kip",
+    "gloss": "a measure",
+    "definition": "a measure",
+    "reference": "113b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(5) nchop",
+    "copticWord": "ⲛⲭⲱⲡ",
+    "englishTransliteration": "nchop",
+    "gloss": "secretly",
+    "definition": "secretly",
+    "reference": "114a",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "kapai",
+    "copticWord": "ⲕⲁⲡⲁⲓ",
+    "englishTransliteration": "kapai",
+    "gloss": "partridge",
+    "definition": "partridge",
+    "reference": "114a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kepe",
+    "copticWord": "ⲕⲏⲡⲉ",
+    "englishTransliteration": "kepe",
+    "gloss": "vaulted place, cellar, canopy",
+    "definition": "vaulted place, cellar, canopy",
+    "reference": "114a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "koupr",
+    "copticWord": "ⲕⲟⲩⲡⲣ",
+    "englishTransliteration": "koupr",
+    "gloss": "a plant (Lawsonia inermis)",
+    "definition": "a plant (Lawsonia inermis)",
+    "reference": "114b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kapsha",
+    "copticWord": "ⲕⲁⲡϣⲁ",
+    "englishTransliteration": "kapsha",
+    "gloss": "immature thorns (on palm leaves)",
+    "definition": "immature thorns (on palm leaves)",
+    "reference": "114b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "kor",
+    "copticWord": "ⲕⲱⲣ",
+    "englishTransliteration": "kor",
+    "gloss": "measure or quantity of money",
+    "definition": "measure or quantity of money",
+    "reference": "115a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) kro",
+    "copticWord": "ⲕⲣⲟ",
+    "englishTransliteration": "kro",
+    "gloss": "shore, further side, limit",
+    "definition": "shore, further side, limit",
+    "reference": "115a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "krou",
+    "copticWord": "ⲕⲣⲟⲩ",
+    "englishTransliteration": "krou",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "115a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kaire",
+    "copticWord": "ⲕⲁⲓⲣⲉ",
+    "englishTransliteration": "kaire",
+    "gloss": "gullet, belly",
+    "definition": "gullet, belly",
+    "reference": "115a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) koore",
+    "copticWord": "ⲕⲱⲱⲣⲉ",
+    "englishTransliteration": "koore",
+    "gloss": "cut down",
+    "definition": "cut down",
+    "reference": "115b",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "headword": "(4) koore kash",
+        "copticWord": "ⲕⲱⲱⲣⲉ ⲕⲁϣ",
+        "englishTransliteration": "koore kash",
+        "gloss": "cut, gather reeds",
+        "definition": "cut, gather reeds",
+        "reference": "130b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "koore",
+          "gloss": "cut down"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(2) refkoore",
+    "copticWord": "ⲣⲉϥⲕⲱⲱⲣⲉ",
+    "englishTransliteration": "refkoore",
+    "gloss": "tree-cutter",
+    "definition": "tree-cutter",
+    "reference": "115b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(3) erchrom",
+    "copticWord": "ⲉⲣⲭⲣⲱⲙ",
+    "englishTransliteration": "erchrom",
+    "gloss": "be on fire, burn",
+    "definition": "be on fire, burn",
+    "reference": "116a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(4) tichrom",
+    "copticWord": "ϯⲭⲣⲱⲙ",
+    "englishTransliteration": "tichrom",
+    "gloss": "put fire (to), set alight",
+    "definition": "put fire (to), set alight",
+    "reference": "116a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(5) hichrom",
+    "copticWord": "ϩⲓⲭⲣⲱⲙ",
+    "englishTransliteration": "hichrom",
+    "gloss": "put fire (to), set alight",
+    "definition": "put fire (to), set alight",
+    "reference": "116a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "hioue",
+      "gloss": "strike, cast, lay"
+    }
+  },
+  {
+    "headword": "(6) chichrom",
+    "copticWord": "ϭⲓⲭⲣⲱⲙ",
+    "englishTransliteration": "chichrom",
+    "gloss": "take fire",
+    "definition": "take fire",
+    "reference": "116a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "receive, take"
+    }
+  },
+  {
+    "headword": "korm",
+    "copticWord": "ⲕⲱⲣⲙ",
+    "englishTransliteration": "korm",
+    "gloss": "smoke",
+    "definition": "smoke",
+    "reference": "116a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) krmrm",
+    "copticWord": "ⲕⲣⲙⲣⲙ",
+    "englishTransliteration": "krmrm",
+    "gloss": "murmur, be vexed",
+    "definition": "murmur, be vexed",
+    "reference": "116a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) atchremrem",
+    "copticWord": "ⲁⲧⲭⲣⲉⲙⲣⲉⲙ",
+    "englishTransliteration": "atchremrem",
+    "gloss": "without complaint",
+    "definition": "without complaint",
+    "reference": "116b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(4) refkrmrm",
+    "copticWord": "ⲣⲉϥⲕⲣⲙⲣⲙ",
+    "englishTransliteration": "refkrmrm",
+    "gloss": "murmurer",
+    "definition": "murmurer",
+    "reference": "116b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) kromrm",
+    "copticWord": "ⲕⲣⲟⲙⲣⲙ",
+    "englishTransliteration": "kromrm",
+    "gloss": "be dark",
+    "definition": "be dark",
+    "reference": "116b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) krmts",
+    "copticWord": "ⲕⲣⲙⲧⲥ",
+    "englishTransliteration": "krmts",
+    "gloss": "smoke, mist",
+    "definition": "smoke, mist",
+    "reference": "116b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(4) rkrmts",
+    "copticWord": "ⲣⲕⲣⲙⲧⲥ",
+    "englishTransliteration": "rkrmts",
+    "gloss": "be smoky, dark",
+    "definition": "be smoky, dark",
+    "reference": "116b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "erchremts",
+        "copticWord": "ⲉⲣⲭⲣⲉⲙⲧⲥ",
+        "englishTransliteration": "erchremts"
+      }
+    ],
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(1) krmes",
+    "copticWord": "ⲕⲣⲙⲉⲥ",
+    "englishTransliteration": "krmes",
+    "gloss": "ash, soot, dust",
+    "definition": "ash, soot, dust",
+    "reference": "117a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(3) rkrmes",
+    "copticWord": "ⲣⲕⲣⲙⲉⲥ",
+    "englishTransliteration": "rkrmes",
+    "gloss": "become ashes, dust",
+    "definition": "become ashes, dust",
+    "reference": "117a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "krapep",
+    "copticWord": "ⲕⲣⲁⲡⲉⲡ",
+    "englishTransliteration": "krapep",
+    "gloss": "hoopoe",
+    "definition": "hoopoe",
+    "reference": "117a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "krour",
+    "copticWord": "ⲕⲣⲟⲩⲣ",
+    "englishTransliteration": "krour",
+    "gloss": "frog",
+    "definition": "frog",
+    "reference": "117b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "karare",
+    "copticWord": "ⲕⲁⲣⲁⲣⲉ",
+    "englishTransliteration": "karare",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "117b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "krere",
+    "copticWord": "ⲕⲣⲏⲣⲉ",
+    "englishTransliteration": "krere",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "117b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kere",
+    "copticWord": "ⲕⲉⲣⲉ",
+    "englishTransliteration": "kere",
+    "gloss": "a fish (Synodontis schall)",
+    "definition": "a fish (Synodontis schall)",
+    "reference": "117b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "karous",
+    "copticWord": "ⲕⲁⲣⲟⲩⲥ",
+    "englishTransliteration": "karous",
+    "gloss": "curled (?)",
+    "definition": "curled (?)",
+    "reference": "117b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "kerso",
+    "copticWord": "ⲕⲉⲣⲥⲟ",
+    "englishTransliteration": "kerso",
+    "gloss": "pylon",
+    "definition": "pylon",
+    "reference": "117b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) refkorsh",
+    "copticWord": "ⲣⲉϥⲕⲱⲣϣ",
+    "englishTransliteration": "refkorsh",
+    "gloss": "flatterer",
+    "definition": "flatterer",
+    "reference": "118a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(4) mntrefkorsh",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲕⲱⲣϣ",
+    "englishTransliteration": "mntrefkorsh",
+    "gloss": "flattery",
+    "definition": "flattery",
+    "reference": "118a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(5) chinkorsh",
+    "copticWord": "ϭⲓⲛⲕⲱⲣϣ",
+    "englishTransliteration": "chinkorsh",
+    "gloss": "flattery, cajolery",
+    "definition": "flattery, cajolery",
+    "reference": "118a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(6) korshf",
+    "copticWord": "ⲕⲟⲣϣϥ",
+    "englishTransliteration": "korshf",
+    "gloss": "flatterer",
+    "definition": "flatterer",
+    "reference": "118a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) krof",
+    "copticWord": "ⲕⲣⲟϥ",
+    "englishTransliteration": "krof",
+    "gloss": "guile, ambush",
+    "definition": "guile, ambush",
+    "reference": "118b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) atkrof",
+    "copticWord": "ⲁⲧⲕⲣⲟϥ",
+    "englishTransliteration": "atkrof",
+    "gloss": "guileless",
+    "definition": "guileless",
+    "reference": "118b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(4) metatchrof",
+    "copticWord": "ⲙⲉⲧⲁⲧⲭⲣⲟϥ",
+    "englishTransliteration": "metatchrof",
+    "gloss": "guilelessness",
+    "definition": "guilelessness",
+    "reference": "118b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(5) mntkrof",
+    "copticWord": "ⲙⲛⲧⲕⲣⲟϥ",
+    "englishTransliteration": "mntkrof",
+    "gloss": "guile",
+    "definition": "guile",
+    "reference": "118b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(6) rkrof",
+    "copticWord": "ⲣⲕⲣⲟϥ",
+    "englishTransliteration": "rkrof",
+    "gloss": "be guileful, lie in wait",
+    "definition": "be guileful, lie in wait",
+    "reference": "118b-119a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(7) refrkrof",
+    "copticWord": "ⲣⲉϥⲣⲕⲣⲟϥ",
+    "englishTransliteration": "refrkrof",
+    "gloss": "deceiver, traitor",
+    "definition": "deceiver, traitor",
+    "reference": "119a",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "ref ",
+      "gloss": "man who . . ."
+    }
+  },
+  {
+    "headword": "(9) jikrof",
+    "copticWord": "ϫⲓⲕⲣⲟϥ",
+    "englishTransliteration": "jikrof",
+    "gloss": "use guile, lie in wait",
+    "definition": "use guile, lie in wait",
+    "reference": "119a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "receive, take"
+    }
+  },
+  {
+    "headword": "(10) chauchrof",
+    "copticWord": "ϭⲁⲩⲭⲣⲟϥ",
+    "englishTransliteration": "chauchrof",
+    "gloss": "deceiver",
+    "definition": "deceiver",
+    "reference": "119a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(11) jinchrof",
+    "copticWord": "ϫⲓⲛⲭⲣⲟϥ",
+    "englishTransliteration": "jinchrof",
+    "gloss": "snares",
+    "definition": "snares",
+    "reference": "119a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kerh",
+    "copticWord": "ⲕⲉⲣϩ",
+    "englishTransliteration": "kerh",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "119a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "krah",
+    "copticWord": "ⲕⲣⲁϩ",
+    "englishTransliteration": "krah",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "119a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kroh",
+    "copticWord": "ⲕⲣⲟϩ",
+    "englishTransliteration": "kroh",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "119a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "krouj",
+    "copticWord": "ⲕⲣⲟⲩϫ",
+    "englishTransliteration": "krouj",
+    "gloss": "a baked or fried cake",
+    "definition": "a baked or fried cake",
+    "reference": "119b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(2) markas",
+    "copticWord": "ⲙⲁⲣⲕⲁⲥ",
+    "englishTransliteration": "markas",
+    "gloss": "bone-setter (doctor)",
+    "definition": "bone-setter (doctor)",
+    "reference": "119b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) rkas",
+    "copticWord": "ⲣⲕⲁⲥ",
+    "englishTransliteration": "rkas",
+    "gloss": "become bony",
+    "definition": "become bony",
+    "reference": "119b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "erkas",
+        "copticWord": "ⲉⲣⲕⲁⲥ",
+        "englishTransliteration": "erkas"
+      }
+    ],
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "koeis",
+    "copticWord": "ⲕⲟⲉⲓⲥ",
+    "englishTransliteration": "koeis",
+    "gloss": "vessel for liquids",
+    "definition": "vessel for liquids",
+    "reference": "120a",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "word": "kaeis",
+        "copticWord": "ⲕⲁⲉⲓⲥ",
+        "englishTransliteration": "kaeis"
+      }
+    ]
+  },
+  {
+    "headword": "(1) koos",
+    "copticWord": "ⲕⲱⲱⲥ",
+    "englishTransliteration": "koos",
+    "gloss": "dress, prepare corpse for burial, bury",
+    "definition": "dress, prepare corpse for burial, bury",
+    "reference": "120a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "kons",
+        "copticWord": "ⲕⲱⲛⲥ",
+        "englishTransliteration": "kons"
+      },
+      {
+        "word": "koose",
+        "copticWord": "ⲕⲱⲱⲥⲉ",
+        "englishTransliteration": "koose"
+      }
+    ]
+  },
+  {
+    "headword": "(5) rkoos",
+    "copticWord": "ⲣⲕⲱⲱⲥ",
+    "englishTransliteration": "rkoos",
+    "gloss": "be corpse, be dead",
+    "definition": "be corpse, be dead",
+    "reference": "91b-92a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) refkos",
+    "copticWord": "ⲣⲉϥⲕⲱⲥ",
+    "englishTransliteration": "refkos",
+    "gloss": "embalmer",
+    "definition": "embalmer",
+    "reference": "120b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(7) jinkos",
+    "copticWord": "ϫⲓⲛⲕⲱⲥ",
+    "englishTransliteration": "jinkos",
+    "gloss": "burial",
+    "definition": "burial",
+    "reference": "121a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(8) kaise",
+    "copticWord": "ⲕⲁⲓⲥⲉ",
+    "englishTransliteration": "kaise",
+    "gloss": "preparation for burial, embalming",
+    "definition": "preparation for burial, embalming",
+    "reference": "121a",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "word": "keise",
+        "copticWord": "ⲕⲉⲓⲥⲉ",
+        "englishTransliteration": "keise"
+      },
+      {
+        "word": "-kese",
+        "copticWord": "ⲕⲉⲥⲉ",
+        "englishTransliteration": "kese"
+      }
+    ]
+  },
+  {
+    "headword": "kase",
+    "copticWord": "ⲕⲁⲥⲉ",
+    "englishTransliteration": "kase",
+    "gloss": "shoemaker",
+    "definition": "shoemaker",
+    "reference": "121a",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "word": "kese",
+        "copticWord": "ⲕⲉⲥⲉ",
+        "englishTransliteration": "kese"
+      },
+      {
+        "word": "kese",
+        "copticWord": "ⲕⲏⲥⲉ",
+        "englishTransliteration": "kese"
+      }
+    ]
+  },
+  {
+    "headword": "kise",
+    "copticWord": "ⲕⲓⲥⲉ",
+    "englishTransliteration": "kise",
+    "gloss": "an eruptive disease",
+    "definition": "an eruptive disease",
+    "reference": "121a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) kasks",
+    "copticWord": "ⲕⲁⲥⲕⲥ",
+    "englishTransliteration": "kasks",
+    "gloss": "whisper",
+    "definition": "whisper",
+    "reference": "121a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) refkasks",
+    "copticWord": "ⲣⲉϥⲕⲁⲥⲕⲥ",
+    "englishTransliteration": "refkasks",
+    "gloss": "whisperer",
+    "definition": "whisperer",
+    "reference": "121b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) xour",
+    "copticWord": "ⲝⲟⲩⲣ",
+    "englishTransliteration": "xour",
+    "gloss": "finger-ring",
+    "definition": "finger-ring",
+    "reference": "121b",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "word": "ksour",
+        "copticWord": "ⲕⲥⲟⲩⲣ",
+        "englishTransliteration": "ksour"
+      },
+      {
+        "word": "chsour",
+        "copticWord": "ϭⲥⲟⲩⲣ",
+        "englishTransliteration": "chsour"
+      }
+    ]
+  },
+  {
+    "headword": "kasise",
+    "copticWord": "ⲕⲁⲥⲓⲥⲉ",
+    "englishTransliteration": "kasise",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "121b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(5) refkot",
+    "copticWord": "ⲣⲉϥⲕⲱⲧ",
+    "englishTransliteration": "refkot",
+    "gloss": "builder",
+    "definition": "builder",
+    "reference": "122b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(7) jikot",
+    "copticWord": "ϫⲓⲕⲱⲧ",
+    "englishTransliteration": "jikot",
+    "gloss": "receive edification",
+    "definition": "receive edification",
+    "reference": "122b",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(8) chinkot",
+    "copticWord": "ϭⲓⲛⲕⲱⲧ",
+    "englishTransliteration": "chinkot",
+    "gloss": "building (process, act of)",
+    "definition": "building (process, act of)",
+    "reference": "122b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(10) sekot",
+    "copticWord": "ⲥⲉⲕⲱⲧ",
+    "englishTransliteration": "sekot",
+    "gloss": "potter's place, workshop",
+    "definition": "potter's place, workshop",
+    "reference": "123a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "katai",
+    "copticWord": "ⲕⲁⲧⲁⲓ",
+    "englishTransliteration": "katai",
+    "gloss": "locust",
+    "definition": "locust",
+    "reference": "123a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(3) atkati",
+    "copticWord": "ⲁⲧⲕⲁϯ",
+    "englishTransliteration": "atkati",
+    "gloss": "ignorant person",
+    "definition": "ignorant person",
+    "reference": "123a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(5) eratkati",
+    "copticWord": "ⲉⲣⲁⲧⲕⲁϯ",
+    "englishTransliteration": "eratkati",
+    "gloss": "be ignorant",
+    "definition": "be ignorant",
+    "reference": "123b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) metatkati",
+    "copticWord": "ⲙⲉⲧⲁⲧⲕⲁϯ",
+    "englishTransliteration": "metatkati",
+    "gloss": "ignorance",
+    "definition": "ignorance",
+    "reference": "123b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(7) remnkati",
+    "copticWord": "ⲣⲉⲙⲛⲕⲁϯ",
+    "englishTransliteration": "remnkati",
+    "gloss": "man of understanding",
+    "definition": "man of understanding",
+    "reference": "123b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(8) refkati",
+    "copticWord": "ⲣⲉϥⲕⲁϯ",
+    "englishTransliteration": "refkati",
+    "gloss": "man of understanding",
+    "definition": "man of understanding",
+    "reference": "123b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(9) tikati",
+    "copticWord": "ϯⲕⲁϯ",
+    "englishTransliteration": "tikati",
+    "gloss": "instruct",
+    "definition": "instruct",
+    "reference": "123b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(10) jemkati",
+    "copticWord": "ϫⲉⲙⲕⲁϯ",
+    "englishTransliteration": "jemkati",
+    "gloss": "find understanding",
+    "definition": "find understanding",
+    "reference": "123b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "chine",
+      "gloss": "find"
+    }
+  },
+  {
+    "headword": "(11) jinkati",
+    "copticWord": "ϫⲓⲛⲕⲁϯ",
+    "englishTransliteration": "jinkati",
+    "gloss": "understanding",
+    "definition": "understanding",
+    "reference": "123b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(12) kathet",
+    "copticWord": "ⲕⲁⲧϩⲏⲧ",
+    "englishTransliteration": "kathet",
+    "gloss": "knowledgeable, wise person",
+    "definition": "knowledgeable, wise person",
+    "reference": "123b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(14) erkathet",
+    "copticWord": "ⲉⲣⲕⲁⲧϩⲏⲧ",
+    "englishTransliteration": "erkathet",
+    "gloss": "be wise",
+    "definition": "be wise",
+    "reference": "123b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(15) metkathet",
+    "copticWord": "ⲙⲉⲧⲕⲁⲧϩⲏⲧ",
+    "englishTransliteration": "metkathet",
+    "gloss": "understanding",
+    "definition": "understanding",
+    "reference": "123b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "kato",
+    "copticWord": "ⲕⲁⲧⲟ",
+    "englishTransliteration": "kato",
+    "gloss": "boat, skiff",
+    "definition": "boat, skiff",
+    "reference": "123b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "kete",
+    "copticWord": "ⲕⲉⲧⲉ",
+    "englishTransliteration": "kete",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown",
+    "reference": "123b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) kite",
+    "copticWord": "ⲕⲓⲧⲉ",
+    "englishTransliteration": "kite",
+    "gloss": "double drachma",
+    "definition": "double drachma",
+    "reference": "123b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) chiskite",
+    "copticWord": "ϭⲓⲥⲕⲓⲧⲉ",
+    "englishTransliteration": "chiskite",
+    "gloss": "half of kite, drachma",
+    "definition": "half of kite, drachma",
+    "reference": "124a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chos ",
+      "gloss": "half"
+    }
+  },
+  {
+    "headword": "refkiti",
+    "copticWord": "ⲣⲉϥⲕⲓϯ",
+    "englishTransliteration": "refkiti",
+    "gloss": "player, gambler",
+    "definition": "player, gambler",
+    "reference": "124a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) kote",
+    "copticWord": "ⲕⲱⲧⲉ",
+    "englishTransliteration": "kote",
+    "gloss": "turn, go around",
+    "definition": "turn, go around",
+    "reference": "124a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(3) kote (ejn-)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲉϫⲛ-)",
+        "englishTransliteration": "kote (ejn-)",
+        "gloss": "turn upon, go around, among",
+        "definition": "turn upon, go around, among",
+        "reference": "125a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) kote (mn-)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲙⲛ-)",
+        "englishTransliteration": "kote (mn-)",
+        "gloss": "go around with, turn hither and thither",
+        "definition": "go around with, turn hither and thither",
+        "reference": "125a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) kote (nsa-)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲛⲥⲁ-)",
+        "englishTransliteration": "kote (nsa-)",
+        "gloss": "go around seeking, seek",
+        "definition": "go around seeking, seek",
+        "reference": "125b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(10) kote (ebol)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "kote (ebol)",
+        "gloss": "wander out, round, return",
+        "definition": "wander out, round, return",
+        "reference": "125b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) kote (epahou)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲉⲡⲁϩⲟⲩ)",
+        "englishTransliteration": "kote (epahou)",
+        "gloss": "turn back",
+        "definition": "turn back",
+        "reference": "125b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) kote (ehoun)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "kote (ehoun)",
+        "gloss": "turn, bend inwards",
+        "definition": "turn, bend inwards",
+        "reference": "126a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) kote ehoun ebol",
+        "copticWord": "ⲕⲱⲧⲉ ⲉϩⲟⲩⲛ ⲉⲃⲟⲗ",
+        "englishTransliteration": "kote ehoun ebol",
+        "gloss": "go in and out",
+        "definition": "go in and out",
+        "reference": "126a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) kote (ehrai)",
+        "copticWord": "ⲕⲱⲧⲉ (ⲉϩⲣⲁⲓ)",
+        "englishTransliteration": "kote (ehrai)",
+        "gloss": "turn, go round",
+        "definition": "turn, go round",
+        "reference": "126a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(15) kote (hibol)",
+        "copticWord": "ⲕⲱⲧⲉ (ϩⲓⲃⲟⲗ)",
+        "englishTransliteration": "kote (hibol)",
+        "gloss": "go about outside",
+        "definition": "go about outside",
+        "reference": "126a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(2) mntrefkat",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲕⲁⲧ⸗",
+    "englishTransliteration": "mntrefkat",
+    "gloss": "good conduct",
+    "definition": "good conduct",
+    "reference": "125a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(7) jinkoti (nsa-)",
+    "copticWord": "ϫⲓⲛⲕⲱϯ (ⲛⲥⲁ-)",
+    "englishTransliteration": "jinkoti (nsa-)",
+    "gloss": "search after",
+    "definition": "search after",
+    "reference": "125b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(8) koti (nten-)",
+    "copticWord": "ⲕⲱϯ (ⲛⲧⲉⲛ-)",
+    "englishTransliteration": "koti (nten-)",
+    "gloss": "seek, beg from",
+    "definition": "seek, beg from",
+    "reference": "125b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(9) koti (sabol n-)",
+    "copticWord": "ⲕⲱϯ (ⲥⲁⲃⲟⲗ ⲛ-)",
+    "englishTransliteration": "koti (sabol n-)",
+    "gloss": "turn about, circumvent",
+    "definition": "turn about, circumvent",
+    "reference": "125b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(17) mpkote",
+    "copticWord": "ⲙⲡⲕⲱⲧⲉ",
+    "englishTransliteration": "mpkote",
+    "gloss": "round about",
+    "definition": "round about",
+    "reference": "126b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(19) chinkote",
+    "copticWord": "ϭⲓⲛⲕⲱⲧⲉ",
+    "englishTransliteration": "chinkote",
+    "gloss": "turning round, cycle",
+    "definition": "turning round, cycle",
+    "reference": "126b",
+    "partOfSpeech": "f"
+  }
+]

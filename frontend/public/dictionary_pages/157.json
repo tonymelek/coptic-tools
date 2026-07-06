@@ -1,57 +1,5 @@
 [
   {
-    "headword": "(2) hi",
-    "copticWord": "ϩⲓ",
-    "englishTransliteration": "hi",
-    "variants": [
-      {
-        "word": "ehi",
-        "copticWord": "ⲉϩⲓ",
-        "englishTransliteration": "ehi"
-      },
-      {
-        "word": "nhi",
-        "copticWord": "ⲛϩⲓ",
-        "englishTransliteration": "nhi"
-      },
-      {
-        "word": "hiwt=",
-        "copticWord": "ϩⲓⲱⲧ",
-        "englishTransliteration": "hiōt"
-      }
-    ],
-    "reference": "643b",
-    "gloss": "Prep. On, at, in",
-    "definition": "concering; with; from; out of; under, in time of, in presence of; at time of; and, or;",
-    "senses": [
-      {
-        "label": "hinai",
-        "gloss": "Thus",
-        "definition": "Thus"
-      },
-      {
-        "label": "ebol hi",
-        "gloss": "From off, from",
-        "definition": "From off, from"
-      },
-      {
-        "label": "epec/t hi",
-        "gloss": "Down from off",
-        "definition": "Down from off"
-      },
-      {
-        "label": "ehr/i hi",
-        "gloss": "Down from",
-        "definition": "Down from"
-      },
-      {
-        "label": "nqr/i hi",
-        "gloss": "Upon, in",
-        "definition": "Upon, in"
-      }
-    ]
-  },
-  {
     "headword": "athinim",
     "copticWord": "ⲁⲧϩⲓⲛⲓⲙ",
     "englishTransliteration": "athinim",
@@ -87,28 +35,6 @@
     "definition": "Pit"
   },
   {
-    "headword": "hit=",
-    "copticWord": "ϩⲓⲧ",
-    "englishTransliteration": "hit",
-    "gloss": "To strike",
-    "definition": "To strike",
-    "crossReference": {
-      "target": "hioui",
-      "gloss": "To strike"
-    }
-  },
-  {
-    "headword": "hiten",
-    "copticWord": "ϩⲓⲧⲉⲛ",
-    "englishTransliteration": "hiten",
-    "gloss": "Through",
-    "definition": "Through",
-    "crossReference": {
-      "target": "twri",
-      "gloss": "Through"
-    }
-  },
-  {
     "headword": "hitot=",
     "copticWord": "ϩⲓⲧⲟⲧ",
     "englishTransliteration": "hitot",
@@ -117,17 +43,6 @@
     "crossReference": {
       "target": "twri",
       "gloss": "Through. hitot= v. hioui - To lay hand"
-    }
-  },
-  {
-    "headword": "hi",
-    "copticWord": "ϩⲓ",
-    "englishTransliteration": "hi",
-    "gloss": "To strike",
-    "definition": "To strike",
-    "crossReference": {
-      "target": "hioui",
-      "gloss": "To strike"
     }
   },
   {
@@ -243,7 +158,18 @@
     "crossReference": {
       "target": "hie",
       "gloss": "Rudder"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(34) hie mmooshe",
+        "copticWord": "ϩⲓⲏ ⲙⲙⲟⲟϣⲉ",
+        "englishTransliteration": "hie mmooshe",
+        "gloss": "road, path",
+        "definition": "road, path",
+        "reference": "205b",
+        "partOfSpeech": "f"
+      }
+    ]
   },
   {
     "headword": "hi/b",
@@ -271,17 +197,6 @@
     "crossReference": {
       "target": "hie",
       "gloss": "Rudders"
-    }
-  },
-  {
-    "headword": "hiy/",
-    "copticWord": "ϩⲓⲑⲏ",
-    "englishTransliteration": "hithi",
-    "gloss": "To",
-    "definition": "To",
-    "crossReference": {
-      "target": "(1)h/",
-      "gloss": "To"
     }
   },
   {
@@ -365,38 +280,6 @@
     "reference": "689a",
     "gloss": "vi. To move (by rowing)",
     "definition": "vi. To move (by rowing)"
-  },
-  {
-    "headword": "(2)hini",
-    "copticWord": "ϩⲓⲛⲓ",
-    "englishTransliteration": "hini",
-    "variants": [
-      {
-        "word": "hen",
-        "copticWord": "ϩⲉⲛ",
-        "englishTransliteration": "hen"
-      },
-      {
-        "word": "hen=",
-        "copticWord": "ϩⲉⲛ",
-        "englishTransliteration": "hen"
-      }
-    ],
-    "reference": "689a",
-    "partOfSpeech": "vb",
-    "gloss": "refl",
-    "definition": "refl"
-  },
-  {
-    "headword": "hiwis",
-    "copticWord": "ϩⲓⲱⲓϣ",
-    "englishTransliteration": "hiōish",
-    "gloss": "To proclaim",
-    "definition": "To proclaim",
-    "crossReference": {
-      "target": "wis",
-      "gloss": "To proclaim"
-    }
   },
   {
     "headword": "hiwout (Q) v. hei - To have fallen. hifoui",

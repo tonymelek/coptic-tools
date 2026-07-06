@@ -1,100 +1,5 @@
 [
   {
-    "headword": "(1) ali",
-    "copticWord": "ⲁⲗⲓ",
-    "englishTransliteration": "ali",
-    "variants": [
-      {
-        "word": "alit=",
-        "copticWord": "ⲁⲗⲓⲧ",
-        "englishTransliteration": "alit"
-      },
-      {
-        "word": "alioui",
-        "copticWord": "ⲁⲗⲓⲟⲩⲓ",
-        "englishTransliteration": "alioui"
-      }
-    ],
-    "reference": "254b",
-    "gloss": "vi. To hold, contain, enclose",
-    "definition": "vt. (mostly) To take, lay hold of, gather;",
-    "senses": [
-      {
-        "label": "e",
-        "gloss": "vt. To bring to",
-        "definition": "vt. To bring to"
-      },
-      {
-        "label": "ejen",
-        "gloss": "vt. To bring upon",
-        "definition": "vt. To bring upon"
-      },
-      {
-        "label": "n",
-        "gloss": "vt. To bring to",
-        "definition": "vt. To bring to"
-      },
-      {
-        "label": "nten",
-        "gloss": "vt. To bring from",
-        "definition": "vt. To bring from"
-      },
-      {
-        "label": "sa",
-        "gloss": "vt. To bring to",
-        "definition": "vt. To bring to"
-      },
-      {
-        "label": "qa",
-        "gloss": "vi. To hold beneath, support",
-        "definition": "vi. To hold beneath, support"
-      },
-      {
-        "label": "qaten",
-        "gloss": "vt. To hold to, beside",
-        "definition": "vt. To hold to, beside"
-      },
-      {
-        "label": "ha",
-        "gloss": "vt. To hold to",
-        "definition": "vt. To hold to"
-      },
-      {
-        "label": "hi",
-        "gloss": "vt. To hold un to",
-        "definition": "vt. To hold un to"
-      },
-      {
-        "label": "qen",
-        "gloss": "vt. To hold with, in by",
-        "definition": "vt. To hold with, in by"
-      },
-      {
-        "label": "hijen",
-        "gloss": "vt. To hold upon",
-        "definition": "vt. To hold upon"
-      },
-      {
-        "label": "ebol",
-        "gloss": "vt. To take away",
-        "definition": "e-: vt. To take out to; n-: vt. To take away from;"
-      },
-      {
-        "label": "ha",
-        "gloss": "vt. To take away from off",
-        "definition": "hi: vt. To take away from off; --- qen: vt. To take away from; --- hijen: vt. To take away from"
-      }
-    ]
-  },
-  {
-    "headword": "w",
-    "copticWord": "ⲱ",
-    "englishTransliteration": "ō",
-    "reference": "517a",
-    "gloss": "The 23rd letter of the alphabet. w: As a numeral = 700",
-    "definition": "The 23rd letter of the alphabet. w: As a numeral = 700"
-  },
-  {
     "headword": "wb",
     "copticWord": "ⲱⲃ",
     "englishTransliteration": "ōv",
@@ -111,40 +16,6 @@
     "partOfSpeech": "m",
     "gloss": "Alum",
     "definition": "Alum"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "gloss": "vi. To be laden with",
-    "definition": "vi. To be laden with"
-  },
-  {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "gloss": "vi. To be burdened under",
-    "definition": "vi. To be burdened under"
-  },
-  {
-    "headword": "etvw",
-    "copticWord": "ⲉⲧⲫⲱ",
-    "englishTransliteration": "etfō",
-    "variants": [
-      {
-        "word": "hetvw",
-        "copticWord": "ϩⲉⲧⲫⲱ",
-        "englishTransliteration": "hetfō"
-      },
-      {
-        "word": "pl etvwoui",
-        "copticWord": "ⲡⲗ ⲉⲧⲫⲱⲟⲩⲓ",
-        "englishTransliteration": "pl etfōoui"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Burden",
-    "definition": "Burden"
   },
   {
     "headword": "wbs",
@@ -252,20 +123,6 @@
     "definition": "vt. To take upward"
   },
   {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "gloss": "vt. To bring in, enclose",
-    "definition": "vt. To bring in, enclose",
-    "senses": [
-      {
-        "label": "e",
-        "gloss": "vt. To bring in to",
-        "definition": "--- qaten: vt. To bring in to, up"
-      }
-    ]
-  },
-  {
     "headword": "wili",
     "copticWord": "ⲱⲓⲗⲓ",
     "englishTransliteration": "ōili",
@@ -352,7 +209,45 @@
     "reference": "522a",
     "partOfSpeech": "n",
     "gloss": "Striking, blow",
-    "definition": "Striking, blow"
+    "definition": "Striking, blow",
+    "variants": [
+      {
+        "headword": "(6) oli (ejen)-",
+        "copticWord": "ⲱⲗⲓ (ⲉϫⲉⲛ)-",
+        "englishTransliteration": "oli (ejen)-",
+        "gloss": "bring up(on)",
+        "definition": "bring up(on)",
+        "reference": "520b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) oli (n)-",
+        "copticWord": "ⲱⲗⲓ (ⲛ)-",
+        "englishTransliteration": "oli (n)-",
+        "gloss": "bring to",
+        "definition": "bring to",
+        "reference": "520b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) oli epshei",
+        "copticWord": "ⲱⲗⲓ ⲉⲡϣⲏⲓ",
+        "englishTransliteration": "oli epshei",
+        "gloss": "take upward",
+        "definition": "take upward",
+        "reference": "521b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) oli mmau",
+        "copticWord": "ⲱⲗⲓ ⲙⲙⲁⲩ",
+        "englishTransliteration": "oli mmau",
+        "gloss": "take thence, take away",
+        "definition": "take thence, take away",
+        "reference": "522a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "wlk",
@@ -368,6 +263,15 @@
         "word": "(Q) olk",
         "copticWord": "(Ϧ) ⲟⲗⲕ",
         "englishTransliteration": "(Kh) olk"
+      },
+      {
+        "headword": "(2) olk epeset",
+        "copticWord": "ⲱⲗⲕ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "olk epeset",
+        "gloss": "lean, bow down",
+        "definition": "lean, bow down",
+        "reference": "522a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "522a",
@@ -414,7 +318,22 @@
     "englishTransliteration": "ōk",
     "reference": "519b",
     "gloss": "vi. To go in, sink",
-    "definition": "vi. To go in, sink"
+    "definition": "vi. To go in, sink",
+    "variants": [
+      {
+        "headword": "(2) ok nhet",
+        "copticWord": "ⲱⲕ ⲛϩⲏⲧ",
+        "englishTransliteration": "ok nhet",
+        "gloss": "be content",
+        "definition": "be content",
+        "reference": "519b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      }
+    ]
   },
   {
     "headword": "wkem",

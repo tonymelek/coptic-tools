@@ -239,22 +239,6 @@
     "definition": "Sin-loving"
   },
   {
-    "headword": "ernobi",
-    "copticWord": "ⲉⲣⲛⲟⲃⲓ",
-    "englishTransliteration": "ernovi",
-    "partOfSpeech": "vb",
-    "gloss": "To sin, commit sin",
-    "definition": "To sin, commit sin"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To sin against",
-    "definition": "To sin against"
-  },
-  {
     "headword": "refernobi",
     "copticWord": "ⲣⲉϥⲉⲣⲛⲟⲃⲓ",
     "englishTransliteration": "refernovi",
@@ -279,14 +263,6 @@
     "isGreek": true,
     "gloss": "To apprehend, perceive, think, consider, reflect, presume, conceive, intend, mean",
     "definition": "To apprehend, perceive, think, consider, reflect, presume, conceive, intend, mean"
-  },
-  {
-    "headword": "ernoin",
-    "copticWord": "ⲉⲣⲛⲟⲓⲛ",
-    "englishTransliteration": "ernoin",
-    "partOfSpeech": "vb",
-    "gloss": "To perceive, understand",
-    "definition": "To perceive, understand"
   },
   {
     "headword": "no/ron",

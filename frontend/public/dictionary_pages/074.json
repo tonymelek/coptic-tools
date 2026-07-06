@@ -145,44 +145,6 @@
     ]
   },
   {
-    "headword": "erparanomoc",
-    "copticWord": "ⲉⲣⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
-    "englishTransliteration": "erparanomos",
-    "variants": [
-      {
-        "word": "-min",
-        "copticWord": "-ⲙⲓⲛ",
-        "englishTransliteration": "-min"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To break the law",
-    "definition": "To break the law"
-  },
-  {
-    "headword": "anomoc",
-    "copticWord": "ⲁⲛⲟⲙⲟⲥ",
-    "englishTransliteration": "anomos",
-    "variants": [
-      {
-        "word": "atnomoc",
-        "copticWord": "ⲁⲧⲛⲟⲙⲟⲥ",
-        "englishTransliteration": "atnomos"
-      }
-    ],
-    "partOfSpeech": "adj",
-    "gloss": "Without law, lawless",
-    "definition": "Without law, lawless"
-  },
-  {
-    "headword": "nomimon",
-    "copticWord": "ⲛⲟⲙⲓⲙⲟⲛ",
-    "englishTransliteration": "nomimon",
-    "partOfSpeech": "adj",
-    "gloss": "Comfortable to law or custom, customary, legitimate",
-    "definition": "Comfortable to law or custom, customary, legitimate"
-  },
-  {
     "headword": "nom]",
     "copticWord": "ⲛⲟⲙϯ",
     "englishTransliteration": "nomti",
@@ -306,7 +268,22 @@
     "crossReference": {
       "target": "vw=",
       "gloss": "Belonging to noub: (221b)"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(2) nou (e-)",
+        "copticWord": "ⲛⲟⲩ (ⲉ-)",
+        "englishTransliteration": "nou (e-)",
+        "gloss": "be going to, about to",
+        "definition": "be going to, about to",
+        "reference": "219a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "na",
+          "gloss": "gehen"
+        }
+      }
+    ]
   },
   {
     "headword": "hamnoub",
@@ -352,14 +329,6 @@
     "reference": "222b",
     "gloss": "vt. To weave",
     "definition": "vt. To weave"
-  },
-  {
-    "headword": "neb]",
-    "copticWord": "ⲛⲉⲃϯ",
-    "englishTransliteration": "nevti",
-    "partOfSpeech": "f",
-    "gloss": "Plait, tress",
-    "definition": "Plait, tress"
   },
   {
     "headword": "[e nouni",

@@ -108,15 +108,6 @@
     "definition": "mf. Plague, pest;adj. pestilent."
   },
   {
-    "headword": "lol",
-    "copticWord": "ⲗⲟⲗ",
-    "englishTransliteration": "lol",
-    "reference": "141a",
-    "partOfSpeech": "m",
-    "gloss": "Bed, bench",
-    "definition": "Bed, bench"
-  },
-  {
     "headword": "lom",
     "copticWord": "ⲗⲟⲙ",
     "englishTransliteration": "lom",
@@ -314,14 +305,6 @@
     "definition": "Litany, entreaty, prayer, congregational supplication"
   },
   {
-    "headword": "erlitaneuin",
-    "copticWord": "ⲉⲣⲗⲓⲧⲁⲛⲉⲩⲓⲛ",
-    "englishTransliteration": "erlitanevin",
-    "partOfSpeech": "vb",
-    "gloss": "To accept, entreat",
-    "definition": "To accept, entreat"
-  },
-  {
     "headword": "litourgia",
     "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲓⲁ",
     "englishTransliteration": "litourgia",
@@ -339,17 +322,6 @@
     "partOfSpeech": "m",
     "gloss": "Piercing wood, splinter",
     "definition": "Piercing wood, splinter"
-  },
-  {
-    "headword": "litourgoc",
-    "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲟⲥ",
-    "englishTransliteration": "litourgos",
-    "gloss": "Minister",
-    "definition": "Minister",
-    "crossReference": {
-      "target": "leitourgia",
-      "gloss": "Minister"
-    }
   },
   {
     "headword": "litra",
@@ -452,14 +424,6 @@
     "definition": "vt. To destroy"
   },
   {
-    "headword": "leflifi",
-    "copticWord": "ⲗⲉϥⲗⲓϥⲓ",
-    "englishTransliteration": "leflifi",
-    "partOfSpeech": "f",
-    "gloss": "What drops off, fragment, crumb",
-    "definition": "What drops off, fragment, crumb"
-  },
-  {
     "headword": "loj=",
     "copticWord": "ⲗⲟϫ",
     "englishTransliteration": "loj",
@@ -511,14 +475,6 @@
     "reference": "150b",
     "gloss": "vi. To languish, be sickly",
     "definition": "vi. To languish, be sickly"
-  },
-  {
-    "headword": "lajlej",
-    "copticWord": "ⲗⲁϫⲗⲉϫ",
-    "englishTransliteration": "lajlej",
-    "partOfSpeech": "n",
-    "gloss": "Sickness, humility",
-    "definition": "Sickness, humility"
   },
   {
     "headword": "lojh=",

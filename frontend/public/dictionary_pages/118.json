@@ -63,17 +63,6 @@
     "definition": "To give light"
   },
   {
-    "headword": "outauh",
-    "copticWord": "ⲟⲩⲧⲁⲩϩ",
-    "englishTransliteration": "outavh",
-    "gloss": "Fruits",
-    "definition": "Fruits",
-    "crossReference": {
-      "target": "outah",
-      "gloss": "Fruits"
-    }
-  },
-  {
     "headword": "[iouwini",
     "copticWord": "ϭⲓⲟⲩⲱⲓⲛⲓ",
     "englishTransliteration": "chiouōini",
@@ -91,21 +80,6 @@
     "definition": "Harp"
   },
   {
-    "headword": "oute",
-    "copticWord": "ⲟⲩⲧⲉ",
-    "englishTransliteration": "oute",
-    "variants": [
-      {
-        "word": "outw=",
-        "copticWord": "ⲟⲩⲧⲱ",
-        "englishTransliteration": "outō"
-      }
-    ],
-    "reference": "494b",
-    "gloss": "Prep. Between, among",
-    "definition": "Prep. Between, among"
-  },
-  {
     "headword": "ouwlc (rare)",
     "copticWord": "ⲟⲩⲱⲗⲥ (ⲣⲁⲣⲉ)",
     "englishTransliteration": "ouōls (rare)",
@@ -119,13 +93,6 @@
     "reference": "477b",
     "gloss": "vi. To lean, be bent, be confounded",
     "definition": "vi. To lean, be bent, be confounded"
-  },
-  {
-    "headword": "ebol oute",
-    "copticWord": "ⲉⲃⲟⲗ ⲟⲩⲧⲉ",
-    "englishTransliteration": "evol oute",
-    "gloss": "From among, between. outw= v. oute- - Between",
-    "definition": "From among, between. outw= v. oute- - Between"
   },
   {
     "headword": "ouvaji",
@@ -216,6 +183,19 @@
         "word": "(Q) ou/n",
         "copticWord": "(Ϧ) ⲟⲩⲏⲛ",
         "englishTransliteration": "(Kh) ouin"
+      },
+      {
+        "headword": "(5) ouon nsaji",
+        "copticWord": "ⲟⲩⲱⲛ ⲛⲥⲁϫⲓ",
+        "englishTransliteration": "ouon nsaji",
+        "gloss": "problem, riddle",
+        "definition": "problem, riddle",
+        "reference": "483a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "shaje",
+          "gloss": "saying, word, affair"
+        }
       }
     ],
     "reference": "482b",
@@ -253,19 +233,6 @@
     "definition": "n. Bud, blossom; ]ouw: vt. To put forth, bring up; --- ebol: vt. To put forth;"
   },
   {
-    "headword": "(2) ouwn",
-    "copticWord": "ⲟⲩⲱⲛ",
-    "englishTransliteration": "ouōn",
-    "variants": [
-      {
-        "word": "ouen",
-        "copticWord": "ⲟⲩⲉⲛ",
-        "englishTransliteration": "ouen"
-      }
-    ],
-    "reference": "483a"
-  },
-  {
     "headword": "m. Part ouwns",
     "copticWord": "ⲙ. Ⲡⲁⲣⲧ ⲟⲩⲱⲛϣ",
     "englishTransliteration": "m. Part ouōnsh",
@@ -273,24 +240,5 @@
     "partOfSpeech": "m",
     "gloss": "Wolf",
     "definition": "Wolf"
-  },
-  {
-    "headword": "ouwbs",
-    "copticWord": "ⲟⲩⲱⲃϣ",
-    "englishTransliteration": "ouōvsh",
-    "gloss": "White. (1)ouwini: (480a)",
-    "definition": "m. Light;",
-    "crossReference": {
-      "target": "oubas",
-      "gloss": "White. (1)ouwini: (480a)"
-    },
-    "senses": [
-      {
-        "label": "ayouwini",
-        "partOfSpeech": "adj",
-        "gloss": "Without light",
-        "definition": "Without light"
-      }
-    ]
   }
 ]

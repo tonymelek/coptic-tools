@@ -5,15 +5,18 @@
     "englishTransliteration": "refnav",
     "partOfSpeech": "m",
     "gloss": "Seer",
-    "definition": "adj. seeing;"
-  },
-  {
-    "headword": "errefnau",
-    "copticWord": "ⲉⲣⲣⲉϥⲛⲁⲩ",
-    "englishTransliteration": "errefnav",
-    "partOfSpeech": "vb",
-    "gloss": "To become seer, spectator",
-    "definition": "To become seer, spectator"
+    "definition": "adj. seeing;",
+    "variants": [
+      {
+        "headword": "(4) refnau ebol",
+        "copticWord": "ⲣⲉϥⲛⲁⲩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "refnau ebol",
+        "gloss": "seer",
+        "definition": "seer",
+        "reference": "234a",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "jinnau",
@@ -44,55 +47,6 @@
         "partOfSpeech": "vb",
         "gloss": "To trust in",
         "definition": "To trust in"
-      }
-    ]
-  },
-  {
-    "headword": "(2) nau",
-    "copticWord": "ⲛⲁⲩ",
-    "englishTransliteration": "nav",
-    "reference": "234b",
-    "partOfSpeech": "m",
-    "gloss": "Hour, time",
-    "definition": "Hour, time",
-    "senses": [
-      {
-        "label": "nswrp",
-        "partOfSpeech": "m",
-        "gloss": "Morning, early hour",
-        "definition": "Morning, early hour"
-      },
-      {
-        "label": "mmeri",
-        "partOfSpeech": "m",
-        "gloss": "Midday, noon",
-        "definition": "nis] nnau: adj. Great, long time kouji nnau: adj. Little time;"
-      },
-      {
-        "label": "niben",
-        "partOfSpeech": "m",
-        "gloss": "Every hour, always",
-        "definition": "qen pinau etemmau: Then;"
-      },
-      {
-        "label": "mpainau",
-        "gloss": "Just now, meanwhile, forthwith",
-        "definition": "Just now, meanwhile, forthwith"
-      },
-      {
-        "label": "painau",
-        "gloss": "At this (same) time",
-        "definition": "At this (same) time"
-      },
-      {
-        "label": "sapinau",
-        "gloss": "Up to the hour",
-        "definition": "Up to the hour"
-      },
-      {
-        "label": "icjen vnau",
-        "gloss": "From the hour",
-        "definition": "icjen painau: Henceforth; nynau: interr. When?"
       }
     ]
   },
@@ -357,14 +311,6 @@
     "partOfSpeech": "f",
     "gloss": "Time",
     "definition": "Time"
-  },
-  {
-    "headword": "ernei",
-    "copticWord": "ⲉⲣⲛⲉⲓ",
-    "englishTransliteration": "erni",
-    "partOfSpeech": "vb",
-    "gloss": "To make, reach time",
-    "definition": "To make, reach time"
   },
   {
     "headword": "]nei",

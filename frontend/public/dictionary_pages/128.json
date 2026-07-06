@@ -1,14 +1,5 @@
 [
   {
-    "headword": "lom",
-    "copticWord": "ⲗⲟⲙ",
-    "englishTransliteration": "lom",
-    "reference": "104b",
-    "partOfSpeech": "m",
-    "gloss": "Crown, wreath",
-    "definition": "Crown, wreath"
-  },
-  {
     "headword": "oh",
     "copticWord": "ⲟϩ",
     "englishTransliteration": "oh",
@@ -85,6 +76,421 @@
         "word": "lom",
         "copticWord": "ⲗⲟⲙ",
         "englishTransliteration": "lom"
+      },
+      {
+        "headword": "(2) ti mpbeke",
+        "copticWord": "ϯ ⲙⲡⲃⲉⲕⲉ",
+        "englishTransliteration": "ti mpbeke",
+        "gloss": "pay wage, reward",
+        "definition": "pay wage, reward",
+        "reference": "30b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "-tibeke",
+            "copticWord": "ϯⲃⲉⲕⲉ",
+            "englishTransliteration": "tibeke"
+          },
+          {
+            "word": "ti mpbeche",
+            "copticWord": "ϯ ⲙⲡⲃⲉⲭⲉ",
+            "englishTransliteration": "ti mpbeche"
+          },
+          {
+            "word": "-tibeche",
+            "copticWord": "ϯⲃⲉⲭⲉ",
+            "englishTransliteration": "tibeche"
+          }
+        ],
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(4) ti ekibe",
+        "copticWord": "ϯ ⲉⲕⲓⲃⲉ",
+        "englishTransliteration": "ti ekibe",
+        "gloss": "give breast, suckle",
+        "definition": "give breast, suckle",
+        "reference": "54a",
+        "isGreek": true,
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(2) ti neuo",
+        "copticWord": "ϯ ⲛⲉⲩⲱ",
+        "englishTransliteration": "ti neuo",
+        "gloss": "give as pledge",
+        "definition": "give as pledge",
+        "reference": "62b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(5) ti niat",
+        "copticWord": "ϯ ⲛⲓⲁⲧ⸗",
+        "englishTransliteration": "ti niat",
+        "gloss": "see, observe",
+        "definition": "see, observe",
+        "reference": "73b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(5) ti enkash",
+        "copticWord": "ϯ ⲉⲛⲕⲁϣ",
+        "englishTransliteration": "ti enkash",
+        "gloss": "hedge with reeds",
+        "definition": "hedge with reeds",
+        "reference": "130b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(2) ti mpimoit",
+        "copticWord": "ϯ ⲙⲡⲓⲙⲱⲓⲧ",
+        "englishTransliteration": "ti mpimoit",
+        "gloss": "give way, occasion",
+        "definition": "give way, occasion",
+        "reference": "188a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(8) ti erat",
+        "copticWord": "ϯ ⲉⲣⲁⲧ⸗",
+        "englishTransliteration": "ti erat",
+        "gloss": "put on foot, shoe",
+        "definition": "put on foot, shoe",
+        "reference": "303a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(7) ti mphreti",
+        "copticWord": "ϯ ⲙⲫⲣⲏϯ",
+        "englishTransliteration": "ti mphreti",
+        "gloss": "give means",
+        "definition": "give means",
+        "reference": "305b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(8) ti nouerkhot",
+        "copticWord": "ϯ ⲛⲟⲩⲉⲣϧⲟⲧ",
+        "englishTransliteration": "ti nouerkhot",
+        "gloss": "give wound, wound",
+        "definition": "give wound, wound",
+        "reference": "312a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "-tierkhot",
+            "copticWord": "ϯⲉⲣϧⲟⲧ",
+            "englishTransliteration": "tierkhot"
+          }
+        ],
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(9) ti epsote",
+        "copticWord": "ϯ ⲉⲡⲥⲱⲧⲉ",
+        "englishTransliteration": "ti epsote",
+        "gloss": "pay for, as ransom",
+        "definition": "pay for, as ransom",
+        "reference": "362b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ti mpsote",
+            "copticWord": "ϯ ⲙⲡⲥⲱⲧⲉ",
+            "englishTransliteration": "ti mpsote"
+          }
+        ],
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(4) ti (e-)",
+        "copticWord": "ϯ (ⲉ-)",
+        "englishTransliteration": "ti (e-)",
+        "gloss": "be about to (do something), tend toward (doing smth)",
+        "definition": "be about to (do something), tend toward (doing smth)",
+        "reference": "393a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) ti (etn-)",
+        "copticWord": "ϯ (ⲉⲧⲛ-)",
+        "englishTransliteration": "ti (etn-)",
+        "gloss": "give into hands, command, entrust",
+        "definition": "give into hands, command, entrust",
+        "reference": "393b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ti (etoot n-)",
+            "copticWord": "ϯ (ⲉⲧⲟⲟⲧ⸗ ⲛ-)",
+            "englishTransliteration": "ti (etoot n-)"
+          }
+        ]
+      },
+      {
+        "headword": "(6) ti (ern-)",
+        "copticWord": "ϯ (ⲉⲣⲛ-)",
+        "englishTransliteration": "ti (ern-)",
+        "gloss": "go toward",
+        "definition": "go toward",
+        "reference": "393b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) ti (ejn-)",
+        "copticWord": "ϯ (ⲉϫⲛ-)",
+        "englishTransliteration": "ti (ejn-)",
+        "gloss": "put upon, add to, on behalf of",
+        "definition": "put upon, add to, on behalf of",
+        "reference": "393b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) ti (nsa-)",
+        "copticWord": "ϯ (ⲛⲥⲁ-)",
+        "englishTransliteration": "ti (nsa-)",
+        "gloss": "go after, pursue",
+        "definition": "go after, pursue",
+        "reference": "394a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) ti (ntn-)",
+        "copticWord": "ϯ (ⲛⲧⲛ-)",
+        "englishTransliteration": "ti (ntn-)",
+        "gloss": "entrust to",
+        "definition": "entrust to",
+        "reference": "394a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) ti (ha-)",
+        "copticWord": "ϯ (ϩⲁ-)",
+        "englishTransliteration": "ti (ha-)",
+        "gloss": "give for, sell for",
+        "definition": "give for, sell for",
+        "reference": "394a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) ti (hi-)",
+        "copticWord": "ϯ (ϩⲓ-)",
+        "englishTransliteration": "ti (hi-)",
+        "gloss": "put on, clothe",
+        "definition": "put on, clothe",
+        "reference": "394a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) ti (hijn-)",
+        "copticWord": "ϯ (ϩⲓϫⲛ-)",
+        "englishTransliteration": "ti (hijn-)",
+        "gloss": "give for, put upon",
+        "definition": "give for, put upon",
+        "reference": "394b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(15) ti ebol",
+        "copticWord": "ϯ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ti ebol",
+        "gloss": "give forth, give away, sell",
+        "definition": "give forth, give away, sell",
+        "reference": "394b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(19) ti epeset",
+        "copticWord": "ϯ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "ti epeset",
+        "gloss": "put downward, send downward",
+        "definition": "put downward, send downward",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(20) ti epshoi",
+        "copticWord": "ϯ ⲉⲡϣⲱⲓ",
+        "englishTransliteration": "ti epshoi",
+        "gloss": "raise up",
+        "definition": "raise up",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(21) ti epahou",
+        "copticWord": "ϯ ⲉⲡⲁϩⲟⲩ",
+        "englishTransliteration": "ti epahou",
+        "gloss": "go backward",
+        "definition": "go backward",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(22) ti ethe",
+        "copticWord": "ϯ ⲉⲑⲏ",
+        "englishTransliteration": "ti ethe",
+        "gloss": "go forward, progress",
+        "definition": "go forward, progress",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(23) ti ehoun",
+        "copticWord": "ϯ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "ti ehoun",
+        "gloss": "give in, hand in",
+        "definition": "give in, hand in",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(24) ti ehrai",
+        "copticWord": "ϯ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "ti ehrai",
+        "gloss": "give, send up, lay down",
+        "definition": "give, send up, lay down",
+        "reference": "395b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) ti (mn-)",
+        "copticWord": "ϯ (ⲙⲛ-)",
+        "englishTransliteration": "ti (mn-)",
+        "gloss": "fight with",
+        "definition": "fight with",
+        "reference": "393b-394a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ti (nem-)",
+            "copticWord": "ϯ (ⲛⲉⲙ-)",
+            "englishTransliteration": "ti (nem-)"
+          }
+        ]
+      },
+      {
+        "headword": "(5) ti (oube-)",
+        "copticWord": "ϯ (ⲟⲩⲃⲉ-)",
+        "englishTransliteration": "ti (oube-)",
+        "gloss": "fight against",
+        "definition": "fight against",
+        "reference": "394a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(10) ti (ebol hijn-)",
+        "copticWord": "ϯ (ⲉⲃⲟⲗ ϩⲓϫⲛ-)",
+        "englishTransliteration": "ti (ebol hijn-)",
+        "gloss": "fight on behalf of",
+        "definition": "fight on behalf of",
+        "reference": "394b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) ti (ehoun ehrn-)",
+        "copticWord": "ϯ (ⲉϩⲟⲩⲛ ⲉϩⲣⲛ-)",
+        "englishTransliteration": "ti (ehoun ehrn-)",
+        "gloss": "strike against, oppose",
+        "definition": "strike against, oppose",
+        "reference": "395a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(23) ti ntoot",
+        "copticWord": "ϯ ⲛⲧⲟⲟⲧ⸗",
+        "englishTransliteration": "ti ntoot",
+        "gloss": "give a hand, help",
+        "definition": "give a hand, help",
+        "reference": "426b-427a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(6) ti mpouoi",
+        "copticWord": "ϯ ⲙⲡⲟⲩⲟⲓ",
+        "englishTransliteration": "ti mpouoi",
+        "gloss": "go forward",
+        "definition": "go forward",
+        "reference": "472a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(2) ti epoushap",
+        "copticWord": "ϯ ⲉⲡⲟⲩϣⲁⲡ",
+        "englishTransliteration": "ti epoushap",
+        "gloss": "give on loan, lend",
+        "definition": "give on loan, lend",
+        "reference": "503b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      },
+      {
+        "headword": "(5) ti njaie",
+        "copticWord": "ϯ ⲛϫⲁⲓⲉ",
+        "englishTransliteration": "ti njaie",
+        "gloss": "make desert",
+        "definition": "make desert",
+        "reference": "746a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "ti njaeie",
+            "copticWord": "ϯ ⲛϫⲁⲉⲓⲉ",
+            "englishTransliteration": "ti njaeie"
+          }
+        ],
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
       }
     ],
     "partOfSpeech": "vb",
@@ -105,21 +511,6 @@
     "partOfSpeech": "f",
     "gloss": "Crowning (of bridal crown)",
     "definition": "Crowning (of bridal crown)"
-  },
-  {
-    "headword": "[i",
-    "copticWord": "ϭⲓ",
-    "englishTransliteration": "chi",
-    "variants": [
-      {
-        "word": "lom",
-        "copticWord": "ⲗⲟⲙ",
-        "englishTransliteration": "lom"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To receive, bear crown. ,lomlem: (516b)",
-    "definition": "vt. To crown."
   },
   {
     "headword": ",lomlem",
@@ -172,36 +563,12 @@
     ]
   },
   {
-    "headword": "nau",
-    "copticWord": "ⲛⲁⲩ",
-    "englishTransliteration": "nav",
-    "reference": "112b",
-    "partOfSpeech": "m",
-    "gloss": "Sheaf",
-    "definition": "Sheaf"
-  },
-  {
     "headword": "remrwm (Q)",
     "copticWord": "ⲣⲉⲙⲣⲱⲙ (Ϧ)",
     "englishTransliteration": "remrōm (Kh)",
     "reference": "116b",
     "gloss": "vi. To be dark",
     "definition": ",remtc: m. Smoke, mist, rust; ---: adj. Dark"
-  },
-  {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "remtc",
-        "copticWord": "ⲣⲉⲙⲧⲥ",
-        "englishTransliteration": "remts"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be smoky, dark",
-    "definition": "To be smoky, dark"
   },
   {
     "headword": "ses",
@@ -291,21 +658,6 @@
     "isGreek": true,
     "gloss": "Good, reputable, kind",
     "definition": "Good, reputable, kind"
-  },
-  {
-    "headword": "met",
-    "copticWord": "ⲙⲉⲧ",
-    "englishTransliteration": "met",
-    "variants": [
-      {
-        "word": "r/ctoc",
-        "copticWord": "ⲣⲏⲥⲧⲟⲥ",
-        "englishTransliteration": "ristos"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Goodness, kindness",
-    "definition": "Goodness, kindness"
   },
   {
     "headword": ",op=",
@@ -401,35 +753,5 @@
     "partOfSpeech": "m",
     "gloss": "Guile, ambush",
     "definition": "Guile, ambush"
-  },
-  {
-    "headword": "at",
-    "copticWord": "ⲁⲧ",
-    "englishTransliteration": "at",
-    "variants": [
-      {
-        "word": "rof",
-        "copticWord": "ⲣⲟϥ",
-        "englishTransliteration": "rof"
-      }
-    ],
-    "partOfSpeech": "adj",
-    "gloss": "Guileless",
-    "definition": "Guileless"
-  },
-  {
-    "headword": "metat",
-    "copticWord": "ⲙⲉⲧⲁⲧ",
-    "englishTransliteration": "metat",
-    "variants": [
-      {
-        "word": "rof",
-        "copticWord": "ⲣⲟϥ",
-        "englishTransliteration": "rof"
-      }
-    ],
-    "partOfSpeech": "f",
-    "gloss": "Guilelessness",
-    "definition": "Guilelessness"
   }
 ]

@@ -1,3 +1,5 @@
+import Fuse from 'fuse.js'
+
 const INDEX_FILES = {
   copticWord: 'copticWord.json',
   transliteration: 'transliteration.json',
@@ -114,6 +116,49 @@ export const SEARCH_MODES = [
   { id: 'meaning', label: 'Meaning' },
 ]
 
+// Fields that carry the searchable text for each mode, used to score relevance.
+function rankTexts(entry, mode) {
+  if (mode === 'copticWord') {
+    return [entry.copticWord, ...(entry.variants || []).map((v) => v.copticWord)].filter(Boolean)
+  }
+
+  if (mode === 'transliteration') {
+    return [
+      entry.englishTransliteration,
+      entry.headword,
+      ...(entry.variants || []).flatMap((v) => [v.englishTransliteration, v.word]),
+    ].filter(Boolean)
+  }
+
+  return entryTextValues(entry)
+}
+
+// Rank matched results so the closest match to the query shows first.
+// Candidates are already narrowed by the index; Fuse only scores/orders them.
+function rankResults(results, mode, query) {
+  if (results.length <= 1) return results
+
+  const items = results.map((result) => ({ result, texts: rankTexts(result.entry, mode) }))
+
+  const fuse = new Fuse(items, {
+    keys: ['texts'],
+    includeScore: true,
+    ignoreLocation: true,
+    threshold: 1, // keep every candidate; we only want the relative score
+    minMatchCharLength: 1,
+  })
+
+  const scores = new Map()
+  for (const { item, score } of fuse.search(query)) {
+    scores.set(item.result, score ?? 1)
+  }
+
+  return results
+    .map((result, index) => ({ result, index, score: scores.has(result) ? scores.get(result) : 1 }))
+    .sort((a, b) => a.score - b.score || a.index - b.index)
+    .map(({ result }) => result)
+}
+
 export async function searchDictionary(mode, query) {
   const index = await loadIndex(mode)
   const { pageIds } = lookupPages(index, query)
@@ -134,5 +179,5 @@ export async function searchDictionary(mode, query) {
     }
   }
 
-  return results
+  return rankResults(results, mode, query)
 }

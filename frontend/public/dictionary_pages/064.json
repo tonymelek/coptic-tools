@@ -44,17 +44,6 @@
     "definition": "Breast"
   },
   {
-    "headword": "monk=",
-    "copticWord": "ⲙⲟⲛⲕ",
-    "englishTransliteration": "monk",
-    "gloss": "To make",
-    "definition": "To make",
-    "crossReference": {
-      "target": "mounk",
-      "gloss": "To make"
-    }
-  },
-  {
     "headword": "mno]",
     "copticWord": "ⲙⲛⲟϯ",
     "englishTransliteration": "mnoti",
@@ -83,15 +72,6 @@
     "reference": "176a",
     "gloss": "vi. To shake, be shaken",
     "definition": "vt. to shake; ---: m. Shaking, earthquake, tempest."
-  },
-  {
-    "headword": "(2) monmen",
-    "copticWord": "ⲙⲟⲛⲙⲉⲛ",
-    "englishTransliteration": "monmen",
-    "reference": "176a",
-    "partOfSpeech": "adj",
-    "gloss": "Twisted, upside down",
-    "definition": "Twisted, upside down"
   },
   {
     "headword": "monon",
@@ -217,14 +197,6 @@
     "definition": "Thought"
   },
   {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To reflect, ponder",
-    "definition": "To reflect, ponder"
-  },
-  {
     "headword": "jinmokmek",
     "copticWord": "ϫⲓⲛⲙⲟⲕⲙⲉⲕ",
     "englishTransliteration": "jinmokmek",
@@ -240,14 +212,6 @@
     "partOfSpeech": "f",
     "gloss": "Beard",
     "definition": "Beard"
-  },
-  {
-    "headword": "ermort",
-    "copticWord": "ⲉⲣⲙⲟⲣⲧ",
-    "englishTransliteration": "ermort",
-    "partOfSpeech": "vb",
-    "gloss": "To grow a beard, be bearded",
-    "definition": "To grow a beard, be bearded"
   },
   {
     "headword": "sepmort",
@@ -316,17 +280,6 @@
     "definition": "vt. to involve, enmesh"
   },
   {
-    "headword": "molq=",
-    "copticWord": "ⲙⲟⲗϧ",
-    "englishTransliteration": "molkh",
-    "gloss": "To involve",
-    "definition": "To involve",
-    "crossReference": {
-      "target": "molq",
-      "gloss": "To involve"
-    }
-  },
-  {
     "headword": "molh",
     "copticWord": "ⲙⲟⲗϩ",
     "englishTransliteration": "molh",
@@ -336,25 +289,6 @@
       "target": "(2)moulh",
       "gloss": "Honey combs"
     }
-  },
-  {
-    "headword": "molh=",
-    "copticWord": "ⲙⲟⲗϩ",
-    "englishTransliteration": "molh",
-    "gloss": "To make salt",
-    "definition": "To make salt",
-    "crossReference": {
-      "target": "(1)moulh",
-      "gloss": "To make salt"
-    }
-  },
-  {
-    "headword": "macte",
-    "copticWord": "ⲙⲁⲥⲧⲉ",
-    "englishTransliteration": "maste",
-    "reference": "187a",
-    "gloss": "vt. To hate",
-    "definition": "p.c. hater of; ---: m. Hatred, object of hatred"
   },
   {
     "headword": "soumoc]",
@@ -381,7 +315,22 @@
     "crossReference": {
       "target": "ma",
       "gloss": "Place"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(4) mou nsorem",
+        "copticWord": "ⲙⲟⲩ ⲛⲥⲱⲣⲉⲙ",
+        "englishTransliteration": "mou nsorem",
+        "gloss": "torrent",
+        "definition": "torrent",
+        "reference": "355b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "moou",
+          "gloss": "Wasser"
+        }
+      }
+    ]
   },
   {
     "headword": "etbe",
@@ -389,7 +338,44 @@
     "englishTransliteration": "etve",
     "partOfSpeech": "vb",
     "gloss": "To die because of",
-    "definition": "--- ejen-: vb. To die for, because of; --- n- nten-: vb. To die from, be means of;"
+    "definition": "--- ejen-: vb. To die for, because of; --- n- nten-: vb. To die from, be means of;",
+    "variants": [
+      {
+        "headword": "(2) etbe je",
+        "copticWord": "ⲉⲧⲃⲉ ϫⲉ",
+        "englishTransliteration": "etbe je",
+        "gloss": "because",
+        "definition": "because",
+        "reference": "61b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "je",
+          "gloss": "Konjunktion"
+        }
+      },
+      {
+        "headword": "(3) etbe pai",
+        "copticWord": "ⲉⲧⲃⲉ ⲡⲁⲓ",
+        "englishTransliteration": "etbe pai",
+        "gloss": "wherefore",
+        "definition": "wherefore",
+        "reference": "61b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "pai",
+          "gloss": "Demonstrativpronomen"
+        }
+      },
+      {
+        "headword": "(2) etbe ou",
+        "copticWord": "ⲉⲧⲃⲉ ⲟⲩ",
+        "englishTransliteration": "etbe ou",
+        "gloss": "because of what, why?",
+        "definition": "because of what, why?",
+        "reference": "468a",
+        "partOfSpeech": "pron"
+      }
+    ]
   },
   {
     "headword": "ebolha",
@@ -400,26 +386,7 @@
     "definition": "To die from"
   },
   {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To die by means of",
-    "definition": "To die by means of"
-  },
-  {
     "headword": "molj",
-    "copticWord": "ⲙⲟⲗϫ",
-    "englishTransliteration": "molj",
-    "gloss": "To embrace",
-    "definition": "To embrace",
-    "crossReference": {
-      "target": "moulj",
-      "gloss": "To embrace"
-    }
-  },
-  {
-    "headword": "molj=",
     "copticWord": "ⲙⲟⲗϫ",
     "englishTransliteration": "molj",
     "gloss": "To embrace",

@@ -1,39 +1,6 @@
 [
   {
-    "headword": "coutwn",
-    "copticWord": "ⲥⲟⲩⲧⲱⲛ",
-    "englishTransliteration": "soutōn",
-    "gloss": "To be straight",
-    "definition": "To be straight",
-    "crossReference": {
-      "target": "coutwn",
-      "gloss": "To be straight"
-    }
-  },
-  {
-    "headword": "coutwn=",
-    "copticWord": "ⲥⲟⲩⲧⲱⲛ",
-    "englishTransliteration": "soutōn",
-    "gloss": "To be straight",
-    "definition": "To be straight",
-    "crossReference": {
-      "target": "coutwn",
-      "gloss": "To be straight"
-    }
-  },
-  {
     "headword": "couwn",
-    "copticWord": "ⲥⲟⲩⲱⲛ",
-    "englishTransliteration": "souōn",
-    "gloss": "To know",
-    "definition": "To know",
-    "crossReference": {
-      "target": "cwoun",
-      "gloss": "To know"
-    }
-  },
-  {
-    "headword": "couwn=",
     "copticWord": "ⲥⲟⲩⲱⲛ",
     "englishTransliteration": "souōn",
     "gloss": "To know",
@@ -53,41 +20,6 @@
       "target": "covoc",
       "gloss": "Wisdom"
     }
-  },
-  {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "partOfSpeech": "vb",
-    "gloss": "To take counsel against, about",
-    "definition": "To take counsel against, about",
-    "senses": [
-      {
-        "label": "atco[ni",
-        "partOfSpeech": "adj",
-        "gloss": "Without counsel",
-        "definition": "metatco[ni: f. State of being without counsel; ill-considered; refco[ni: m. Counsellor, advisor; iri, er co[ni: vb. To take counsel, make decision; [ico[ni: vb. To take counsel, reflect, advise; --: m. Counsel, design;"
-      },
-      {
-        "label": "]co[ni",
-        "partOfSpeech": "vb",
-        "gloss": "To give counsel",
-        "definition": "ref]co[ni: m. Counsellor."
-      },
-      {
-        "label": "cpatal/",
-        "reference": "Gk",
-        "partOfSpeech": "f",
-        "gloss": "Wantonness, luxury. cpeira v. cpira - Regiment",
-        "definition": "Wantonness, luxury. cpeira v. cpira - Regiment",
-        "isGreek": true
-      },
-      {
-        "label": "cpekolatwr",
-        "gloss": "Speculator",
-        "definition": "Speculator"
-      }
-    ]
   },
   {
     "headword": "covoc",
@@ -349,22 +281,6 @@
     "definition": "To take counsel concerning"
   },
   {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "partOfSpeech": "vb",
-    "gloss": "To take counsel upon, about",
-    "definition": "To take counsel upon, about"
-  },
-  {
-    "headword": "nem",
-    "copticWord": "ⲛⲉⲙ",
-    "englishTransliteration": "nem",
-    "partOfSpeech": "vb",
-    "gloss": "To take counsel with",
-    "definition": "To take counsel with"
-  },
-  {
     "headword": "cpla,non",
     "copticWord": "ⲥⲡⲗⲁⲭⲛⲟⲛ",
     "englishTransliteration": "splakhnon",
@@ -433,14 +349,6 @@
     "partOfSpeech": "adv",
     "gloss": "In haste, hastily, earnestly, attentively",
     "definition": "In haste, hastily, earnestly, attentively"
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To take counsel after, against",
-    "definition": "To take counsel after, against"
   },
   {
     "headword": "cpoud/c",

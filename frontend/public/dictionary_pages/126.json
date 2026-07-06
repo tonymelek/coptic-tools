@@ -1,29 +1,5 @@
 [
   {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To break (w/emphasis)",
-    "definition": "To break (w/emphasis)"
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "partOfSpeech": "vb",
-    "gloss": "To divide at, into",
-    "definition": "To divide at, into"
-  },
-  {
-    "headword": "ebol qen",
-    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
-    "englishTransliteration": "evol khen",
-    "partOfSpeech": "vb",
-    "gloss": "To tear out",
-    "definition": "To tear out"
-  },
-  {
     "headword": "ebol eqoun",
     "copticWord": "ⲉⲃⲟⲗ ⲉϧⲟⲩⲛ",
     "englishTransliteration": "evol ekhoun",
@@ -85,32 +61,11 @@
     ]
   },
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "gloss": "(dat) vt. To bend toward, bow to",
-    "definition": "(dat) vt. To bend toward, bow to"
-  },
-  {
     "headword": "mpemyo ebol n",
     "copticWord": "ⲙⲡⲉⲙⲑⲟ ⲉⲃⲟⲗ ⲛ",
     "englishTransliteration": "mpemtho evol n",
     "gloss": "vt. To bend, bow before",
     "definition": "vt. To bend, bow before"
-  },
-  {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "gloss": "vt. To overturn under",
-    "definition": "--- qaten: vt. To bow before;"
-  },
-  {
-    "headword": "epec/t",
-    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
-    "englishTransliteration": "epesit",
-    "gloss": "vt. To bend down. vwji v. (1)vwji - Fragment",
-    "definition": "vt. To bend down. vwji v. (1)vwji - Fragment"
   },
   {
     "headword": "(1) vwji",
@@ -126,13 +81,5 @@
     "reference": "285b",
     "gloss": "vi. To break, burst",
     "definition": "vi. To break, burst"
-  },
-  {
-    "headword": "(2) vwji",
-    "copticWord": "ⲫⲱϫⲓ",
-    "englishTransliteration": "fōji",
-    "reference": "515b",
-    "gloss": "pl. Fish",
-    "definition": "pl. Fish"
   }
 ]

@@ -48,33 +48,6 @@
     }
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "variants": [
-      {
-        "word": "malwtoc",
-        "copticWord": "ⲙⲁⲗⲱⲧⲟⲥ",
-        "englishTransliteration": "malōtos"
-      },
-      {
-        "word": "ai",
-        "copticWord": "ⲁⲓ",
-        "englishTransliteration": "ai"
-      },
-      {
-        "word": "malwtoc",
-        "copticWord": "ⲙⲁⲗⲱⲧⲟⲥ",
-        "englishTransliteration": "malōtos"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "f",
-    "isGreek": true,
-    "gloss": "Taken by the spear, captive, prisoner",
-    "definition": "Taken by the spear, captive, prisoner"
-  },
-  {
     "headword": "ehko",
     "copticWord": "ⲉϩⲕⲟ",
     "englishTransliteration": "ehko",
@@ -445,7 +418,31 @@
     "crossReference": {
       "target": "qoun",
       "gloss": "Inward"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(8) jinmoh ekhoun",
+        "copticWord": "ϫⲓⲛⲙⲟϩ ⲉϧⲟⲩⲛ",
+        "englishTransliteration": "jinmoh ekhoun",
+        "gloss": "completion",
+        "definition": "completion",
+        "reference": "209b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(14) jinouoteb ekhoun",
+        "copticWord": "ϫⲓⲛⲟⲩⲱⲧⲉⲃ ⲉϧⲟⲩⲛ",
+        "englishTransliteration": "jinouoteb ekhoun",
+        "gloss": "mixture, blend (of wine)",
+        "definition": "mixture, blend (of wine)",
+        "reference": "497a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "chin-",
+          "gloss": "Präfix"
+        }
+      }
+    ]
   },
   {
     "headword": "ehb/oui",

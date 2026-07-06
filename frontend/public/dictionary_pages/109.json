@@ -102,17 +102,6 @@
     "definition": "vt. To increase"
   },
   {
-    "headword": "taso=",
-    "copticWord": "ⲧⲁϣⲟ",
-    "englishTransliteration": "tasho",
-    "gloss": "To increase",
-    "definition": "To increase",
-    "crossReference": {
-      "target": "taso",
-      "gloss": "To increase"
-    }
-  },
-  {
     "headword": "tahe",
     "copticWord": "ⲧⲁϩⲉ",
     "englishTransliteration": "tahe",
@@ -141,14 +130,6 @@
     "reference": "460a",
     "gloss": "vt. To hinder",
     "definition": "vi. To be hindered;"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "partOfSpeech": "vb",
-    "gloss": "To confirm to",
-    "definition": "--- qen-: vb. To make firm in, with; ---: m. Firmness, strength, solidity"
   },
   {
     "headword": "qen outajro",
@@ -181,25 +162,6 @@
     "partOfSpeech": "m",
     "gloss": "Confirmation",
     "definition": "Confirmation"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To hinder from",
-    "definition": "--- ebol ha-: vb. To hinder from; --- evahou: vb. To set back, repel;"
-  },
-  {
-    "headword": "tajro=",
-    "copticWord": "ⲧⲁϫⲣⲟ",
-    "englishTransliteration": "tajro",
-    "gloss": "To make strong",
-    "definition": "To make strong",
-    "crossReference": {
-      "target": "tajro",
-      "gloss": "To make strong"
-    }
   },
   {
     "headword": "teb",
@@ -265,40 +227,50 @@
         "note": "Q",
         "copticWord": "ⲧⲁϩⲏⲟⲩⲧ",
         "englishTransliteration": "tahiout"
+      },
+      {
+        "headword": "(3) taho (e-)",
+        "copticWord": "ⲧⲁϩⲟ (ⲉ-)",
+        "englishTransliteration": "taho (e-)",
+        "gloss": "assign to, decide for",
+        "definition": "assign to, decide for",
+        "reference": "455b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ohe",
+          "gloss": "stehen"
+        }
+      },
+      {
+        "headword": "(4) taho ehoun",
+        "copticWord": "ⲧⲁϩⲟ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "taho ehoun",
+        "gloss": "meet with",
+        "definition": "meet with",
+        "reference": "456a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ohe",
+          "gloss": "stehen"
+        }
+      },
+      {
+        "headword": "(12) taho erat",
+        "copticWord": "ⲧⲁϩⲟ ⲉⲣⲁⲧ⸗",
+        "englishTransliteration": "taho erat",
+        "gloss": "set on feet, make to stand, establish",
+        "definition": "set on feet, make to stand, establish",
+        "reference": "456a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ohe",
+          "gloss": "stehen"
+        }
       }
     ],
     "reference": "455a",
     "gloss": "vt. To make to stand, set up",
     "definition": "meet; catch, arrest; vi. To attain, be able; --- e-: vb. To assign to, decide for;"
-  },
-  {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "partOfSpeech": "vb",
-    "gloss": "To set up on",
-    "definition": "To set up on"
-  },
-  {
-    "headword": "(2)tebi",
-    "copticWord": "ⲧⲉⲃⲓ",
-    "englishTransliteration": "tevi",
-    "variants": [
-      {
-        "word": "tepi",
-        "copticWord": "ⲧⲉⲡⲓ",
-        "englishTransliteration": "tepi"
-      },
-      {
-        "word": "tepe",
-        "copticWord": "ⲧⲉⲡⲉ",
-        "englishTransliteration": "tepe"
-      }
-    ],
-    "reference": "397a",
-    "partOfSpeech": "m",
-    "gloss": "Strip, bandage of linen. tebn/, pl",
-    "definition": "Strip, bandage of linen. tebn/, pl"
   },
   {
     "headword": "tebnwoui",

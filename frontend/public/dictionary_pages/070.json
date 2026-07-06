@@ -1,77 +1,5 @@
 [
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "reference": "214a",
-    "gloss": "13th letter of the Coptic Alphabet",
-    "definition": "n: The numeral 'fifty'.",
-    "senses": [
-      {
-        "label": "(1)",
-        "gloss": "n-, mmo=: (215a)",
-        "definition": "part. of; indicating direct object; as, for."
-      },
-      {
-        "label": "(2)",
-        "gloss": "n-: (215b)",
-        "definition": "prep. With, by; in, to, from; w/ebol, cabol from, from out; in, on."
-      },
-      {
-        "label": "(3)",
-        "gloss": "n-, na=: (216a)",
-        "definition": "prep. of dative, To for. na: (217b); vi. +n/ou To go, come; e-: vb. often, To be in the act of going to; epec/t: vb. To go down; epswi: vb. To go up; eywn: vb. To go wither; eqoun: vb. To go in, enter; ehr/i: vb. To go up; eqr/i: vb. To go down; --: vbal infix for 1st, 2nd, and 3rd future tenses."
-      },
-      {
-        "label": "na",
-        "gloss": "- My",
-        "definition": "- My"
-      },
-      {
-        "label": "na",
-        "gloss": "- The ... belonging to",
-        "definition": "- The ... belonging to"
-      },
-      {
-        "label": "na",
-        "gloss": "- Indicating imperfect",
-        "definition": "- Indicating imperfect"
-      },
-      {
-        "label": "na=",
-        "gloss": "- To",
-        "definition": "- To"
-      },
-      {
-        "label": "naa",
-        "reference": "218b",
-        "gloss": "nom vb. To be great",
-        "definition": "ehote e-: Greater than; --- qen: Greatest."
-      },
-      {
-        "label": "naa=",
-        "gloss": "To be great",
-        "definition": "To be great"
-      },
-      {
-        "label": "nabi",
-        "gloss": "Spear",
-        "definition": "Spear"
-      },
-      {
-        "label": "na/t",
-        "gloss": "Compassionate",
-        "definition": "Compassionate"
-      },
-      {
-        "label": "satmetnai",
-        "partOfSpeech": "vb",
-        "gloss": "To ask pity, charity",
-        "definition": "n. one asking charity; remnnai, refnai: m. Pitiful, charitable; jinnai: m. Pity, act of pitying; nah/t, na/t: m. Pitiful of heart, compassionate; erna/t: vb. To be pitiful; meyna/t: f. Pity, charity; iri, ermeyna/t: vb. To do charity, have pity; ]metna/t: vb. To give charity. nai v. vai - These ones. nakhi: (223a); f. Pains of travail, pains in general; ]nakhi: vb. To be in travail; ---: m. Travail. nam- v. nom - Pine. nane-, nane=: (227a); vi. To be good, fair; nanec: It is good, right; e-: vb. To be better than; nai, p.c. na-: (216b); vi. To have pity, mercy; --: m. Pity, charity; iri, erpinai, erounai: vb. To do charity, kindness; sounai: adj. Worth of pity; pitiable; [inai: vb. To get pity, take alms; at-, aynai: adj. Pitiless; er, oi atnai: vb. To be pitiless; metatnai: f. Pitilessness; met-, meynai: f. Pity, charity;"
-      }
-    ]
-  },
-  {
     "headword": "enane",
     "copticWord": "ⲉⲛⲁⲛⲉ",
     "englishTransliteration": "enane",
@@ -107,21 +35,6 @@
     "englishTransliteration": "maipethnane",
     "gloss": "Lover of goodness",
     "definition": "Lover of goodness"
-  },
-  {
-    "headword": "erpeynane",
-    "copticWord": "ⲉⲣⲡⲉⲑⲛⲁⲛⲉ",
-    "englishTransliteration": "erpethnane",
-    "variants": [
-      {
-        "word": "iri mpipeynane",
-        "copticWord": "ⲓⲣⲓ ⲙⲡⲓⲡⲉⲑⲛⲁⲛⲉ",
-        "englishTransliteration": "iri mpipethnane"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To do good",
-    "definition": "To do good"
   },
   {
     "headword": "refpeynane",
@@ -176,6 +89,33 @@
         "word": "imperat. anau",
         "copticWord": "ⲓⲙⲡⲉⲣⲁⲧ. ⲁⲛⲁⲩ",
         "englishTransliteration": "imperat. anav"
+      },
+      {
+        "headword": "(2) nau (ebol)",
+        "copticWord": "ⲛⲁⲩ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "nau (ebol)",
+        "gloss": "see (opp not see, be blind)",
+        "definition": "see (opp not see, be blind)",
+        "reference": "234a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) nau ebol",
+        "copticWord": "ⲛⲁⲩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nau ebol",
+        "gloss": "sight (power to see)",
+        "definition": "sight (power to see)",
+        "reference": "234a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) nau (mbol)",
+        "copticWord": "ⲛⲁⲩ (ⲙⲃⲟⲗ)",
+        "englishTransliteration": "nau (mbol)",
+        "gloss": "see (opp not see, be blind)",
+        "definition": "see (opp not see, be blind)",
+        "reference": "234a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "233b",

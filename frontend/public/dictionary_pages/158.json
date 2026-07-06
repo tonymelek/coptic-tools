@@ -36,14 +36,6 @@
     ]
   },
   {
-    "headword": "h/ki",
-    "copticWord": "ϩⲏⲕⲓ",
-    "englishTransliteration": "hiki",
-    "partOfSpeech": "adj",
-    "gloss": "Poor, n. poor person",
-    "definition": "Poor, n. poor person"
-  },
-  {
     "headword": "jemhmot",
     "copticWord": "ϫⲉⲙϩⲙⲟⲧ",
     "englishTransliteration": "jemhmot",
@@ -58,14 +50,6 @@
     "reference": "682b",
     "gloss": "vi. To become, be sour",
     "definition": "vi. To become, be sour"
-  },
-  {
-    "headword": "hemj",
-    "copticWord": "ϩⲉⲙϫ",
-    "englishTransliteration": "hemj",
-    "partOfSpeech": "m",
-    "gloss": "Vinegar",
-    "definition": "Vinegar"
   },
   {
     "headword": "hmou",
@@ -160,6 +144,15 @@
         "word": "hre=",
         "copticWord": "ϩⲣⲉ",
         "englishTransliteration": "hre"
+      },
+      {
+        "headword": "(2) ho mnho",
+        "copticWord": "ϩⲟ ⲙⲛϩⲟ",
+        "englishTransliteration": "ho mnho",
+        "gloss": "face to face",
+        "definition": "face to face",
+        "reference": "647a",
+        "partOfSpeech": "adv"
       }
     ],
     "reference": "646b",

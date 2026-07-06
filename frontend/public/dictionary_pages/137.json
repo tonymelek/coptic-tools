@@ -23,14 +23,6 @@
     "definition": "Devilry"
   },
   {
-    "headword": "(2) sari",
-    "copticWord": "ϣⲁⲣⲓ",
-    "englishTransliteration": "shari",
-    "reference": "584a",
-    "gloss": "n or adj",
-    "definition": "n or adj"
-  },
-  {
     "headword": "Red. sarke",
     "copticWord": "Ⲣⲉⲇ. ϣⲁⲣⲕⲉ",
     "englishTransliteration": "Red. sharke",
@@ -53,17 +45,6 @@
     "reference": "584a",
     "gloss": "nn. command(?)",
     "definition": "w/] vb. To give command"
-  },
-  {
-    "headword": "saro=",
-    "copticWord": "ϣⲁⲣⲟ",
-    "englishTransliteration": "sharo",
-    "gloss": "To",
-    "definition": "To",
-    "crossReference": {
-      "target": "sa",
-      "gloss": "To"
-    }
   },
   {
     "headword": "sarou",
@@ -103,17 +84,6 @@
     }
   },
   {
-    "headword": "sat=",
-    "copticWord": "ϣⲁⲧ",
-    "englishTransliteration": "shat",
-    "gloss": "To demand",
-    "definition": "To demand",
-    "crossReference": {
-      "target": "(1)si]",
-      "gloss": "To demand"
-    }
-  },
-  {
     "headword": "sast",
     "copticWord": "ϣⲁϣⲧ",
     "englishTransliteration": "shasht",
@@ -133,17 +103,6 @@
     "crossReference": {
       "target": "(2)si]",
       "gloss": "To be gushed"
-    }
-  },
-  {
-    "headword": "sast=",
-    "copticWord": "ϣⲁϣⲧ",
-    "englishTransliteration": "shasht",
-    "gloss": "To stop. sast(Q) v. swst - To be hindered. sasf, f. sasfi: (378a)",
-    "definition": "adj. Seven. sasf v. sas - Among Parts of building.",
-    "crossReference": {
-      "target": "swst",
-      "gloss": "To stop. sast(Q) v. swst - To be hindered. sasf, f. sasfi: (378a)"
     }
   },
   {
@@ -325,33 +284,6 @@
     "partOfSpeech": "m",
     "gloss": "Flame, fire",
     "definition": "]sah: vb. To burn."
-  },
-  {
-    "headword": "(2) sau",
-    "copticWord": "ϣⲁⲩ",
-    "englishTransliteration": "shav",
-    "reference": "600b",
-    "partOfSpeech": "m",
-    "gloss": "Measure, extent",
-    "definition": "Measure, extent"
-  },
-  {
-    "headword": "(3) sau",
-    "copticWord": "ϣⲁⲩ",
-    "englishTransliteration": "shav",
-    "reference": "600b",
-    "partOfSpeech": "m",
-    "gloss": "Trunk, stump, piece",
-    "definition": "Trunk, stump, piece"
-  },
-  {
-    "headword": "(4) sau",
-    "copticWord": "ϣⲁⲩ",
-    "englishTransliteration": "shav",
-    "reference": "601a",
-    "partOfSpeech": "m",
-    "gloss": "Male cat",
-    "definition": "Male cat"
   },
   {
     "headword": "sahl",

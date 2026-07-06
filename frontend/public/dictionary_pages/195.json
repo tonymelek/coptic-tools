@@ -1,0 +1,3981 @@
+[
+  {
+    "headword": "anagkaios",
+    "copticWord": "ⲁⲛⲁⲅⲕⲁⲓⲱⲥ",
+    "englishTransliteration": "anagkaios",
+    "gloss": "compelled, forced by s.th.",
+    "definition": "compelled, forced by s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "anagnosis",
+    "copticWord": "ⲁⲛⲁⲅⲛⲱⲥⲓⲥ",
+    "englishTransliteration": "anagnosis",
+    "gloss": "recognition, reading",
+    "definition": "recognition, reading",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anadidou",
+    "copticWord": "ⲁⲛⲁⲇⲓⲇⲟⲩ",
+    "englishTransliteration": "anadidou",
+    "gloss": "to deliver, hand s.th. over to s.o. (object1: physical object)",
+    "definition": "to deliver, hand s.th. over to s.o. (object1: physical object)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anatitou",
+        "copticWord": "ⲁⲛⲁⲧⲓⲧⲟⲩ",
+        "englishTransliteration": "anatitou"
+      },
+      {
+        "word": "-andidou",
+        "copticWord": "ⲁⲛⲇⲓⲇⲟⲩ",
+        "englishTransliteration": "andidou"
+      }
+    ]
+  },
+  {
+    "headword": "anathematize",
+    "copticWord": "ⲁⲛⲁⲑⲉⲙⲁⲧⲓⲍⲉ",
+    "englishTransliteration": "anathematize",
+    "gloss": "to curse, anathematize (adherents of false/heretic tenets)",
+    "definition": "to curse, anathematize (adherents of false/heretic tenets)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anaisthesia",
+    "copticWord": "ⲁⲛⲁⲓⲥⲑⲏⲥⲓⲁ",
+    "englishTransliteration": "anaisthesia",
+    "gloss": "lack of sensation",
+    "definition": "lack of sensation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anaistheton",
+    "copticWord": "ⲁⲛⲁⲓⲥⲑⲏⲧⲟⲛ",
+    "englishTransliteration": "anaistheton",
+    "gloss": "without perception (attributive)",
+    "definition": "without perception (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-anestheton",
+        "copticWord": "ⲁⲛⲉⲥⲑⲏⲧⲟⲛ",
+        "englishTransliteration": "anestheton"
+      }
+    ]
+  },
+  {
+    "headword": "anaisthetos",
+    "copticWord": "ⲁⲛⲁⲓⲥⲑⲏⲧⲟⲥ",
+    "englishTransliteration": "anaisthetos",
+    "gloss": "without perception (substantive)",
+    "definition": "without perception (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anaitios",
+    "copticWord": "ⲁⲛⲁⲓⲧⲓⲟⲥ",
+    "englishTransliteration": "anaitios",
+    "gloss": "one not responsible for, extraneous to s.th. (substantive)",
+    "definition": "one not responsible for, extraneous to s.th. (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anakalei",
+    "copticWord": "ⲁⲛⲁⲕⲁⲗⲉⲓ",
+    "englishTransliteration": "anakalei",
+    "gloss": "to summon, call (back)",
+    "definition": "to summon, call (back)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anakope",
+    "copticWord": "ⲁⲛⲁⲕⲟⲡⲏ",
+    "englishTransliteration": "anakope",
+    "gloss": "resistance, obstruction",
+    "definition": "resistance, obstruction",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anakrine",
+    "copticWord": "ⲁⲛⲁⲕⲣⲓⲛⲉ",
+    "englishTransliteration": "anakrine",
+    "gloss": "to question s.o.",
+    "definition": "to question s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "analambane",
+    "copticWord": "ⲁⲛⲁⲗⲁⲙⲃⲁⲛⲉ",
+    "englishTransliteration": "analambane",
+    "gloss": "to rapture s.o., to take s.o. up",
+    "definition": "to rapture s.o., to take s.o. up",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-alambane",
+        "copticWord": "ⲁⲗⲁⲙⲃⲁⲛⲉ",
+        "englishTransliteration": "alambane"
+      }
+    ]
+  },
+  {
+    "headword": "analogia",
+    "copticWord": "ⲁⲛⲁⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "analogia",
+    "gloss": "equivalent (share/proportion)",
+    "definition": "equivalent (share/proportion)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "analogia",
+        "copticWord": "ⲁⲛⲁⲗⲱⲅⲓⲁ",
+        "englishTransliteration": "analogia"
+      }
+    ]
+  },
+  {
+    "headword": "analogion",
+    "copticWord": "ⲁⲛⲁⲗⲟⲅⲓⲟⲛ",
+    "englishTransliteration": "analogion",
+    "gloss": "lectern, reading-desk",
+    "definition": "lectern, reading-desk",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "analutrose",
+    "copticWord": "ⲁⲛⲁⲗⲩⲧⲣⲱⲥⲉ",
+    "englishTransliteration": "analutrose",
+    "gloss": "to resume possession of s.th. (that had previously been pledged) from s.o. (object2:\n     person returning possession)",
+    "definition": "to resume possession of s.th. (that had previously been pledged) from s.o. (object2:\n     person returning possession)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "analu",
+    "copticWord": "ⲁⲛⲁⲗⲩ",
+    "englishTransliteration": "analu",
+    "gloss": "to dissolve/annul s.th.",
+    "definition": "to dissolve/annul s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anapaue",
+    "copticWord": "ⲁⲛⲁⲡⲁⲩⲉ",
+    "englishTransliteration": "anapaue",
+    "gloss": "to rest, take repose (object: none; i.e., find liberation from the cosmos)",
+    "definition": "to rest, take repose (object: none; i.e., find liberation from the cosmos)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anapeue",
+        "copticWord": "ⲁⲛⲁⲡⲉⲩⲉ",
+        "englishTransliteration": "anapeue"
+      }
+    ]
+  },
+  {
+    "headword": "anapausis",
+    "copticWord": "ⲁⲛⲁⲡⲁⲩⲥⲓⲥ",
+    "englishTransliteration": "anapausis",
+    "gloss": "rest, repose",
+    "definition": "rest, repose",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-anapasis",
+        "copticWord": "ⲁⲛⲁⲡⲁⲥⲓⲥ",
+        "englishTransliteration": "anapasis"
+      }
+    ]
+  },
+  {
+    "headword": "anaplasis",
+    "copticWord": "ⲁⲛⲁⲡⲗⲁⲥⲓⲥ",
+    "englishTransliteration": "anaplasis",
+    "gloss": "remodeling, reshaping",
+    "definition": "remodeling, reshaping",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anaplasse",
+    "copticWord": "ⲁⲛⲁⲡⲗⲁⲥⲥⲉ",
+    "englishTransliteration": "anaplasse",
+    "gloss": "form anew, remodel, restore s.o.",
+    "definition": "form anew, remodel, restore s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anapnoe",
+    "copticWord": "ⲁⲛⲁⲡⲛⲟⲏ",
+    "englishTransliteration": "anapnoe",
+    "gloss": "respiration, breathing (cool/cold)",
+    "definition": "respiration, breathing (cool/cold)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anarchos",
+    "copticWord": "ⲁⲛⲁⲣⲭⲟⲥ",
+    "englishTransliteration": "anarchos",
+    "gloss": "one without beginning, without source (substantive; referent: divine transcendent\n     character)",
+    "definition": "one without beginning, without source (substantive; referent: divine transcendent\n     character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anaskeptesthai",
+    "copticWord": "ⲁⲛⲁⲥⲕⲉⲡⲧⲉⲥⲑⲁⲓ",
+    "englishTransliteration": "anaskeptesthai",
+    "gloss": "examine, reckon up s.th.",
+    "definition": "examine, reckon up s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anastasimon",
+    "copticWord": "ⲁⲛⲁⲥⲧⲁⲥⲓⲙⲱⲛ",
+    "englishTransliteration": "anastasimon",
+    "gloss": "one pertaining to the resurrection (of Christ) (substantive)",
+    "definition": "one pertaining to the resurrection (of Christ) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anastasi",
+    "copticWord": "ⲁⲛⲁⲥⲧⲁⲥⲓ",
+    "englishTransliteration": "anastasi",
+    "gloss": "to rise from the dead",
+    "definition": "to rise from the dead",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anastema",
+    "copticWord": "ⲁⲛⲁⲥⲧⲉⲙⲁ",
+    "englishTransliteration": "anastema",
+    "gloss": "offspring (genealogical)",
+    "definition": "offspring (genealogical)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anastema",
+        "copticWord": "ⲁⲛⲁⲥⲧⲏⲙⲁ",
+        "englishTransliteration": "anastema"
+      }
+    ]
+  },
+  {
+    "headword": "anastrephesthai",
+    "copticWord": "ⲁⲛⲁⲥⲧⲣⲉⲫⲉⲥⲑⲁⲓ",
+    "englishTransliteration": "anastrephesthai",
+    "gloss": "to live among s.o.",
+    "definition": "to live among s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anatrepe",
+    "copticWord": "ⲁⲛⲁⲧⲣⲉⲡⲉ",
+    "englishTransliteration": "anatrepe",
+    "gloss": "to upset s.o.",
+    "definition": "to upset s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anachorei",
+    "copticWord": "ⲁⲛⲁⲭⲱⲣⲉⲓ",
+    "englishTransliteration": "anachorei",
+    "gloss": "to withdraw, take refuge (object: none)",
+    "definition": "to withdraw, take refuge (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anajorei",
+        "copticWord": "ⲁⲛⲁϫⲱⲣⲉⲓ",
+        "englishTransliteration": "anajorei"
+      },
+      {
+        "word": "-anachori",
+        "copticWord": "ⲁⲛⲁⲭⲟⲣⲓ",
+        "englishTransliteration": "anachori"
+      },
+      {
+        "word": "-anachori",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲓ",
+        "englishTransliteration": "anachori"
+      },
+      {
+        "word": "nachori",
+        "copticWord": "ⲛⲁⲭⲱⲣⲓ",
+        "englishTransliteration": "nachori"
+      }
+    ]
+  },
+  {
+    "headword": "anachorin",
+    "copticWord": "ⲁⲛⲁⲭⲱⲣⲓⲛ",
+    "englishTransliteration": "anachorin",
+    "gloss": "to withdraw, take refuge (object: none)",
+    "definition": "to withdraw, take refuge (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-anachori",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲓ",
+        "englishTransliteration": "anachori"
+      }
+    ]
+  },
+  {
+    "headword": "anachorites",
+    "copticWord": "ⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "anachorites",
+    "gloss": "anchorite",
+    "definition": "anchorite",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-anach",
+        "copticWord": "ⲁⲛⲁⲭ",
+        "englishTransliteration": "anach"
+      },
+      {
+        "word": "anachorites",
+        "copticWord": "ⲁⲛⲁⲭⲟⲣⲓⲧⲏⲥ",
+        "englishTransliteration": "anachorites"
+      },
+      {
+        "word": "-anachor",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣ",
+        "englishTransliteration": "anachor"
+      },
+      {
+        "word": "anachoreites",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲉⲓⲧⲏⲥ",
+        "englishTransliteration": "anachoreites"
+      },
+      {
+        "word": "-anachoret",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲏⲧ",
+        "englishTransliteration": "anachoret"
+      },
+      {
+        "word": "anachoretes",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ",
+        "englishTransliteration": "anachoretes"
+      },
+      {
+        "word": "anachorides",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲓⲇⲏⲥ",
+        "englishTransliteration": "anachorides"
+      },
+      {
+        "word": "-anachorit",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲓⲧ",
+        "englishTransliteration": "anachorit"
+      },
+      {
+        "word": "-anachorit",
+        "copticWord": "ⲁⲛⲁⲭⲱⲣⲓⲧ︦",
+        "englishTransliteration": "anachorit"
+      }
+    ]
+  },
+  {
+    "headword": "anacho",
+    "copticWord": "ⲁⲛⲁⲭⲱ",
+    "englishTransliteration": "anacho",
+    "gloss": "to withdraw oneself from s.o. (object1: reflexive)",
+    "definition": "to withdraw oneself from s.o. (object1: reflexive)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anajo",
+        "copticWord": "ⲁⲛⲁϫⲱ",
+        "englishTransliteration": "anajo"
+      }
+    ]
+  },
+  {
+    "headword": "angon",
+    "copticWord": "ⲁⲛⲅⲱⲛ",
+    "englishTransliteration": "angon",
+    "gloss": "upper floor",
+    "definition": "upper floor",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "andreas",
+    "copticWord": "ⲁⲛⲇⲣⲉⲁⲥ",
+    "englishTransliteration": "andreas",
+    "gloss": "man, masculine one (attributive)",
+    "definition": "man, masculine one (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "andreias",
+    "copticWord": "ⲁⲛⲇⲣⲉⲓⲁⲥ",
+    "englishTransliteration": "andreias",
+    "gloss": "(Last) Statue (in Manichaean myth)",
+    "definition": "(Last) Statue (in Manichaean myth)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anempodistos",
+    "copticWord": "ⲁⲛⲉⲙⲡⲟⲇⲓⲥⲧⲱⲥ",
+    "englishTransliteration": "anempodistos",
+    "gloss": "unimpeded",
+    "definition": "unimpeded",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "anechesthe",
+    "copticWord": "ⲁⲛⲉⲭⲉⲥⲑⲉ",
+    "englishTransliteration": "anechesthe",
+    "gloss": "to approve, consent (object: none)",
+    "definition": "to approve, consent (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "nechesthai",
+        "copticWord": "ⲛⲉⲭⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "nechesthai"
+      },
+      {
+        "word": "anechesthai",
+        "copticWord": "ⲁⲛⲉⲭⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "anechesthai"
+      }
+    ]
+  },
+  {
+    "headword": "aneche",
+    "copticWord": "ⲁⲛⲉⲭⲉ",
+    "englishTransliteration": "aneche",
+    "gloss": "to endure, put up, bear, persist (object: none)",
+    "definition": "to endure, put up, bear, persist (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anehe",
+        "copticWord": "ⲁⲛⲉϩⲉ",
+        "englishTransliteration": "anehe"
+      },
+      {
+        "word": "aneje",
+        "copticWord": "ⲁⲛⲉϫⲉ",
+        "englishTransliteration": "aneje"
+      },
+      {
+        "word": "aneje",
+        "copticWord": "ⲁⲛⲉϫⲏ",
+        "englishTransliteration": "aneje"
+      },
+      {
+        "word": "anechei",
+        "copticWord": "ⲁⲛⲉⲭⲉⲓ",
+        "englishTransliteration": "anechei"
+      },
+      {
+        "word": "aneche",
+        "copticWord": "ⲁⲛⲏⲭⲉ",
+        "englishTransliteration": "aneche"
+      },
+      {
+        "word": "aniche",
+        "copticWord": "ⲁⲛⲓⲭⲉ",
+        "englishTransliteration": "aniche"
+      }
+    ]
+  },
+  {
+    "headword": "anzone",
+    "copticWord": "ⲁⲛⲍⲱⲛⲏ",
+    "englishTransliteration": "anzone",
+    "gloss": "belt",
+    "definition": "belt",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ansone",
+        "copticWord": "ⲁⲛⲥⲱⲛⲉ",
+        "englishTransliteration": "ansone"
+      },
+      {
+        "word": "ansone",
+        "copticWord": "ⲁⲛⲥⲱⲛⲏ",
+        "englishTransliteration": "ansone"
+      }
+    ]
+  },
+  {
+    "headword": "anethou",
+    "copticWord": "ⲁⲛⲏⲑⲟⲩ",
+    "englishTransliteration": "anethou",
+    "gloss": "dill",
+    "definition": "dill",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anthemion",
+    "copticWord": "ⲁⲛⲑⲉⲙⲓⲟⲛ",
+    "englishTransliteration": "anthemion",
+    "gloss": "small flower",
+    "definition": "small flower",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antheonos",
+    "copticWord": "ⲁⲛⲑⲉⲱⲛⲟⲥ",
+    "englishTransliteration": "antheonos",
+    "gloss": "flower-garden, bed of flowers",
+    "definition": "flower-garden, bed of flowers",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anthrax",
+    "copticWord": "ⲁⲛⲑⲣⲁⲝ",
+    "englishTransliteration": "anthrax",
+    "gloss": "ruby, precious red gem (substantive)",
+    "definition": "ruby, precious red gem (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anthropinon",
+    "copticWord": "ⲁⲛⲑⲣⲱⲡⲓⲛⲟⲛ",
+    "englishTransliteration": "anthropinon",
+    "gloss": "the lot of humanity (euphemism for death) (substantive)",
+    "definition": "the lot of humanity (euphemism for death) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anthropoinon",
+        "copticWord": "ⲁⲛⲑⲣⲟⲡⲟⲓⲛⲟⲛ",
+        "englishTransliteration": "anthropoinon"
+      }
+    ]
+  },
+  {
+    "headword": "anomei",
+    "copticWord": "ⲁⲛⲟⲙⲉⲓ",
+    "englishTransliteration": "anomei",
+    "gloss": "to break the law, act lawlessly",
+    "definition": "to break the law, act lawlessly",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-anomi",
+        "copticWord": "ⲁⲛⲟⲙⲓ",
+        "englishTransliteration": "anomi"
+      }
+    ]
+  },
+  {
+    "headword": "anousios",
+    "copticWord": "ⲁⲛⲟⲩⲥⲓⲟⲥ",
+    "englishTransliteration": "anousios",
+    "gloss": "one without substance (substantive; epithet for God)",
+    "definition": "one without substance (substantive; epithet for God)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anoche",
+    "copticWord": "ⲁⲛⲟⲭⲏ",
+    "englishTransliteration": "anoche",
+    "gloss": "patience",
+    "definition": "patience",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antigraphe",
+    "copticWord": "ⲁⲛⲧⲓⲅⲣⲁⲫⲉ",
+    "englishTransliteration": "antigraphe",
+    "gloss": "to write back, respond to s.o. (object2: direct statement)",
+    "definition": "to write back, respond to s.o. (object2: direct statement)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "antidikos",
+    "copticWord": "ⲁⲛⲧⲓⲇⲓⲕⲟⲥ",
+    "englishTransliteration": "antidikos",
+    "gloss": "plaintiff, accuser; adversary",
+    "definition": "plaintiff, accuser; adversary",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antikeimene",
+    "copticWord": "ⲁⲛⲧⲓⲕⲉⲓⲙⲉⲛⲏ",
+    "englishTransliteration": "antikeimene",
+    "gloss": "opposing, opposite (attributive)",
+    "definition": "opposing, opposite (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antikeimenon",
+    "copticWord": "ⲁⲛⲧⲓⲕⲉⲓⲙⲉⲛⲟⲛ",
+    "englishTransliteration": "antikeimenon",
+    "gloss": "Adversary (substantive; referent: the Devil)",
+    "definition": "Adversary (substantive; referent: the Devil)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "entikimenon",
+        "copticWord": "ⲉⲛⲧⲓⲕⲓⲙⲉⲛⲱⲛ",
+        "englishTransliteration": "entikimenon"
+      }
+    ]
+  },
+  {
+    "headword": "antikeimenos",
+    "copticWord": "ⲁⲛⲧⲓⲕⲉⲓⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "antikeimenos",
+    "gloss": "diabolical, malevolent, adversarial one",
+    "definition": "diabolical, malevolent, adversarial one",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-antikeimenos",
+        "copticWord": "ⲁⲛϯⲕⲉⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "antikeimenos"
+      },
+      {
+        "word": "-antikimenos",
+        "copticWord": "ⲁⲛϯⲕⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "antikimenos"
+      },
+      {
+        "word": "-antikoimenos",
+        "copticWord": "ⲁⲛϯⲕⲟⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "antikoimenos"
+      },
+      {
+        "word": "-antikimenos",
+        "copticWord": "ⲁⲛⲧⲓⲕⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "antikimenos"
+      },
+      {
+        "word": "-atikimenos",
+        "copticWord": "ⲁ︦ⲧⲓⲕⲓⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "atikimenos"
+      }
+    ]
+  },
+  {
+    "headword": "antilege",
+    "copticWord": "ⲁⲛⲧⲓⲗⲉⲅⲉ",
+    "englishTransliteration": "antilege",
+    "gloss": "to object (object: none)",
+    "definition": "to object (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "andalike",
+        "copticWord": "ⲁⲛⲇⲁⲗⲓⲕⲉ",
+        "englishTransliteration": "andalike"
+      },
+      {
+        "word": "antelege",
+        "copticWord": "ⲁⲛⲧⲏⲗⲉⲅⲉ",
+        "englishTransliteration": "antelege"
+      },
+      {
+        "word": "-antile",
+        "copticWord": "ⲁⲛⲧⲓⲗⲉ",
+        "englishTransliteration": "antile"
+      },
+      {
+        "word": "antilege",
+        "copticWord": "ⲁⲛⲧⲓⲗⲉⲅⲏ",
+        "englishTransliteration": "antilege"
+      },
+      {
+        "word": "antilegin",
+        "copticWord": "ⲁⲛⲧⲓⲗⲉⲅⲓⲛ",
+        "englishTransliteration": "antilegin"
+      },
+      {
+        "word": "antileke",
+        "copticWord": "ⲁⲛⲧⲓⲗⲏⲕⲏ",
+        "englishTransliteration": "antileke"
+      },
+      {
+        "word": "antilike",
+        "copticWord": "ⲁⲛⲧⲓⲗⲓⲕⲉ",
+        "englishTransliteration": "antilike"
+      }
+    ]
+  },
+  {
+    "headword": "antimimon",
+    "copticWord": "ⲁⲛⲧⲓⲙⲓⲙⲟⲛ",
+    "englishTransliteration": "antimimon",
+    "gloss": "imitation, counterfeit (substantive)",
+    "definition": "imitation, counterfeit (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "antimeinon",
+        "copticWord": "ⲁⲛⲧⲓⲙⲉⲓⲛⲟⲛ",
+        "englishTransliteration": "antimeinon"
+      }
+    ]
+  },
+  {
+    "headword": "antiocheos",
+    "copticWord": "ⲁⲛⲧⲓⲟⲭⲉⲟⲥ",
+    "englishTransliteration": "antiocheos",
+    "gloss": "of Antiochus, antiochean (attributive)",
+    "definition": "of Antiochus, antiochean (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "antitupon",
+    "copticWord": "ⲁⲛⲧⲓⲧⲩⲡⲟⲛ",
+    "englishTransliteration": "antitupon",
+    "gloss": "copy, replication, image (substantive)",
+    "definition": "copy, replication, image (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antitupos",
+    "copticWord": "ⲁⲛⲧⲓⲧⲩⲡⲟⲥ",
+    "englishTransliteration": "antitupos",
+    "gloss": "reflection, copy (substantive; sub-celestial realm)",
+    "definition": "reflection, copy (substantive; sub-celestial realm)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "antichristos",
+    "copticWord": "ⲁⲛⲧⲓⲭⲣⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "antichristos",
+    "gloss": "antichrist",
+    "definition": "antichrist",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-antichrs",
+        "copticWord": "ⲁⲛϯⲭⲣ︦ⲥ︦",
+        "englishTransliteration": "antichrs"
+      },
+      {
+        "word": "-antichs",
+        "copticWord": "ⲁⲛⲧⲓⲭ̅ⲥ̅",
+        "englishTransliteration": "antichs"
+      }
+    ]
+  },
+  {
+    "headword": "antopos",
+    "copticWord": "ⲁⲛⲧⲟⲡⲟⲥ",
+    "englishTransliteration": "antopos",
+    "gloss": "mirroring being (substantive)",
+    "definition": "mirroring being (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anhaliske",
+    "copticWord": "ⲁⲛϩⲁⲗⲓⲥⲕⲉ",
+    "englishTransliteration": "anhaliske",
+    "gloss": "to perish, to die, to be destroyed (object: none)",
+    "definition": "to perish, to die, to be destroyed (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "anhaloma",
+    "copticWord": "ⲁⲛϩⲁⲗⲱⲙⲁ",
+    "englishTransliteration": "anhaloma",
+    "gloss": "cost, expenses",
+    "definition": "cost, expenses",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-aloma",
+        "copticWord": "ⲁⲗⲱⲙⲁ",
+        "englishTransliteration": "aloma"
+      },
+      {
+        "word": "anhaloma",
+        "copticWord": "ⲁⲛϩⲁⲗⲟⲙⲁ",
+        "englishTransliteration": "anhaloma"
+      }
+    ]
+  },
+  {
+    "headword": "anhesis",
+    "copticWord": "ⲁⲛϩⲉⲥⲓⲥ",
+    "englishTransliteration": "anhesis",
+    "gloss": "recreation, relaxation, rehabilitation",
+    "definition": "recreation, relaxation, rehabilitation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anaisis",
+        "copticWord": "ⲁⲛⲁⲓⲥⲓⲥ",
+        "englishTransliteration": "anaisis"
+      },
+      {
+        "word": "-anesis",
+        "copticWord": "ⲁⲛⲉⲥⲓⲥ",
+        "englishTransliteration": "anesis"
+      }
+    ]
+  },
+  {
+    "headword": "anhekeisthai",
+    "copticWord": "ⲁⲛϩⲏⲕⲉⲓⲥⲑⲁⲓ",
+    "englishTransliteration": "anhekeisthai",
+    "gloss": "to belong/pertain to/have to do with s.th. (object: non-personal entity)",
+    "definition": "to belong/pertain to/have to do with s.th. (object: non-personal entity)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anhekeisthai",
+        "copticWord": "ⲁⲛϩⲉⲕⲉⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "anhekeisthai"
+      },
+      {
+        "word": "anhekeiesthai",
+        "copticWord": "ⲁⲛϩⲏⲕⲉⲓⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "anhekeiesthai"
+      },
+      {
+        "word": "-anhukesthai",
+        "copticWord": "ⲁⲛϩⲩⲕⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "anhukesthai"
+      },
+      {
+        "word": "-anhukesthei",
+        "copticWord": "ⲁⲛϩⲩⲕⲉⲥⲑⲉⲓ",
+        "englishTransliteration": "anhukesthei"
+      },
+      {
+        "word": "-anekeisthai",
+        "copticWord": "ⲁⲛⲏⲕⲉⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "anekeisthai"
+      },
+      {
+        "word": "enhukeisthai",
+        "copticWord": "ⲉⲛϩⲩⲕⲉⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "enhukeisthai"
+      }
+    ]
+  },
+  {
+    "headword": "anhekei",
+    "copticWord": "ⲁⲛϩⲏⲕⲉⲓ",
+    "englishTransliteration": "anhekei",
+    "gloss": "to belong to s.th. (object: non-personal entity)",
+    "definition": "to belong to s.th. (object: non-personal entity)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "anhekeisthai",
+        "copticWord": "ⲁⲛϩⲏⲕⲉⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "anhekeisthai"
+      },
+      {
+        "word": "-anekei",
+        "copticWord": "ⲁⲛⲏⲕⲉⲓ",
+        "englishTransliteration": "anekei"
+      }
+    ]
+  },
+  {
+    "headword": "anhomoion",
+    "copticWord": "ⲁⲛϩⲟⲙⲟⲓⲟⲛ",
+    "englishTransliteration": "anhomoion",
+    "gloss": "disparate, confused one (substantive)",
+    "definition": "disparate, confused one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anhosios",
+    "copticWord": "ⲁⲛϩⲟⲥⲓⲟⲥ",
+    "englishTransliteration": "anhosios",
+    "gloss": "unholy, profane (substantive)",
+    "definition": "unholy, profane (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "anhomalia",
+    "copticWord": "ⲁⲛϩⲱⲙⲁⲗⲓⲁ",
+    "englishTransliteration": "anhomalia",
+    "gloss": "unevenness, crookedness",
+    "definition": "unevenness, crookedness",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "axeine",
+    "copticWord": "ⲁⲝⲉⲓⲛⲏ",
+    "englishTransliteration": "axeine",
+    "gloss": "axe",
+    "definition": "axe",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "axiologos",
+    "copticWord": "ⲁⲝⲓⲟⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "axiologos",
+    "gloss": "estimable, trustworthy (attributive)",
+    "definition": "estimable, trustworthy (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "axion",
+    "copticWord": "ⲁⲝⲓⲟⲛ",
+    "englishTransliteration": "axion",
+    "gloss": "what s.b. deserves (substantive)",
+    "definition": "what s.b. deserves (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "axiopistos",
+    "copticWord": "ⲁⲝⲓⲟⲡⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "axiopistos",
+    "gloss": "trustworthy, reliable (attributive)",
+    "definition": "trustworthy, reliable (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "axiopeistos",
+        "copticWord": "ⲁⲝⲓⲟⲡⲉⲓⲥⲧⲟⲥ",
+        "englishTransliteration": "axiopeistos"
+      },
+      {
+        "word": "axiopistos",
+        "copticWord": "ⲁⲝⲓⲱⲡⲓⲥⲧⲟⲥ",
+        "englishTransliteration": "axiopistos"
+      }
+    ]
+  },
+  {
+    "headword": "axiou",
+    "copticWord": "ⲁⲝⲓⲟⲩ",
+    "englishTransliteration": "axiou",
+    "gloss": "to beg, ask s.o. (object: person)",
+    "definition": "to beg, ask s.o. (object: person)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "akziou",
+        "copticWord": "ⲁⲕⲍⲓⲟⲩ",
+        "englishTransliteration": "akziou"
+      },
+      {
+        "word": "exiou",
+        "copticWord": "ⲉⲝⲓⲟⲩ",
+        "englishTransliteration": "exiou"
+      }
+    ]
+  },
+  {
+    "headword": "apaggeile",
+    "copticWord": "ⲁⲡⲁⲅⲅⲉⲓⲗⲉ",
+    "englishTransliteration": "apaggeile",
+    "gloss": "to inform s.o.",
+    "definition": "to inform s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apangelei",
+        "copticWord": "ⲁⲡⲁⲛⲅⲉⲗⲉⲓ",
+        "englishTransliteration": "apangelei"
+      }
+    ]
+  },
+  {
+    "headword": "apaitei",
+    "copticWord": "ⲁⲡⲁⲓⲧⲉⲓ",
+    "englishTransliteration": "apaitei",
+    "gloss": "to collect/demand s.th. (object: money/fine)",
+    "definition": "to collect/demand s.th. (object: money/fine)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apaide",
+        "copticWord": "ⲁⲡⲁⲓⲇⲉ",
+        "englishTransliteration": "apaide"
+      },
+      {
+        "word": "-apaiti",
+        "copticWord": "ⲁⲡⲁⲓⲧⲓ",
+        "englishTransliteration": "apaiti"
+      },
+      {
+        "word": "-apati",
+        "copticWord": "ⲁⲡⲁⲧⲓ",
+        "englishTransliteration": "apati"
+      },
+      {
+        "word": "-apete",
+        "copticWord": "ⲁⲡⲏⲧⲉ",
+        "englishTransliteration": "apete"
+      },
+      {
+        "word": "-apetei",
+        "copticWord": "ⲁⲡⲏⲧⲉⲓ",
+        "englishTransliteration": "apetei"
+      },
+      {
+        "word": "epaite",
+        "copticWord": "ⲉⲡⲁⲓⲧⲉ",
+        "englishTransliteration": "epaite"
+      }
+    ]
+  },
+  {
+    "headword": "apanthropia",
+    "copticWord": "ⲁⲡⲁⲛⲑⲣⲟⲡⲓⲁ",
+    "englishTransliteration": "apanthropia",
+    "gloss": "inhumanity",
+    "definition": "inhumanity",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apanta",
+    "copticWord": "ⲁⲡⲁⲛⲧⲁ",
+    "englishTransliteration": "apanta",
+    "gloss": "to meet, encounter s.o.",
+    "definition": "to meet, encounter s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apante",
+        "copticWord": "ⲁⲡⲁⲛⲧⲉ",
+        "englishTransliteration": "apante"
+      },
+      {
+        "word": "apante",
+        "copticWord": "ⲁⲡⲁⲛⲧⲏ",
+        "englishTransliteration": "apante"
+      }
+    ]
+  },
+  {
+    "headword": "apante",
+    "copticWord": "ⲁⲡⲁⲛⲧⲏ",
+    "englishTransliteration": "apante",
+    "gloss": "meeting, encounter",
+    "definition": "meeting, encounter",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apate",
+        "copticWord": "ⲁⲡⲁⲧⲏ",
+        "englishTransliteration": "apate"
+      }
+    ]
+  },
+  {
+    "headword": "apantuma",
+    "copticWord": "ⲁⲡⲁⲛⲧⲩⲙⲁ",
+    "englishTransliteration": "apantuma",
+    "gloss": "chance, coincidence",
+    "definition": "chance, coincidence",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apantema",
+        "copticWord": "ⲁⲡⲁⲛⲧⲏⲙⲁ",
+        "englishTransliteration": "apantema"
+      }
+    ]
+  },
+  {
+    "headword": "aparabaton",
+    "copticWord": "ⲁⲡⲁⲣⲁⲃⲁⲧⲱⲛ",
+    "englishTransliteration": "aparabaton",
+    "gloss": "intransgressible (attributive)",
+    "definition": "intransgressible (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aparabuton",
+        "copticWord": "ⲁⲡⲁⲣⲁⲃⲩⲧⲱⲛ",
+        "englishTransliteration": "aparabuton"
+      }
+    ]
+  },
+  {
+    "headword": "aparna",
+    "copticWord": "ⲁⲡⲁⲣⲛⲁ",
+    "englishTransliteration": "aparna",
+    "gloss": "to deny, be in denial",
+    "definition": "to deny, be in denial",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aparnei",
+        "copticWord": "ⲁⲡⲁⲣⲛⲉⲓ",
+        "englishTransliteration": "aparnei"
+      },
+      {
+        "word": "aparni",
+        "copticWord": "ⲁⲡⲁⲣⲛⲓ",
+        "englishTransliteration": "aparni"
+      }
+    ]
+  },
+  {
+    "headword": "aparche",
+    "copticWord": "ⲁⲡⲁⲣⲭⲏ",
+    "englishTransliteration": "aparche",
+    "gloss": "first-fruit(s)",
+    "definition": "first-fruit(s)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apata",
+    "copticWord": "ⲁⲡⲁⲧⲁ",
+    "englishTransliteration": "apata",
+    "gloss": "to mislead, deceive (object: none)",
+    "definition": "to mislead, deceive (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "pata",
+        "copticWord": "ⲡⲁⲧⲁ",
+        "englishTransliteration": "pata"
+      }
+    ]
+  },
+  {
+    "headword": "apator",
+    "copticWord": "ⲁⲡⲁⲧⲱⲣ",
+    "englishTransliteration": "apator",
+    "gloss": "fatherless one (benevolent superhuman being)",
+    "definition": "fatherless one (benevolent superhuman being)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apaustos",
+    "copticWord": "ⲁⲡⲁⲩⲥⲧⲱⲥ",
+    "englishTransliteration": "apaustos",
+    "gloss": "unceasingly",
+    "definition": "unceasingly",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "apedeutos",
+    "copticWord": "ⲁⲡⲉⲇⲉⲩⲧⲟⲥ",
+    "englishTransliteration": "apedeutos",
+    "gloss": "uneducated, ignorant",
+    "definition": "uneducated, ignorant",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apeile",
+    "copticWord": "ⲁⲡⲉⲓⲗⲉ",
+    "englishTransliteration": "apeile",
+    "gloss": "to threaten, admonish s.o.",
+    "definition": "to threaten, admonish s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apeile",
+        "copticWord": "ⲁⲡⲉⲓⲗⲏ",
+        "englishTransliteration": "apeile"
+      },
+      {
+        "word": "-apile",
+        "copticWord": "ⲁⲡⲓⲗⲉ",
+        "englishTransliteration": "apile"
+      },
+      {
+        "word": "-apile",
+        "copticWord": "ⲁⲡⲓⲗⲏ",
+        "englishTransliteration": "apile"
+      },
+      {
+        "word": "-apili",
+        "copticWord": "ⲁⲡⲓⲗⲓ",
+        "englishTransliteration": "apili"
+      }
+    ]
+  },
+  {
+    "headword": "apeile",
+    "copticWord": "ⲁⲡⲉⲓⲗⲏ",
+    "englishTransliteration": "apeile",
+    "gloss": "threat",
+    "definition": "threat",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apile",
+        "copticWord": "ⲁⲡⲓⲗⲏ",
+        "englishTransliteration": "apile"
+      }
+    ]
+  },
+  {
+    "headword": "aperinoetos",
+    "copticWord": "ⲁⲡⲉⲣⲓⲛⲟⲏⲧⲟⲥ",
+    "englishTransliteration": "aperinoetos",
+    "gloss": "unfathomable, inconceivable (attributive; referent: divine transcendent\n     character)",
+    "definition": "unfathomable, inconceivable (attributive; referent: divine transcendent\n     character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apiron",
+    "copticWord": "ⲁⲡⲓⲣⲟⲛ",
+    "englishTransliteration": "apiron",
+    "gloss": "infinity (substantive)",
+    "definition": "infinity (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apistei",
+    "copticWord": "ⲁⲡⲓⲥⲧⲉⲓ",
+    "englishTransliteration": "apistei",
+    "gloss": "to disbelieve, to refuse to believe to s.o.",
+    "definition": "to disbelieve, to refuse to believe to s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apeisti",
+        "copticWord": "ⲁⲡⲉⲓⲥⲧⲓ",
+        "englishTransliteration": "apeisti"
+      },
+      {
+        "word": "-apisti",
+        "copticWord": "ⲁⲡⲓⲥⲧⲓ",
+        "englishTransliteration": "apisti"
+      }
+    ]
+  },
+  {
+    "headword": "apistia",
+    "copticWord": "ⲁⲡⲓⲥⲧⲓⲁ",
+    "englishTransliteration": "apistia",
+    "gloss": "absence of trust, trustlessness",
+    "definition": "absence of trust, trustlessness",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apisteia",
+        "copticWord": "ⲁⲡⲓⲥⲧⲉⲓⲁ",
+        "englishTransliteration": "apisteia"
+      }
+    ]
+  },
+  {
+    "headword": "apiston",
+    "copticWord": "ⲁⲡⲓⲥⲧⲟⲛ",
+    "englishTransliteration": "apiston",
+    "gloss": "faithless (substantive)",
+    "definition": "faithless (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apobarsimon",
+    "copticWord": "ⲁⲡⲟⲃⲁⲣⲥⲓⲙⲟⲛ",
+    "englishTransliteration": "apobarsimon",
+    "gloss": "balsam oil",
+    "definition": "balsam oil",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apou",
+        "copticWord": "ⲁⲡⲟⲩ",
+        "englishTransliteration": "apou"
+      }
+    ]
+  },
+  {
+    "headword": "apodeixis",
+    "copticWord": "ⲁⲡⲟⲇⲉⲓⲝⲓⲥ",
+    "englishTransliteration": "apodeixis",
+    "gloss": "demonstration, logical proof",
+    "definition": "demonstration, logical proof",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apodxis",
+        "copticWord": "ⲁⲡⲟⲇιⲝⲓⲥ",
+        "englishTransliteration": "apodxis"
+      },
+      {
+        "word": "apodixeis",
+        "copticWord": "ⲁⲡⲟⲇⲓⲝⲉⲓⲥ",
+        "englishTransliteration": "apodixeis"
+      },
+      {
+        "word": "-apodixis",
+        "copticWord": "ⲁⲡⲟⲇⲓⲝⲓⲥ",
+        "englishTransliteration": "apodixis"
+      }
+    ]
+  },
+  {
+    "headword": "apodemei",
+    "copticWord": "ⲁⲡⲟⲇⲏⲙⲉⲓ",
+    "englishTransliteration": "apodemei",
+    "gloss": "to go on a journey, depart (object: none)",
+    "definition": "to go on a journey, depart (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apodzmei",
+        "copticWord": "ⲁⲡⲟⲇⲍⲙⲉⲓ",
+        "englishTransliteration": "apodzmei"
+      },
+      {
+        "word": "-apodemi",
+        "copticWord": "ⲁⲡⲟⲇⲏⲙⲓ",
+        "englishTransliteration": "apodemi"
+      },
+      {
+        "word": "-apodume",
+        "copticWord": "ⲁⲡⲟⲇⲩⲙⲉ",
+        "englishTransliteration": "apodume"
+      },
+      {
+        "word": "apodumei",
+        "copticWord": "ⲁⲡⲟⲇⲩⲙⲉⲓ",
+        "englishTransliteration": "apodumei"
+      },
+      {
+        "word": "-apotime",
+        "copticWord": "ⲁⲡⲟⲧⲓⲙⲏ",
+        "englishTransliteration": "apotime"
+      }
+    ]
+  },
+  {
+    "headword": "apodemia",
+    "copticWord": "ⲁⲡⲟⲇⲏⲙⲓⲁ",
+    "englishTransliteration": "apodemia",
+    "gloss": "being/journeying abroad (attributive)",
+    "definition": "being/journeying abroad (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apodumia",
+        "copticWord": "ⲁⲡⲟⲇⲩⲙⲓⲁ",
+        "englishTransliteration": "apodumia"
+      }
+    ]
+  },
+  {
+    "headword": "apodidou",
+    "copticWord": "ⲁⲡⲟⲇⲓⲇⲟⲩ",
+    "englishTransliteration": "apodidou",
+    "gloss": "[error] to deliver, hand s.th. over to s.o. (ἀναδιδόω is meant)",
+    "definition": "[error] to deliver, hand s.th. over to s.o. (ἀναδιδόω is meant)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apodikneue",
+    "copticWord": "ⲁⲡⲟⲇⲓⲕⲛⲉⲩⲉ",
+    "englishTransliteration": "apodikneue",
+    "gloss": "to demonstrate, show that (object: clause; dependent statement)",
+    "definition": "to demonstrate, show that (object: clause; dependent statement)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apodiknue",
+        "copticWord": "ⲁⲡⲟⲇⲓⲕⲛⲩⲉ",
+        "englishTransliteration": "apodiknue"
+      }
+    ]
+  },
+  {
+    "headword": "apodixis",
+    "copticWord": "ⲁⲡⲟⲇⲓⲝⲓⲥ",
+    "englishTransliteration": "apodixis",
+    "gloss": "receipt",
+    "definition": "receipt",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apotheiotes",
+    "copticWord": "ⲁⲡⲟⲑⲉⲓⲱⲧⲏⲥ",
+    "englishTransliteration": "apotheiotes",
+    "gloss": "apotheosized, deified (attributive)",
+    "definition": "apotheosized, deified (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apathheotes",
+        "copticWord": "ⲁⲡⲁⲑϩⲉⲱⲧⲏⲥ",
+        "englishTransliteration": "apathheotes"
+      }
+    ]
+  },
+  {
+    "headword": "apokathista",
+    "copticWord": "ⲁⲡⲟⲕⲁⲑⲓⲥⲧⲁ",
+    "englishTransliteration": "apokathista",
+    "gloss": "to establish s.o. at (object2: place)",
+    "definition": "to establish s.o. at (object2: place)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apokalamo",
+    "copticWord": "ⲁⲡⲟⲕⲁⲗⲁⲙⲟⳇ",
+    "englishTransliteration": "apokalamo",
+    "gloss": "juice of the calamus",
+    "definition": "juice of the calamus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apokalamo",
+        "copticWord": "ⲁⲡⲟⲕⲁⲗⲁⲙⲱ",
+        "englishTransliteration": "apokalamo"
+      }
+    ]
+  },
+  {
+    "headword": "apokalamon",
+    "copticWord": "ⲁⲡⲟⲕⲁⲗⲁⲙⲱⲛ",
+    "englishTransliteration": "apokalamon",
+    "gloss": "juice of the calamus",
+    "definition": "juice of the calamus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apoukalamon",
+        "copticWord": "ⲁⲡⲟⲩⲕⲁⲗⲁⲙⲱⲛ",
+        "englishTransliteration": "apoukalamon"
+      }
+    ]
+  },
+  {
+    "headword": "apokatastasis",
+    "copticWord": "ⲁⲡⲟⲕⲁⲧⲁⲥⲧⲁⲥⲓⲥ",
+    "englishTransliteration": "apokatastasis",
+    "gloss": "restoration, return (of Christ to heaven)",
+    "definition": "restoration, return (of Christ to heaven)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apokrites",
+    "copticWord": "ⲁⲡⲟⲕⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "apokrites",
+    "gloss": "apocrite (official of some sort)",
+    "definition": "apocrite (official of some sort)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apotrites",
+        "copticWord": "ⲁⲡⲟⲧⲣⲓⲧⲏⲥ",
+        "englishTransliteration": "apotrites"
+      }
+    ]
+  },
+  {
+    "headword": "apokruphon",
+    "copticWord": "ⲁⲡⲟⲕⲣⲩⲫⲟⲛ",
+    "englishTransliteration": "apokruphon",
+    "gloss": "apocryphon (genre of esoteric book) (substantive)",
+    "definition": "apocryphon (genre of esoteric book) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apolauesthai",
+    "copticWord": "ⲁⲡⲟⲗⲁⲩⲉⲥⲑⲁⲓ",
+    "englishTransliteration": "apolauesthai",
+    "gloss": "to partake in, enjoy s.th.",
+    "definition": "to partake in, enjoy s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apolaue",
+    "copticWord": "ⲁⲡⲟⲗⲁⲩⲉ",
+    "englishTransliteration": "apolaue",
+    "gloss": "to benefit (object: none)",
+    "definition": "to benefit (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apoleue",
+        "copticWord": "ⲁⲡⲟⲗⲉⲩⲉ",
+        "englishTransliteration": "apoleue"
+      }
+    ]
+  },
+  {
+    "headword": "apologize",
+    "copticWord": "ⲁⲡⲟⲗⲟⲅⲓⲍⲉ",
+    "englishTransliteration": "apologize",
+    "gloss": "to pay back (one's debt) (object: none)",
+    "definition": "to pay back (one's debt) (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apoulogise",
+        "copticWord": "ⲁⲡⲟⲩⲗⲟⲅⲓⲥⲉ",
+        "englishTransliteration": "apoulogise"
+      },
+      {
+        "word": "apoulogize",
+        "copticWord": "ⲁⲡⲟⲩⲗⲱⲅⲓⲍⲉ",
+        "englishTransliteration": "apoulogize"
+      }
+    ]
+  },
+  {
+    "headword": "apolu",
+    "copticWord": "ⲁⲡⲟⲗⲩ",
+    "englishTransliteration": "apolu",
+    "gloss": "to send away, dismiss s.o.",
+    "definition": "to send away, dismiss s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apoloi",
+        "copticWord": "ⲁⲡⲟⲗⲟⲓ",
+        "englishTransliteration": "apoloi"
+      }
+    ]
+  },
+  {
+    "headword": "apopanakos",
+    "copticWord": "ⲁⲡⲟⲡⲁⲛⲁⲕⲟⲥ",
+    "englishTransliteration": "apopanakos",
+    "gloss": "gum of Opopanax hispidus",
+    "definition": "gum of Opopanax hispidus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apopanako",
+        "copticWord": "ⲁⲡⲟⲡⲁⲛⲁⲕⲟ",
+        "englishTransliteration": "apopanako"
+      },
+      {
+        "word": "apotanakos",
+        "copticWord": "ⲁⲡⲟⲧⲁⲛⲁⲕⲟⲥ",
+        "englishTransliteration": "apotanakos"
+      },
+      {
+        "word": "apoupanakos",
+        "copticWord": "ⲁⲡⲟⲩⲡⲁⲛⲁⲕⲟⲥ",
+        "englishTransliteration": "apoupanakos"
+      }
+    ]
+  },
+  {
+    "headword": "aporei",
+    "copticWord": "ⲁⲡⲟⲣⲉⲓ",
+    "englishTransliteration": "aporei",
+    "gloss": "to be in doubt, to be puzzled (object: none)",
+    "definition": "to be in doubt, to be puzzled (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apori",
+        "copticWord": "ⲁⲡⲟⲣⲓ",
+        "englishTransliteration": "apori"
+      }
+    ]
+  },
+  {
+    "headword": "apori",
+    "copticWord": "ⲁⲡⲟⲣⲓ",
+    "englishTransliteration": "apori",
+    "gloss": "to be at a loss (for ability to act)",
+    "definition": "to be at a loss (for ability to act)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "aporroia",
+    "copticWord": "ⲁⲡⲟⲣⲣⲟⲓⲁ",
+    "englishTransliteration": "aporroia",
+    "gloss": "emanation",
+    "definition": "emanation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apohroia",
+        "copticWord": "ⲁⲡⲟϩⲣⲟⲓⲁ",
+        "englishTransliteration": "apohroia"
+      }
+    ]
+  },
+  {
+    "headword": "aposkeue",
+    "copticWord": "ⲁⲡⲟⲥⲕⲉⲩⲏ",
+    "englishTransliteration": "aposkeue",
+    "gloss": "baggage",
+    "definition": "baggage",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aposskeue",
+        "copticWord": "ⲁⲡⲟⲥⲥⲕⲉⲩⲏ",
+        "englishTransliteration": "aposskeue"
+      }
+    ]
+  },
+  {
+    "headword": "apostalmenos",
+    "copticWord": "ⲁⲡⲟⲥⲧⲁⲗⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "apostalmenos",
+    "gloss": "Apostalmenos (a place in Jerusalem)",
+    "definition": "Apostalmenos (a place in Jerusalem)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apostasia",
+    "copticWord": "ⲁⲡⲟⲥⲧⲁⲥⲓⲁ",
+    "englishTransliteration": "apostasia",
+    "gloss": "apostasy",
+    "definition": "apostasy",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apostatei",
+    "copticWord": "ⲁⲡⲟⲥⲧⲁⲧⲉⲓ",
+    "englishTransliteration": "apostatei",
+    "gloss": "to be unconcerned, aloof, uninvolved (object: none)",
+    "definition": "to be unconcerned, aloof, uninvolved (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "aposteri",
+    "copticWord": "ⲁⲡⲟⲥⲧⲉⲣⲓ",
+    "englishTransliteration": "aposteri",
+    "gloss": "to withhold s.th.",
+    "definition": "to withhold s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aposterei",
+        "copticWord": "ⲁⲡⲟⲥⲧⲉⲣⲉⲓ",
+        "englishTransliteration": "aposterei"
+      }
+    ]
+  },
+  {
+    "headword": "apostethize",
+    "copticWord": "ⲁⲡⲟⲥⲧⲏⲑⲓⲍⲉ",
+    "englishTransliteration": "apostethize",
+    "gloss": "to learn s.th. by heart (object: text)",
+    "definition": "to learn s.th. by heart (object: text)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apostole",
+    "copticWord": "ⲁⲡⲟⲥⲧⲟⲗⲏ",
+    "englishTransliteration": "apostole",
+    "gloss": "exemption from one's duty",
+    "definition": "exemption from one's duty",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aposobe",
+    "copticWord": "ⲁⲡⲟⲥⲱⲃⲉ",
+    "englishTransliteration": "aposobe",
+    "gloss": "to reject s.o.('s claim)",
+    "definition": "to reject s.o.('s claim)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apotage",
+    "copticWord": "ⲁⲡⲟⲧⲁⲅⲏ",
+    "englishTransliteration": "apotage",
+    "gloss": "renunciation",
+    "definition": "renunciation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apotazesthe",
+    "copticWord": "ⲁⲡⲟⲧⲁⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "apotazesthe",
+    "gloss": "to renounce, to give up",
+    "definition": "to renounce, to give up",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apotaxis",
+    "copticWord": "ⲁⲡⲟⲧⲁⲝⲓⲥ",
+    "englishTransliteration": "apotaxis",
+    "gloss": "baptismal renunciation (of the devil)",
+    "definition": "baptismal renunciation (of the devil)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apotasse",
+    "copticWord": "ⲁⲡⲟⲧⲁⲥⲥⲉ",
+    "englishTransliteration": "apotasse",
+    "gloss": "to renounce, to give up (object: none)",
+    "definition": "to renounce, to give up (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-apotase",
+        "copticWord": "ⲁⲡⲟⲧⲁⲥⲉ",
+        "englishTransliteration": "apotase"
+      }
+    ]
+  },
+  {
+    "headword": "apotelesma",
+    "copticWord": "ⲁⲡⲟⲧⲉⲗⲉⲥⲙⲁ",
+    "englishTransliteration": "apotelesma",
+    "gloss": "effect, result, achievement",
+    "definition": "effect, result, achievement",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apotelestikon",
+    "copticWord": "ⲁⲡⲟⲧⲉⲗⲉⲥⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "apotelestikon",
+    "gloss": "effect, result, achievement",
+    "definition": "effect, result, achievement",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apouka",
+    "copticWord": "ⲁⲡⲟⲩⲕⲁⳇ",
+    "englishTransliteration": "apouka",
+    "gloss": "juice of the calamus",
+    "definition": "juice of the calamus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apou",
+    "copticWord": "ⲁⲡⲟⲩ",
+    "englishTransliteration": "apou",
+    "gloss": "former/one-time Χ (forms compounds with titles)",
+    "definition": "former/one-time Χ (forms compounds with titles)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apophane",
+    "copticWord": "ⲁⲡⲟⲫⲁⲛⲉ",
+    "englishTransliteration": "apophane",
+    "gloss": "to show forth, display, make a revelation to s.o.",
+    "definition": "to show forth, display, make a revelation to s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apophani",
+        "copticWord": "ⲁⲡⲟⲫⲁⲛⲓ",
+        "englishTransliteration": "apophani"
+      },
+      {
+        "word": "apophani",
+        "copticWord": "ⲁⲡⲱⲫⲁⲛⲓ",
+        "englishTransliteration": "apophani"
+      }
+    ]
+  },
+  {
+    "headword": "apocharize",
+    "copticWord": "ⲁⲡⲟⲭⲁⲣⲓⲍⲉ",
+    "englishTransliteration": "apocharize",
+    "gloss": "to give s.th. (as a gift) (object: s.th.)",
+    "definition": "to give s.th. (as a gift) (object: s.th.)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "apochorize",
+        "copticWord": "ⲁⲡⲟⲭⲟⲣⲓⲍⲉ",
+        "englishTransliteration": "apochorize"
+      }
+    ]
+  },
+  {
+    "headword": "apoche",
+    "copticWord": "ⲁⲡⲟⲭⲏ",
+    "englishTransliteration": "apoche",
+    "gloss": "shedding, pouring out",
+    "definition": "shedding, pouring out",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apochorize",
+    "copticWord": "ⲁⲡⲟⲭⲱⲣⲓⲍⲉ",
+    "englishTransliteration": "apochorize",
+    "gloss": "to divide, separate",
+    "definition": "to divide, separate",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "apohretos",
+    "copticWord": "ⲁⲡⲟϩⲣⲏⲧⲟⲥ",
+    "englishTransliteration": "apohretos",
+    "gloss": "unspeakable, indescribable (attributive; referent: re: divine transcendent\n     character)",
+    "definition": "unspeakable, indescribable (attributive; referent: re: divine transcendent\n     character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apraktos",
+    "copticWord": "ⲁⲡⲣⲁⲕⲧⲟⲥ",
+    "englishTransliteration": "apraktos",
+    "gloss": "ineffective, idle (substantive)",
+    "definition": "ineffective, idle (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "apophania",
+    "copticWord": "ⲁⲡⲱⲫⲁⲛⲓⲁ",
+    "englishTransliteration": "apophania",
+    "gloss": "revelation (inverted attributive, nominal referent)",
+    "definition": "revelation (inverted attributive, nominal referent)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arabikon",
+    "copticWord": "ⲁⲣⲁⲃⲓⲕⲟⲛ",
+    "englishTransliteration": "arabikon",
+    "gloss": "Arabian (attributive)",
+    "definition": "Arabian (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arabikon",
+        "copticWord": "ⲁⲣⲁⲃⲓⲕⲱⲛ",
+        "englishTransliteration": "arabikon"
+      },
+      {
+        "word": "araeikon",
+        "copticWord": "ⲁⲣⲁⲏⲓⲕⲟⲛ",
+        "englishTransliteration": "araeikon"
+      }
+    ]
+  },
+  {
+    "headword": "arabos",
+    "copticWord": "ⲁⲣⲁⲃⲟⲥ",
+    "englishTransliteration": "arabos",
+    "gloss": "Arab",
+    "definition": "Arab",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arasthe",
+    "copticWord": "ⲁⲣⲁⲥⲑⲉ",
+    "englishTransliteration": "arasthe",
+    "gloss": "to pray to s.o.",
+    "definition": "to pray to s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "argon",
+    "copticWord": "ⲁⲣⲅⲟⲛ",
+    "englishTransliteration": "argon",
+    "gloss": "inactive, still (attributive)",
+    "definition": "inactive, still (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "argon",
+        "copticWord": "ⲁⲣⲅⲱⲛ",
+        "englishTransliteration": "argon"
+      }
+    ]
+  },
+  {
+    "headword": "argos",
+    "copticWord": "ⲁⲣⲅⲟⲥ",
+    "englishTransliteration": "argos",
+    "gloss": "idle, lazy person (substantive)",
+    "definition": "idle, lazy person (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "argon",
+        "copticWord": "ⲁⲣⲅⲟⲛ",
+        "englishTransliteration": "argon"
+      }
+    ]
+  },
+  {
+    "headword": "areia",
+    "copticWord": "ⲁⲣⲉⲓⲁ",
+    "englishTransliteration": "areia",
+    "gloss": "better",
+    "definition": "better",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "areske",
+    "copticWord": "ⲁⲣⲉⲥⲕⲉ",
+    "englishTransliteration": "areske",
+    "gloss": "to please (object: none)",
+    "definition": "to please (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aresche",
+        "copticWord": "ⲁⲣⲉⲥⲭⲉ",
+        "englishTransliteration": "aresche"
+      },
+      {
+        "word": "ariske",
+        "copticWord": "ⲁⲣⲓⲥⲕⲉ",
+        "englishTransliteration": "ariske"
+      }
+    ]
+  },
+  {
+    "headword": "arithmia",
+    "copticWord": "ⲁⲣⲓⲑⲙⲓⲁ",
+    "englishTransliteration": "arithmia",
+    "gloss": "of nominal value (of currency) (substnative)",
+    "definition": "of nominal value (of currency) (substnative)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "rithmia",
+        "copticWord": "ⲣⲓⲑⲙⲓⲁ",
+        "englishTransliteration": "rithmia"
+      }
+    ]
+  },
+  {
+    "headword": "arithmion",
+    "copticWord": "ⲁⲣⲓⲑⲙⲓⲟⲛ",
+    "englishTransliteration": "arithmion",
+    "gloss": "of nominal value (of currency) (attributive)",
+    "definition": "of nominal value (of currency) (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arista",
+    "copticWord": "ⲁⲣⲓⲥⲧⲁ",
+    "englishTransliteration": "arista",
+    "gloss": "to dine, have a meal",
+    "definition": "to dine, have a meal",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "aristorochias",
+    "copticWord": "ⲁⲣⲓⲥⲧⲟⲣⲟⲭⲓⲁⲥ",
+    "englishTransliteration": "aristorochias",
+    "gloss": "Aristolochia, herb promoting child-birth, birthwort",
+    "definition": "Aristolochia, herb promoting child-birth, birthwort",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "alistolochias",
+        "copticWord": "ⲁⲗⲓⲥⲧⲟⲗⲟⲭⲓⲁⲥ",
+        "englishTransliteration": "alistolochias"
+      },
+      {
+        "word": "alistorochias",
+        "copticWord": "ⲁⲗⲓⲥⲧⲟⲣⲟⲭⲓⲁⲥ",
+        "englishTransliteration": "alistorochias"
+      }
+    ]
+  },
+  {
+    "headword": "arkei",
+    "copticWord": "ⲁⲣⲕⲉⲓ",
+    "englishTransliteration": "arkei",
+    "gloss": "it suffices for s.th. (subject: conjunctive clause)",
+    "definition": "it suffices for s.th. (subject: conjunctive clause)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arkeuthis",
+    "copticWord": "ⲁⲣⲕⲉⲩⲑⲓⲥ",
+    "englishTransliteration": "arkeuthis",
+    "gloss": "juniper-berry",
+    "definition": "juniper-berry",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-arkethis",
+        "copticWord": "ⲁⲣⲕⲏⲑⲓⲥ",
+        "englishTransliteration": "arkethis"
+      }
+    ]
+  },
+  {
+    "headword": "arkeuthos",
+    "copticWord": "ⲁⲣⲕⲉⲩⲑⲟⲥ",
+    "englishTransliteration": "arkeuthos",
+    "gloss": "juniper tree",
+    "definition": "juniper tree",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arkos",
+    "copticWord": "ⲁⲣⲕⲟⲥ",
+    "englishTransliteration": "arkos",
+    "gloss": "bear",
+    "definition": "bear",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-arax",
+        "copticWord": "ⲁⲣⲁⲝ",
+        "englishTransliteration": "arax"
+      }
+    ]
+  },
+  {
+    "headword": "arktos",
+    "copticWord": "ⲁⲣⲕⲧⲟⲥ",
+    "englishTransliteration": "arktos",
+    "gloss": "north",
+    "definition": "north",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "armara",
+    "copticWord": "ⲁⲣⲙⲁⲣⲁ",
+    "englishTransliteration": "armara",
+    "gloss": "wild rue",
+    "definition": "wild rue",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "armeniou",
+    "copticWord": "ⲁⲣⲙⲉⲛⲓⲟⲩ",
+    "englishTransliteration": "armeniou",
+    "gloss": "copper carbonate, azurite",
+    "definition": "copper carbonate, azurite",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arna",
+    "copticWord": "ⲁⲣⲛⲁ",
+    "englishTransliteration": "arna",
+    "gloss": "to deny (object: none)",
+    "definition": "to deny (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arnei",
+        "copticWord": "ⲁⲣⲛⲉⲓ",
+        "englishTransliteration": "arnei"
+      },
+      {
+        "word": "arne",
+        "copticWord": "ⲁⲣⲛⲏ",
+        "englishTransliteration": "arne"
+      },
+      {
+        "word": "arni",
+        "copticWord": "ⲁⲣⲛⲓ",
+        "englishTransliteration": "arni"
+      }
+    ]
+  },
+  {
+    "headword": "arnesis",
+    "copticWord": "ⲁⲣⲛⲏⲥⲓⲥ",
+    "englishTransliteration": "arnesis",
+    "gloss": "denial, gainsaying",
+    "definition": "denial, gainsaying",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arnisthe",
+    "copticWord": "ⲁⲣⲛⲓⲥⲑⲉ",
+    "englishTransliteration": "arnisthe",
+    "gloss": "to reject, deny, disown s.o.",
+    "definition": "to reject, deny, disown s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arnesthai",
+        "copticWord": "ⲁⲣⲛⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "arnesthai"
+      }
+    ]
+  },
+  {
+    "headword": "arx",
+    "copticWord": "ⲁⲣⲝ",
+    "englishTransliteration": "arx",
+    "gloss": "bear",
+    "definition": "bear",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arax",
+        "copticWord": "ⲁⲣⲁⲝ",
+        "englishTransliteration": "arax"
+      }
+    ]
+  },
+  {
+    "headword": "arreton",
+    "copticWord": "ⲁⲣⲣⲏⲧⲟⲛ",
+    "englishTransliteration": "arreton",
+    "gloss": "unsayable, ineffable thing (substantive; divine)",
+    "definition": "unsayable, ineffable thing (substantive; divine)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ahreton",
+        "copticWord": "ⲁϩⲣⲏⲧⲟⲛ",
+        "englishTransliteration": "ahreton"
+      }
+    ]
+  },
+  {
+    "headword": "arretos",
+    "copticWord": "ⲁⲣⲣⲏⲧⲟⲥ",
+    "englishTransliteration": "arretos",
+    "gloss": "unsayable, ineffable thing, one (substantive)",
+    "definition": "unsayable, ineffable thing, one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ahretos",
+        "copticWord": "ⲁϩⲣⲏⲧⲟⲥ",
+        "englishTransliteration": "ahretos"
+      }
+    ]
+  },
+  {
+    "headword": "arsenike",
+    "copticWord": "ⲁⲣⲥⲉⲛⲓⲕⲏ",
+    "englishTransliteration": "arsenike",
+    "gloss": "male (referent: divine character)",
+    "definition": "male (referent: divine character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arsenogenia",
+    "copticWord": "ⲁⲣⲥⲉⲛⲟⲅⲉⲛⲓⲁ",
+    "englishTransliteration": "arsenogenia",
+    "gloss": "male birth, birth of a male",
+    "definition": "male birth, birth of a male",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "arsinikon",
+    "copticWord": "ⲁⲣⲥⲓⲛⲓⲕⲟⲛ",
+    "englishTransliteration": "arsinikon",
+    "gloss": "arsenic, orpiment",
+    "definition": "arsenic, orpiment",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arsenikon",
+        "copticWord": "ⲁⲣⲥⲉⲛⲓⲕⲟⲛ",
+        "englishTransliteration": "arsenikon"
+      },
+      {
+        "word": "arsenikon",
+        "copticWord": "ⲁⲣⲥⲉⲛⲓⲕⲱⲛ",
+        "englishTransliteration": "arsenikon"
+      },
+      {
+        "word": "arsenikon",
+        "copticWord": "ⲁⲣⲥⲏⲛⲓⲕⲟⲛ",
+        "englishTransliteration": "arsenikon"
+      },
+      {
+        "word": "arsunigon",
+        "copticWord": "ⲁⲣⲥⲩⲛⲓⲅⲟⲛ",
+        "englishTransliteration": "arsunigon"
+      },
+      {
+        "word": "arsunikon",
+        "copticWord": "ⲁⲣⲥⲩⲛⲓⲕⲟⲛ",
+        "englishTransliteration": "arsunikon"
+      }
+    ]
+  },
+  {
+    "headword": "artemesias",
+    "copticWord": "ⲁⲣⲧⲉⲙⲉⲥⲓⲁⲥ",
+    "englishTransliteration": "artemesias",
+    "gloss": "wormwood",
+    "definition": "wormwood",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "artemisias",
+        "copticWord": "ⲁⲣⲧⲉⲙⲓⲥⲓⲁⲥ",
+        "englishTransliteration": "artemisias"
+      },
+      {
+        "word": "-artimesis",
+        "copticWord": "ⲁⲣⲧⲓⲙⲉⲥⲓⲥ",
+        "englishTransliteration": "artimesis"
+      }
+    ]
+  },
+  {
+    "headword": "artemesia",
+    "copticWord": "ⲁⲣⲧⲏⲙⲉⲥⲓⲁ",
+    "englishTransliteration": "artemesia",
+    "gloss": "wormwood",
+    "definition": "wormwood",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "artemesias",
+        "copticWord": "ⲁⲣⲧⲉⲙⲉⲥⲓⲁⲥ",
+        "englishTransliteration": "artemesias"
+      },
+      {
+        "word": "-artemsia",
+        "copticWord": "ⲁⲣⲧⲏⲙⲥⲓⲁ",
+        "englishTransliteration": "artemsia"
+      }
+    ]
+  },
+  {
+    "headword": "arteria",
+    "copticWord": "ⲁⲣⲧⲏⲣⲓⲁ",
+    "englishTransliteration": "arteria",
+    "gloss": "artery",
+    "definition": "artery",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "artimesis",
+    "copticWord": "ⲁⲣⲧⲓⲙⲉⲥⲓⲥ",
+    "englishTransliteration": "artimesis",
+    "gloss": "of wormwood (attributive)",
+    "definition": "of wormwood (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "artemesis",
+        "copticWord": "ⲁⲣⲧⲉⲙⲉⲥⲓⲥ",
+        "englishTransliteration": "artemesis"
+      }
+    ]
+  },
+  {
+    "headword": "artos",
+    "copticWord": "ⲁⲣⲧⲟⲥ",
+    "englishTransliteration": "artos",
+    "gloss": "bread",
+    "definition": "bread",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "artumis",
+    "copticWord": "ⲁⲣⲧⲩⲙⲓⲥ",
+    "englishTransliteration": "artumis",
+    "gloss": "Artemis (the Greek goddess)",
+    "definition": "Artemis (the Greek goddess)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archaggelike",
+    "copticWord": "ⲁⲣⲭⲁⲅⲅⲉⲗⲓⲕⲏ",
+    "englishTransliteration": "archaggelike",
+    "gloss": "archangelic; i.e., of or pertaining to an archangel (substantive)",
+    "definition": "archangelic; i.e., of or pertaining to an archangel (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archangelon",
+        "copticWord": "ⲁⲣⲭⲁⲛⲅⲉⲗⲱⲛ",
+        "englishTransliteration": "archangelon"
+      }
+    ]
+  },
+  {
+    "headword": "archaggelos",
+    "copticWord": "ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ",
+    "englishTransliteration": "archaggelos",
+    "gloss": "archangel, chief messenger (benevolent superhuman being)",
+    "definition": "archangel, chief messenger (benevolent superhuman being)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archaggelo",
+        "copticWord": "ⲁⲣⲭⲁⲅⲅⲉⲗⲟ",
+        "englishTransliteration": "archaggelo"
+      },
+      {
+        "word": "archaggelos",
+        "copticWord": "ⲁⲣⲭⲁⲅⲅⲉⲗⲱⲥ",
+        "englishTransliteration": "archaggelos"
+      },
+      {
+        "word": "archanggelos",
+        "copticWord": "ⲁⲣⲭⲁⲛⲅⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archanggelos"
+      },
+      {
+        "word": "archangelos",
+        "copticWord": "ⲁⲣⲭⲁⲛⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archangelos"
+      },
+      {
+        "word": "archeaggelos",
+        "copticWord": "ⲁⲣⲭⲉⲁⲅⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archeaggelos"
+      },
+      {
+        "word": "archeaggelos",
+        "copticWord": "ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archeaggelos"
+      },
+      {
+        "word": "archeaggelo",
+        "copticWord": "ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟ",
+        "englishTransliteration": "archeaggelo"
+      },
+      {
+        "word": "archeaggelos",
+        "copticWord": "ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲱⲥ",
+        "englishTransliteration": "archeaggelos"
+      },
+      {
+        "word": "archeangelos",
+        "copticWord": "ⲁⲣⲭⲏⲁⲛⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archeangelos"
+      },
+      {
+        "word": "archeangelo",
+        "copticWord": "ⲁⲣⲭⲏⲁⲛⲅⲉⲗⲱ",
+        "englishTransliteration": "archeangelo"
+      },
+      {
+        "word": "archiaggelos",
+        "copticWord": "ⲁⲣⲭⲓⲁⲅⲅⲉⲗⲟⲥ",
+        "englishTransliteration": "archiaggelos"
+      }
+    ]
+  },
+  {
+    "headword": "archaion",
+    "copticWord": "ⲁⲣⲭⲁⲓⲟⲛ",
+    "englishTransliteration": "archaion",
+    "gloss": "(pl.) ancient limits (of land property, as alotted formerly/long ago)",
+    "definition": "(pl.) ancient limits (of land property, as alotted formerly/long ago)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "archarion",
+        "copticWord": "ⲁⲣⲭⲁⲣⲓⲟⲛ",
+        "englishTransliteration": "archarion"
+      },
+      {
+        "word": "-archeon",
+        "copticWord": "ⲁⲣⲭⲉⲟⲛ",
+        "englishTransliteration": "archeon"
+      }
+    ]
+  },
+  {
+    "headword": "archei",
+    "copticWord": "ⲁⲣⲭⲉⲓ",
+    "englishTransliteration": "archei",
+    "gloss": "to begin (intransitive: to be started)",
+    "definition": "to begin (intransitive: to be started)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arjei",
+        "copticWord": "ⲁⲣϫⲉⲓ",
+        "englishTransliteration": "arjei"
+      },
+      {
+        "word": "-arji",
+        "copticWord": "ⲁⲣϫⲓ",
+        "englishTransliteration": "arji"
+      },
+      {
+        "word": "-arche",
+        "copticWord": "ⲁⲣⲭⲉ",
+        "englishTransliteration": "arche"
+      },
+      {
+        "word": "-arche",
+        "copticWord": "ⲁⲣⲭⲏ",
+        "englishTransliteration": "arche"
+      },
+      {
+        "word": "-archi",
+        "copticWord": "ⲁⲣⲭⲓ",
+        "englishTransliteration": "archi"
+      },
+      {
+        "word": "-ache",
+        "copticWord": "ⲁⲭⲉ",
+        "englishTransliteration": "ache"
+      },
+      {
+        "word": "orchei",
+        "copticWord": "ⲟⲣⲭⲉⲓ",
+        "englishTransliteration": "orchei"
+      }
+    ]
+  },
+  {
+    "headword": "archesthai",
+    "copticWord": "ⲁⲣⲭⲉⲥⲑⲁⲓ",
+    "englishTransliteration": "archesthai",
+    "gloss": "to begin (intransitive)",
+    "definition": "to begin (intransitive)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arjaisthai",
+        "copticWord": "ⲁⲣϫⲁⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "arjaisthai"
+      },
+      {
+        "word": "arjesthai",
+        "copticWord": "ⲁⲣϫⲉⲥⲑⲁⲓ",
+        "englishTransliteration": "arjesthai"
+      },
+      {
+        "word": "-archethai",
+        "copticWord": "ⲁⲣⲭⲉⲑⲁⲓ",
+        "englishTransliteration": "archethai"
+      },
+      {
+        "word": "archeisthai",
+        "copticWord": "ⲁⲣⲭⲉⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "archeisthai"
+      },
+      {
+        "word": "-archesthe",
+        "copticWord": "ⲁⲣⲭⲉⲥⲑⲉ",
+        "englishTransliteration": "archesthe"
+      },
+      {
+        "word": "-archisth",
+        "copticWord": "ⲁⲣⲭⲓⲥⲑ",
+        "englishTransliteration": "archisth"
+      },
+      {
+        "word": "archisthai",
+        "copticWord": "ⲁⲣⲭⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "archisthai"
+      },
+      {
+        "word": "-archisthe",
+        "copticWord": "ⲁⲣⲭⲓⲥⲑⲉ",
+        "englishTransliteration": "archisthe"
+      }
+    ]
+  },
+  {
+    "headword": "archeatros",
+    "copticWord": "ⲁⲣⲭⲏⲁⲧⲣⲟⲥ",
+    "englishTransliteration": "archeatros",
+    "gloss": "official/senior physician",
+    "definition": "official/senior physician",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "archehiatros",
+        "copticWord": "ⲁⲣⲭⲏϩⲓⲁⲧⲣⲟⲥ",
+        "englishTransliteration": "archehiatros"
+      },
+      {
+        "word": "archeatrou",
+        "copticWord": "ⲁⲣⲭⲏⲁⲧⲣⲟⲩ",
+        "englishTransliteration": "archeatrou"
+      }
+    ]
+  },
+  {
+    "headword": "archegos",
+    "copticWord": "ⲁⲣⲭⲏⲅⲟⲥ",
+    "englishTransliteration": "archegos",
+    "gloss": "originator, founder",
+    "definition": "originator, founder",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archediakonos",
+    "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕⲟⲛⲟⲥ",
+    "englishTransliteration": "archediakonos",
+    "gloss": "archdeacon",
+    "definition": "archdeacon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archediak",
+        "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕ",
+        "englishTransliteration": "archediak"
+      },
+      {
+        "word": "-archidiako",
+        "copticWord": "ⲁⲣⲭⲓⲇⲓⲁⲕⲟ",
+        "englishTransliteration": "archidiako"
+      }
+    ]
+  },
+  {
+    "headword": "archediakon",
+    "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕⲱⲛ",
+    "englishTransliteration": "archediakon",
+    "gloss": "archdeacon",
+    "definition": "archdeacon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archediak",
+    "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕⳇ",
+    "englishTransliteration": "archediak",
+    "gloss": "archdeacon",
+    "definition": "archdeacon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archediak",
+        "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕ",
+        "englishTransliteration": "archediak"
+      },
+      {
+        "word": "archediakonos",
+        "copticWord": "ⲁⲣⲭⲏⲇⲓⲁⲕⲟⲛⲟⲥ",
+        "englishTransliteration": "archediakonos"
+      }
+    ]
+  },
+  {
+    "headword": "archeepiskopos",
+    "copticWord": "ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+    "englishTransliteration": "archeepiskopos",
+    "gloss": "archbishop",
+    "definition": "archbishop",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archeepisk",
+        "copticWord": "ⲁⲣⲭⲉⲉⲡⲓⲥⲕ",
+        "englishTransliteration": "archeepisk"
+      },
+      {
+        "word": "-archepiskopos",
+        "copticWord": "ⲁⲣⲭⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+        "englishTransliteration": "archepiskopos"
+      },
+      {
+        "word": "-archeepikopos",
+        "copticWord": "ⲁⲣⲭⲏⲉⲡⲓⲕⲟⲡⲟⲥ",
+        "englishTransliteration": "archeepikopos"
+      },
+      {
+        "word": "archeepiskopoos",
+        "copticWord": "ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲟⲥ",
+        "englishTransliteration": "archeepiskopoos"
+      },
+      {
+        "word": "archeepiskopos",
+        "copticWord": "ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲱⲡⲱⲥ",
+        "englishTransliteration": "archeepiskopos"
+      },
+      {
+        "word": "archeepispokos",
+        "copticWord": "ⲁⲣⲭⲏⲉⲡⲓⲥⲡⲟⲕⲟⲥ",
+        "englishTransliteration": "archeepispokos"
+      },
+      {
+        "word": "-archiepisk",
+        "copticWord": "ⲁⲣⲭⲓⲉⲡⲓⲥⲕ",
+        "englishTransliteration": "archiepisk"
+      },
+      {
+        "word": "-archiepiskop",
+        "copticWord": "ⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡ",
+        "englishTransliteration": "archiepiskop"
+      },
+      {
+        "word": "archiepiskopos",
+        "copticWord": "ⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+        "englishTransliteration": "archiepiskopos"
+      }
+    ]
+  },
+  {
+    "headword": "archethlites",
+    "copticWord": "ⲁⲣⲭⲏⲑⲗⲓⲧⲏⲥ",
+    "englishTransliteration": "archethlites",
+    "gloss": "champion",
+    "definition": "champion",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archekrites",
+    "copticWord": "ⲁⲣⲭⲏⲕⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "archekrites",
+    "gloss": "chief judge",
+    "definition": "chief judge",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archelestes",
+    "copticWord": "ⲁⲣⲭⲏⲗⲏⲥⲧⲏⲥ",
+    "englishTransliteration": "archelestes",
+    "gloss": "chief robber, ringleader",
+    "definition": "chief robber, ringleader",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archeologia",
+    "copticWord": "ⲁⲣⲭⲏⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "archeologia",
+    "gloss": "tome, book of lore",
+    "definition": "tome, book of lore",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archologia",
+        "copticWord": "ⲁⲣⲭⲟⲗⲟⲅⲓⲁ",
+        "englishTransliteration": "archologia"
+      }
+    ]
+  },
+  {
+    "headword": "archeplasma",
+    "copticWord": "ⲁⲣⲭⲏⲡⲗⲁⲥⲙⲁ",
+    "englishTransliteration": "archeplasma",
+    "gloss": "first creation, first-formed one (epithet of first angel, later fallen - i.e.,\n     Lucifer)",
+    "definition": "first creation, first-formed one (epithet of first angel, later fallen - i.e.,\n     Lucifer)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archeplsm",
+        "copticWord": "ⲁⲣⲭⲏⲡⲗⲥⲙ",
+        "englishTransliteration": "archeplsm"
+      }
+    ]
+  },
+  {
+    "headword": "archepresbuteros",
+    "copticWord": "ⲁⲣⲭⲏⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+    "englishTransliteration": "archepresbuteros",
+    "gloss": "archpriest",
+    "definition": "archpriest",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archeppr",
+        "copticWord": "ⲁⲣⲭⲏⲡⲡⲣ",
+        "englishTransliteration": "archeppr"
+      },
+      {
+        "word": "-archepre",
+        "copticWord": "ⲁⲣⲭⲏⲡⲣⲉ",
+        "englishTransliteration": "archepre"
+      },
+      {
+        "word": "-archepreb",
+        "copticWord": "ⲁⲣⲭⲏⲡⲣⲉⲃ",
+        "englishTransliteration": "archepreb"
+      },
+      {
+        "word": "-archepresb",
+        "copticWord": "ⲁⲣⲭⲏⲡⲣⲉⲥⲃ",
+        "englishTransliteration": "archepresb"
+      },
+      {
+        "word": "-archeproubete",
+        "copticWord": "ⲁⲣⲭⲏⲡⲣⲟⲩⲃⲏⲧⲏ",
+        "englishTransliteration": "archeproubete"
+      },
+      {
+        "word": "-archeprs",
+        "copticWord": "ⲁⲣⲭⲏⲡⲣ︦ⲥ︦",
+        "englishTransliteration": "archeprs"
+      },
+      {
+        "word": "-archipresb",
+        "copticWord": "ⲁⲣⲭⲓⲡⲣⲉⲥⲃ",
+        "englishTransliteration": "archipresb"
+      }
+    ]
+  },
+  {
+    "headword": "archeprophetes",
+    "copticWord": "ⲁⲣⲭⲏⲡⲣⲟⲫⲏⲧⲏⲥ",
+    "englishTransliteration": "archeprophetes",
+    "gloss": "chief prophet",
+    "definition": "chief prophet",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archestratulates",
+    "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲧⲩⲗⲁⲧⲏⲥ",
+    "englishTransliteration": "archestratulates",
+    "gloss": "commander-in-chief",
+    "definition": "commander-in-chief",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archigenetor",
+    "copticWord": "ⲁⲣⲭⲓⲅⲉⲛⲉⲧⲱⲣ",
+    "englishTransliteration": "archigenetor",
+    "gloss": "\"Prime Begetter\" (ignorant Gnostic demiurge)",
+    "definition": "\"Prime Begetter\" (ignorant Gnostic demiurge)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arjigenetor",
+        "copticWord": "ⲁⲣϫⲓⲅⲉⲛⲉⲧⲱⲣ",
+        "englishTransliteration": "arjigenetor"
+      },
+      {
+        "word": "-arigenetor",
+        "copticWord": "ⲁⲣⲓⲅⲉⲛⲉⲧⲱⲣ",
+        "englishTransliteration": "arigenetor"
+      },
+      {
+        "word": "archigenetor",
+        "copticWord": "ⲁⲣⲭⲓⲅⲉⲛⲏⲧⲱⲣ",
+        "englishTransliteration": "archigenetor"
+      }
+    ]
+  },
+  {
+    "headword": "archigennetor",
+    "copticWord": "ⲁⲣⲭⲓⲅⲉⲛⲛⲏⲧⲱⲣ",
+    "englishTransliteration": "archigennetor",
+    "gloss": "ultimate begetter, prime begetter",
+    "definition": "ultimate begetter, prime begetter",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archigenetor",
+        "copticWord": "ⲁⲣⲭⲓⲅⲉⲛⲉⲧⲱⲣ",
+        "englishTransliteration": "archigenetor"
+      }
+    ]
+  },
+  {
+    "headword": "archimageros",
+    "copticWord": "ⲁⲣⲭⲓⲙⲁⲅⲉⲣⲟⲥ",
+    "englishTransliteration": "archimageros",
+    "gloss": "\"head cook\" (title of a great official at Oriental courts)",
+    "definition": "\"head cook\" (title of a great official at Oriental courts)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archimandrites",
+    "copticWord": "ⲁⲣⲭⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "archimandrites",
+    "gloss": "monastic superior, archimandrite, abbot",
+    "definition": "monastic superior, archimandrite, abbot",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archemant",
+        "copticWord": "ⲁⲣⲭⲏⲙⲁⲛⲧ",
+        "englishTransliteration": "archemant"
+      }
+    ]
+  },
+  {
+    "headword": "archin",
+    "copticWord": "ⲁⲣⲭⲓⲛ",
+    "englishTransliteration": "archin",
+    "gloss": "to rule over s.th.",
+    "definition": "to rule over s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "archistrateuma",
+    "copticWord": "ⲁⲣⲭⲓⲥⲧⲣⲁⲧⲉⲩⲙⲁ",
+    "englishTransliteration": "archistrateuma",
+    "gloss": "commander(-in-chief) of the army",
+    "definition": "commander(-in-chief) of the army",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "archestrateuma",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲧⲉⲩⲙⲁ",
+        "englishTransliteration": "archestrateuma"
+      }
+    ]
+  },
+  {
+    "headword": "archistrategos",
+    "copticWord": "ⲁⲣⲭⲓⲥⲧⲣⲁⲧⲏⲅⲟⲥ",
+    "englishTransliteration": "archistrategos",
+    "gloss": "commander-in-chief, supreme commander (epithet for senior angels)",
+    "definition": "commander-in-chief, supreme commander (epithet for senior angels)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-archestratigos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁϯⲅⲟⲥ",
+        "englishTransliteration": "archestratigos"
+      },
+      {
+        "word": "archestradikos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲇⲓⲕⲟⲥ",
+        "englishTransliteration": "archestradikos"
+      },
+      {
+        "word": "archestrategos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲧⲏⲅⲟⲥ",
+        "englishTransliteration": "archestrategos"
+      },
+      {
+        "word": "archestratoigos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲧⲟⲓⲅⲟⲥ",
+        "englishTransliteration": "archestratoigos"
+      },
+      {
+        "word": "archestratoikos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲧⲣⲁⲧⲟⲓⲕⲟⲥ",
+        "englishTransliteration": "archestratoikos"
+      }
+    ]
+  },
+  {
+    "headword": "archisunagogos",
+    "copticWord": "ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ",
+    "englishTransliteration": "archisunagogos",
+    "gloss": "leader of the synagogue",
+    "definition": "leader of the synagogue",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "archesunagogos",
+        "copticWord": "ⲁⲣⲭⲏⲥⲩⲛⲁⲅⲱⲅⲟⲥ",
+        "englishTransliteration": "archesunagogos"
+      }
+    ]
+  },
+  {
+    "headword": "archontike",
+    "copticWord": "ⲁⲣⲭⲟⲛⲧⲓⲕⲏ",
+    "englishTransliteration": "archontike",
+    "gloss": "archontic (of or pertaining to a malevolent cosmic ruler) (attributive)",
+    "definition": "archontic (of or pertaining to a malevolent cosmic ruler) (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "archontikon",
+    "copticWord": "ⲁⲣⲭⲟⲛⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "archontikon",
+    "gloss": "secular (pertaining to wordly authority)",
+    "definition": "secular (pertaining to wordly authority)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "archontikon",
+        "copticWord": "ⲁⲣⲭⲟⲛⲧⲓⲕⲱⲛ",
+        "englishTransliteration": "archontikon"
+      },
+      {
+        "word": "archontikon",
+        "copticWord": "ⲁⲣⲭⲱⲛⲧⲓⲕⲱⲛ",
+        "englishTransliteration": "archontikon"
+      }
+    ]
+  },
+  {
+    "headword": "archon",
+    "copticWord": "ⲁⲣⲭⲱⲛ",
+    "englishTransliteration": "archon",
+    "gloss": "ruler",
+    "definition": "ruler",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-ar",
+        "copticWord": "ⲁⲣ",
+        "englishTransliteration": "ar"
+      },
+      {
+        "word": "arjon",
+        "copticWord": "ⲁⲣϫⲱⲛ",
+        "englishTransliteration": "arjon"
+      },
+      {
+        "word": "-arch",
+        "copticWord": "ⲁⲣⲭ",
+        "englishTransliteration": "arch"
+      },
+      {
+        "word": "archon",
+        "copticWord": "ⲁⲣⲭⲟⲛ",
+        "englishTransliteration": "archon"
+      },
+      {
+        "word": "archou",
+        "copticWord": "ⲁⲣⲭⲟⲩ",
+        "englishTransliteration": "archou"
+      },
+      {
+        "word": "-archo",
+        "copticWord": "ⲁⲣⲭⲱ",
+        "englishTransliteration": "archo"
+      },
+      {
+        "word": "archo",
+        "copticWord": "ⲁⲣⲭⲱ⳯",
+        "englishTransliteration": "archo"
+      }
+    ]
+  },
+  {
+    "headword": "aromata",
+    "copticWord": "ⲁⲣⲱⲙⲁⲧⲁ",
+    "englishTransliteration": "aromata",
+    "gloss": "smells, fragrances",
+    "definition": "smells, fragrances",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asaleutos",
+    "copticWord": "ⲁⲥⲁⲗⲉⲩⲧⲟⲥ",
+    "englishTransliteration": "asaleutos",
+    "gloss": "unmoved (divine characteristic) (substantive)",
+    "definition": "unmoved (divine characteristic) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aseleuton",
+    "copticWord": "ⲁⲥⲉⲗⲉⲩⲧⲱⲛ",
+    "englishTransliteration": "aseleuton",
+    "gloss": "unshakeable (attributive)",
+    "definition": "unshakeable (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asemantos",
+    "copticWord": "ⲁⲥⲏⲙⲁⲛⲧⲟⲥ",
+    "englishTransliteration": "asemantos",
+    "gloss": "unmarked (substantive; referent: divine transcendent character)",
+    "definition": "unmarked (substantive; referent: divine transcendent character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asemios",
+    "copticWord": "ⲁⲥⲏⲙⲓⲟⲥ",
+    "englishTransliteration": "asemios",
+    "gloss": "money",
+    "definition": "money",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "astheneia",
+    "copticWord": "ⲁⲥⲑⲉⲛⲉⲓⲁ",
+    "englishTransliteration": "astheneia",
+    "gloss": "weakness",
+    "definition": "weakness",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-asthenia",
+        "copticWord": "ⲁⲥⲑⲉⲛⲓⲁ",
+        "englishTransliteration": "asthenia"
+      }
+    ]
+  },
+  {
+    "headword": "asthenes",
+    "copticWord": "ⲁⲥⲑⲉⲛⲏⲥ",
+    "englishTransliteration": "asthenes",
+    "gloss": "weak (substantive)",
+    "definition": "weak (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "asthenes",
+        "copticWord": "ⲁⲥⲑⲏⲛⲏⲥ",
+        "englishTransliteration": "asthenes"
+      }
+    ]
+  },
+  {
+    "headword": "askei",
+    "copticWord": "ⲁⲥⲕⲉⲓ",
+    "englishTransliteration": "askei",
+    "gloss": "to discipline oneself (object: none)",
+    "definition": "to discipline oneself (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "askopos",
+    "copticWord": "ⲁⲥⲕⲟⲡⲟⲥ",
+    "englishTransliteration": "askopos",
+    "gloss": "inconsiderate, heedless (one)",
+    "definition": "inconsiderate, heedless (one)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "askopos",
+    "copticWord": "ⲁⲥⲕⲟⲡⲱⲥ",
+    "englishTransliteration": "askopos",
+    "gloss": "heedlessly",
+    "definition": "heedlessly",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "asophon",
+    "copticWord": "ⲁⲥⲟⲫⲟⲛ",
+    "englishTransliteration": "asophon",
+    "gloss": "unwise one",
+    "definition": "unwise one",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aspaze",
+    "copticWord": "ⲁⲥⲡⲁⲍⲉ",
+    "englishTransliteration": "aspaze",
+    "gloss": "to greet, welcome, embrace, kiss s.o.",
+    "definition": "to greet, welcome, embrace, kiss s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aspaxe",
+        "copticWord": "ⲁⲥⲡⲁⲝⲉ",
+        "englishTransliteration": "aspaxe"
+      },
+      {
+        "word": "aspase",
+        "copticWord": "ⲁⲥⲡⲁⲥⲉ",
+        "englishTransliteration": "aspase"
+      },
+      {
+        "word": "aspasze",
+        "copticWord": "ⲁⲥⲡⲁⲥⲍⲉ",
+        "englishTransliteration": "aspasze"
+      },
+      {
+        "word": "-aspe",
+        "copticWord": "ⲁⲥⲡⲉ",
+        "englishTransliteration": "aspe"
+      }
+    ]
+  },
+  {
+    "headword": "aspalathos",
+    "copticWord": "ⲁⲥⲡⲁⲗⲁⲑⲟⲥ",
+    "englishTransliteration": "aspalathos",
+    "gloss": "camel's-thorn (spice/scent)",
+    "definition": "camel's-thorn (spice/scent)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aspasmos",
+    "copticWord": "ⲁⲥⲡⲁⲥⲙⲟⲥ",
+    "englishTransliteration": "aspasmos",
+    "gloss": "greeting, embrace",
+    "definition": "greeting, embrace",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "assarion",
+    "copticWord": "ⲁⲥⲥⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "assarion",
+    "gloss": "as, assarion (Roman copper coin, worth 1/16th of a denarius)",
+    "definition": "as, assarion (Roman copper coin, worth 1/16th of a denarius)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "assurios",
+    "copticWord": "ⲁⲥⲥⲩⲣⲓⲟⲥ",
+    "englishTransliteration": "assurios",
+    "gloss": "Assyrian (substantive)",
+    "definition": "Assyrian (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aster",
+    "copticWord": "ⲁⲥⲧⲏⲣ",
+    "englishTransliteration": "aster",
+    "gloss": "star",
+    "definition": "star",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "astios",
+    "copticWord": "ⲁⲥⲧⲓⲟⲥ",
+    "englishTransliteration": "astios",
+    "gloss": "distinguished, elegant (substantive)",
+    "definition": "distinguished, elegant (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "astronomia",
+    "copticWord": "ⲁⲥⲧⲣⲟⲛⲟⲙⲓⲁ",
+    "englishTransliteration": "astronomia",
+    "gloss": "astronomy",
+    "definition": "astronomy",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "astranomia",
+        "copticWord": "ⲁⲥⲧⲣⲁⲛⲱⲙⲓⲁ",
+        "englishTransliteration": "astranomia"
+      }
+    ]
+  },
+  {
+    "headword": "asuntheton",
+    "copticWord": "ⲁⲥⲩⲛⲑⲉⲧⲟⲛ",
+    "englishTransliteration": "asuntheton",
+    "gloss": "not composite, uncompounded (attributive)",
+    "definition": "not composite, uncompounded (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asustatos",
+    "copticWord": "ⲁⲥⲩⲥⲧⲁⲧⲟⲥ",
+    "englishTransliteration": "asustatos",
+    "gloss": "not solidified, incapable (of proof)",
+    "definition": "not solidified, incapable (of proof)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "asustaton",
+        "copticWord": "ⲁⲥⲩⲥⲧⲁⲧⲟⲛ",
+        "englishTransliteration": "asustaton"
+      }
+    ]
+  },
+  {
+    "headword": "asphalakon",
+    "copticWord": "ⲁⲥⲫⲁⲗⲁⲕⲟⲛ",
+    "englishTransliteration": "asphalakon",
+    "gloss": "asparagus",
+    "definition": "asparagus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asphalesteron",
+    "copticWord": "ⲁⲥⲫⲁⲗⲉⲥⲧⲏⲣⲟⲛ",
+    "englishTransliteration": "asphalesteron",
+    "gloss": "enhanced (lit.: \"more secure\") declaration of indebtedness (comparative form indicates\n     additional security for the creditor provided by the addition of a mortgage purchase)",
+    "definition": "enhanced (lit.: \"more secure\") declaration of indebtedness (comparative form indicates\n     additional security for the creditor provided by the addition of a mortgage purchase)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asphales",
+    "copticWord": "ⲁⲥⲫⲁⲗⲏⲥ",
+    "englishTransliteration": "asphales",
+    "gloss": "(document of) security/guarantee (substantive)",
+    "definition": "(document of) security/guarantee (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "asphalia",
+    "copticWord": "ⲁⲥⲫⲁⲗⲓⲁ",
+    "englishTransliteration": "asphalia",
+    "gloss": "(document of) guarantee (substantive; re: guarantee to pay or work for s.o., a superior\n     or, most often: the creditor in a declaration of indebtedness))",
+    "definition": "(document of) guarantee (substantive; re: guarantee to pay or work for s.o., a superior\n     or, most often: the creditor in a declaration of indebtedness))",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-as",
+        "copticWord": "ⲁⲥ",
+        "englishTransliteration": "as"
+      },
+      {
+        "word": "-asph",
+        "copticWord": "ⲁⲥⲫ",
+        "englishTransliteration": "asph"
+      },
+      {
+        "word": "asphalei",
+        "copticWord": "ⲁⲥⲫⲁⲗⲉⲓ",
+        "englishTransliteration": "asphalei"
+      },
+      {
+        "word": "asphaleia",
+        "copticWord": "ⲁⲥⲫⲁⲗⲉⲓⲁ",
+        "englishTransliteration": "asphaleia"
+      },
+      {
+        "word": "-aphalei",
+        "copticWord": "ⲁⲫⲁⲗⲉⲓ",
+        "englishTransliteration": "aphalei"
+      }
+    ]
+  },
+  {
+    "headword": "asphalize",
+    "copticWord": "ⲁⲥⲫⲁⲗⲓⲍⲉ",
+    "englishTransliteration": "asphalize",
+    "gloss": "to guard, protect s.th.",
+    "definition": "to guard, protect s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "asphalton",
+    "copticWord": "ⲁⲥⲫⲁⲗⲧⲟⲛ",
+    "englishTransliteration": "asphalton",
+    "gloss": "asphalt, bitumen",
+    "definition": "asphalt, bitumen",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "asphalton",
+        "copticWord": "ⲁⲥⲫⲁⲗⲧⲱⲛ",
+        "englishTransliteration": "asphalton"
+      }
+    ]
+  },
+  {
+    "headword": "asphalos",
+    "copticWord": "ⲁⲥⲫⲁⲗⲱⲥ",
+    "englishTransliteration": "asphalos",
+    "gloss": "assuredly, certainly",
+    "definition": "assuredly, certainly",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "aschara",
+    "copticWord": "ⲁⲥⲭⲁⲣⲁ",
+    "englishTransliteration": "aschara",
+    "gloss": "hearth, fire-place",
+    "definition": "hearth, fire-place",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "aschemonei",
+    "copticWord": "ⲁⲥⲭⲏⲙⲟⲛⲉⲓ",
+    "englishTransliteration": "aschemonei",
+    "gloss": "to disgrace oneself, behave unseemly (object: none)",
+    "definition": "to disgrace oneself, behave unseemly (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-aschemoni",
+        "copticWord": "ⲁⲥⲭⲏⲙⲟⲛⲓ",
+        "englishTransliteration": "aschemoni"
+      }
+    ]
+  },
+  {
+    "headword": "aschemosune",
+    "copticWord": "ⲁⲥⲭⲏⲙⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "aschemosune",
+    "gloss": "shamefulness",
+    "definition": "shamefulness",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "aschumosune",
+        "copticWord": "ⲁⲥⲭⲩⲙⲟⲥⲩⲛⲏ",
+        "englishTransliteration": "aschumosune"
+      }
+    ]
+  },
+  {
+    "headword": "asomaton",
+    "copticWord": "ⲁⲥⲱⲙⲁⲧⲟⲛ",
+    "englishTransliteration": "asomaton",
+    "gloss": "incorporeal (attributive)",
+    "definition": "incorporeal (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "ataktos",
+    "copticWord": "ⲁⲧⲁⲕⲧⲟⲥ",
+    "englishTransliteration": "ataktos",
+    "gloss": "unruly, intractable, uncontrollable (attributive)",
+    "definition": "unruly, intractable, uncontrollable (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "ataktos",
+    "copticWord": "ⲁⲧⲁⲕⲧⲱⲥ",
+    "englishTransliteration": "ataktos",
+    "gloss": "in an irregular, disorderly manner",
+    "definition": "in an irregular, disorderly manner",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "atamandinon",
+    "copticWord": "ⲁⲧⲁⲙⲁⲛⲇⲓⲛⲟⲛ",
+    "englishTransliteration": "atamandinon",
+    "gloss": "unbreakable (attributive)",
+    "definition": "unbreakable (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "ataxia",
+    "copticWord": "ⲁⲧⲁⲝⲓⲁ",
+    "englishTransliteration": "ataxia",
+    "gloss": "disorder",
+    "definition": "disorder",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "autaxia",
+        "copticWord": "ⲁⲩⲧⲁⲝⲓⲁ",
+        "englishTransliteration": "autaxia"
+      }
+    ]
+  },
+  {
+    "headword": "ateles",
+    "copticWord": "ⲁⲧⲉⲗⲏⲥ",
+    "englishTransliteration": "ateles",
+    "gloss": "untaxed, free from tax (substantive)",
+    "definition": "untaxed, free from tax (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "atimia",
+    "copticWord": "ⲁⲧⲓⲙⲓⲁ",
+    "englishTransliteration": "atimia",
+    "gloss": "dishonor, disgrace",
+    "definition": "dishonor, disgrace",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "atreptos",
+    "copticWord": "ⲁⲧⲣⲉⲡⲧⲟⲥ",
+    "englishTransliteration": "atreptos",
+    "gloss": "unchangeable, immalleable (attributive)",
+    "definition": "unchangeable, immalleable (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "authades",
+    "copticWord": "ⲁⲩⲑⲁⲇⲏⲥ",
+    "englishTransliteration": "authades",
+    "gloss": "arrogant, stubborn one",
+    "definition": "arrogant, stubborn one",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "authates",
+        "copticWord": "ⲁⲩⲑⲁⲧⲏⲥ",
+        "englishTransliteration": "authates"
+      }
+    ]
+  },
+  {
+    "headword": "authenteia",
+    "copticWord": "ⲁⲩⲑⲉⲛⲧⲉⲓⲁ",
+    "englishTransliteration": "authenteia",
+    "gloss": "sovereignty, authority",
+    "definition": "sovereignty, authority",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-authentia",
+        "copticWord": "ⲁⲩⲑⲉⲛⲧⲓⲁ",
+        "englishTransliteration": "authentia"
+      }
+    ]
+  },
+  {
+    "headword": "authentes",
+    "copticWord": "ⲁⲩⲑⲉⲛⲧⲏⲥ",
+    "englishTransliteration": "authentes",
+    "gloss": "original (of a text, used as if = αὐθεντικός) (attributive)",
+    "definition": "original (of a text, used as if = αὐθεντικός) (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "athuentes",
+        "copticWord": "ⲁⲑⲩⲉⲛⲧⲏⲥ",
+        "englishTransliteration": "athuentes"
+      },
+      {
+        "word": "-archaion",
+        "copticWord": "ⲁⲣⲭⲁⲓⲟⲛ",
+        "englishTransliteration": "archaion"
+      },
+      {
+        "word": "-auth",
+        "copticWord": "ⲁⲩⲑ",
+        "englishTransliteration": "auth"
+      },
+      {
+        "word": "authentes",
+        "copticWord": "ⲁⲩⲑⲉⲛⲧⲉⲥ",
+        "englishTransliteration": "authentes"
+      },
+      {
+        "word": "authentes",
+        "copticWord": "ⲁⲩⲑⲏⲛⲧⲏⲥ",
+        "englishTransliteration": "authentes"
+      }
+    ]
+  },
+  {
+    "headword": "authentike",
+    "copticWord": "ⲁⲩⲑⲉⲛⲧⲓⲕⲏ",
+    "englishTransliteration": "authentike",
+    "gloss": "original, autograph (of a document) (attributive)",
+    "definition": "original, autograph (of a document) (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "auxane",
+    "copticWord": "ⲁⲩⲝⲁⲛⲉ",
+    "englishTransliteration": "auxane",
+    "gloss": "to grow (object: none)",
+    "definition": "to grow (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "auxenai",
+        "copticWord": "ⲁⲩⲝⲉⲛⲁⲓ",
+        "englishTransliteration": "auxenai"
+      },
+      {
+        "word": "auxene",
+        "copticWord": "ⲁⲩⲝⲉⲛⲉ",
+        "englishTransliteration": "auxene"
+      },
+      {
+        "word": "auchane",
+        "copticWord": "ⲁⲩⲭⲁⲛⲉ",
+        "englishTransliteration": "auchane"
+      }
+    ]
+  },
+  {
+    "headword": "auxisis",
+    "copticWord": "ⲁⲩⲝⲓⲥⲓⲥ",
+    "englishTransliteration": "auxisis",
+    "gloss": "growth, increase",
+    "definition": "growth, increase",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "autogenetor",
+    "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲉⲧⲱⲣ",
+    "englishTransliteration": "autogenetor",
+    "gloss": "self-producer (benevolent superhuman being)",
+    "definition": "self-producer (benevolent superhuman being)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-autogentor",
+        "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲧⲱⲣ",
+        "englishTransliteration": "autogentor"
+      }
+    ]
+  },
+  {
+    "headword": "autogenes",
+    "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲏⲥ",
+    "englishTransliteration": "autogenes",
+    "gloss": "self-generated (substantive; epithet for divine beings)",
+    "definition": "self-generated (substantive; epithet for divine beings)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "autogenetos",
+    "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲏⲧⲟⲥ",
+    "englishTransliteration": "autogenetos",
+    "gloss": "self-generated one (substantive; sense: divine)",
+    "definition": "self-generated one (substantive; sense: divine)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "autogennetos",
+        "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲛⲏⲧⲟⲥ",
+        "englishTransliteration": "autogennetos"
+      }
+    ]
+  },
+  {
+    "headword": "autogenion",
+    "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲓⲟⲛ",
+    "englishTransliteration": "autogenion",
+    "gloss": "self-generated (substantive; referent: divine transcendent character)",
+    "definition": "self-generated (substantive; referent: divine transcendent character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "autogenios",
+    "copticWord": "ⲁⲩⲧⲟⲅⲉⲛⲓⲟⲥ",
+    "englishTransliteration": "autogenios",
+    "gloss": "self-generated (substantive; referent: divine transcendent character)",
+    "definition": "self-generated (substantive; referent: divine transcendent character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  }
+]

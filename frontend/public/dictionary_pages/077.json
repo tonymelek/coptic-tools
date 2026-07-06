@@ -8,14 +8,6 @@
     "definition": "Hard hearted-ness"
   },
   {
-    "headword": "ernasth/t",
-    "copticWord": "ⲉⲣⲛⲁϣⲧϩⲏⲧ",
-    "englishTransliteration": "ernashthit",
-    "partOfSpeech": "vb",
-    "gloss": "To be hard hearted",
-    "definition": "To be hard hearted"
-  },
-  {
     "headword": "qen ounsot",
     "copticWord": "ϧⲉⲛ ⲟⲩⲛϣⲟⲧ",
     "englishTransliteration": "khen ounshot",
@@ -38,14 +30,6 @@
     "partOfSpeech": "f",
     "gloss": "Roughness",
     "definition": "Roughness"
-  },
-  {
-    "headword": "erneste",
-    "copticWord": "ⲉⲣⲛⲉϣⲧⲉ",
-    "englishTransliteration": "erneshte",
-    "partOfSpeech": "vb",
-    "gloss": "To become hard",
-    "definition": "To become hard"
   },
   {
     "headword": "nhi",
@@ -100,21 +84,5 @@
     "partOfSpeech": "part",
     "gloss": "preceding nominal subject in the verbal sentence",
     "definition": "occurs more frequently in texts translated from Greek."
-  },
-  {
-    "headword": "ernas]",
-    "copticWord": "ⲉⲣⲛⲁϣϯ",
-    "englishTransliteration": "ernashti",
-    "partOfSpeech": "vb",
-    "gloss": "To be protector",
-    "definition": "To be protector"
-  },
-  {
-    "headword": "neste",
-    "copticWord": "ⲛⲉϣⲧⲉ",
-    "englishTransliteration": "neshte",
-    "partOfSpeech": "m",
-    "gloss": "Hard, rough person",
-    "definition": "Hard, rough person"
   }
 ]

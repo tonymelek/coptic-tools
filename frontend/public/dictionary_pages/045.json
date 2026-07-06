@@ -54,16 +54,6 @@
     "definition": "sparrow, finch."
   },
   {
-    "headword": "(3) kac",
-    "copticWord": "ⲕⲁⲥ",
-    "englishTransliteration": "kas",
-    "reference": "Gk",
-    "partOfSpeech": "part",
-    "isGreek": true,
-    "gloss": "Even, so that",
-    "definition": "Even, so that"
-  },
-  {
     "headword": "kan",
     "copticWord": "ⲕⲁⲛ",
     "englishTransliteration": "kan",
@@ -272,7 +262,27 @@
     "reference": "Gk",
     "isGreek": true,
     "gloss": "prep. In accordance with, in answer to",
-    "definition": "prep. In accordance with, in answer to"
+    "definition": "prep. In accordance with, in answer to",
+    "variants": [
+      {
+        "headword": "(4) kata ouoeish",
+        "copticWord": "ⲕⲁⲧⲁ ⲟⲩⲟⲉⲓϣ",
+        "englishTransliteration": "kata ouoeish",
+        "gloss": "from time to time",
+        "definition": "from time to time",
+        "reference": "500a",
+        "partOfSpeech": "adv"
+      },
+      {
+        "headword": "(5) kata the",
+        "copticWord": "ⲕⲁⲧⲁ ⲑⲉ",
+        "englishTransliteration": "kata the",
+        "gloss": "even as, like",
+        "definition": "even as, like",
+        "reference": "639b",
+        "partOfSpeech": "conj"
+      }
+    ]
   },
   {
     "headword": "kapsw",
@@ -493,15 +503,6 @@
       "target": "kartalloc",
       "gloss": "Basket. karouc: (117b)"
     }
-  },
-  {
-    "headword": "(1) kac",
-    "copticWord": "ⲕⲁⲥ",
-    "englishTransliteration": "kas",
-    "reference": "119b",
-    "partOfSpeech": "m",
-    "gloss": "Bone",
-    "definition": "Bone"
   },
   {
     "headword": "mer",

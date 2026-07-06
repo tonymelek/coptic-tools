@@ -69,17 +69,6 @@
     "definition": "vi. To form, compound, invest"
   },
   {
-    "headword": "tavm/i",
-    "copticWord": "ⲧⲁⲫⲙⲏⲓ",
-    "englishTransliteration": "tafmii",
-    "gloss": "Truth",
-    "definition": "Truth",
-    "crossReference": {
-      "target": "m/i",
-      "gloss": "Truth"
-    }
-  },
-  {
     "headword": "tai",
     "copticWord": "ⲧⲁⲓ",
     "englishTransliteration": "tai",
@@ -147,7 +136,36 @@
     "crossReference": {
       "target": "talo",
       "gloss": "To lift"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(3) talo (hi-)",
+        "copticWord": "ⲧⲁⲗⲟ (ϩⲓ-)",
+        "englishTransliteration": "talo (hi-)",
+        "gloss": "put upon, add to",
+        "definition": "put upon, add to",
+        "reference": "409a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) talo (hn-)",
+        "copticWord": "ⲧⲁⲗⲟ (ϩⲛ-)",
+        "englishTransliteration": "talo (hn-)",
+        "gloss": "load with",
+        "definition": "load with",
+        "reference": "409a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) talo ehrai",
+        "copticWord": "ⲧⲁⲗⲟ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "talo ehrai",
+        "gloss": "rise, raise up, add",
+        "definition": "rise, raise up, add",
+        "reference": "409b",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "tal[e",
@@ -179,24 +197,6 @@
     "reference": "411b",
     "gloss": "vt. To make to cease, heal",
     "definition": "vt. To make to cease, heal"
-  },
-  {
-    "headword": "taio=",
-    "copticWord": "ⲧⲁⲓⲟ",
-    "englishTransliteration": "taio",
-    "gloss": "To honor",
-    "definition": "To honor",
-    "crossReference": {
-      "target": "taio",
-      "gloss": "To honor"
-    }
-  },
-  {
-    "headword": "qen",
-    "copticWord": "ϧⲉⲛ",
-    "englishTransliteration": "khen",
-    "gloss": "vt. To heal from, of",
-    "definition": "vt. To heal from, of"
   },
   {
     "headword": "take",
@@ -266,13 +266,6 @@
     ]
   },
   {
-    "headword": "ebol ha",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
-    "englishTransliteration": "evol ha",
-    "gloss": "vt. To desist from",
-    "definition": "--- ebol hijen-: vt. To make cease of, from;"
-  },
-  {
     "headword": "attal[o",
     "copticWord": "ⲁⲧⲧⲁⲗϭⲟ",
     "englishTransliteration": "attalcho",
@@ -295,17 +288,6 @@
     "partOfSpeech": "m",
     "gloss": "Healing",
     "definition": "Healing"
-  },
-  {
-    "headword": "tal[o=",
-    "copticWord": "ⲧⲁⲗϭⲟ",
-    "englishTransliteration": "talcho",
-    "gloss": "To heal",
-    "definition": "To heal",
-    "crossReference": {
-      "target": "tal[o",
-      "gloss": "To heal"
-    }
   },
   {
     "headword": "tame",
@@ -339,13 +321,6 @@
     "definition": "vt. To tell, inform"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vt. To tell + D.O",
-    "definition": "vt. To tell + D.O"
-  },
-  {
     "headword": "tako=",
     "copticWord": "ⲧⲁⲕⲟ",
     "englishTransliteration": "tako",
@@ -355,13 +330,6 @@
       "target": "tako",
       "gloss": "To destroy"
     }
-  },
-  {
-    "headword": "eybe",
-    "copticWord": "ⲉⲑⲃⲉ",
-    "englishTransliteration": "ethve",
-    "gloss": "vt. To tell about, of",
-    "definition": "---: n. Thing told;"
   },
   {
     "headword": "takte",
@@ -381,17 +349,6 @@
     "partOfSpeech": "m",
     "gloss": "Teller, informer",
     "definition": "Teller, informer"
-  },
-  {
-    "headword": "tamo=",
-    "copticWord": "ⲧⲁⲙⲟ",
-    "englishTransliteration": "tamo",
-    "gloss": "To tell",
-    "definition": "To tell",
-    "crossReference": {
-      "target": "tamo",
-      "gloss": "To tell"
-    }
   },
   {
     "headword": "tanse",

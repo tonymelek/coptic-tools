@@ -72,39 +72,6 @@
     "definition": "To be drunk with"
   },
   {
-    "headword": "yeoceb/c",
-    "copticWord": "ⲑⲉⲟⲥⲉⲃⲏⲥ",
-    "englishTransliteration": "theosevis",
-    "gloss": "Religious",
-    "definition": "Religious",
-    "crossReference": {
-      "target": "yeoc",
-      "gloss": "Religious"
-    }
-  },
-  {
-    "headword": "yeotokoc",
-    "copticWord": "ⲑⲉⲟⲧⲟⲕⲟⲥ",
-    "englishTransliteration": "theotokos",
-    "gloss": "Mother of God",
-    "definition": "Mother of God",
-    "crossReference": {
-      "target": "yeoc",
-      "gloss": "Mother of God"
-    }
-  },
-  {
-    "headword": "yeoviloc",
-    "copticWord": "ⲑⲉⲟⲫⲓⲗⲟⲥ",
-    "englishTransliteration": "theofilos",
-    "gloss": "God-loving",
-    "definition": "God-loving",
-    "crossReference": {
-      "target": "yeoc",
-      "gloss": "God-loving"
-    }
-  },
-  {
     "headword": "yeou",
     "copticWord": "ⲑⲉⲟⲩ",
     "englishTransliteration": "theou",
@@ -308,17 +275,6 @@
     }
   },
   {
-    "headword": "yeqywq",
-    "copticWord": "ⲑⲉϧⲑⲱϧ",
-    "englishTransliteration": "thekhthōkh",
-    "gloss": "to confuse",
-    "definition": "to confuse",
-    "crossReference": {
-      "target": "yoqteq",
-      "gloss": "to confuse"
-    }
-  },
-  {
     "headword": "y/",
     "copticWord": "ⲑⲏ",
     "englishTransliteration": "thi",
@@ -452,17 +408,6 @@
     "reference": "415b",
     "gloss": "vt. To justify, praise",
     "definition": "vi. to be justified; ---: m. Justification"
-  },
-  {
-    "headword": "ymaio=",
-    "copticWord": "ⲑⲙⲁⲓⲟ",
-    "englishTransliteration": "thmaio",
-    "gloss": "To justify",
-    "definition": "To justify",
-    "crossReference": {
-      "target": "ymaio",
-      "gloss": "To justify"
-    }
   },
   {
     "headword": "ymecie",

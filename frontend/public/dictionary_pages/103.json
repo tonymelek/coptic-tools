@@ -1,20 +1,5 @@
 [
   {
-    "headword": "nem",
-    "copticWord": "ⲛⲉⲙ",
-    "englishTransliteration": "nem",
-    "gloss": "vi. To go forward with",
-    "definition": "vt. to bring together;"
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "partOfSpeech": "vb",
-    "gloss": "To draw, follow after",
-    "definition": "To draw, follow after"
-  },
-  {
     "headword": "refce/rp",
     "copticWord": "ⲣⲉϥⲥⲉⲏⲣⲡ",
     "englishTransliteration": "refseirp",
@@ -44,14 +29,6 @@
     "englishTransliteration": "sōf",
     "gloss": "pl. Drinking",
     "definition": "pl. Drinking"
-  },
-  {
-    "headword": "qa",
-    "copticWord": "ϧⲁ",
-    "englishTransliteration": "kha",
-    "partOfSpeech": "vb",
-    "gloss": "To flow, draw before, beneath, submit to",
-    "definition": "To flow, draw before, beneath, submit to"
   },
   {
     "headword": "cwb",
@@ -115,48 +92,12 @@
     "definition": "To lead on, go before"
   },
   {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "partOfSpeech": "vb",
-    "gloss": "To draw, flow upon",
-    "definition": "To draw, flow upon"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "gloss": "vi. To be drawn, come forth",
-    "definition": "vt. to draw forth;",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Going forth, death",
-        "definition": "Going forth, death"
-      }
-    ]
-  },
-  {
     "headword": "hwb ncwbi",
     "copticWord": "ϩⲱⲃ ⲛⲥⲱⲃⲓ",
     "englishTransliteration": "hōv nsōvi",
     "partOfSpeech": "m",
     "gloss": "Laughable matter",
     "definition": "Laughable matter"
-  },
-  {
-    "headword": "epec/t",
-    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
-    "englishTransliteration": "epesit",
-    "gloss": "vi. To flow down",
-    "definition": "vi. To flow down"
-  },
-  {
-    "headword": "epswi",
-    "copticWord": "ⲉⲡϣⲱⲓ",
-    "englishTransliteration": "epshōi",
-    "gloss": "vi. To bring up",
-    "definition": "vi. To bring up"
   },
   {
     "headword": "iri noucwbi",
@@ -181,21 +122,6 @@
     "partOfSpeech": "vb",
     "gloss": "To go forward",
     "definition": "To go forward"
-  },
-  {
-    "headword": "eqoun",
-    "copticWord": "ⲉϧⲟⲩⲛ",
-    "englishTransliteration": "ekhoun",
-    "gloss": "vi. To draw, go in",
-    "definition": "vt. to draw, lead in;"
-  },
-  {
-    "headword": "ehr/i",
-    "copticWord": "ⲉϩⲣⲏⲓ",
-    "englishTransliteration": "ehrii",
-    "partOfSpeech": "vb",
-    "gloss": "To draw up",
-    "definition": "To draw up"
   },
   {
     "headword": "ma ncwbi",
@@ -237,33 +163,6 @@
     "partOfSpeech": "m",
     "gloss": "Fame, report",
     "definition": "Fame, report"
-  },
-  {
-    "headword": "eqr/i",
-    "copticWord": "ⲉϧⲣⲏⲓ",
-    "englishTransliteration": "ekhrii",
-    "partOfSpeech": "vb",
-    "gloss": "To draw down",
-    "definition": "To draw down",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Drawing, attraction",
-        "definition": "Drawing, attraction"
-      },
-      {
-        "label": "refcwk",
-        "partOfSpeech": "m",
-        "gloss": "Drawer",
-        "definition": "Drawer"
-      },
-      {
-        "label": "jincwk",
-        "partOfSpeech": "m",
-        "gloss": "Drawing, flowing",
-        "definition": "Drawing, flowing"
-      }
-    ]
   },
   {
     "headword": "metcwit",
@@ -316,7 +215,85 @@
     "crossReference": {
       "target": "cok",
       "gloss": "Sackcloth"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(8) sok (erat)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲣⲁⲧ⸗)",
+        "englishTransliteration": "sok (erat)",
+        "gloss": "follow after",
+        "definition": "follow after",
+        "reference": "326b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) sok (ejn-)",
+        "copticWord": "ⲥⲱⲕ (ⲉϫⲛ-)",
+        "englishTransliteration": "sok (ejn-)",
+        "gloss": "flow, drag upon, approach",
+        "definition": "flow, drag upon, approach",
+        "reference": "326b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(10) sok (nsa-)",
+        "copticWord": "ⲥⲱⲕ (ⲛⲥⲁ-)",
+        "englishTransliteration": "sok (nsa-)",
+        "gloss": "draw, follow after",
+        "definition": "draw, follow after",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) sok (ha-)",
+        "copticWord": "ⲥⲱⲕ (ϩⲁ-)",
+        "englishTransliteration": "sok (ha-)",
+        "gloss": "flow, draw before, beneath, submit to",
+        "definition": "flow, draw before, beneath, submit to",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) sok (het)",
+        "copticWord": "ⲥⲱⲕ (ϩⲏⲧ⸗)",
+        "englishTransliteration": "sok (het)",
+        "gloss": "lead on, go before",
+        "definition": "lead on, go before",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) sok (ebol)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "sok (ebol)",
+        "gloss": "be drawn, come forth, draw forth",
+        "definition": "be drawn, come forth, draw forth",
+        "reference": "327b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) sok (epeset)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲡⲉⲥⲏⲧ)",
+        "englishTransliteration": "sok (epeset)",
+        "gloss": "flow down, bring down",
+        "definition": "flow down, bring down",
+        "reference": "327b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) sok het",
+        "copticWord": "ⲥⲱⲕ ϩⲏⲧ",
+        "englishTransliteration": "sok het",
+        "gloss": "persuade",
+        "definition": "persuade",
+        "reference": "716a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "sok",
+          "gloss": "flow (as water, hair), blow (as wind, smoke), move on swiftly, glide, draw, be drawn"
+        }
+      }
+    ]
   },
   {
     "headword": "cwl",
@@ -392,27 +369,12 @@
     ]
   },
   {
-    "headword": "cokc",
-    "copticWord": "ⲥⲟⲕⲥ",
-    "englishTransliteration": "soks",
-    "partOfSpeech": "vb",
-    "gloss": "To continue, start (here)",
-    "definition": "opp. of ,ak;"
-  },
-  {
     "headword": "ak ebol",
     "copticWord": "ⲁⲕ ⲉⲃⲟⲗ",
     "englishTransliteration": "ak evol",
     "partOfSpeech": "vb",
     "gloss": "To cease, pause (here)",
     "definition": "To cease, pause (here)"
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vi. To be drawn, flow, tend toward",
-    "definition": "vt. to draw to;"
   },
   {
     "headword": "erat=",
@@ -455,12 +417,5 @@
         "definition": "Unobliterated"
       }
     ]
-  },
-  {
-    "headword": "ejen",
-    "copticWord": "ⲉϫⲉⲛ",
-    "englishTransliteration": "ejen",
-    "gloss": "vi. To flow, drag upon",
-    "definition": "approach; vt. To bring upon, to;"
   }
 ]

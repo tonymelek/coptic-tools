@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const rootDir = fileURLToPath(new URL('..', import.meta.url))
+const rootDir = fileURLToPath(new URL('../frontend', import.meta.url))
 const distDir = path.join(rootDir, 'dist')
 
 const FEEDBACK_API = 'https://coptic-psalmody.web.app/api/submitFeedback'

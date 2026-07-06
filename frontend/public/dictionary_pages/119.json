@@ -13,6 +13,15 @@
         "word": "(Q) ouonh",
         "copticWord": "(Ϧ) ⲟⲩⲟⲛϩ",
         "englishTransliteration": "(Kh) ouonh"
+      },
+      {
+        "headword": "(5) ouonh ebol",
+        "copticWord": "ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouonh ebol",
+        "gloss": "show forth, appear",
+        "definition": "show forth, appear",
+        "reference": "486b-487a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "486a",
@@ -119,6 +128,42 @@
         "word": "ouorp=",
         "copticWord": "ⲟⲩⲟⲣⲡ",
         "englishTransliteration": "ouorp"
+      },
+      {
+        "headword": "(2) ouorp ebol",
+        "copticWord": "ⲟⲩⲱⲣⲡ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouorp ebol",
+        "gloss": "send forth",
+        "definition": "send forth",
+        "reference": "489b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) ouorp epeset",
+        "copticWord": "ⲟⲩⲱⲣⲡ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "ouorp epeset",
+        "gloss": "send down",
+        "definition": "send down",
+        "reference": "489b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) ouorp epshei",
+        "copticWord": "ⲟⲩⲱⲣⲡ ⲉⲡϣⲏⲓ",
+        "englishTransliteration": "ouorp epshei",
+        "gloss": "send up",
+        "definition": "send up",
+        "reference": "489b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) ouorp ekhoun",
+        "copticWord": "ⲟⲩⲱⲣⲡ ⲉϧⲟⲩⲛ",
+        "englishTransliteration": "ouorp ekhoun",
+        "gloss": "send in",
+        "definition": "send in",
+        "reference": "489b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "489a",
@@ -205,21 +250,6 @@
     ]
   },
   {
-    "headword": "ouo]",
-    "copticWord": "ⲟⲩⲟϯ",
-    "englishTransliteration": "ouoti",
-    "variants": [
-      {
-        "word": "bo]",
-        "copticWord": "ⲃⲟϯ",
-        "englishTransliteration": "voti"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "Greens, herbs",
-    "definition": "Greens, herbs"
-  },
-  {
     "headword": "ouotouet",
     "copticWord": "ⲟⲩⲟⲧⲟⲩⲉⲧ",
     "englishTransliteration": "ouotouet",
@@ -239,15 +269,6 @@
     ],
     "gloss": "vi. To become, be green, pallid",
     "definition": "vi. To become, be green, pallid"
-  },
-  {
-    "headword": "(2) ouwt",
-    "copticWord": "ⲟⲩⲱⲧ",
-    "englishTransliteration": "ouōt",
-    "reference": "494a",
-    "partOfSpeech": "adj",
-    "gloss": "Single, alone, one & same",
-    "definition": "Single, alone, one & same"
   },
   {
     "headword": "ouai nouwt",
@@ -352,6 +373,33 @@
         "word": "(Q) ouoteb",
         "copticWord": "(Ϧ) ⲟⲩⲟⲧⲉⲃ",
         "englishTransliteration": "(Kh) ouotev"
+      },
+      {
+        "headword": "(8) ouoteb ebol",
+        "copticWord": "ⲟⲩⲱⲧⲉⲃ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouoteb ebol",
+        "gloss": "overrun, crossing, death",
+        "definition": "overrun, crossing, death",
+        "reference": "497a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(10) ouoteb sabol",
+        "copticWord": "ⲟⲩⲱⲧⲉⲃ ⲥⲁⲃⲟⲗ",
+        "englishTransliteration": "ouoteb sabol",
+        "gloss": "step over",
+        "definition": "step over",
+        "reference": "497a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) ouoteb epshoi",
+        "copticWord": "ⲟⲩⲱⲧⲉⲃ ⲉⲡϣⲱⲓ",
+        "englishTransliteration": "ouoteb epshoi",
+        "gloss": "pass upward",
+        "definition": "pass upward",
+        "reference": "497a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "496a",

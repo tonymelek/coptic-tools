@@ -1,144 +1,5 @@
 [
   {
-    "headword": "w",
-    "copticWord": "ⲱ",
-    "englishTransliteration": "ō",
-    "variants": [
-      {
-        "word": "a",
-        "copticWord": "ⲁ",
-        "englishTransliteration": "a"
-      },
-      {
-        "word": "a=",
-        "copticWord": "ⲁ",
-        "englishTransliteration": "a"
-      },
-      {
-        "word": "(Q)",
-        "copticWord": "(Ϧ)",
-        "englishTransliteration": "(Kh)"
-      },
-      {
-        "word": "/",
-        "copticWord": "ⲏ",
-        "englishTransliteration": "i"
-      }
-    ],
-    "reference": "94b",
-    "gloss": "vt",
-    "definition": "vt",
-    "senses": [
-      {
-        "label": "To place",
-        "partOfSpeech": "m",
-        "gloss": "Place for putting",
-        "definition": "jin,w: m. Placing, laying down; ---: m. Loosening, slackness; --- e-: vt. To rely upon; --- ejen: vt. To put, lay upon;"
-      },
-      {
-        "label": "nca",
-        "gloss": "vt. To put, leave behind, renounce",
-        "definition": "--: m. leaving behind;"
-      },
-      {
-        "label": "nten",
-        "gloss": "vt. To put, keep in hand, have entrust to, esteem",
-        "definition": "vt. To put, keep in hand, have entrust to, esteem"
-      },
-      {
-        "label": "qa",
-        "gloss": "vt. To place under, on behalf of, renounce for",
-        "definition": "(Q) To be under; --- qaren: vt. To place before;"
-      },
-      {
-        "label": "qarat",
-        "gloss": "vt. To place at feet of, before",
-        "definition": "vt. To place at feet of, before"
-      },
-      {
-        "label": "qaten",
-        "gloss": "vt. To place before, commit to",
-        "definition": "(Q) To be beside, with; --- hijen: vt. To place, let loose upon; (Q) To be set over, be upon; --- ebol: vt. To release, loosen, dismiss, remit, forgive; vi. To become loose, dissolved, be at ease; --:m. Freedom, remission, forgiveness; at,w ebol: adj. Without"
-      },
-      {
-        "label": "forgiveness; ref",
-        "partOfSpeech": "m",
-        "gloss": "Forgiver",
-        "definition": "metref,w ebol: f."
-      },
-      {
-        "label": "Forgiveness; jin",
-        "gloss": "mf Forgiveness",
-        "definition": "mf Forgiveness"
-      },
-      {
-        "label": "epec/t",
-        "gloss": "vt. To put, let down",
-        "definition": "vt. To put, let down"
-      },
-      {
-        "label": "evahou",
-        "gloss": "vt. To leave behind, over",
-        "definition": "vt. To leave behind, over"
-      },
-      {
-        "label": "eqoun",
-        "gloss": "vt. To put in, admit",
-        "definition": "vt. To put in, admit"
-      },
-      {
-        "label": "eqr/i",
-        "gloss": "vt. To put, lay down, aside",
-        "definition": "(Q) To be laid down, exist; jin,w eqoun: m. Laying down, what is laid down, nature, fashion;"
-      },
-      {
-        "label": "cabol",
-        "gloss": "vt. To put outside, exclude",
-        "definition": "vt. To put outside, exclude"
-      }
-    ]
-  },
-  {
-    "headword": "er",
-    "copticWord": "ⲉⲣ",
-    "englishTransliteration": "er",
-    "variants": [
-      {
-        "word": "rof",
-        "copticWord": "ⲣⲟϥ",
-        "englishTransliteration": "rof"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be guileful ca,rof: m. Maker of guile, deceiver",
-    "definition": "To be guileful ca,rof: m. Maker of guile, deceiver"
-  },
-  {
-    "headword": "[i",
-    "copticWord": "ϭⲓ",
-    "englishTransliteration": "chi",
-    "variants": [
-      {
-        "word": "rof",
-        "copticWord": "ⲣⲟϥ",
-        "englishTransliteration": "rof"
-      },
-      {
-        "word": "n",
-        "copticWord": "ⲛ",
-        "englishTransliteration": "n"
-      },
-      {
-        "word": "rof",
-        "copticWord": "ⲣⲟϥ",
-        "englishTransliteration": "rof"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To use guile, lie in wait",
-    "definition": "To use guile, lie in wait"
-  },
-  {
     "headword": "[au",
     "copticWord": "ϭⲁⲩ",
     "englishTransliteration": "chav",
@@ -162,6 +23,15 @@
         "word": "rof",
         "copticWord": "ⲣⲟϥ",
         "englishTransliteration": "rof"
+      },
+      {
+        "headword": "(12) jin tenou",
+        "copticWord": "ϫⲓⲛ ⲧⲉⲛⲟⲩ",
+        "englishTransliteration": "jin tenou",
+        "gloss": "from now",
+        "definition": "from now",
+        "reference": "485a",
+        "partOfSpeech": "adv"
       }
     ],
     "partOfSpeech": "m",
@@ -320,71 +190,12 @@
     "definition": "---: m. Haste"
   },
   {
-    "headword": "ref",
-    "copticWord": "ⲣⲉϥ",
-    "englishTransliteration": "ref",
-    "variants": [
-      {
-        "word": "wlem",
-        "copticWord": "ⲱⲗⲉⲙ",
-        "englishTransliteration": "ōlem"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "Hasty man",
-    "definition": "Hasty man"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "variants": [
-      {
-        "word": "wlem",
-        "copticWord": "ⲱⲗⲉⲙ",
-        "englishTransliteration": "ōlem"
-      }
-    ],
-    "partOfSpeech": "adv",
-    "gloss": "In haste, quickly, soon",
-    "definition": "In haste, quickly, soon"
-  },
-  {
-    "headword": "(2) wlem",
-    "copticWord": "ⲱⲗⲉⲙ",
-    "englishTransliteration": "ōlem",
-    "reference": "104b",
-    "partOfSpeech": "m",
-    "gloss": "Corner of eye",
-    "definition": "Corner of eye"
-  },
-  {
     "headword": "(1) wnc",
     "copticWord": "ⲱⲛⲥ",
     "englishTransliteration": "ōns",
     "reference": "112a",
     "gloss": "vt. To pierce, slay",
     "definition": "vt. To pierce, slay"
-  },
-  {
-    "headword": "(2) wnc",
-    "copticWord": "ⲱⲛⲥ",
-    "englishTransliteration": "ōns",
-    "variants": [
-      {
-        "word": "(Q)",
-        "copticWord": "(Ϧ)",
-        "englishTransliteration": "(Kh)"
-      },
-      {
-        "word": "onc",
-        "copticWord": "ⲟⲛⲥ",
-        "englishTransliteration": "ons"
-      }
-    ],
-    "reference": "112b",
-    "gloss": "vi. To stink, be putrid",
-    "definition": "vt. to make to stinke, defile; ---: m. Stink."
   },
   {
     "headword": "wp",

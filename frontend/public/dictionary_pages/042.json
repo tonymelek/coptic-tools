@@ -317,14 +317,6 @@
     "definition": "iaro, pl"
   },
   {
-    "headword": "iarwou",
-    "copticWord": "ⲓⲁⲣⲱⲟⲩ",
-    "englishTransliteration": "iarōou",
-    "partOfSpeech": "m",
-    "gloss": "River, lit. great canal",
-    "definition": "River, lit. great canal"
-  },
-  {
     "headword": "steam",
     "copticWord": "ϣⲧⲉⲁⲙ",
     "englishTransliteration": "shteam",
@@ -348,6 +340,19 @@
         "word": "iah",
         "copticWord": "ⲓⲁϩ",
         "englishTransliteration": "iah"
+      },
+      {
+        "headword": "(5) iohi njoit",
+        "copticWord": "ⲓⲟϩⲓ ⲛϫⲱⲓⲧ",
+        "englishTransliteration": "iohi njoit",
+        "gloss": "olive garden",
+        "definition": "olive garden",
+        "reference": "791a",
+        "partOfSpeech": "n",
+        "crossReference": {
+          "target": "ohe",
+          "gloss": "yard (of house), fold (for cattle), pasture"
+        }
       }
     ],
     "reference": "89b",
@@ -364,18 +369,6 @@
     "definition": "A measure of tilled land"
   },
   {
-    "headword": "(2)iohi",
-    "copticWord": "ⲓⲟϩⲓ",
-    "englishTransliteration": "iohi",
-    "reference": "90b",
-    "gloss": "Fold",
-    "definition": "Fold",
-    "crossReference": {
-      "target": "ohi",
-      "gloss": "Fold"
-    }
-  },
-  {
     "headword": "(2) ini",
     "copticWord": "ⲓⲛⲓ",
     "englishTransliteration": "ini",
@@ -385,6 +378,15 @@
         "note": "Q",
         "copticWord": "ⲟⲛⲓ",
         "englishTransliteration": "oni"
+      },
+      {
+        "headword": "(15) ini (epshoi)",
+        "copticWord": "ⲓⲛⲓ (ⲉⲡϣⲱⲓ)",
+        "englishTransliteration": "ini (epshoi)",
+        "gloss": "bring, raise up",
+        "definition": "bring, raise up",
+        "reference": "79b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "80b",
@@ -399,24 +401,6 @@
     ]
   },
   {
-    "headword": "(3) ini",
-    "copticWord": "ⲓⲛⲓ",
-    "englishTransliteration": "ini",
-    "reference": "81a",
-    "partOfSpeech": "f",
-    "gloss": "Thumb",
-    "definition": "great toe."
-  },
-  {
-    "headword": "(3)iohi",
-    "copticWord": "ⲓⲟϩⲓ",
-    "englishTransliteration": "iohi",
-    "reference": "90b",
-    "partOfSpeech": "n",
-    "gloss": "Water wheel",
-    "definition": "Water wheel"
-  },
-  {
     "headword": "io]",
     "copticWord": "ⲓⲟϯ",
     "englishTransliteration": "ioti",
@@ -426,26 +410,6 @@
       "target": "(1)iwt",
       "gloss": "Fathers"
     }
-  },
-  {
-    "headword": "arioui",
-    "copticWord": "ⲁⲣⲓⲟⲩⲓ",
-    "englishTransliteration": "arioui",
-    "variants": [
-      {
-        "word": "ari",
-        "copticWord": "ⲁⲣⲓ",
-        "englishTransliteration": "ari"
-      },
-      {
-        "word": "arit=",
-        "copticWord": "ⲁⲣⲓⲧ",
-        "englishTransliteration": "arit"
-      }
-    ],
-    "reference": "83a",
-    "gloss": "vi. To act",
-    "definition": "become, befall; do; vt. to make; make fruit, bear fruit; pass time; make (total); amount to"
   },
   {
     "headword": "refiri",
@@ -494,15 +458,6 @@
     "partOfSpeech": "vb",
     "gloss": "To do more, increase doing",
     "definition": "To do more, increase doing"
-  },
-  {
-    "headword": "(4) ini",
-    "copticWord": "ⲓⲛⲓ",
-    "englishTransliteration": "ini",
-    "reference": "81a",
-    "partOfSpeech": "f",
-    "gloss": "Carpenter's axe, adze",
-    "definition": "Carpenter's axe, adze"
   },
   {
     "headword": "ic",

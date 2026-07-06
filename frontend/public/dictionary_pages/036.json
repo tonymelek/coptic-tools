@@ -67,6 +67,15 @@
         "note": "Q",
         "copticWord": "ⲑⲉⲃⲓⲏⲟⲩⲧ",
         "englishTransliteration": "theviiout"
+      },
+      {
+        "headword": "(3) thebio ebol",
+        "copticWord": "ⲑⲉⲃⲓⲟ ⲉⲃⲟⲗ",
+        "englishTransliteration": "thebio ebol",
+        "gloss": "humiliate",
+        "definition": "humiliate",
+        "reference": "458a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "457b",
@@ -118,17 +127,6 @@
     "crossReference": {
       "target": "yamio",
       "gloss": "To create"
-    }
-  },
-  {
-    "headword": "yebio=",
-    "copticWord": "ⲑⲉⲃⲓⲟ",
-    "englishTransliteration": "thevio",
-    "gloss": "To be humble. yebc v. yibc - Heel",
-    "definition": "To be humble. yebc v. yibc - Heel",
-    "crossReference": {
-      "target": "yebio",
-      "gloss": "To be humble. yebc v. yibc - Heel"
     }
   },
   {
@@ -202,17 +200,6 @@
     "crossReference": {
       "target": "ywm",
       "gloss": "To shut"
-    }
-  },
-  {
-    "headword": "yamio=",
-    "copticWord": "ⲑⲁⲙⲓⲟ",
-    "englishTransliteration": "thamio",
-    "gloss": "To create",
-    "definition": "To create",
-    "crossReference": {
-      "target": "yamio",
-      "gloss": "To create"
     }
   },
   {
@@ -312,17 +299,6 @@
     }
   },
   {
-    "headword": "yas=",
-    "copticWord": "ⲑⲁϣ",
-    "englishTransliteration": "thash",
-    "gloss": "To determine",
-    "definition": "To determine",
-    "crossReference": {
-      "target": "yws",
-      "gloss": "To determine"
-    }
-  },
-  {
     "headword": "yeodokoc",
     "copticWord": "ⲑⲉⲟⲇⲟⲕⲟⲥ",
     "englishTransliteration": "theodokos",
@@ -348,14 +324,6 @@
     "partOfSpeech": "m",
     "gloss": "Spittle",
     "definition": "Spittle"
-  },
-  {
-    "headword": "yaf=",
-    "copticWord": "ⲑⲁϥ",
-    "englishTransliteration": "thaf",
-    "reference": "69b",
-    "gloss": "meaning unknown",
-    "definition": "meaning unknown"
   },
   {
     "headword": "yaq=",
@@ -511,17 +479,6 @@
   },
   {
     "headword": "yahc",
-    "copticWord": "ⲑⲁϩⲥ",
-    "englishTransliteration": "thahs",
-    "gloss": "To anoint",
-    "definition": "To anoint",
-    "crossReference": {
-      "target": "ywhc",
-      "gloss": "To anoint"
-    }
-  },
-  {
-    "headword": "yahc=",
     "copticWord": "ⲑⲁϩⲥ",
     "englishTransliteration": "thahs",
     "gloss": "To anoint",

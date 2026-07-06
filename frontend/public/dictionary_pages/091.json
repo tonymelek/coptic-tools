@@ -46,6 +46,252 @@
         "gloss": "To learn",
         "definition": "To learn"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(2) sa napot",
+        "copticWord": "ⲥⲁ ⲛⲁⲡⲟⲧ",
+        "englishTransliteration": "sa napot",
+        "gloss": "cup-maker or seller",
+        "definition": "cup-maker or seller",
+        "reference": "14b",
+        "crossReference": {
+          "target": "sa-",
+          "gloss": "Nominalpräfix"
+        }
+      },
+      {
+        "headword": "(2) sa naf",
+        "copticWord": "ⲥⲁ ⲛⲁϥ",
+        "englishTransliteration": "sa naf",
+        "gloss": "meat dealer, seller",
+        "definition": "meat dealer, seller",
+        "reference": "23b",
+        "crossReference": {
+          "target": "sa",
+          "gloss": "Mann von . . ."
+        }
+      },
+      {
+        "headword": "(5) sa nbnne",
+        "copticWord": "ⲥⲁ ⲛⲃⲛⲛⲉ",
+        "englishTransliteration": "sa nbnne",
+        "gloss": "date seller",
+        "definition": "date seller",
+        "reference": "40b",
+        "crossReference": {
+          "target": "sa-",
+          "gloss": "Nominalpräfix (Berufsbezeichnungen)"
+        }
+      },
+      {
+        "headword": "(3) sa nebio",
+        "copticWord": "ⲥⲁ ⲛⲉⲃⲓⲱ",
+        "englishTransliteration": "sa nebio",
+        "gloss": "honey dealer",
+        "definition": "honey dealer",
+        "reference": "52b",
+        "crossReference": {
+          "target": "sa-",
+          "gloss": "Nominalpräfix"
+        }
+      },
+      {
+        "headword": "(5) sa nerp",
+        "copticWord": "ⲥⲁ ⲛⲏⲣⲡ",
+        "englishTransliteration": "sa nerp",
+        "gloss": "wine-dealer",
+        "definition": "wine-dealer",
+        "reference": "67b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) sa nkap",
+        "copticWord": "ⲥⲁ ⲛⲕⲁⲡ",
+        "englishTransliteration": "sa nkap",
+        "gloss": "rope-maker, seller (?)",
+        "definition": "rope-maker, seller (?)",
+        "reference": "113b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(8) sa nkrof",
+        "copticWord": "ⲥⲁ ⲛⲕⲣⲟϥ",
+        "englishTransliteration": "sa nkrof",
+        "gloss": "maker of guile, deceiver",
+        "definition": "maker of guile, deceiver",
+        "reference": "119a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(2) sa nexour",
+        "copticWord": "ⲥⲁ ⲛⲉⲝⲟⲩⲣ",
+        "englishTransliteration": "sa nexour",
+        "gloss": "key-maker",
+        "definition": "key-maker",
+        "reference": "121b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(2) sa nlamjept",
+        "copticWord": "ⲥⲁ ⲛⲗⲁⲙϫⲉⲡⲧ",
+        "englishTransliteration": "sa nlamjept",
+        "gloss": "pitch-dealer",
+        "definition": "pitch-dealer",
+        "reference": "143b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa",
+          "gloss": "man (woman)"
+        }
+      },
+      {
+        "headword": "(3) sa nneh",
+        "copticWord": "ⲥⲁ ⲛⲛⲉϩ",
+        "englishTransliteration": "sa nneh",
+        "gloss": "oil dealer",
+        "definition": "oil dealer",
+        "reference": "241a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa",
+          "gloss": "man (woman)"
+        }
+      },
+      {
+        "headword": "(3) sa noik",
+        "copticWord": "ⲥⲁ ⲛⲱⲓⲕ",
+        "englishTransliteration": "sa noik",
+        "gloss": "bread-seller",
+        "definition": "bread-seller",
+        "reference": "254b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) sa nrir",
+        "copticWord": "ⲥⲁ ⲛⲣⲓⲣ",
+        "englishTransliteration": "sa nrir",
+        "gloss": "pig-dealer",
+        "definition": "pig-dealer",
+        "reference": "299a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa",
+          "gloss": "Nominalpräfix (\"Mann von . . .\")"
+        }
+      },
+      {
+        "headword": "(3) sa n-",
+        "copticWord": "ⲥⲁ ⲛ-",
+        "englishTransliteration": "sa n-",
+        "gloss": "man of, maker of, dealer in",
+        "definition": "man of, maker of, dealer in",
+        "reference": "316a"
+      },
+      {
+        "headword": "(2) sa ntbt",
+        "copticWord": "ⲥⲁ ⲛⲧⲃⲧ",
+        "englishTransliteration": "sa ntbt",
+        "gloss": "fish-seller",
+        "definition": "fish-seller",
+        "reference": "401b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa",
+          "gloss": "Mann von"
+        }
+      },
+      {
+        "headword": "(5) sa nouote",
+        "copticWord": "ⲥⲁ ⲛⲟⲩⲟⲧⲉ",
+        "englishTransliteration": "sa nouote",
+        "gloss": "herb-seller, gardener",
+        "definition": "herb-seller, gardener",
+        "reference": "493b",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "sa nouoote",
+            "copticWord": "ⲥⲁ ⲛⲟⲩⲟⲟⲧⲉ",
+            "englishTransliteration": "sa nouoote"
+          }
+        ],
+        "crossReference": {
+          "target": "sa",
+          "gloss": "man (woman)"
+        }
+      },
+      {
+        "headword": "(7) sa nshaje",
+        "copticWord": "ⲥⲁ ⲛϣⲁϫⲉ",
+        "englishTransliteration": "sa nshaje",
+        "gloss": "man of words, babbler",
+        "definition": "man of words, babbler",
+        "reference": "614b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(3) sa nhmou",
+        "copticWord": "ⲥⲁ ⲛϩⲙⲟⲩ",
+        "englishTransliteration": "sa nhmou",
+        "gloss": "salt-dealer",
+        "definition": "salt-dealer",
+        "reference": "677a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa n-",
+          "gloss": "Mann von, Hersteller von, Händler mit"
+        }
+      },
+      {
+        "headword": "(4) sa nhomnt",
+        "copticWord": "ⲥⲁ ⲛϩⲟⲙⲛⲧ",
+        "englishTransliteration": "sa nhomnt",
+        "gloss": "coppersmith, copper-seller",
+        "definition": "coppersmith, copper-seller",
+        "reference": "678b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "sa n-",
+          "gloss": "Mann von, Hersteller von, Händler mit"
+        }
+      },
+      {
+        "headword": "(7) sa nhoun",
+        "copticWord": "ⲥⲁ ⲛϩⲟⲩⲛ",
+        "englishTransliteration": "sa nhoun",
+        "gloss": "inner part",
+        "definition": "inner part",
+        "reference": "686b-687a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(7) sa njeche",
+        "copticWord": "ⲥⲁ ⲛϫⲏϭⲉ",
+        "englishTransliteration": "sa njeche",
+        "gloss": "purple seller",
+        "definition": "purple seller",
+        "reference": "801b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(2) sa nchelbesi",
+        "copticWord": "ⲥⲁ ⲛϭⲉⲗⲃⲉⲥⲓ",
+        "englishTransliteration": "sa nchelbesi",
+        "gloss": "dealer in purple",
+        "definition": "dealer in purple",
+        "reference": "810b",
+        "partOfSpeech": "n"
+      },
+      {
+        "headword": "(3) sa nchooune",
+        "copticWord": "ⲥⲁ ⲛϭⲟⲟⲩⲛⲉ",
+        "englishTransliteration": "sa nchooune",
+        "gloss": "sack-seller",
+        "definition": "sack-seller",
+        "reference": "836a",
+        "partOfSpeech": "n"
+      }
     ]
   },
   {
@@ -61,20 +307,6 @@
     "englishTransliteration": "kesa",
     "gloss": "Other port, apart, elsewhere",
     "definition": "Other port, apart, elsewhere"
-  },
-  {
-    "headword": "nca",
-    "copticWord": "ⲛⲥⲁ",
-    "englishTransliteration": "nsa",
-    "variants": [
-      {
-        "word": "ncw=",
-        "copticWord": "ⲛⲥⲱ",
-        "englishTransliteration": "nsō"
-      }
-    ],
-    "gloss": "prep. Against",
-    "definition": "prep. Against"
   },
   {
     "headword": "caca niben",
@@ -312,13 +544,5 @@
     "partOfSpeech": "f",
     "gloss": "Trumpet",
     "definition": "Trumpet"
-  },
-  {
-    "headword": "ercalpizin",
-    "copticWord": "ⲉⲣⲥⲁⲗⲡⲓⲍⲓⲛ",
-    "englishTransliteration": "ersalpizin",
-    "partOfSpeech": "vb",
-    "gloss": "To blow the trumpet",
-    "definition": "To blow the trumpet"
   }
 ]

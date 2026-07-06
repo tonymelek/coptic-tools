@@ -13,6 +13,33 @@
         "word": "(Q) m/n",
         "copticWord": "(Ϧ) ⲙⲏⲛ",
         "englishTransliteration": "(Kh) min"
+      },
+      {
+        "headword": "(3) moun (e-)",
+        "copticWord": "ⲙⲟⲩⲛ (ⲉ-)",
+        "englishTransliteration": "moun (e-)",
+        "gloss": "remain by, wait upon, continue in",
+        "definition": "remain by, wait upon, continue in",
+        "reference": "171b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) moun (ebol)",
+        "copticWord": "ⲙⲟⲩⲛ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "moun (ebol)",
+        "gloss": "remain, continue",
+        "definition": "remain, continue",
+        "reference": "171b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) moun ebol",
+        "copticWord": "ⲙⲟⲩⲛ ⲉⲃⲟⲗ",
+        "englishTransliteration": "moun ebol",
+        "gloss": "perseverance, continuance",
+        "definition": "perseverance, continuance",
+        "reference": "172a",
+        "partOfSpeech": "m"
       }
     ],
     "reference": "171b",
@@ -81,14 +108,6 @@
       "target": "moun",
       "gloss": "To remain"
     }
-  },
-  {
-    "headword": "errefmwout",
-    "copticWord": "ⲉⲣⲣⲉϥⲙⲱⲟⲩⲧ",
-    "englishTransliteration": "errefmōout",
-    "partOfSpeech": "vb",
-    "gloss": "To become dead",
-    "definition": "To become dead"
   },
   {
     "headword": "jinmou",
@@ -164,17 +183,6 @@
     "partOfSpeech": "f",
     "gloss": "Deathlessness, immortality",
     "definition": "Deathlessness, immortality"
-  },
-  {
-    "headword": "mou",
-    "copticWord": "ⲙⲟⲩ",
-    "englishTransliteration": "mou",
-    "gloss": "Water",
-    "definition": "Water",
-    "crossReference": {
-      "target": "mwou",
-      "gloss": "Water"
-    }
   },
   {
     "headword": "moue",
@@ -292,44 +300,6 @@
     "definition": "Not handmade"
   },
   {
-    "headword": "monkc",
-    "copticWord": "ⲙⲟⲛⲕⲥ",
-    "englishTransliteration": "monks",
-    "gloss": "pl. Place for making, mould, crucible",
-    "definition": "pl. Place for making, mould, crucible"
-  },
-  {
-    "headword": "(2) mounk",
-    "copticWord": "ⲙⲟⲩⲛⲕ",
-    "englishTransliteration": "mounk",
-    "reference": "175a",
-    "gloss": "vi. To cease, be lacking, perish",
-    "definition": "tr. cause to cease, destroy; ---: m. ceasing, absence, destruction;",
-    "senses": [
-      {
-        "label": "ebol",
-        "partOfSpeech": "vb",
-        "gloss": "To cease, destroy",
-        "definition": "n. destruction;"
-      },
-      {
-        "label": "eqoun",
-        "partOfSpeech": "vb",
-        "gloss": "To perish",
-        "definition": "ay-, atmounk: adj. Unceasing, imperishable."
-      }
-    ]
-  },
-  {
-    "headword": "(3) moui",
-    "copticWord": "ⲙⲟⲩⲓ",
-    "englishTransliteration": "moui",
-    "reference": "161a",
-    "partOfSpeech": "m",
-    "gloss": "Ram",
-    "definition": "Ram"
-  },
-  {
     "headword": "mouki",
     "copticWord": "ⲙⲟⲩⲕⲓ",
     "englishTransliteration": "mouki",
@@ -436,6 +406,33 @@
         "word": "mor",
         "copticWord": "ⲙⲟⲣ",
         "englishTransliteration": "mor"
+      },
+      {
+        "headword": "(3) mour (ehoun)",
+        "copticWord": "ⲙⲟⲩⲣ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "mour (ehoun)",
+        "gloss": "bind, join to, of fast which binds",
+        "definition": "bind, join to, of fast which binds",
+        "reference": "181b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) mour ehoun",
+        "copticWord": "ⲙⲟⲩⲣ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "mour ehoun",
+        "gloss": "obligation, fast (esp. lenten)",
+        "definition": "obligation, fast (esp. lenten)",
+        "reference": "181b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) mour (mn-)",
+        "copticWord": "ⲙⲟⲩⲣ (ⲙⲛ-)",
+        "englishTransliteration": "mour (mn-)",
+        "gloss": "bind with, be at enmity with",
+        "definition": "bind with, be at enmity with",
+        "reference": "181b",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "180a",
@@ -469,23 +466,6 @@
     ]
   },
   {
-    "headword": "(2) moulh",
-    "copticWord": "ⲙⲟⲩⲗϩ",
-    "englishTransliteration": "moulh",
-    "variants": [
-      {
-        "type": "pl.",
-        "word": "molh",
-        "copticWord": "ⲙⲟⲗϩ",
-        "englishTransliteration": "molh"
-      }
-    ],
-    "reference": "166a",
-    "partOfSpeech": "m",
-    "gloss": "Wax, honeycomb",
-    "definition": "Wax, honeycomb"
-  },
-  {
     "headword": "(1) moulj",
     "copticWord": "ⲙⲟⲩⲗϫ",
     "englishTransliteration": "moulj",
@@ -509,14 +489,5 @@
     "reference": "166b",
     "gloss": "vi. To enwrap, embrace",
     "definition": "---: m. Embrace."
-  },
-  {
-    "headword": "(2) moulj",
-    "copticWord": "ⲙⲟⲩⲗϫ",
-    "englishTransliteration": "moulj",
-    "reference": "166b",
-    "partOfSpeech": "m",
-    "gloss": "Branch. moumi v. mwou - Spring",
-    "definition": "Branch. moumi v. mwou - Spring"
   }
 ]

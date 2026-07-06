@@ -167,17 +167,6 @@
     "definition": "(in pavman -yman -tman), adj. Certain (person or thing)"
   },
   {
-    "headword": "manecwou",
-    "copticWord": "ⲙⲁⲛⲉⲥⲱⲟⲩ",
-    "englishTransliteration": "manesōou",
-    "gloss": "Shepherd",
-    "definition": "Shepherd",
-    "crossReference": {
-      "target": "ecwou",
-      "gloss": "Shepherd"
-    }
-  },
-  {
     "headword": "manganoc",
     "copticWord": "ⲙⲁⲛⲅⲁⲛⲟⲥ",
     "englishTransliteration": "manganos",
@@ -208,17 +197,6 @@
     "crossReference": {
       "target": "ywrp",
       "gloss": "Darning needle"
-    }
-  },
-  {
-    "headword": "mani",
-    "copticWord": "ⲙⲁⲛⲓ",
-    "englishTransliteration": "mani",
-    "gloss": "Pastor",
-    "definition": "Pastor",
-    "crossReference": {
-      "target": "(2)amoni",
-      "gloss": "Pastor"
     }
   },
   {
@@ -269,14 +247,6 @@
     "partOfSpeech": "m",
     "gloss": "Martyr, witness",
     "definition": "Martyr, witness"
-  },
-  {
-    "headword": "ermarturoc",
-    "copticWord": "ⲉⲣⲙⲁⲣⲧⲩⲣⲟⲥ",
-    "englishTransliteration": "ermartyros",
-    "partOfSpeech": "vb",
-    "gloss": "To be martyred",
-    "definition": "To be martyred"
   },
   {
     "headword": "marturikon",
@@ -421,18 +391,35 @@
     "crossReference": {
       "target": "mici",
       "gloss": "Young"
-    }
-  },
-  {
-    "headword": "mac=",
-    "copticWord": "ⲙⲁⲥ",
-    "englishTransliteration": "mas",
-    "gloss": "To bring forth. mac- p.c. v. mici - Bearing",
-    "definition": "To bring forth. mac- p.c. v. mici - Bearing",
-    "crossReference": {
-      "target": "mici",
-      "gloss": "To bring forth. mac- p.c. v. mici - Bearing"
-    }
+    },
+    "variants": [
+      {
+        "headword": "mas nkrour",
+        "copticWord": "ⲙⲁⲥ ⲛⲕⲣⲟⲩⲣ",
+        "englishTransliteration": "mas nkrour",
+        "gloss": "young frog",
+        "definition": "young frog",
+        "reference": "117a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "mas",
+          "gloss": "young (mostly of animal or bird), child"
+        }
+      },
+      {
+        "headword": "(2) mas nhto",
+        "copticWord": "ⲙⲁⲥ ⲛϩⲧⲟ",
+        "englishTransliteration": "mas nhto",
+        "gloss": "foal",
+        "definition": "foal",
+        "reference": "723a",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "mas",
+          "gloss": "Junges (von Tieren)"
+        }
+      }
+    ]
   },
   {
     "headword": "maci",
@@ -507,14 +494,6 @@
     "definition": "Whip, flog"
   },
   {
-    "headword": "ermactiggoc",
-    "copticWord": "ⲉⲣⲙⲁⲥⲧⲓⲅⲅⲟⲥ",
-    "englishTransliteration": "ermastingos",
-    "partOfSpeech": "vb",
-    "gloss": "To whip, flog or slash",
-    "definition": "To whip, flog or slash"
-  },
-  {
     "headword": "mactigx",
     "copticWord": "ⲙⲁⲥⲧⲓⲅⲝ",
     "englishTransliteration": "mastigks",
@@ -543,14 +522,6 @@
     "partOfSpeech": "m",
     "gloss": "Soldier",
     "definition": "Soldier"
-  },
-  {
-    "headword": "ermatoi",
-    "copticWord": "ⲉⲣⲙⲁⲧⲟⲓ",
-    "englishTransliteration": "ermatoi",
-    "partOfSpeech": "vb",
-    "gloss": "To become soldier",
-    "definition": "To become soldier"
   },
   {
     "headword": "metmatoi",

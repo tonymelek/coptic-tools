@@ -106,7 +106,18 @@
     "crossReference": {
       "target": "ouw]",
       "gloss": "To send"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(9) ouet ... ouet ...",
+        "copticWord": "ⲟⲩⲉⲧ ... ⲟⲩⲉⲧ ...",
+        "englishTransliteration": "ouet ... ouet ...",
+        "gloss": "one thing is ..., another is ...",
+        "definition": "one thing is ..., another is ...",
+        "reference": "495b-496a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "oueteb",
@@ -473,14 +484,6 @@
     "definition": "To what extent"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "To advance toward",
-    "definition": "--- ebol qen: vb. To advance forth from;"
-  },
-  {
     "headword": "ou/sci",
     "copticWord": "ⲟⲩⲏϣⲥⲓ",
     "englishTransliteration": "ouishsi",
@@ -501,14 +504,6 @@
       "target": "ouai",
       "gloss": "one (f)"
     }
-  },
-  {
-    "headword": "(2)ouoi",
-    "copticWord": "ⲟⲩⲟⲓ",
-    "englishTransliteration": "ouoi",
-    "reference": "472b",
-    "gloss": "interj. Woe!",
-    "definition": "interj. Woe!"
   },
   {
     "headword": "ouinam",
@@ -532,15 +527,6 @@
     "englishTransliteration": "nouinam",
     "gloss": "Those on the right",
     "definition": "--- e-: On right;"
-  },
-  {
-    "headword": "(3)ouoi",
-    "copticWord": "ⲟⲩⲟⲓ",
-    "englishTransliteration": "ouoi",
-    "reference": "473a",
-    "partOfSpeech": "m",
-    "gloss": "Husbandman, cultivator of field or vines, farmer",
-    "definition": "Husbandman, cultivator of field or vines, farmer"
   },
   {
     "headword": "remouoi",

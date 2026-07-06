@@ -84,22 +84,6 @@
     "definition": "One that knows"
   },
   {
-    "headword": "(2) eleoc",
-    "copticWord": "ⲉⲗⲉⲟⲥ",
-    "englishTransliteration": "eleos",
-    "variants": [
-      {
-        "word": "elewc",
-        "copticWord": "ⲉⲗⲉⲱⲥ",
-        "englishTransliteration": "eleōs"
-      }
-    ],
-    "reference": "Gk?",
-    "isGreek": true,
-    "gloss": "Do not!",
-    "definition": "Do not!"
-  },
-  {
     "headword": "emit",
     "copticWord": "ⲉⲙⲓⲧ",
     "englishTransliteration": "emit",
@@ -600,17 +584,6 @@
     "partOfSpeech": "m",
     "gloss": "Ape, monkey",
     "definition": "Ape, monkey"
-  },
-  {
-    "headword": "en=",
-    "copticWord": "ⲉⲛ",
-    "englishTransliteration": "en",
-    "gloss": "To bring",
-    "definition": "To bring",
-    "crossReference": {
-      "target": "ini",
-      "gloss": "To bring"
-    }
   },
   {
     "headword": "enage",

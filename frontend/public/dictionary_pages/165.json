@@ -83,31 +83,6 @@
     "definition": "Gourd, vegetables"
   },
   {
-    "headword": "(2) jiji",
-    "copticWord": "ϫⲓϫⲓ",
-    "englishTransliteration": "jeegi",
-    "reference": "800a",
-    "partOfSpeech": "vb",
-    "gloss": "(w/ref-) m. Brigand, robber",
-    "definition": "(w/ref-) m. Brigand, robber"
-  },
-  {
-    "headword": "(2)j/ri",
-    "copticWord": "ϫⲏⲣⲓ",
-    "englishTransliteration": "jiri",
-    "variants": [
-      {
-        "word": "jiniri",
-        "copticWord": "ϫⲓⲛⲓⲣⲓ",
-        "englishTransliteration": "jiniri"
-      }
-    ],
-    "reference": "782a",
-    "partOfSpeech": "m",
-    "gloss": "Filth",
-    "definition": "Filth"
-  },
-  {
     "headword": "j/ou (Q)",
     "copticWord": "ϫⲏⲟⲩ (Ϧ)",
     "englishTransliteration": "jiou (Kh)",
@@ -157,7 +132,259 @@
     "crossReference": {
       "target": "(1)jw",
       "gloss": "Wall"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(5) ji mpbeke",
+        "copticWord": "ϫⲓ ⲙⲡⲃⲉⲕⲉ",
+        "englishTransliteration": "ji mpbeke",
+        "gloss": "receive wage",
+        "definition": "receive wage",
+        "reference": "30b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "-jibeke",
+            "copticWord": "ϫⲓⲃⲉⲕⲉ",
+            "englishTransliteration": "jibeke"
+          },
+          {
+            "word": "chibeche",
+            "copticWord": "ϭⲓⲃⲉⲭⲉ",
+            "englishTransliteration": "chibeche"
+          }
+        ],
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen"
+        }
+      },
+      {
+        "headword": "(6) ji ebeke",
+        "copticWord": "ϫⲓ ⲉⲃⲉⲕⲉ",
+        "englishTransliteration": "ji ebeke",
+        "gloss": "take at a wage, hire",
+        "definition": "take at a wage, hire",
+        "reference": "30b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "chi ebeche",
+            "copticWord": "ϭⲓ ⲉⲃⲉⲭⲉ",
+            "englishTransliteration": "chi ebeche"
+          }
+        ],
+        "crossReference": {
+          "target": "ji e-",
+          "gloss": "jmd./etw. nehmen für/als"
+        }
+      },
+      {
+        "headword": "(5) ji ekibe",
+        "copticWord": "ϫⲓ ⲉⲕⲓⲃⲉ",
+        "englishTransliteration": "ji ekibe",
+        "gloss": "take breast, be suckled",
+        "definition": "take breast, be suckled",
+        "reference": "54a",
+        "isGreek": true,
+        "crossReference": {
+          "target": "ji",
+          "gloss": "geben"
+        }
+      },
+      {
+        "headword": "(6) ji neuo",
+        "copticWord": "ϫⲓ ⲛⲉⲩⲱ",
+        "englishTransliteration": "ji neuo",
+        "gloss": "take as pledge",
+        "definition": "take as pledge",
+        "reference": "62b",
+        "isGreek": true,
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      },
+      {
+        "headword": "(9) ji mpouoei",
+        "copticWord": "ϫⲓ ⲙⲡⲟⲩⲟⲉⲓ",
+        "englishTransliteration": "ji mpouoei",
+        "gloss": "take way, go",
+        "definition": "take way, go",
+        "reference": "472b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "-jiouoi",
+            "copticWord": "ϫⲓⲟⲩⲟⲓ",
+            "englishTransliteration": "jiouoi"
+          },
+          {
+            "word": "-jiouoei",
+            "copticWord": "ϫⲓⲟⲩⲟⲉⲓ",
+            "englishTransliteration": "jiouoei"
+          },
+          {
+            "word": "-ji mpouoi",
+            "copticWord": "ϫⲓ ⲙⲡⲟⲩⲟⲓ",
+            "englishTransliteration": "ji mpouoi"
+          }
+        ],
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      },
+      {
+        "headword": "(3) ji epeoushap",
+        "copticWord": "ϫⲓ ⲉⲡⲉⲟⲩϣⲁⲡ",
+        "englishTransliteration": "ji epeoushap",
+        "gloss": "take, get on loan, borrow",
+        "definition": "take, get on loan, borrow",
+        "reference": "503b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      },
+      {
+        "headword": "(9) ji mpshine",
+        "copticWord": "ϫⲓ ⲙⲡϣⲓⲛⲉ",
+        "englishTransliteration": "ji mpshine",
+        "gloss": "get, bring news, visit",
+        "definition": "get, bring news, visit",
+        "reference": "570a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "chi mpshine",
+            "copticWord": "ϭⲓ ⲙⲡϣⲓⲛⲉ",
+            "englishTransliteration": "chi mpshine"
+          }
+        ]
+      },
+      {
+        "headword": "(9) ji nthe",
+        "copticWord": "ϫⲓ ⲛⲑⲉ",
+        "englishTransliteration": "ji nthe",
+        "gloss": "from when, since",
+        "definition": "from when, since",
+        "reference": "640a",
+        "partOfSpeech": "conj"
+      },
+      {
+        "headword": "(9) ji hra",
+        "copticWord": "ϫⲓ ϩⲣⲁ⸗",
+        "englishTransliteration": "ji hra",
+        "gloss": "disport, amuse, occupy self, converse",
+        "definition": "disport, amuse, occupy self, converse",
+        "reference": "648a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      },
+      {
+        "headword": "(2) ji (e-)",
+        "copticWord": "ϫⲓ (ⲉ-)",
+        "englishTransliteration": "ji (e-)",
+        "gloss": "lead, relate to, attain to",
+        "definition": "lead, relate to, attain to",
+        "reference": "748b-749a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) ji (ejn-)",
+        "copticWord": "ϫⲓ (ⲉϫⲛ-)",
+        "englishTransliteration": "ji (ejn-)",
+        "gloss": "take upon, take for, borrow",
+        "definition": "take upon, take for, borrow",
+        "reference": "749a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) ji (mn-)",
+        "copticWord": "ϫⲓ (ⲙⲛ-)",
+        "englishTransliteration": "ji (mn-)",
+        "gloss": "be concerned with, touch",
+        "definition": "be concerned with, touch",
+        "reference": "749b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) ji (ha-)",
+        "copticWord": "ϫⲓ (ϩⲁ-)",
+        "englishTransliteration": "ji (ha-)",
+        "gloss": "take instead of, on account of",
+        "definition": "take instead of, on account of",
+        "reference": "750a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) ji (hajn-)",
+        "copticWord": "ϫⲓ (ϩⲁϫⲛ-)",
+        "englishTransliteration": "ji (hajn-)",
+        "gloss": "take in advance, from before",
+        "definition": "take in advance, from before",
+        "reference": "750b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) ji (ebol hn-)",
+        "copticWord": "ϫⲓ (ⲉⲃⲟⲗ ϩⲛ-)",
+        "englishTransliteration": "ji (ebol hn-)",
+        "gloss": "select from",
+        "definition": "select from",
+        "reference": "750b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) ji (ehoun e-)",
+        "copticWord": "ϫⲓ (ⲉϩⲟⲩⲛ ⲉ-)",
+        "englishTransliteration": "ji (ehoun e-)",
+        "gloss": "be a close relative of",
+        "definition": "be a close relative of",
+        "reference": "750b-751a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) ji njnah",
+        "copticWord": "ϫⲓ ⲛϫⲛⲁϩ",
+        "englishTransliteration": "ji njnah",
+        "gloss": "use violence, force, compel",
+        "definition": "use violence, force, compel",
+        "reference": "777b",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "-jijnah",
+            "copticWord": "ϫⲓϫⲛⲁϩ",
+            "englishTransliteration": "jijnah"
+          }
+        ],
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      },
+      {
+        "headword": "(5) ji nchons",
+        "copticWord": "ϫⲓ ⲛϭⲟⲛⲥ",
+        "englishTransliteration": "ji nchons",
+        "gloss": "use violence, do evil",
+        "definition": "use violence, do evil",
+        "reference": "822a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      }
+    ]
   },
   {
     "headword": "jiiri",
@@ -197,17 +424,6 @@
     "definition": "Tiger, panther"
   },
   {
-    "headword": "jko=",
-    "copticWord": "ϫⲕⲟ",
-    "englishTransliteration": "jko",
-    "gloss": "To sell",
-    "definition": "To sell",
-    "crossReference": {
-      "target": "jko",
-      "gloss": "To sell"
-    }
-  },
-  {
     "headword": "jo",
     "copticWord": "ϫⲟ",
     "englishTransliteration": "jo",
@@ -216,18 +432,18 @@
     "crossReference": {
       "target": "(2)ajw",
       "gloss": "Crook-backed"
-    }
-  },
-  {
-    "headword": "jo=",
-    "copticWord": "ϫⲟ",
-    "englishTransliteration": "jo",
-    "gloss": "To say",
-    "definition": "To say",
-    "crossReference": {
-      "target": "(2)jw",
-      "gloss": "To say"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(2) jo ebol",
+        "copticWord": "ϫⲟ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jo ebol",
+        "gloss": "expenses",
+        "definition": "expenses",
+        "reference": "753a",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "jobi",
@@ -351,17 +567,6 @@
     }
   },
   {
-    "headword": "jokh=",
-    "copticWord": "ϫⲟⲕϩ",
-    "englishTransliteration": "jokh",
-    "gloss": "To bite",
-    "definition": "To bite",
-    "crossReference": {
-      "target": "joukh",
-      "gloss": "To bite"
-    }
-  },
-  {
     "headword": "jokhf",
     "copticWord": "ϫⲟⲕϩϥ",
     "englishTransliteration": "jokhf",
@@ -416,17 +621,6 @@
         "definition": "m. Flat cake, loaf."
       }
     ]
-  },
-  {
-    "headword": "jol=",
-    "copticWord": "ϫⲟⲗ",
-    "englishTransliteration": "jol",
-    "gloss": "To clothe",
-    "definition": "To clothe",
-    "crossReference": {
-      "target": "(1)jwl",
-      "gloss": "To clothe"
-    }
   },
   {
     "headword": "jolbi",
@@ -515,25 +709,6 @@
     "crossReference": {
       "target": "jimveh",
       "gloss": "Blight"
-    }
-  },
-  {
-    "headword": "jin",
-    "copticWord": "ϫⲓⲛ",
-    "englishTransliteration": "jin",
-    "reference": "819a",
-    "gloss": "vbal pref. forming nouns of action, act of, manner of",
-    "definition": "vbal pref. forming nouns of action, act of, manner of"
-  },
-  {
-    "headword": "jiniri",
-    "copticWord": "ϫⲓⲛⲓⲣⲓ",
-    "englishTransliteration": "jiniri",
-    "gloss": "Filth",
-    "definition": "Filth",
-    "crossReference": {
-      "target": "(2)j/ri",
-      "gloss": "Filth"
     }
   },
   {

@@ -139,28 +139,6 @@
     "definition": "Used with date of month or festival"
   },
   {
-    "headword": "c/pi",
-    "copticWord": "ⲥⲏⲡⲓ",
-    "englishTransliteration": "sipi",
-    "gloss": "Remainder",
-    "definition": "Remainder",
-    "crossReference": {
-      "target": "cepi",
-      "gloss": "Remainder"
-    }
-  },
-  {
-    "headword": "c/t",
-    "copticWord": "ⲥⲏⲧ",
-    "englishTransliteration": "sit",
-    "gloss": "Tail",
-    "definition": "Tail",
-    "crossReference": {
-      "target": "cat",
-      "gloss": "Tail"
-    }
-  },
-  {
     "headword": "c/fi",
     "copticWord": "ⲥⲏϥⲓ",
     "englishTransliteration": "sifi",
@@ -247,14 +225,6 @@
     "definition": "Leprosy"
   },
   {
-    "headword": "kakceht",
-    "copticWord": "ⲕⲁⲕⲥⲉϩⲧ",
-    "englishTransliteration": "kakseht",
-    "partOfSpeech": "m",
-    "gloss": "Leper",
-    "definition": "Leper"
-  },
-  {
     "headword": "erceht",
     "copticWord": "ⲉⲣⲥⲉϩⲧ",
     "englishTransliteration": "erseht",
@@ -323,15 +293,6 @@
     "definition": "refc/ini = c/ini."
   },
   {
-    "headword": "(2) c/ini",
-    "copticWord": "ⲥⲏⲓⲛⲓ",
-    "englishTransliteration": "siini",
-    "reference": "343b",
-    "partOfSpeech": "f",
-    "gloss": "Granary, bin",
-    "definition": "Granary, bin"
-  },
-  {
     "headword": "cy/m",
     "copticWord": "ⲥⲑⲏⲙ",
     "englishTransliteration": "sthim",
@@ -396,15 +357,6 @@
     "englishTransliteration": "sthoeebōn",
     "gloss": "Bad smell",
     "definition": "Bad smell"
-  },
-  {
-    "headword": "(3) c/ini",
-    "copticWord": "ⲥⲏⲓⲛⲓ",
-    "englishTransliteration": "siini",
-    "reference": "343b",
-    "partOfSpeech": "f",
-    "gloss": "Ploughshare",
-    "definition": "Ploughshare"
   },
   {
     "headword": "c/mikinyion",
@@ -483,14 +435,6 @@
     "reference": "316b",
     "gloss": "vi. To be filled, satisfied, enjoy",
     "definition": "vi. To be filled, satisfied, enjoy"
-  },
-  {
-    "headword": "cai",
-    "copticWord": "ⲥⲁⲓ",
-    "englishTransliteration": "sai",
-    "partOfSpeech": "m",
-    "gloss": "Fullness, surfeit",
-    "definition": "Fullness, surfeit"
   },
   {
     "headword": "atci",

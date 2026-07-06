@@ -1,39 +1,11 @@
 [
   {
-    "headword": "(2) sbe",
-    "copticWord": "ϣⲃⲉ",
-    "englishTransliteration": "shve",
-    "reference": "603a",
-    "partOfSpeech": "m",
-    "gloss": "Persea tree, lebbakh",
-    "definition": "Persea tree, lebbakh"
-  },
-  {
-    "headword": "sbe",
-    "copticWord": "ϣⲃⲉ",
-    "englishTransliteration": "shve",
-    "gloss": "filth",
-    "definition": "filth",
-    "crossReference": {
-      "target": "s/ibi",
-      "gloss": "filth"
-    }
-  },
-  {
     "headword": "(1) sbin",
     "copticWord": "ϣⲃⲓⲛ",
     "englishTransliteration": "shvin",
     "reference": "553a",
     "gloss": "nn. Grain",
     "definition": "nn. Grain"
-  },
-  {
-    "headword": "(2) sbin",
-    "copticWord": "ϣⲃⲓⲛ",
-    "englishTransliteration": "shvin",
-    "reference": "553a",
-    "gloss": "nn. Part of sheep's intestines",
-    "definition": "nn. Part of sheep's intestines"
   },
   {
     "headword": "sbo]",
@@ -243,21 +215,6 @@
     "definition": "vi. To go"
   },
   {
-    "headword": "iri",
-    "copticWord": "ⲓⲣⲓ",
-    "englishTransliteration": "iri",
-    "variants": [
-      {
-        "word": "er sebiw",
-        "copticWord": "ⲉⲣ ϣⲉⲃⲓⲱ",
-        "englishTransliteration": "er sheviō"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be instead, replace",
-    "definition": "To be instead, replace"
-  },
-  {
     "headword": "]sebiw",
     "copticWord": "ϯϣⲉⲃⲓⲱ",
     "englishTransliteration": "tisheviō",
@@ -285,6 +242,72 @@
         "partOfSpeech": "vb",
         "gloss": "To be carpenter",
         "definition": "methamse: f. Carpenter's craft, carpentary."
+      }
+    ],
+    "variants": [
+      {
+        "headword": "(2) she nkeh",
+        "copticWord": "ϣⲉ ⲛⲕⲉϩ",
+        "englishTransliteration": "she nkeh",
+        "gloss": "blow, buffet",
+        "definition": "blow, buffet",
+        "reference": "131b-132a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) she nthoouti",
+        "copticWord": "ϣⲉ ⲛⲑⲱⲟⲩϯ",
+        "englishTransliteration": "she nthoouti",
+        "gloss": "gong, bell",
+        "definition": "gong, bell",
+        "reference": "447b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "she",
+          "gloss": "Holz"
+        }
+      },
+      {
+        "headword": "(6) she nouoh",
+        "copticWord": "ϣⲉ ⲛⲟⲩⲱϩ",
+        "englishTransliteration": "she nouoh",
+        "gloss": "ladle",
+        "definition": "ladle",
+        "reference": "499a",
+        "partOfSpeech": "m",
+        "variants": [
+          {
+            "word": "she nouoth",
+            "copticWord": "ϣⲉ ⲛⲟⲩⲱⲧϩ",
+            "englishTransliteration": "she nouoth"
+          }
+        ],
+        "crossReference": {
+          "target": "she",
+          "gloss": "Holz"
+        }
+      },
+      {
+        "headword": "(2) she nshonte",
+        "copticWord": "ϣⲉ ⲛϣⲟⲛⲧⲉ",
+        "englishTransliteration": "she nshonte",
+        "gloss": "acacia wood",
+        "definition": "acacia wood",
+        "reference": "573b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "she",
+          "gloss": "Holz, Gehölz, Balken"
+        }
+      },
+      {
+        "headword": "(3) she nhin",
+        "copticWord": "ϣⲉ ⲛϩⲓⲛ",
+        "englishTransliteration": "she nhin",
+        "gloss": "divination",
+        "definition": "divination",
+        "reference": "685b",
+        "partOfSpeech": "m"
       }
     ]
   },
@@ -432,40 +455,6 @@
     "definition": "bride"
   },
   {
-    "headword": "(3) se",
-    "copticWord": "ϣⲉ",
-    "englishTransliteration": "she",
-    "reference": "546b",
-    "gloss": "nn. Hundred",
-    "definition": "nn. Hundred"
-  },
-  {
-    "headword": "(4) se",
-    "copticWord": "ϣⲉ",
-    "englishTransliteration": "she",
-    "variants": [
-      {
-        "word": "sa",
-        "copticWord": "ϣⲁ",
-        "englishTransliteration": "sha"
-      }
-    ],
-    "reference": "547a",
-    "gloss": "by (in swearing)",
-    "definition": "by (in swearing)"
-  },
-  {
-    "headword": "se",
-    "copticWord": "ϣⲉ",
-    "englishTransliteration": "she",
-    "gloss": "Stroke",
-    "definition": "Stroke",
-    "crossReference": {
-      "target": "(sws)",
-      "gloss": "Stroke"
-    }
-  },
-  {
     "headword": "[i selet",
     "copticWord": "ϭⲓ ϣⲉⲗⲉⲧ",
     "englishTransliteration": "chi shelet",
@@ -480,14 +469,6 @@
     "partOfSpeech": "m",
     "gloss": "Place of marriage, bride chamber, marriage",
     "definition": "Place of marriage, bride chamber, marriage"
-  },
-  {
-    "headword": "patselet",
-    "copticWord": "ⲡⲁⲧϣⲉⲗⲉⲧ",
-    "englishTransliteration": "patshelet",
-    "partOfSpeech": "m",
-    "gloss": "He of the bride, bridegroom",
-    "definition": "He of the bride, bridegroom"
   },
   {
     "headword": "metpatselet",

@@ -1,14 +1,5 @@
 [
   {
-    "headword": "(3) [wlp",
-    "copticWord": "ϭⲱⲗⲡ",
-    "englishTransliteration": "chōlp",
-    "reference": "813a",
-    "partOfSpeech": "n",
-    "gloss": "Projecting roof, veranda",
-    "definition": "Projecting roof, veranda"
-  },
-  {
     "headword": "[wlh",
     "copticWord": "ϭⲱⲗϩ",
     "englishTransliteration": "chōlh",
@@ -62,6 +53,51 @@
         "word": "(Q) [otp",
         "copticWord": "(Ϧ) ϭⲟⲧⲡ",
         "englishTransliteration": "(Kh) chotp"
+      },
+      {
+        "headword": "(2) chotp (e-)",
+        "copticWord": "ϭⲱⲧⲡ (ⲉ-)",
+        "englishTransliteration": "chotp (e-)",
+        "gloss": "be wearied of",
+        "definition": "be wearied of",
+        "reference": "833b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) chotp (hathe)",
+        "copticWord": "ϭⲱⲧⲡ (ϩⲁⲧϩⲏ⸗)",
+        "englishTransliteration": "chotp (hathe)",
+        "gloss": "beware of, watch out for, take care",
+        "definition": "beware of, watch out for, take care",
+        "reference": "833b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) chotp (hn-)",
+        "copticWord": "ϭⲱⲧⲡ (ϩⲛ-)",
+        "englishTransliteration": "chotp (hn-)",
+        "gloss": "fail",
+        "definition": "fail",
+        "reference": "833b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) chotp (ebol n-)",
+        "copticWord": "ϭⲱⲧⲡ (ⲉⲃⲟⲗ ⲛ-)",
+        "englishTransliteration": "chotp (ebol n-)",
+        "gloss": "scare away",
+        "definition": "scare away",
+        "reference": "834a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) chotp (nhet)",
+        "copticWord": "ϭⲱⲧⲡ (ⲛϩⲏⲧ)",
+        "englishTransliteration": "chotp (nhet)",
+        "gloss": "be afraid",
+        "definition": "be afraid",
+        "reference": "834a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "833b",
@@ -318,14 +354,6 @@
     "definition": "vi. To be dyed, stained"
   },
   {
-    "headword": "(2) [wrp",
-    "copticWord": "ϭⲱⲣⲡ",
-    "englishTransliteration": "chōrp",
-    "reference": "829b",
-    "gloss": "vt. To nipoff, snatch",
-    "definition": "vt. To nipoff, snatch"
-  },
-  {
     "headword": "(1) [wc",
     "copticWord": "ϭⲱⲥ",
     "englishTransliteration": "chōs",
@@ -379,14 +407,5 @@
       "target": "sqelt",
       "gloss": "Pus"
     }
-  },
-  {
-    "headword": "(2) [wc",
-    "copticWord": "ϭⲱⲥ",
-    "englishTransliteration": "chōs",
-    "reference": "832b",
-    "partOfSpeech": "m",
-    "gloss": "Flatus ventris",
-    "definition": "Flatus ventris"
   }
 ]

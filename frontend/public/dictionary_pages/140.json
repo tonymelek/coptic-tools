@@ -9,14 +9,6 @@
     "definition": "Pit, cistern"
   },
   {
-    "headword": "(2) s/i",
-    "copticWord": "ϣⲏⲓ",
-    "englishTransliteration": "shii",
-    "reference": "547b",
-    "gloss": "pl. Temples",
-    "definition": "pl. Temples"
-  },
-  {
     "headword": "s/ibi",
     "copticWord": "ϣⲏⲓⲃⲓ",
     "englishTransliteration": "shieebi",
@@ -86,26 +78,54 @@
     "englishTransliteration": "shim",
     "reference": "563a",
     "gloss": "(rare) n. Small person, thing, quantity",
-    "definition": "(rare) n. Small person, thing, quantity"
-  },
-  {
-    "headword": "(2) s/m",
-    "copticWord": "ϣⲏⲙ",
-    "englishTransliteration": "shim",
-    "reference": "564a",
-    "gloss": "nn. sign, omen",
-    "definition": "nn. sign, omen",
-    "senses": [
+    "definition": "(rare) n. Small person, thing, quantity",
+    "variants": [
       {
-        "label": "+",
-        "gloss": "[i: vb. To take omen, divine",
-        "definition": "---: nn. Augury."
+        "headword": "(4) sabbat shem",
+        "copticWord": "ⲥⲁⲃⲃⲁⲧ ϣⲏⲙ",
+        "englishTransliteration": "sabbat shem",
+        "gloss": "Saturday before Passion week",
+        "definition": "Saturday before Passion week",
+        "reference": "563b",
+        "partOfSpeech": "n",
+        "variants": [
+          {
+            "word": "sabbaton shem",
+            "copticWord": "ⲥⲁⲃⲃⲁⲧⲟⲛ ϣⲏⲙ",
+            "englishTransliteration": "sabbaton shem"
+          }
+        ]
       },
       {
-        "label": "ref[is/m",
-        "partOfSpeech": "m",
-        "gloss": "Augur, diviner",
-        "definition": "Augur, diviner"
+        "headword": "(6) shem shem",
+        "copticWord": "ϣⲏⲙ ϣⲏⲙ",
+        "englishTransliteration": "shem shem",
+        "gloss": "little by little, gradually",
+        "definition": "little by little, gradually",
+        "reference": "563b",
+        "partOfSpeech": "adv"
+      },
+      {
+        "headword": "(7) rshem shem",
+        "copticWord": "ⲣϣⲏⲙ ϣⲏⲙ",
+        "englishTransliteration": "rshem shem",
+        "gloss": "make little",
+        "definition": "make little",
+        "reference": "563b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(5) mntshere shem",
+        "copticWord": "ⲙⲛⲧϣⲏⲣⲉ ϣⲏⲙ",
+        "englishTransliteration": "mntshere shem",
+        "gloss": "youthfulness",
+        "definition": "youthfulness",
+        "reference": "585a",
+        "partOfSpeech": "f"
       }
     ]
   },
@@ -163,14 +183,6 @@
         "definition": "To be child"
       }
     ]
-  },
-  {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "partOfSpeech": "vb",
-    "gloss": "Accuse against",
-    "definition": "Accuse against"
   },
   {
     "headword": "metsyouit",
@@ -405,12 +417,5 @@
       "target": "syorter",
       "gloss": "To be disturbed"
     }
-  },
-  {
-    "headword": "ehr/i",
-    "copticWord": "ⲉϩⲣⲏⲓ",
-    "englishTransliteration": "ehrii",
-    "gloss": "vi. To change upon",
-    "definition": "--- nten: vi. To change through;"
   }
 ]

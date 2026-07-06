@@ -95,21 +95,6 @@
     "isGreek": true
   },
   {
-    "headword": "ermetanoin",
-    "copticWord": "ⲉⲣⲙⲉⲧⲁⲛⲟⲓⲛ",
-    "englishTransliteration": "ermetanoin",
-    "variants": [
-      {
-        "word": "-nin",
-        "copticWord": "-ⲛⲓⲛ",
-        "englishTransliteration": "-nin"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "to repent, regret, to be sorry",
-    "definition": "to repent, regret, to be sorry"
-  },
-  {
     "headword": "mehi",
     "copticWord": "ⲙⲉϩⲓ",
     "englishTransliteration": "mehi",
@@ -175,14 +160,6 @@
     "definition": "To think that"
   },
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "partOfSpeech": "vb",
-    "gloss": "To meditate (doing), be about to do",
-    "definition": "To meditate (doing), be about to do"
-  },
-  {
     "headword": "(1)m/",
     "copticWord": "ⲙⲏ",
     "englishTransliteration": "mi",
@@ -191,6 +168,15 @@
         "word": "mi",
         "copticWord": "ⲙⲓ",
         "englishTransliteration": "mi"
+      },
+      {
+        "headword": "(2) me oeik",
+        "copticWord": "ⲙⲏ ⲟⲉⲓⲕ",
+        "englishTransliteration": "me oeik",
+        "gloss": "urine of bread (food), excrement",
+        "definition": "urine of bread (food), excrement",
+        "reference": "158a",
+        "partOfSpeech": "f"
       }
     ],
     "reference": "158a",
@@ -207,51 +193,12 @@
     "definition": "Urine"
   },
   {
-    "headword": "erm/",
-    "copticWord": "ⲉⲣⲙⲏ",
-    "englishTransliteration": "ermi",
-    "partOfSpeech": "vb",
-    "gloss": "To evacuate dung",
-    "definition": "To evacuate dung"
-  },
-  {
     "headword": "ma nerm/",
     "copticWord": "ⲙⲁ ⲛⲉⲣⲙⲏ",
     "englishTransliteration": "ma nermi",
     "partOfSpeech": "m",
     "gloss": "Anus",
     "definition": "Anus"
-  },
-  {
-    "headword": "eqoun e",
-    "copticWord": "ⲉϧⲟⲩⲛ ⲉ",
-    "englishTransliteration": "ekhoun e",
-    "partOfSpeech": "vb",
-    "gloss": "To think, design against",
-    "definition": "To think, design against"
-  },
-  {
-    "headword": "ebol",
-    "copticWord": "ⲉⲃⲟⲗ",
-    "englishTransliteration": "evol",
-    "partOfSpeech": "vb",
-    "gloss": "To think upon, consider",
-    "definition": "To think upon, consider",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Thought, mind",
-        "definition": "Thought, mind"
-      }
-    ]
-  },
-  {
-    "headword": "nh/t",
-    "copticWord": "ⲛϩⲏⲧ",
-    "englishTransliteration": "nhit",
-    "partOfSpeech": "m",
-    "gloss": "Thought, mind",
-    "definition": "Thought, mind"
   },
   {
     "headword": "metatmeui",
@@ -298,7 +245,22 @@
     "copticWord": "ϭⲓ",
     "englishTransliteration": "chi",
     "gloss": "ouervmeui: vb. To get remembrance, be remembered",
-    "definition": "se nervmeui: m. Remembrance; refervmeui: m. One who remem-"
+    "definition": "se nervmeui: m. Remembrance; refervmeui: m. One who remem-",
+    "variants": [
+      {
+        "headword": "(2) chi nskenho",
+        "copticWord": "ϭⲓ ⲛⲥⲕⲉⲛϩⲟ",
+        "englishTransliteration": "chi nskenho",
+        "gloss": "make a fair show",
+        "definition": "make a fair show",
+        "reference": "329a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      }
+    ]
   },
   {
     "headword": "metrefervmeui",
@@ -317,15 +279,6 @@
     "definition": "Remembrance"
   },
   {
-    "headword": "(2)m/",
-    "copticWord": "ⲙⲏ",
-    "englishTransliteration": "mi",
-    "reference": "Gk",
-    "isGreek": true,
-    "gloss": "interrog. Do?, did?",
-    "definition": "whether"
-  },
-  {
     "headword": "m/i",
     "copticWord": "ⲙⲏⲓ",
     "englishTransliteration": "mii",
@@ -335,14 +288,6 @@
       "target": "mei",
       "gloss": "To love"
     }
-  },
-  {
-    "headword": "meym/i",
-    "copticWord": "ⲙⲉⲑⲙⲏⲓ",
-    "englishTransliteration": "methmii",
-    "partOfSpeech": "f",
-    "gloss": "Truth, righteousness",
-    "definition": "Truth, righteousness"
   },
   {
     "headword": "refje meym/i",
@@ -384,14 +329,6 @@
     "partOfSpeech": "adj",
     "gloss": "Without mark",
     "definition": "Without mark"
-  },
-  {
-    "headword": "erm/ini",
-    "copticWord": "ⲉⲣⲙⲏⲓⲛⲓ",
-    "englishTransliteration": "ermiini",
-    "partOfSpeech": "vb",
-    "gloss": "To be marked, remarkable",
-    "definition": "]m/ini: vb. To give sign, signify"
   },
   {
     "headword": "[im/ini",

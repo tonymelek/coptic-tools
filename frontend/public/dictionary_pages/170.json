@@ -197,17 +197,6 @@
     "definition": "Unquestionable"
   },
   {
-    "headword": "[eno=",
-    "copticWord": "ϭⲉⲛⲟ",
-    "englishTransliteration": "cheno",
-    "gloss": "To quench",
-    "definition": "To quench",
-    "crossReference": {
-      "target": "[eno",
-      "gloss": "To quench"
-    }
-  },
-  {
     "headword": "[entwli",
     "copticWord": "ϭⲉⲛⲧⲱⲗⲓ",
     "englishTransliteration": "chentōli",
@@ -216,17 +205,6 @@
     "crossReference": {
       "target": "sentwli",
       "gloss": "Unbleached cloth"
-    }
-  },
-  {
-    "headword": "[ep",
-    "copticWord": "ϭⲉⲡ",
-    "englishTransliteration": "chep",
-    "gloss": "To shave",
-    "definition": "To shave",
-    "crossReference": {
-      "target": "(1)swp",
-      "gloss": "To shave"
     }
   },
   {
@@ -315,13 +293,6 @@
     }
   },
   {
-    "headword": "--- e",
-    "copticWord": "--- ⲉ",
-    "englishTransliteration": "--- e",
-    "gloss": "vi. To burn for",
-    "definition": "vi. To burn for"
-  },
-  {
     "headword": "at[ero",
     "copticWord": "ⲁⲧϭⲉⲣⲟ",
     "englishTransliteration": "atchero",
@@ -342,17 +313,6 @@
   },
   {
     "headword": "[ero",
-    "copticWord": "ϭⲉⲣⲟ",
-    "englishTransliteration": "chero",
-    "gloss": "To burn",
-    "definition": "To burn",
-    "crossReference": {
-      "target": "[ero",
-      "gloss": "To burn"
-    }
-  },
-  {
-    "headword": "[ero=",
     "copticWord": "ϭⲉⲣⲟ",
     "englishTransliteration": "chero",
     "gloss": "To burn",
@@ -405,29 +365,7 @@
     }
   },
   {
-    "headword": "[ac=",
-    "copticWord": "ϭⲁⲥ",
-    "englishTransliteration": "chas",
-    "gloss": "To exalt",
-    "definition": "To exalt",
-    "crossReference": {
-      "target": "(1)[ici",
-      "gloss": "To exalt"
-    }
-  },
-  {
     "headword": "[et[wt",
-    "copticWord": "ϭⲉⲧϭⲱⲧ",
-    "englishTransliteration": "chetchōt",
-    "gloss": "To cut",
-    "definition": "To cut",
-    "crossReference": {
-      "target": "[ot[et",
-      "gloss": "To cut"
-    }
-  },
-  {
-    "headword": "[et[wt=",
     "copticWord": "ϭⲉⲧϭⲱⲧ",
     "englishTransliteration": "chetchōt",
     "gloss": "To cut",
@@ -461,17 +399,6 @@
     "reference": "797a",
     "gloss": "vi. To be smeared, be anointed",
     "definition": "vi. To be smeared, be anointed"
-  },
-  {
-    "headword": "[au",
-    "copticWord": "ϭⲁⲩ",
-    "englishTransliteration": "chav",
-    "gloss": "Receiver",
-    "definition": "Receiver",
-    "crossReference": {
-      "target": "(1)[i",
-      "gloss": "Receiver"
-    }
   },
   {
     "headword": "[/",

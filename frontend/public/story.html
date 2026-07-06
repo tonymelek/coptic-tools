@@ -92,16 +92,88 @@
           transliteration, or meaning in one place.
         </p>
 
-        <h2 class="text-xl font-bold text-burgundy-900 pt-2">What grew from that</h2>
+        <h2 class="text-xl font-bold text-burgundy-900 pt-2">The work behind it</h2>
         <p>
-          One script to parse a page became a pipeline: Adobe extract → structured JSON → searchable dictionary
-          pages and indexes. Alongside that came <strong>coptic-antonios-unicode</strong> for script conversion and
-          <strong>coptic-pronounce</strong> for Bohairic pronunciation — small libraries I open-sourced so
-          others could reuse them in their own apps and research.
+          None of this appeared at once. It was built in stages over months, where each step was only possible
+          because of the one before it. What looks like a few tools on a page is really several distinct pieces of
+          work — each needing both software and a real understanding of the language.
         </p>
+
+        <div class="space-y-5 mt-4">
+          <div class="relative pl-8 border-l-2 border-gold/60">
+            <span class="absolute -left-3 top-0 flex items-center justify-center w-6 h-6 rounded-full bg-burgundy-900 text-gold text-xs font-bold">1</span>
+            <h3 class="text-lg font-bold text-burgundy-900">Mapping the old font to Unicode</h3>
+            <p class="mt-1 text-slate-700">
+              Most Coptic text online was never real Unicode — it was typed in legacy <strong>Antonios</strong>
+              fonts, where ordinary Latin keys are simply <em>drawn</em> as Coptic letters. That text breaks the
+              moment you don't have the exact font. To fix it I first had to know the full mapping, so I built an
+              app that displays <strong>every glyph of the Antonios font</strong> and, using an
+              <strong>on-screen keyboard</strong>, matched each one by hand to its true Coptic Unicode character —
+              including the hard cases: combining marks, the overline, the jenkim, and punctuation. That verified
+              mapping became the <strong>coptic-antonios-unicode</strong> converter.
+            </p>
+          </div>
+
+          <div class="relative pl-8 border-l-2 border-gold/60">
+            <span class="absolute -left-3 top-0 flex items-center justify-center w-6 h-6 rounded-full bg-burgundy-900 text-gold text-xs font-bold">2</span>
+            <h3 class="text-lg font-bold text-burgundy-900">Teaching a machine to pronounce Coptic</h3>
+            <p class="mt-1 text-slate-700">
+              Bohairic pronunciation is not a simple letter-for-sound swap — some letters change depending on their
+              neighbours, and certain combinations make a single sound. I encoded these rules into an
+              <strong>English transliterator</strong>, testing against real words and refining the exceptions one by
+              one.
+            </p>
+          </div>
+
+          <div class="relative pl-8 border-l-2 border-gold/60">
+            <span class="absolute -left-3 top-0 flex items-center justify-center w-6 h-6 rounded-full bg-burgundy-900 text-gold text-xs font-bold">3</span>
+            <h3 class="text-lg font-bold text-burgundy-900">Then again, in Arabic</h3>
+            <p class="mt-1 text-slate-700">
+              Because the largest Coptic community reads Arabic, I added a second target: Coptic Unicode → Arabic
+              phonetics. Arabic has its own sound inventory and conventions, so the rules were rewritten from
+              scratch — but both now live behind one simple, validated tool: <strong>coptic-pronounce</strong>.
+            </p>
+          </div>
+
+          <div class="relative pl-8 border-l-2 border-gold/60">
+            <span class="absolute -left-3 top-0 flex items-center justify-center w-6 h-6 rounded-full bg-burgundy-900 text-gold text-xs font-bold">4</span>
+            <h3 class="text-lg font-bold text-burgundy-900">Turning a printed dictionary into data</h3>
+            <p class="mt-1 text-slate-700">
+              The classical dictionaries exist as <strong>PDF scans laid out for print</strong>, not for searching.
+              Last week I used the <strong>Adobe PDF Extract API</strong> to convert the pages into structured data,
+              then wrote <strong>special-purpose parsers</strong> to rebuild real dictionary entries — headwords,
+              senses, glosses, variants, cross-references — that the print layout had scattered across columns and
+              lines. The output is ~170 searchable JSON pages with indexes by word, transliteration, and meaning.
+            </p>
+          </div>
+
+          <div class="relative pl-8 border-l-2 border-gold/60">
+            <span class="absolute -left-3 top-0 flex items-center justify-center w-6 h-6 rounded-full bg-burgundy-900 text-gold text-xs font-bold">5</span>
+            <h3 class="text-lg font-bold text-burgundy-900">Adding what the book never had</h3>
+            <p class="mt-1 text-slate-700">
+              The original PDF contained <strong>no Unicode and no transliteration</strong>. Both had to be
+              generated — and could only be, because the earlier tools already existed. I ran the Antonios→Unicode
+              mapping and the pronunciation engines across every entry, so the dataset now carries information the
+              original dictionary never had. It is not a scan of a dictionary; it is a <em>new, enriched
+              dataset</em> derived from one.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-burgundy-50 border-l-4 border-burgundy-700 p-6 rounded-r-xl">
+          <h3 class="text-lg font-bold text-burgundy-900 mb-1">Why the order matters</h3>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            Each step made the next one possible. The enriched dictionary could only be built because the
+            Unicode mapping and the pronunciation engines already existed and were correct. The whole thing needs
+            two kinds of knowledge at once — software engineering and the Coptic language itself.
+          </p>
+        </div>
+
         <p>
           This site ties those pieces together under <a href="/app/dictionary" class="text-burgundy-700 font-medium">/app</a>:
-          dictionary search, Unicode conversion, and pronunciation practice in interfaces meant for daily use.
+          dictionary search, Unicode conversion, and pronunciation practice in interfaces meant for daily use. The
+          two libraries — <strong>coptic-antonios-unicode</strong> and <strong>coptic-pronounce</strong> — are
+          open-sourced so others can reuse them in their own apps and research.
         </p>
 
         <h2 class="text-xl font-bold text-burgundy-900 pt-2">What I hope for</h2>

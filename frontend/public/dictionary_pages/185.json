@@ -1,0 +1,3083 @@
+[
+  {
+    "headword": "ta-",
+    "copticWord": "ⲧⲁ-",
+    "englishTransliteration": "ta-",
+    "gloss": "my",
+    "definition": "my; possessive article; [possessed]: f. sg., [possessor]: 1 p. sg.",
+    "reference": "390a",
+    "crossReference": {
+      "target": "na-",
+      "gloss": "Possessivartikel pl."
+    }
+  },
+  {
+    "headword": "te",
+    "copticWord": "ⲧⲉ⸗",
+    "englishTransliteration": "te",
+    "gloss": "fem. possessive article sg.",
+    "definition": "fem. possessive article sg.",
+    "reference": "390a",
+    "crossReference": {
+      "target": "ne",
+      "gloss": "Possessivartikel pl."
+    }
+  },
+  {
+    "headword": "te",
+    "copticWord": "ⲧⲉ",
+    "englishTransliteration": "te",
+    "gloss": "sg. fem. copula (nexus pronoun)",
+    "definition": "sg. fem. copula (nexus pronoun)",
+    "reference": "391b",
+    "crossReference": {
+      "target": "pe",
+      "gloss": "Kopula sg. m."
+    }
+  },
+  {
+    "headword": "te-",
+    "copticWord": "ⲧⲉ-",
+    "englishTransliteration": "te-",
+    "gloss": "prefix of 2nd person feminine singular of 1st Present",
+    "definition": "prefix of 2nd person feminine singular of 1st Present"
+  },
+  {
+    "headword": "tou-",
+    "copticWord": "ⲧⲟⲩ-",
+    "englishTransliteration": "tou-",
+    "gloss": "my",
+    "definition": "my; possessive article; [possessed]: f. sg., [possessor]: 2 p. f. sg.",
+    "reference": "390a",
+    "crossReference": {
+      "target": "nou-",
+      "gloss": "Possessivartikel pl."
+    }
+  },
+  {
+    "headword": "(2) mpefte",
+    "copticWord": "ⲙⲡⲉϥⲧⲉ",
+    "englishTransliteration": "mpefte",
+    "gloss": "at the right time",
+    "definition": "at the right time",
+    "reference": "391b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(3) hnpte",
+    "copticWord": "ϩⲛⲡⲧⲉ",
+    "englishTransliteration": "hnpte",
+    "gloss": "at the right time",
+    "definition": "at the right time",
+    "reference": "391b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(4) epte",
+    "copticWord": "ⲉⲡⲧⲉ",
+    "englishTransliteration": "epte",
+    "gloss": "at the right time",
+    "definition": "at the right time",
+    "reference": "391b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(6) rte",
+    "copticWord": "ⲣⲧⲉ",
+    "englishTransliteration": "rte",
+    "gloss": "be of age",
+    "definition": "be of age",
+    "reference": "391b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(7) jete",
+    "copticWord": "ϫⲉⲧⲉ",
+    "englishTransliteration": "jete",
+    "gloss": "mature",
+    "definition": "mature",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(2) sto",
+    "copticWord": "ⲥⲧⲟ",
+    "englishTransliteration": "sto",
+    "gloss": "it is appropriate",
+    "definition": "it is appropriate",
+    "reference": "392b-393a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(3) sto ebol",
+        "copticWord": "ⲥⲧⲟ ⲉⲃⲟⲗ",
+        "englishTransliteration": "sto ebol",
+        "gloss": "reject, return",
+        "definition": "reject, return",
+        "reference": "436b-437a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "tsto ebol",
+            "copticWord": "ⲧⲥⲧⲟ ⲉⲃⲟⲗ",
+            "englishTransliteration": "tsto ebol"
+          }
+        ],
+        "crossReference": {
+          "target": "sot",
+          "gloss": "zurückkehren"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(25) jiti",
+    "copticWord": "ϫⲓϯ",
+    "englishTransliteration": "jiti",
+    "gloss": "trade (\"receive and give\", buy and sell)",
+    "definition": "trade (\"receive and give\", buy and sell)",
+    "reference": "395b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(29) mntrefti",
+    "copticWord": "ⲙⲛⲧⲣⲉϥϯ",
+    "englishTransliteration": "mntrefti",
+    "gloss": "generosity, charity",
+    "definition": "generosity, charity",
+    "reference": "396a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(30) chinti",
+    "copticWord": "ϭⲓⲛϯ",
+    "englishTransliteration": "chinti",
+    "gloss": "giving, selling",
+    "definition": "giving, selling",
+    "reference": "396a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin",
+      "gloss": "act of, manner of"
+    }
+  },
+  {
+    "headword": "to",
+    "copticWord": "ⲧⲟ",
+    "englishTransliteration": "to",
+    "gloss": "land, earth",
+    "definition": "land, earth",
+    "reference": "396a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "kmto",
+      "gloss": "Erdbeben"
+    }
+  },
+  {
+    "headword": "(1) toe",
+    "copticWord": "ⲧⲟⲉ",
+    "englishTransliteration": "toe",
+    "gloss": "part, share",
+    "definition": "part, share",
+    "reference": "396a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) jitoe",
+    "copticWord": "ϫⲓⲧⲟⲉ",
+    "englishTransliteration": "jitoe",
+    "gloss": "receive share, be partaker, participate",
+    "definition": "receive share, be partaker, participate",
+    "reference": "396b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(3) maitonhouo",
+    "copticWord": "ⲙⲁⲓⲧⲟⲛϩⲟⲩⲟ",
+    "englishTransliteration": "maitonhouo",
+    "gloss": "loving greater share, covetous",
+    "definition": "loving greater share, covetous",
+    "reference": "396b",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "me",
+      "gloss": "lieben"
+    }
+  },
+  {
+    "headword": "(4) mntmaitonhouo",
+    "copticWord": "ⲙⲛⲧⲙⲁⲓⲧⲟⲛϩⲟⲩⲟ",
+    "englishTransliteration": "mntmaitonhouo",
+    "gloss": "covetousness",
+    "definition": "covetousness",
+    "reference": "396b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(3) rto",
+    "copticWord": "ⲣⲧⲟ",
+    "englishTransliteration": "rto",
+    "gloss": "be spotted",
+    "definition": "be spotted",
+    "reference": "396b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "to",
+    "copticWord": "ⲧⲱ⸗",
+    "englishTransliteration": "to",
+    "gloss": "this of . . . (mine, yours etc.)",
+    "definition": "this of . . . (mine, yours etc.)",
+    "reference": "260b",
+    "crossReference": {
+      "target": "nou",
+      "gloss": "Poss. Pron. pl."
+    }
+  },
+  {
+    "headword": "to eto",
+    "copticWord": "ⲧⲱ ⲉⲧⲱ",
+    "englishTransliteration": "to eto",
+    "gloss": "difference between ... and ...",
+    "definition": "difference between ... and ...",
+    "reference": "396b-397a",
+    "partOfSpeech": "ptc"
+  },
+  {
+    "headword": "(1) tba",
+    "copticWord": "ⲧⲃⲁ",
+    "englishTransliteration": "tba",
+    "gloss": "ten thousand",
+    "definition": "ten thousand",
+    "reference": "399a",
+    "partOfSpeech": "num"
+  },
+  {
+    "headword": "(2) anthba",
+    "copticWord": "ⲁⲛⲑⲃⲁ",
+    "englishTransliteration": "anthba",
+    "gloss": "myriad",
+    "definition": "myriad",
+    "reference": "399a",
+    "partOfSpeech": "num",
+    "crossReference": {
+      "target": "a-",
+      "gloss": "ungefähr"
+    }
+  },
+  {
+    "headword": "(3) chistba",
+    "copticWord": "ϭⲓⲥⲧⲃⲁ",
+    "englishTransliteration": "chistba",
+    "gloss": "half ten thousand",
+    "definition": "half ten thousand",
+    "reference": "399a",
+    "partOfSpeech": "num",
+    "crossReference": {
+      "target": "chos-",
+      "gloss": "Hälfte"
+    }
+  },
+  {
+    "headword": "teebe",
+    "copticWord": "ⲧⲏⲏⲃⲉ",
+    "englishTransliteration": "teebe",
+    "gloss": "finger",
+    "definition": "finger",
+    "reference": "397b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "tobe",
+    "copticWord": "ⲧⲱⲃⲉ",
+    "englishTransliteration": "tobe",
+    "gloss": "name of 5th month",
+    "definition": "name of 5th month",
+    "reference": "397b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "toobe",
+    "copticWord": "ⲧⲱⲱⲃⲉ",
+    "englishTransliteration": "toobe",
+    "gloss": "brick, adobe",
+    "definition": "brick, adobe",
+    "reference": "398a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) reftobi",
+    "copticWord": "ⲣⲉϥⲧⲱⲃⲓ",
+    "englishTransliteration": "reftobi",
+    "gloss": "sealer",
+    "definition": "sealer",
+    "reference": "398b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(4) toobes",
+    "copticWord": "ⲧⲟⲟⲃⲉⲥ",
+    "englishTransliteration": "toobes",
+    "gloss": "seal's impress",
+    "definition": "seal's impress",
+    "reference": "398b",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "word": "-toobf",
+        "copticWord": "ⲧⲟⲟⲃϥ",
+        "englishTransliteration": "toobf"
+      }
+    ]
+  },
+  {
+    "headword": "(6) hitoobes",
+    "copticWord": "ϩⲓⲧⲟⲟⲃⲉⲥ",
+    "englishTransliteration": "hitoobes",
+    "gloss": "set a seal",
+    "definition": "set a seal",
+    "reference": "398b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "hioue",
+      "gloss": "schlagen, werfen, stoßen, setzen"
+    }
+  },
+  {
+    "headword": "(7) tbbe",
+    "copticWord": "ⲧⲃⲃⲉ",
+    "englishTransliteration": "tbbe",
+    "gloss": "seal",
+    "definition": "seal",
+    "reference": "398b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "tebi",
+      "gloss": "Obole"
+    }
+  },
+  {
+    "headword": "(4) reftoobe",
+    "copticWord": "ⲣⲉϥⲧⲱⲱⲃⲉ",
+    "englishTransliteration": "reftoobe",
+    "gloss": "requiter",
+    "definition": "requiter",
+    "reference": "399a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(6) petbe",
+    "copticWord": "ⲡⲉⲧⲃⲉ",
+    "englishTransliteration": "petbe",
+    "gloss": "\"Requiter\" (name of a god)",
+    "definition": "\"Requiter\" (name of a god)",
+    "reference": "399a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) tbbo",
+    "copticWord": "ⲧⲃⲃⲟ",
+    "englishTransliteration": "tbbo",
+    "gloss": "become pure, be pure",
+    "definition": "become pure, be pure",
+    "reference": "399b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ouop",
+      "gloss": "rein sein"
+    }
+  },
+  {
+    "headword": "(3) hnoutbbo",
+    "copticWord": "ϩⲛⲟⲩⲧⲃⲃⲟ",
+    "englishTransliteration": "hnoutbbo",
+    "gloss": "purely",
+    "definition": "purely",
+    "reference": "400a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "ouop",
+      "gloss": "rein sein"
+    }
+  },
+  {
+    "headword": "(4) attbbo",
+    "copticWord": "ⲁⲧⲧⲃⲃⲟ",
+    "englishTransliteration": "attbbo",
+    "gloss": "impure",
+    "definition": "impure",
+    "reference": "400a",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "at-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(5) mettbbo",
+    "copticWord": "ⲙⲉⲧⲧⲃⲃⲟ",
+    "englishTransliteration": "mettbbo",
+    "gloss": "purity",
+    "definition": "purity",
+    "reference": "400a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(6) chintbbo",
+    "copticWord": "ϭⲓⲛⲧⲃⲃⲟ",
+    "englishTransliteration": "chintbbo",
+    "gloss": "purification",
+    "definition": "purification",
+    "reference": "400a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tbai-",
+    "copticWord": "ⲧⲃⲁⲓ-",
+    "englishTransliteration": "tbai-",
+    "gloss": "upon (in ⲧⲃⲁⲓⲧⲱⲟⲩ, \"upon (his) mountain\", Anubis's title)",
+    "definition": "upon (in ⲧⲃⲁⲓⲧⲱⲟⲩ, \"upon (his) mountain\", Anubis's title)",
+    "reference": "399b"
+  },
+  {
+    "headword": "tbko",
+    "copticWord": "*ⲧⲃⲕⲟ",
+    "englishTransliteration": "tbko",
+    "gloss": "send",
+    "definition": "send",
+    "reference": "400b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "bok",
+      "gloss": "gehen"
+    }
+  },
+  {
+    "headword": "tbel",
+    "copticWord": "ⲧⲃⲏⲗ",
+    "englishTransliteration": "tbel",
+    "gloss": "fold for sheep",
+    "definition": "fold for sheep",
+    "reference": "400b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "teble",
+    "copticWord": "ⲧⲉⲃⲗⲉ",
+    "englishTransliteration": "teble",
+    "gloss": "a plant",
+    "definition": "a plant",
+    "reference": "400b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) tbne",
+    "copticWord": "ⲧⲃⲛⲏ",
+    "englishTransliteration": "tbne",
+    "gloss": "beast, domestic animal",
+    "definition": "beast, domestic animal",
+    "reference": "400b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) pantbne",
+    "copticWord": "ⲡⲁⲛⲧⲃⲛⲏ",
+    "englishTransliteration": "pantbne",
+    "gloss": "cattle-man",
+    "definition": "cattle-man",
+    "reference": "400b",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "pa-",
+      "gloss": "Possessivpräfix sg. m."
+    }
+  },
+  {
+    "headword": "(4) mnttebne",
+    "copticWord": "ⲙⲛⲧⲧⲉⲃⲛⲏ",
+    "englishTransliteration": "mnttebne",
+    "gloss": "bestiality",
+    "definition": "bestiality",
+    "reference": "400b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(5) refsashftbne",
+    "copticWord": "ⲣⲉϥⲥⲁϣϥⲧⲃⲛⲏ",
+    "englishTransliteration": "refsashftbne",
+    "gloss": "cattle-breeder",
+    "definition": "cattle-breeder",
+    "reference": "400b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "saashf",
+      "gloss": "ernähren"
+    }
+  },
+  {
+    "headword": "(1) tber",
+    "copticWord": "ⲧⲃⲏⲣ",
+    "englishTransliteration": "tber",
+    "gloss": "blow with foot",
+    "definition": "blow with foot",
+    "reference": "401a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) titber",
+    "copticWord": "ϯⲧⲃⲏⲣ",
+    "englishTransliteration": "titber",
+    "gloss": "kick",
+    "definition": "kick",
+    "reference": "401a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(1) tibs",
+    "copticWord": "ϯⲃⲥ",
+    "englishTransliteration": "tibs",
+    "gloss": "heel",
+    "definition": "heel",
+    "reference": "401a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) fitibs",
+    "copticWord": "ϥⲓϯⲃⲥ",
+    "englishTransliteration": "fitibs",
+    "gloss": "step",
+    "definition": "step",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "fi",
+      "gloss": "aufheben, tragen, nehmen"
+    }
+  },
+  {
+    "headword": "(3) jitibs",
+    "copticWord": "ϫⲓϯⲃⲥ",
+    "englishTransliteration": "jitibs",
+    "gloss": "trip up",
+    "definition": "trip up",
+    "reference": "401a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(4) mntjitibs",
+    "copticWord": "ⲙⲛⲧϫⲓϯⲃⲥ",
+    "englishTransliteration": "mntjitibs",
+    "gloss": "act of tripping up",
+    "definition": "act of tripping up",
+    "reference": "401a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(5) metthibs",
+    "copticWord": "ⲙⲉⲧⲑⲓⲃⲥ",
+    "englishTransliteration": "metthibs",
+    "gloss": "currier's tool?",
+    "definition": "currier's tool?",
+    "reference": "401a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) tobs",
+    "copticWord": "ⲧⲱⲃⲥ",
+    "englishTransliteration": "tobs",
+    "gloss": "be pricked, be incited",
+    "definition": "be pricked, be incited",
+    "reference": "401a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tabt",
+    "copticWord": "ⲧⲁⲃⲧ",
+    "englishTransliteration": "tabt",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "401b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) tbt",
+    "copticWord": "ⲧⲃⲧ",
+    "englishTransliteration": "tbt",
+    "gloss": "fish",
+    "definition": "fish",
+    "reference": "401b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) cheptbt",
+    "copticWord": "ϭⲉⲡⲧⲃⲧ",
+    "englishTransliteration": "cheptbt",
+    "gloss": "catch fish",
+    "definition": "catch fish",
+    "reference": "401b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "chope",
+      "gloss": "fassen"
+    }
+  },
+  {
+    "headword": "(4) tahetbt",
+    "copticWord": "ⲧⲁϩⲉⲧⲃⲧ",
+    "englishTransliteration": "tahetbt",
+    "gloss": "catch fish",
+    "definition": "catch fish",
+    "reference": "401b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "taho",
+      "gloss": "make to stand, set up"
+    }
+  },
+  {
+    "headword": "(5) refchptbt",
+    "copticWord": "ⲣⲉϥϭⲡⲧⲃⲧ",
+    "englishTransliteration": "refchptbt",
+    "gloss": "fish-catcher, fisherman",
+    "definition": "fish-catcher, fisherman",
+    "reference": "401b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref ",
+      "gloss": "the one who. . . (nominal prefix)"
+    }
+  },
+  {
+    "headword": "(7) reftahetbt",
+    "copticWord": "ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ",
+    "englishTransliteration": "reftahetbt",
+    "gloss": "fish-catcher, fisherman",
+    "definition": "fish-catcher, fisherman",
+    "reference": "401b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref ",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(1) tobtb",
+    "copticWord": "ⲧⲟⲃⲧⲃ",
+    "englishTransliteration": "tobtb",
+    "gloss": "form, compound, invent",
+    "definition": "form, compound, invent",
+    "reference": "401b-402a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) maitabtb",
+    "copticWord": "ⲙⲁⲓⲧⲁⲃⲧⲃ",
+    "englishTransliteration": "maitabtb",
+    "gloss": "ornament-loving",
+    "definition": "ornament-loving",
+    "reference": "402a",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "me",
+      "gloss": "lieben"
+    }
+  },
+  {
+    "headword": "(4) tbtb",
+    "copticWord": "ⲧⲃⲧⲃ",
+    "englishTransliteration": "tbtb",
+    "gloss": "mixed (?) food",
+    "definition": "mixed (?) food",
+    "reference": "402a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "toobef",
+    "copticWord": "ⲧⲟⲟⲃⲉϥ",
+    "englishTransliteration": "toobef",
+    "gloss": "foliage",
+    "definition": "foliage",
+    "reference": "402a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(3) reftobh",
+    "copticWord": "ⲣⲉϥⲧⲱⲃϩ",
+    "englishTransliteration": "reftobh",
+    "gloss": "one who prays, suppliant, beggar",
+    "definition": "one who prays, suppliant, beggar",
+    "reference": "402b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(5) mntreftobh",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲧⲱⲃϩ",
+    "englishTransliteration": "mntreftobh",
+    "gloss": "beggary",
+    "definition": "beggary",
+    "reference": "402b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(6) jintobh",
+    "copticWord": "ϫⲓⲛⲧⲱⲃϩ",
+    "englishTransliteration": "jintobh",
+    "gloss": "entreaty",
+    "definition": "entreaty",
+    "reference": "402b",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tie",
+    "copticWord": "ϯⲏ",
+    "englishTransliteration": "tie",
+    "gloss": "emanation",
+    "definition": "emanation",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) taeio",
+    "copticWord": "ⲧⲁⲉⲓⲟ",
+    "englishTransliteration": "taeio",
+    "gloss": "honor, pay respect to, adorn",
+    "definition": "honor, pay respect to, adorn",
+    "reference": "390b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "aiai",
+      "gloss": "geehrt sein"
+    }
+  },
+  {
+    "headword": "(3) maitaeio",
+    "copticWord": "ⲙⲁⲓⲧⲁⲉⲓⲟ",
+    "englishTransliteration": "maitaeio",
+    "gloss": "honour-loving",
+    "definition": "honour-loving",
+    "reference": "391a",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "me",
+      "gloss": "lieben"
+    }
+  },
+  {
+    "headword": "(5) reftaeio",
+    "copticWord": "ⲣⲉϥⲧⲁⲉⲓⲟ",
+    "englishTransliteration": "reftaeio",
+    "gloss": "honorable person",
+    "definition": "honorable person",
+    "reference": "391a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "aiai",
+      "gloss": "geehrt sein"
+    }
+  },
+  {
+    "headword": "(7) titaeio",
+    "copticWord": "ϯⲧⲁⲉⲓⲟ",
+    "englishTransliteration": "titaeio",
+    "gloss": "give an honour, make a gift",
+    "definition": "give an honour, make a gift",
+    "reference": "391a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(8) shoutaio",
+    "copticWord": "ϣⲟⲩⲧⲁⲓⲟ",
+    "englishTransliteration": "shoutaio",
+    "gloss": "be worthy of honour",
+    "definition": "be worthy of honour",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "shou-",
+      "gloss": "wert sein"
+    }
+  },
+  {
+    "headword": "(9) jitaeio",
+    "copticWord": "ϫⲓⲧⲁⲉⲓⲟ",
+    "englishTransliteration": "jitaeio",
+    "gloss": "receive an honour, receive a gift",
+    "definition": "receive an honour, receive a gift",
+    "reference": "391b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(1) touiou",
+    "copticWord": "ⲧⲟⲩⲓⲟⲩ",
+    "englishTransliteration": "touiou",
+    "gloss": "remove, wean, repay, return",
+    "definition": "remove, wean, repay, return",
+    "reference": "444a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "toueiou",
+        "copticWord": "ⲧⲟⲩⲉⲓⲟⲩ",
+        "englishTransliteration": "toueiou"
+      }
+    ]
+  },
+  {
+    "headword": "(2) touio",
+    "copticWord": "ⲧⲟⲩⲓⲟ",
+    "englishTransliteration": "touio",
+    "gloss": "repayment",
+    "definition": "repayment",
+    "reference": "444a",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "word": "toueio",
+        "copticWord": "ⲧⲟⲩⲉⲓⲟ",
+        "englishTransliteration": "toueio"
+      }
+    ]
+  },
+  {
+    "headword": "(4) jaeitoueio",
+    "copticWord": "ϫⲁⲉⲓⲧⲟⲩⲉⲓⲟ",
+    "englishTransliteration": "jaeitoueio",
+    "gloss": "wage-taker, hireling",
+    "definition": "wage-taker, hireling",
+    "reference": "444b",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "taibe",
+    "copticWord": "ⲧⲁⲓⲃⲉ",
+    "englishTransliteration": "taibe",
+    "gloss": "chest, coffin, pouch, large box",
+    "definition": "chest, coffin, pouch, large box",
+    "reference": "397a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "toile",
+    "copticWord": "ⲧⲟⲓⲗⲉ",
+    "englishTransliteration": "toile",
+    "gloss": "rise up",
+    "definition": "rise up",
+    "reference": "410a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "talo",
+      "gloss": "aufsteigen lassen"
+    }
+  },
+  {
+    "headword": "toili",
+    "copticWord": "ⲧⲱⲓⲗⲓ",
+    "englishTransliteration": "toili",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "410a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) taim",
+    "copticWord": "ⲧⲁⲓⲙ",
+    "englishTransliteration": "taim",
+    "gloss": "help",
+    "definition": "help",
+    "reference": "412a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "taeime",
+        "copticWord": "ⲧⲁⲉⲓⲙⲉ",
+        "englishTransliteration": "taeime"
+      },
+      {
+        "word": "taeim",
+        "copticWord": "ⲧⲁⲉⲓⲙ",
+        "englishTransliteration": "taeim"
+      },
+      {
+        "word": "taime",
+        "copticWord": "ⲧⲁⲓⲙⲉ",
+        "englishTransliteration": "taime"
+      }
+    ]
+  },
+  {
+    "headword": "(2) taime",
+    "copticWord": "ⲧⲁⲓⲙⲉ",
+    "englishTransliteration": "taime",
+    "gloss": "help",
+    "definition": "help",
+    "reference": "412a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "tois",
+    "copticWord": "ⲧⲟⲓⲥ",
+    "englishTransliteration": "tois",
+    "gloss": "piece of cloth, rag",
+    "definition": "piece of cloth, rag",
+    "reference": "433a",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "word": "toeis",
+        "copticWord": "ⲧⲟⲉⲓⲥ",
+        "englishTransliteration": "toeis"
+      }
+    ]
+  },
+  {
+    "headword": "(1) toeit",
+    "copticWord": "ⲧⲟⲉⲓⲧ",
+    "englishTransliteration": "toeit",
+    "gloss": "mourn",
+    "definition": "mourn",
+    "reference": "437b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) reftoeit",
+    "copticWord": "ⲣⲉϥⲧⲟⲉⲓⲧ",
+    "englishTransliteration": "reftoeit",
+    "gloss": "mourner",
+    "definition": "mourner",
+    "reference": "437b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(3) attako",
+    "copticWord": "ⲁⲧⲧⲁⲕⲟ",
+    "englishTransliteration": "attako",
+    "gloss": "imperishable",
+    "definition": "imperishable",
+    "reference": "405b",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "at-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(4) mntattako",
+    "copticWord": "ⲙⲛⲧⲁⲧⲧⲁⲕⲟ",
+    "englishTransliteration": "mntattako",
+    "gloss": "incorruptibility",
+    "definition": "incorruptibility",
+    "reference": "405b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(5) reftako",
+    "copticWord": "ⲣⲉϥⲧⲁⲕⲟ",
+    "englishTransliteration": "reftako",
+    "gloss": "destroyer",
+    "definition": "destroyer",
+    "reference": "405b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ako",
+      "gloss": "Verderben"
+    }
+  },
+  {
+    "headword": "(8) reftakehet",
+    "copticWord": "ⲣⲉϥⲧⲁⲕⲉϩⲏⲧ",
+    "englishTransliteration": "reftakehet",
+    "gloss": "deceiver",
+    "definition": "deceiver",
+    "reference": "406a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ako",
+      "gloss": "Verderben"
+    }
+  },
+  {
+    "headword": "(11) jintako",
+    "copticWord": "ϫⲓⲛⲧⲁⲕⲟ",
+    "englishTransliteration": "jintako",
+    "gloss": "destruction",
+    "definition": "destruction",
+    "reference": "406a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tok",
+    "copticWord": "ⲧⲟⲕ",
+    "englishTransliteration": "tok",
+    "gloss": "knife, razor",
+    "definition": "knife, razor",
+    "reference": "403a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "touko",
+    "copticWord": "*ⲧⲟⲩⲕⲟ",
+    "englishTransliteration": "touko",
+    "gloss": "send",
+    "definition": "send",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) tok",
+    "copticWord": "ⲧⲱⲕ",
+    "englishTransliteration": "tok",
+    "gloss": "be strong, be firm, be thick",
+    "definition": "be strong, be firm, be thick",
+    "reference": "403a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) tok (aret)",
+        "copticWord": "ⲧⲱⲕ (ⲁⲣⲉⲧ⸗)",
+        "englishTransliteration": "tok (aret)",
+        "gloss": "set up",
+        "definition": "set up",
+        "reference": "403a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) tok (ehoun)",
+        "copticWord": "ⲧⲱⲕ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "tok (ehoun)",
+        "gloss": "persist, be confident",
+        "definition": "persist, be confident",
+        "reference": "403a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) tok nhet",
+        "copticWord": "ⲧⲱⲕ ⲛϩⲏⲧ",
+        "englishTransliteration": "tok nhet",
+        "gloss": "be strong of heart, take courage",
+        "definition": "be strong of heart, take courage",
+        "reference": "403b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      },
+      {
+        "headword": "(9) tok nhet (ejn-)",
+        "copticWord": "ⲧⲱⲕ ⲛϩⲏⲧ (ⲉϫⲛ-)",
+        "englishTransliteration": "tok nhet (ejn-)",
+        "gloss": "rely upon, be content with",
+        "definition": "rely upon, be content with",
+        "reference": "403b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      },
+      {
+        "headword": "(10) tok nhet (n-)",
+        "copticWord": "ⲧⲱⲕ ⲛϩⲏⲧ (ⲛ-)",
+        "englishTransliteration": "tok nhet (n-)",
+        "gloss": "rely upon",
+        "definition": "rely upon",
+        "reference": "403b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(5) titok",
+    "copticWord": "ϯⲧⲱⲕ",
+    "englishTransliteration": "titok",
+    "gloss": "give strength, fortify",
+    "definition": "give strength, fortify",
+    "reference": "403b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    },
+    "variants": [
+      {
+        "headword": "(12) titok nhet",
+        "copticWord": "ϯⲧⲱⲕ ⲛϩⲏⲧ",
+        "englishTransliteration": "titok nhet",
+        "gloss": "give confidence",
+        "definition": "give confidence",
+        "reference": "403b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ti",
+          "gloss": "geben, zahlen, verkaufen"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(6) jitok",
+    "copticWord": "ϫⲓⲧⲱⲕ",
+    "englishTransliteration": "jitok",
+    "gloss": "take courage",
+    "definition": "take courage",
+    "reference": "403b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    },
+    "variants": [
+      {
+        "headword": "(13) jitok nhet",
+        "copticWord": "ϫⲓⲧⲱⲕ ⲛϩⲏⲧ",
+        "englishTransliteration": "jitok nhet",
+        "gloss": "take courage",
+        "definition": "take courage",
+        "reference": "403b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ji",
+          "gloss": "nehmen, erhalten"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "(7) shsntok",
+    "copticWord": "ϣⲥⲛⲧⲱⲕ",
+    "englishTransliteration": "shsntok",
+    "gloss": "blow, slap (?)",
+    "definition": "blow, slap (?)",
+    "reference": "403b",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "sash",
+      "gloss": "Schlag"
+    }
+  },
+  {
+    "headword": "(14) tak",
+    "copticWord": "ⲧⲁⲕ",
+    "englishTransliteration": "tak",
+    "gloss": "something fixed, mast",
+    "definition": "something fixed, mast",
+    "reference": "403b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(5) tike",
+    "copticWord": "ϯⲕⲉ",
+    "englishTransliteration": "tike",
+    "gloss": "throw",
+    "definition": "throw",
+    "reference": "404a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(6) reftiksate",
+    "copticWord": "ⲣⲉϥϯⲕⲥⲁⲧⲉ",
+    "englishTransliteration": "reftiksate",
+    "gloss": "archer",
+    "definition": "archer",
+    "reference": "404a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "sote",
+      "gloss": "Pfeil"
+    }
+  },
+  {
+    "headword": "(5) intok",
+    "copticWord": "ⲓⲛⲧⲱⲕ",
+    "englishTransliteration": "intok",
+    "gloss": "oven",
+    "definition": "oven",
+    "reference": "404b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(6) reftok",
+    "copticWord": "ⲣⲉϥⲧⲱⲕ",
+    "englishTransliteration": "reftok",
+    "gloss": "stoker",
+    "definition": "stoker",
+    "reference": "404b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(9) tik",
+    "copticWord": "ϯⲕ",
+    "englishTransliteration": "tik",
+    "gloss": "sparkle",
+    "definition": "sparkle",
+    "reference": "404b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "tkaio",
+    "copticWord": "ⲧⲕⲁⲓⲟ",
+    "englishTransliteration": "tkaio",
+    "gloss": "extremity",
+    "definition": "extremity",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) tokm",
+    "copticWord": "ⲧⲱⲕⲙ",
+    "englishTransliteration": "tokm",
+    "gloss": "pluck, draw, drag",
+    "definition": "pluck, draw, drag",
+    "reference": "406a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) tokm nhet",
+        "copticWord": "ⲧⲱⲕⲙ ⲛϩⲏⲧ",
+        "englishTransliteration": "tokm nhet",
+        "gloss": "be troubled at heart",
+        "definition": "be troubled at heart",
+        "reference": "406b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "tkour",
+    "copticWord": "ⲧⲕⲟⲩⲣ",
+    "englishTransliteration": "tkour",
+    "gloss": "speed",
+    "definition": "speed",
+    "reference": "406b",
+    "partOfSpeech": "n",
+    "variants": [
+      {
+        "word": "trour",
+        "copticWord": "ⲧⲣⲟⲩⲣ",
+        "englishTransliteration": "trour"
+      }
+    ]
+  },
+  {
+    "headword": "(1) toks",
+    "copticWord": "ⲧⲱⲕⲥ",
+    "englishTransliteration": "toks",
+    "gloss": "be pierced, be studded, be fixed, be settled",
+    "definition": "be pierced, be studded, be fixed, be settled",
+    "reference": "406b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) tochs",
+    "copticWord": "ⲧⲟϭⲥ",
+    "englishTransliteration": "tochs",
+    "gloss": "a thing firmly fixed, seat",
+    "definition": "a thing firmly fixed, seat",
+    "reference": "407a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(4) tax",
+    "copticWord": "ⲧⲁⲝ",
+    "englishTransliteration": "tax",
+    "gloss": "molar tooth",
+    "definition": "molar tooth",
+    "reference": "407a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(6) titkas",
+    "copticWord": "ϯⲧⲕⲁⲥ",
+    "englishTransliteration": "titkas",
+    "gloss": "give/have pain",
+    "definition": "give/have pain",
+    "reference": "407b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(1) tkto",
+    "copticWord": "ⲧⲕⲧⲟ",
+    "englishTransliteration": "tkto",
+    "gloss": "put around, go around, set around",
+    "definition": "put around, go around, set around",
+    "reference": "407b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "kote",
+      "gloss": "umgeben"
+    }
+  },
+  {
+    "headword": "toksh",
+    "copticWord": "*ⲧⲱⲕϣ",
+    "englishTransliteration": "toksh",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "407b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tokh",
+    "copticWord": "*ⲧⲱⲕϩ",
+    "englishTransliteration": "tokh",
+    "gloss": "unknown meaning (something that one can draw?)",
+    "definition": "unknown meaning (something that one can draw?)",
+    "reference": "408a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(2) tle",
+    "copticWord": "ⲧⲗⲏ",
+    "englishTransliteration": "tle",
+    "gloss": "filtration",
+    "definition": "filtration",
+    "reference": "410a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "tlo",
+    "copticWord": "ⲧⲗⲱ",
+    "englishTransliteration": "tlo",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "410a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) tal",
+    "copticWord": "ⲧⲁⲗ",
+    "englishTransliteration": "tal",
+    "gloss": "heap, hillock",
+    "definition": "heap, hillock",
+    "reference": "408a",
+    "partOfSpeech": "m",
+    "isGreek": true
+  },
+  {
+    "headword": "(2) talatel",
+    "copticWord": "ⲧⲁⲗⲁⲧⲏⲗ",
+    "englishTransliteration": "talatel",
+    "gloss": "heap, hillock",
+    "definition": "heap, hillock",
+    "reference": "408a",
+    "partOfSpeech": "m",
+    "isGreek": true
+  },
+  {
+    "headword": "(8) jintalo",
+    "copticWord": "ϫⲓⲛⲧⲁⲗⲟ",
+    "englishTransliteration": "jintalo",
+    "gloss": "raising",
+    "definition": "raising",
+    "reference": "409b",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) tolk",
+    "copticWord": "ⲧⲱⲗⲕ",
+    "englishTransliteration": "tolk",
+    "gloss": "pluck out",
+    "definition": "pluck out",
+    "reference": "410a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(2) tloklek",
+    "copticWord": "ⲧⲗⲟⲕⲗⲉⲕ",
+    "englishTransliteration": "tloklek",
+    "gloss": "tear",
+    "definition": "tear",
+    "reference": "410a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) telel",
+    "copticWord": "ⲧⲉⲗⲏⲗ",
+    "englishTransliteration": "telel",
+    "gloss": "rejoice",
+    "definition": "rejoice",
+    "reference": "410a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tlol",
+    "copticWord": "ⲧⲗⲟⲗ",
+    "englishTransliteration": "tlol",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "410b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "tloule",
+    "copticWord": "ⲧⲗⲟⲩⲗⲉ",
+    "englishTransliteration": "tloule",
+    "gloss": "unknown meaning (a metallic utensil)",
+    "definition": "unknown meaning (a metallic utensil)",
+    "reference": "410b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "tlom",
+    "copticWord": "ⲧⲗⲟⲙ",
+    "englishTransliteration": "tlom",
+    "gloss": "furrow",
+    "definition": "furrow",
+    "reference": "411a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) tolm",
+    "copticWord": "ⲧⲱⲗⲙ",
+    "englishTransliteration": "tolm",
+    "gloss": "be defiled, be besmirched",
+    "definition": "be defiled, be besmirched",
+    "reference": "410b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) titolm",
+    "copticWord": "ϯⲧⲱⲗⲙ",
+    "englishTransliteration": "titolm",
+    "gloss": "give stain, stain",
+    "definition": "give stain, stain",
+    "reference": "411a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) attolm",
+    "copticWord": "ⲁⲧⲧⲱⲗⲙ",
+    "englishTransliteration": "attolm",
+    "gloss": "stainless, unpolluted",
+    "definition": "stainless, unpolluted",
+    "reference": "411a",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "at-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tols",
+    "copticWord": "ⲧⲱⲗⲥ",
+    "englishTransliteration": "tols",
+    "gloss": "be fixed, be sunk",
+    "definition": "be fixed, be sunk",
+    "reference": "411a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) tltl",
+    "copticWord": "ⲧⲗⲧⲗ",
+    "englishTransliteration": "tltl",
+    "gloss": "drip, let drop",
+    "definition": "drip, let drop",
+    "reference": "411a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "tle",
+      "gloss": "tropfen, tropfen lassen"
+    }
+  },
+  {
+    "headword": "(3) tltile",
+    "copticWord": "ⲧⲗϯⲗⲉ",
+    "englishTransliteration": "tltile",
+    "gloss": "drop",
+    "definition": "drop",
+    "reference": "411b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(5) taltel",
+    "copticWord": "ⲧⲁⲗⲧⲉⲗ",
+    "englishTransliteration": "taltel",
+    "gloss": "a kind of wine?",
+    "definition": "a kind of wine?",
+    "reference": "411b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(6) reftitalcho",
+    "copticWord": "ⲣⲉϥϯⲧⲁⲗϭⲟ",
+    "englishTransliteration": "reftitalcho",
+    "gloss": "healer",
+    "definition": "healer",
+    "reference": "412a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(8) mntreftitalcho",
+    "copticWord": "ⲙⲛⲧⲣⲉϥϯⲧⲁⲗϭⲟ",
+    "englishTransliteration": "mntreftitalcho",
+    "gloss": "healing power",
+    "definition": "healing power",
+    "reference": "412a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "give, pay, sell"
+    }
+  },
+  {
+    "headword": "(9) chintalcho",
+    "copticWord": "ϭⲓⲛⲧⲁⲗϭⲟ",
+    "englishTransliteration": "chintalcho",
+    "gloss": "healing",
+    "definition": "healing",
+    "reference": "412a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tm-",
+    "copticWord": "ⲧⲙ-",
+    "englishTransliteration": "tm-",
+    "gloss": "negation of infinitive and some verbal forms",
+    "definition": "negation of infinitive and some verbal forms",
+    "reference": "412a"
+  },
+  {
+    "headword": "(1) tme",
+    "copticWord": "ⲧⲙⲏ",
+    "englishTransliteration": "tme",
+    "gloss": "mat",
+    "definition": "mat",
+    "reference": "415b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "tom",
+      "gloss": "Matte"
+    }
+  },
+  {
+    "headword": "(2) sahtme",
+    "copticWord": "ⲥⲁϩⲧⲙⲏ",
+    "englishTransliteration": "sahtme",
+    "gloss": "mat-weaver",
+    "definition": "mat-weaver",
+    "reference": "415b",
+    "partOfSpeech": "adj",
+    "variants": [
+      {
+        "word": "sahttme",
+        "copticWord": "ⲥⲁϩⲧⲧⲙⲏ",
+        "englishTransliteration": "sahttme"
+      }
+    ],
+    "crossReference": {
+      "target": "sohe",
+      "gloss": "weben"
+    }
+  },
+  {
+    "headword": "tam",
+    "copticWord": "ⲧⲁⲙ",
+    "englishTransliteration": "tam",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "412a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) rmntime",
+    "copticWord": "ⲣⲙⲛϯⲙⲉ",
+    "englishTransliteration": "rmntime",
+    "gloss": "villager, citizen",
+    "definition": "villager, citizen",
+    "reference": "414b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(4) tmmo",
+    "copticWord": "ⲧⲙⲙⲟ",
+    "englishTransliteration": "tmmo",
+    "gloss": "big village",
+    "definition": "big village",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "o",
+      "gloss": "groß"
+    },
+    "variants": [
+      {
+        "headword": "(2) tmmo ebol",
+        "copticWord": "ⲧⲙⲙⲟ ⲉⲃⲟⲗ",
+        "englishTransliteration": "tmmo ebol",
+        "gloss": "feed, nourish",
+        "definition": "feed, nourish",
+        "reference": "416a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ouom",
+          "gloss": "essen"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "toome",
+    "copticWord": "ⲧⲟⲟⲙⲉ",
+    "englishTransliteration": "toome",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "414b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) tom",
+    "copticWord": "ⲧⲱⲙ",
+    "englishTransliteration": "tom",
+    "gloss": "shut",
+    "definition": "shut",
+    "reference": "412b-413a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) tom nhet",
+        "copticWord": "ⲧⲱⲙ ⲛϩⲏⲧ",
+        "englishTransliteration": "tom nhet",
+        "gloss": "shut the heart, become hardened",
+        "definition": "shut the heart, become hardened",
+        "reference": "412b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "het",
+          "gloss": "Herz"
+        }
+      },
+      {
+        "headword": "(4) tom (ern-)",
+        "copticWord": "ⲧⲱⲙ (ⲉⲣⲛ-)",
+        "englishTransliteration": "tom (ern-)",
+        "gloss": "bridle, curb",
+        "definition": "bridle, curb",
+        "reference": "413a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) tom ehrai",
+        "copticWord": "ⲧⲱⲙ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "tom ehrai",
+        "gloss": "close up?",
+        "definition": "close up?",
+        "reference": "413a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(6) thom",
+    "copticWord": "ⲑⲱⲙ",
+    "englishTransliteration": "thom",
+    "gloss": "that which shuts, fence",
+    "definition": "that which shuts, fence",
+    "reference": "413a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(1) toome",
+    "copticWord": "ⲧⲱⲱⲙⲉ",
+    "englishTransliteration": "toome",
+    "gloss": "join, be fitting, be appropriate",
+    "definition": "join, be fitting, be appropriate",
+    "reference": "414b-415a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) ratomi",
+    "copticWord": "ⲣⲁⲧⲱⲙⲓ",
+    "englishTransliteration": "ratomi",
+    "gloss": "joint",
+    "definition": "joint",
+    "reference": "415a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "ra",
+      "gloss": "Zustand"
+    }
+  },
+  {
+    "headword": "(4) jintomi",
+    "copticWord": "ϫⲓⲛⲧⲱⲙⲓ",
+    "englishTransliteration": "jintomi",
+    "gloss": "joining",
+    "definition": "joining",
+    "reference": "415a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) tmaio",
+    "copticWord": "ⲧⲙⲁⲓⲟ",
+    "englishTransliteration": "tmaio",
+    "gloss": "justify, praise",
+    "definition": "justify, praise",
+    "reference": "415b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "tmaeio",
+        "copticWord": "ⲧⲙⲁⲉⲓⲟ",
+        "englishTransliteration": "tmaeio"
+      }
+    ]
+  },
+  {
+    "headword": "(1) tamio",
+    "copticWord": "ⲧⲁⲙⲓⲟ",
+    "englishTransliteration": "tamio",
+    "gloss": "make, create",
+    "definition": "make, create",
+    "reference": "413a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) reftamio",
+    "copticWord": "ⲣⲉϥⲧⲁⲙⲓⲟ",
+    "englishTransliteration": "reftamio",
+    "gloss": "maker, creator",
+    "definition": "maker, creator",
+    "reference": "413b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(4) reftamie-",
+    "copticWord": "ⲣⲉϥⲧⲁⲙⲓⲉ-",
+    "englishTransliteration": "reftamie-",
+    "gloss": "maker, creator",
+    "definition": "maker, creator",
+    "reference": "413b",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "tamio",
+      "gloss": "make, create"
+    }
+  },
+  {
+    "headword": "(5) mntreftamie-",
+    "copticWord": "ⲙⲛⲧⲣⲉϥⲧⲁⲙⲓⲉ-",
+    "englishTransliteration": "mntreftamie-",
+    "gloss": "act of making, act of creating",
+    "definition": "act of making, act of creating",
+    "reference": "413b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(6) chintamio",
+    "copticWord": "ϭⲓⲛⲧⲁⲙⲓⲟ",
+    "englishTransliteration": "chintamio",
+    "gloss": "creation",
+    "definition": "creation",
+    "reference": "413b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) toms",
+    "copticWord": "ⲧⲱⲙⲥ",
+    "englishTransliteration": "toms",
+    "gloss": "bury",
+    "definition": "bury",
+    "reference": "416a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tmesio",
+    "copticWord": "ⲧⲙⲉⲥⲓⲟ",
+    "englishTransliteration": "tmesio",
+    "gloss": "bring to birth, deliver",
+    "definition": "bring to birth, deliver",
+    "reference": "186b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "mise",
+      "gloss": "gebären"
+    }
+  },
+  {
+    "headword": "tmet",
+    "copticWord": "ⲧⲙⲉⲧ",
+    "englishTransliteration": "tmet",
+    "gloss": "totality",
+    "definition": "totality",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(3) chintomt",
+    "copticWord": "ϭⲓⲛⲧⲱⲙⲧ",
+    "englishTransliteration": "chintomt",
+    "gloss": "meeting",
+    "definition": "meeting",
+    "reference": "416b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) tmtm",
+    "copticWord": "ⲧⲙⲧⲙ",
+    "englishTransliteration": "tmtm",
+    "gloss": "be heavy, be oppressed",
+    "definition": "be heavy, be oppressed",
+    "reference": "417a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) tmho",
+    "copticWord": "ⲧⲙϩⲟ",
+    "englishTransliteration": "tmho",
+    "gloss": "set on fire, kindle",
+    "definition": "set on fire, kindle",
+    "reference": "417a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tn-",
+    "copticWord": "ⲧⲛ-",
+    "englishTransliteration": "tn-",
+    "gloss": "every (only with ⲣⲟⲙⲡⲉ, e. g. in ⲧⲛⲣⲟⲙⲡⲉ, \"annually\")",
+    "definition": "every (only with ⲣⲟⲙⲡⲉ, e. g. in ⲧⲛⲣⲟⲙⲡⲉ, \"annually\")",
+    "reference": "297a",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "tano",
+    "copticWord": "ⲧⲁⲛⲟ",
+    "englishTransliteration": "tano",
+    "gloss": "make",
+    "definition": "make",
+    "reference": "418b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tene",
+    "copticWord": "ⲧⲏⲛⲉ",
+    "englishTransliteration": "tene",
+    "gloss": "dam, dyke",
+    "definition": "dam, dyke",
+    "reference": "418b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) eton",
+    "copticWord": "ⲉⲧⲱⲛ",
+    "englishTransliteration": "eton",
+    "gloss": "whither?",
+    "definition": "whither?",
+    "reference": "417b",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "e-",
+      "gloss": "zu"
+    }
+  },
+  {
+    "headword": "(3) nton",
+    "copticWord": "ⲛⲧⲱⲛ",
+    "englishTransliteration": "nton",
+    "gloss": "where?",
+    "definition": "where?",
+    "reference": "417b",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "n-",
+      "gloss": "in"
+    }
+  },
+  {
+    "headword": "(5) shaton",
+    "copticWord": "ϣⲁⲧⲱⲛ",
+    "englishTransliteration": "shaton",
+    "gloss": "whither?",
+    "definition": "whither?",
+    "reference": "418a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "sha-",
+      "gloss": "bei"
+    }
+  },
+  {
+    "headword": "(6) hnton",
+    "copticWord": "ϩⲛⲧⲱⲛ",
+    "englishTransliteration": "hnton",
+    "gloss": "where?",
+    "definition": "where?",
+    "reference": "418a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "hn-",
+      "gloss": "in"
+    }
+  },
+  {
+    "headword": "(7) jinton",
+    "copticWord": "ϫⲓⲛⲧⲱⲛ",
+    "englishTransliteration": "jinton",
+    "gloss": "whence?",
+    "definition": "whence?",
+    "reference": "418a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "jin-",
+      "gloss": "seit"
+    }
+  },
+  {
+    "headword": "(8) paton",
+    "copticWord": "ⲡⲁⲧⲱⲛ",
+    "englishTransliteration": "paton",
+    "gloss": "one from where?",
+    "definition": "one from where?",
+    "reference": "418a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "pa-",
+      "gloss": "Possessivpräfix sg. m."
+    }
+  },
+  {
+    "headword": "(9) rmnton",
+    "copticWord": "ⲣⲙⲛⲧⲱⲛ",
+    "englishTransliteration": "rmnton",
+    "gloss": "one from where?",
+    "definition": "one from where?",
+    "reference": "418a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) titon",
+    "copticWord": "ϯⲧⲱⲛ",
+    "englishTransliteration": "titon",
+    "gloss": "dispute, strife",
+    "definition": "dispute, strife",
+    "reference": "418a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(3) maititon",
+    "copticWord": "ⲙⲁⲓϯⲧⲱⲛ",
+    "englishTransliteration": "maititon",
+    "gloss": "strife-loving",
+    "definition": "strife-loving",
+    "reference": "418a",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) attiton",
+    "copticWord": "ⲁⲧϯⲧⲱⲛ",
+    "englishTransliteration": "attiton",
+    "gloss": "without strife",
+    "definition": "without strife",
+    "reference": "418a",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "at",
+      "gloss": "without"
+    }
+  },
+  {
+    "headword": "(5) mntattiton",
+    "copticWord": "ⲙⲛⲧⲁⲧϯⲧⲱⲛ",
+    "englishTransliteration": "mntattiton",
+    "gloss": "lack of strife",
+    "definition": "lack of strife",
+    "reference": "418a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt",
+      "gloss": "pref. to nn. or adj. forming abstracts"
+    }
+  },
+  {
+    "headword": "(6) mnttiton",
+    "copticWord": "ⲙⲛⲧϯⲧⲱⲛ",
+    "englishTransliteration": "mnttiton",
+    "gloss": "quarrelling",
+    "definition": "quarrelling",
+    "reference": "418a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(7) reftiton",
+    "copticWord": "ⲣⲉϥϯⲧⲱⲛ",
+    "englishTransliteration": "reftiton",
+    "gloss": "quarreller",
+    "definition": "quarreller",
+    "reference": "418a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(9) mntreftiton",
+    "copticWord": "ⲙⲛⲧⲣⲉϥϯⲧⲱⲛ",
+    "englishTransliteration": "mntreftiton",
+    "gloss": "discrepancy",
+    "definition": "discrepancy",
+    "reference": "418b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "give, pay, sell"
+    }
+  },
+  {
+    "headword": "(1) tnno",
+    "copticWord": "ⲧⲛⲛⲟ",
+    "englishTransliteration": "tnno",
+    "gloss": "pound, tread down",
+    "definition": "pound, tread down",
+    "reference": "419a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) thno",
+    "copticWord": "ⲑⲛⲟ",
+    "englishTransliteration": "thno",
+    "gloss": "pound, crush",
+    "definition": "pound, crush",
+    "reference": "419a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(4) hnoutnno",
+    "copticWord": "ϩⲛⲟⲩⲧⲛⲛⲟ",
+    "englishTransliteration": "hnoutnno",
+    "gloss": "with contrition",
+    "definition": "with contrition",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(1) tnnoou",
+    "copticWord": "ⲧⲛⲛⲟⲟⲩ",
+    "englishTransliteration": "tnnoou",
+    "gloss": "send",
+    "definition": "send",
+    "reference": "419b-420a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "headword": "(2) tnnoou (nsa-)",
+        "copticWord": "ⲧⲛⲛⲟⲟⲩ (ⲛⲥⲁ-)",
+        "englishTransliteration": "tnnoou (nsa-)",
+        "gloss": "send after, summon",
+        "definition": "send after, summon",
+        "reference": "419b-420a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "(3) chintnnoou",
+    "copticWord": "ϭⲓⲛⲧⲛⲛⲟⲟⲩ",
+    "englishTransliteration": "chintnnoou",
+    "gloss": "sending, mission",
+    "definition": "sending, mission",
+    "reference": "420a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(1) tontn",
+    "copticWord": "ⲧⲟⲛⲧⲛ",
+    "englishTransliteration": "tontn",
+    "gloss": "be like, liken to",
+    "definition": "be like, liken to",
+    "reference": "420a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) titontn",
+    "copticWord": "ϯⲧⲟⲛⲧⲛ",
+    "englishTransliteration": "titontn",
+    "gloss": "guess",
+    "definition": "guess",
+    "reference": "420b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) attontn",
+    "copticWord": "ⲁⲧⲧⲟⲛⲧⲛ",
+    "englishTransliteration": "attontn",
+    "gloss": "incomparable",
+    "definition": "incomparable",
+    "reference": "420b",
+    "partOfSpeech": "adj",
+    "crossReference": {
+      "target": "at-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(5) reftontn",
+    "copticWord": "ⲣⲉϥⲧⲟⲛⲧⲛ",
+    "englishTransliteration": "reftontn",
+    "gloss": "diviner",
+    "definition": "diviner",
+    "reference": "420b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(1) tonsh",
+    "copticWord": "*ⲧⲱⲛϣ",
+    "englishTransliteration": "tonsh",
+    "gloss": "threaten",
+    "definition": "threaten",
+    "reference": "421a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) titenshi",
+    "copticWord": "ϯⲧⲉⲛϣⲓ",
+    "englishTransliteration": "titenshi",
+    "gloss": "threaten, give a blow",
+    "definition": "threaten, give a blow",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(4) reftitonsh",
+    "copticWord": "ⲣⲉϥϯⲧⲱⲛϣ",
+    "englishTransliteration": "reftitonsh",
+    "gloss": "striker",
+    "definition": "striker",
+    "reference": "421a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(1) tnh",
+    "copticWord": "ⲧⲛϩ",
+    "englishTransliteration": "tnh",
+    "gloss": "wing",
+    "definition": "wing",
+    "reference": "421a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) rtnh",
+    "copticWord": "ⲣⲧⲛϩ",
+    "englishTransliteration": "rtnh",
+    "gloss": "grow wing, be winged",
+    "definition": "grow wing, be winged",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(3) rettnh",
+    "copticWord": "ⲣⲉⲧⲧⲛϩ",
+    "englishTransliteration": "rettnh",
+    "gloss": "grow wing, be winged",
+    "definition": "grow wing, be winged",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "rot",
+      "gloss": "grow, sprout, be covered with a growth (as vegetation, hair)"
+    }
+  },
+  {
+    "headword": "(4) taatetnh",
+    "copticWord": "ⲧⲁⲁⲧⲉⲧⲛϩ",
+    "englishTransliteration": "taatetnh",
+    "gloss": "flap (?) wings",
+    "definition": "flap (?) wings",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "taate",
+      "gloss": "throw back, spread"
+    }
+  },
+  {
+    "headword": "(5) jitnh",
+    "copticWord": "ϫⲓⲧⲛϩ",
+    "englishTransliteration": "jitnh",
+    "gloss": "take wings",
+    "definition": "take wings",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(1) tanho",
+    "copticWord": "ⲧⲁⲛϩⲟ",
+    "englishTransliteration": "tanho",
+    "gloss": "make alive, keep alive",
+    "definition": "make alive, keep alive",
+    "reference": "421a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "onh",
+      "gloss": "leben"
+    }
+  },
+  {
+    "headword": "(3) reftanho",
+    "copticWord": "ⲣⲉϥⲧⲁⲛϩⲟ",
+    "englishTransliteration": "reftanho",
+    "gloss": "life giver, saviour",
+    "definition": "life giver, saviour",
+    "reference": "421b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "onh",
+      "gloss": "leben"
+    }
+  },
+  {
+    "headword": "tonh",
+    "copticWord": "*ⲧⲱⲛϩ",
+    "englishTransliteration": "tonh",
+    "gloss": "entangle, be entangled in, be in converse with",
+    "definition": "entangle, be entangled in, be in converse with",
+    "reference": "421a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tnahso",
+    "copticWord": "*ⲧⲛⲁϩⲥⲟ",
+    "englishTransliteration": "tnahso",
+    "gloss": "arouse",
+    "definition": "arouse",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "nehse",
+      "gloss": "aufwachen"
+    }
+  },
+  {
+    "headword": "(1) tanhout",
+    "copticWord": "ⲧⲁⲛϩⲟⲩⲧ",
+    "englishTransliteration": "tanhout",
+    "gloss": "trust, believe",
+    "definition": "trust, believe",
+    "reference": "421b-422a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "nahte",
+      "gloss": "vertrauen, glauben"
+    }
+  },
+  {
+    "headword": "(2) chintanhout",
+    "copticWord": "ϭⲓⲛⲧⲁⲛϩⲟⲩⲧ⸗",
+    "englishTransliteration": "chintanhout",
+    "gloss": "trust",
+    "definition": "trust",
+    "reference": "422a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tanajit",
+    "copticWord": "ⲧⲁⲛⲁϫⲓⲧ",
+    "englishTransliteration": "tanajit",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "422a",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) tpe",
+    "copticWord": "ⲧⲡⲉ",
+    "englishTransliteration": "tpe",
+    "gloss": "what is above, upper part",
+    "definition": "what is above, upper part",
+    "reference": "259a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(2) rtpe",
+    "copticWord": "ⲣⲧⲡⲉ",
+    "englishTransliteration": "rtpe",
+    "gloss": "be above, surmount",
+    "definition": "be above, surmount",
+    "reference": "259b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(3) rsatpe",
+    "copticWord": "ⲣⲥⲁⲧⲡⲉ",
+    "englishTransliteration": "rsatpe",
+    "gloss": "be above, surmount",
+    "definition": "be above, surmount",
+    "reference": "259b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(4) rhitpe",
+    "copticWord": "ⲣϩⲓⲧⲡⲉ",
+    "englishTransliteration": "rhitpe",
+    "gloss": "be above, surmount",
+    "definition": "be above, surmount",
+    "reference": "259b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(5) etpe",
+    "copticWord": "ⲉⲧⲡⲉ",
+    "englishTransliteration": "etpe",
+    "gloss": "upward",
+    "definition": "upward",
+    "reference": "259b",
+    "partOfSpeech": "adv"
+  },
+  {
+    "headword": "(6) petpe",
+    "copticWord": "ⲡⲉⲧⲡⲉ",
+    "englishTransliteration": "petpe",
+    "gloss": "the top",
+    "definition": "the top",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(8) ntpe",
+    "copticWord": "ⲛⲧⲡⲉ",
+    "englishTransliteration": "ntpe",
+    "gloss": "above",
+    "definition": "above",
+    "reference": "259b",
+    "partOfSpeech": "adv",
+    "variants": [
+      {
+        "word": "n tpe",
+        "copticWord": "ⲛ ⲧⲡⲉ",
+        "englishTransliteration": "n tpe"
+      }
+    ]
+  },
+  {
+    "headword": "(9) hntpe",
+    "copticWord": "ϩⲛⲧⲡⲉ",
+    "englishTransliteration": "hntpe",
+    "gloss": "above",
+    "definition": "above",
+    "reference": "259b",
+    "partOfSpeech": "adv",
+    "variants": [
+      {
+        "word": "hn tpe",
+        "copticWord": "ϩⲛ ⲧⲡⲉ",
+        "englishTransliteration": "hn tpe"
+      }
+    ]
+  },
+  {
+    "headword": "(10) satpe",
+    "copticWord": "ⲥⲁⲧⲡⲉ",
+    "englishTransliteration": "satpe",
+    "gloss": "above",
+    "definition": "above",
+    "reference": "259b",
+    "partOfSpeech": "adv",
+    "crossReference": {
+      "target": "sa",
+      "gloss": "Seite, Teil, Richtung, Gegende"
+    }
+  },
+  {
+    "headword": "(11) hipe",
+    "copticWord": "ϩⲓⲡⲉ",
+    "englishTransliteration": "hipe",
+    "gloss": "above",
+    "definition": "above",
+    "reference": "259b",
+    "partOfSpeech": "adv",
+    "variants": [
+      {
+        "word": "hitpe",
+        "copticWord": "ϩⲓⲧⲡⲉ",
+        "englishTransliteration": "hitpe"
+      }
+    ]
+  },
+  {
+    "headword": "(3) ashtap",
+    "copticWord": "ⲁϣⲧⲁⲡ",
+    "englishTransliteration": "ashtap",
+    "gloss": "sound trumpet",
+    "definition": "sound trumpet",
+    "reference": "422a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "he",
+      "gloss": "fallen, finden"
+    }
+  },
+  {
+    "headword": "tipe",
+    "copticWord": "ϯⲡⲉ",
+    "englishTransliteration": "tipe",
+    "gloss": "loins",
+    "definition": "loins",
+    "reference": "423a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(2) mehtop",
+    "copticWord": "ⲙⲉϩⲧⲱⲡ",
+    "englishTransliteration": "mehtop",
+    "gloss": "needle, peg",
+    "definition": "needle, peg",
+    "reference": "422b",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "mouh",
+      "gloss": "fill"
+    }
+  },
+  {
+    "headword": "(3) hamtop",
+    "copticWord": "ϩⲁⲙⲧⲱⲡ",
+    "englishTransliteration": "hamtop",
+    "gloss": "needle, peg",
+    "definition": "needle, peg",
+    "reference": "422b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "(4) tapouosh",
+    "copticWord": "ⲧⲁⲡⲟⲩⲱϣ",
+    "englishTransliteration": "tapouosh",
+    "gloss": "joint",
+    "definition": "joint",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "ouosh",
+      "gloss": "Spalt"
+    }
+  },
+  {
+    "headword": "(1) tope",
+    "copticWord": "ⲧⲱⲡⲉ",
+    "englishTransliteration": "tope",
+    "gloss": "taste",
+    "definition": "taste",
+    "reference": "423a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(3) jitipe",
+    "copticWord": "ϫⲓϯⲡⲉ",
+    "englishTransliteration": "jitipe",
+    "gloss": "taste",
+    "definition": "taste",
+    "reference": "423a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(5) chinjitipe",
+    "copticWord": "ϭⲓⲛϫⲓϯⲡⲉ",
+    "englishTransliteration": "chinjitipe",
+    "gloss": "act of tasting",
+    "definition": "act of tasting",
+    "reference": "423a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(6) jemtipe",
+    "copticWord": "ϫⲉⲙϯⲡⲉ",
+    "englishTransliteration": "jemtipe",
+    "gloss": "taste",
+    "definition": "taste",
+    "reference": "423a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "chine",
+      "gloss": "finden"
+    }
+  },
+  {
+    "headword": "(8) metrefjemtipe",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϫⲉⲙϯⲡⲉ",
+    "englishTransliteration": "metrefjemtipe",
+    "gloss": "taste",
+    "definition": "taste",
+    "reference": "423a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(9) jinjemtipe",
+    "copticWord": "ϫⲓⲛϫⲉⲙϯⲡⲉ",
+    "englishTransliteration": "jinjemtipe",
+    "gloss": "act of tasting",
+    "definition": "act of tasting",
+    "reference": "423a",
+    "partOfSpeech": "m",
+    "crossReference": {
+      "target": "chin-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "tapn",
+    "copticWord": "ⲧⲁⲡⲛ",
+    "englishTransliteration": "tapn",
+    "gloss": "cumin",
+    "definition": "cumin",
+    "reference": "423a",
+    "partOfSpeech": "m",
+    "variants": [
+      {
+        "word": "tapen",
+        "copticWord": "ⲧⲁⲡⲉⲛ",
+        "englishTransliteration": "tapen"
+      }
+    ]
+  },
+  {
+    "headword": "tapt",
+    "copticWord": "ⲧⲁⲡⲧ",
+    "englishTransliteration": "tapt",
+    "gloss": "chew?",
+    "definition": "chew?",
+    "reference": "423b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tapit",
+    "copticWord": "ⲧⲁⲡⲓⲧ",
+    "englishTransliteration": "tapit",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "423b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "tre-",
+    "copticWord": "ⲧⲣⲉ-",
+    "englishTransliteration": "tre-",
+    "gloss": "part",
+    "definition": "part",
+    "reference": "289b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ra-",
+      "gloss": "Teil"
+    }
+  },
+  {
+    "headword": "tre",
+    "copticWord": "ⲧⲣⲉ",
+    "englishTransliteration": "tre",
+    "gloss": "kite",
+    "definition": "kite",
+    "reference": "429b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "tro",
+    "copticWord": "ⲧⲣⲟ⸗",
+    "englishTransliteration": "tro",
+    "gloss": "upset, transgress?",
+    "definition": "upset, transgress?",
+    "reference": "430a",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(1) tro",
+    "copticWord": "ⲧⲣⲟ",
+    "englishTransliteration": "tro",
+    "gloss": "cause to do",
+    "definition": "cause to do",
+    "reference": "430a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "tun"
+    }
+  },
+  {
+    "headword": "tare",
+    "copticWord": "ⲧⲁⲣⲉ",
+    "englishTransliteration": "tare",
+    "gloss": "prefix of future conjunctive (finalis)",
+    "definition": "prefix of future conjunctive (finalis)",
+    "reference": "424b"
+  },
+  {
+    "headword": "tarei",
+    "copticWord": "ⲧⲁⲣⲉⲓ",
+    "englishTransliteration": "tarei",
+    "gloss": "unknown meaning",
+    "definition": "unknown meaning",
+    "reference": "424b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(1) ter",
+    "copticWord": "ⲧⲏⲣ⸗",
+    "englishTransliteration": "ter",
+    "gloss": "all, whole, every",
+    "definition": "all, whole, every",
+    "reference": "424a",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "(3) nipterf",
+    "copticWord": "ⲛⲓⲡⲧⲏⲣϥ",
+    "englishTransliteration": "nipterf",
+    "gloss": "the wholeness",
+    "definition": "the wholeness",
+    "reference": "424a",
+    "partOfSpeech": "n",
+    "crossReference": {
+      "target": "ni-",
+      "gloss": "bestimmter Artikel pl."
+    }
+  },
+  {
+    "headword": "toure",
+    "copticWord": "ⲧⲟⲩⲣⲉ",
+    "englishTransliteration": "toure",
+    "gloss": "adversary?",
+    "definition": "adversary?",
+    "reference": "424b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "tor",
+    "copticWord": "ⲧⲱⲣ",
+    "englishTransliteration": "tor",
+    "gloss": "be joined with?",
+    "definition": "be joined with?",
+    "reference": "424b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "tore",
+    "copticWord": "ⲧⲱⲣⲉ",
+    "englishTransliteration": "tore",
+    "gloss": "willow",
+    "definition": "willow",
+    "reference": "424b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "(2) rtore",
+    "copticWord": "ⲣⲧⲱⲣⲉ",
+    "englishTransliteration": "rtore",
+    "gloss": "clap hands, beat time, stamp, make music",
+    "definition": "clap hands, beat time, stamp, make music",
+    "reference": "425a",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(3) shptore",
+    "copticWord": "ϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "shptore",
+    "gloss": "guarantee, undertake",
+    "definition": "guarantee, undertake",
+    "reference": "425a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "sheptore",
+        "copticWord": "ϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "sheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "shop",
+      "gloss": "empfangen, fassen"
+    }
+  },
+  {
+    "headword": "(5) erpshptore",
+    "copticWord": "ⲉⲣⲡϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "erpshptore",
+    "gloss": "guarantee",
+    "definition": "guarantee",
+    "reference": "425a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "erpsheptore",
+        "copticWord": "ⲉⲣⲡϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "erpsheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "eire",
+      "gloss": "machen, tun"
+    }
+  },
+  {
+    "headword": "(6) tishptore",
+    "copticWord": "ϯϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "tishptore",
+    "gloss": "give a guarantee",
+    "definition": "give a guarantee",
+    "reference": "425b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "tisheptore",
+        "copticWord": "ϯϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "tisheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(7) jishptore",
+    "copticWord": "ϫⲓϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "jishptore",
+    "gloss": "take as a guarantee",
+    "definition": "take as a guarantee",
+    "reference": "425b",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "jisheptore",
+        "copticWord": "ϫⲓϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "jisheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(8) refshptore",
+    "copticWord": "ⲣⲉϥϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "refshptore",
+    "gloss": "guarantor",
+    "definition": "guarantor",
+    "reference": "425b",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "word": "refsheptore",
+        "copticWord": "ⲣⲉϥϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "refsheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "shop",
+      "gloss": "empfangen, fassen"
+    }
+  },
+  {
+    "headword": "(10) mntrefshptore",
+    "copticWord": "ⲙⲛⲧⲣⲉϥϣⲡⲧⲱⲣⲉ",
+    "englishTransliteration": "mntrefshptore",
+    "gloss": "surety, guarantee",
+    "definition": "surety, guarantee",
+    "reference": "425b",
+    "partOfSpeech": "f",
+    "variants": [
+      {
+        "word": "mntrefsheptore",
+        "copticWord": "ⲙⲛⲧⲣⲉϥϣⲉⲡⲧⲱⲣⲉ",
+        "englishTransliteration": "mntrefsheptore"
+      }
+    ],
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(11) shtore",
+    "copticWord": "ϣⲧⲱⲣⲉ",
+    "englishTransliteration": "shtore",
+    "gloss": "guarantee, undertake",
+    "definition": "guarantee, undertake",
+    "reference": "425b",
+    "partOfSpeech": "vb"
+  },
+  {
+    "headword": "(14) tishtore",
+    "copticWord": "ϯϣⲧⲱⲣⲉ",
+    "englishTransliteration": "tishtore",
+    "gloss": "give a guarantee",
+    "definition": "give a guarantee",
+    "reference": "425b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "geben, zahlen, verkaufen"
+    }
+  },
+  {
+    "headword": "(15) jishtore",
+    "copticWord": "ϫⲓϣⲧⲱⲣⲉ",
+    "englishTransliteration": "jishtore",
+    "gloss": "take as a guarantee",
+    "definition": "take as a guarantee",
+    "reference": "425b",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  },
+  {
+    "headword": "(16) metshtore",
+    "copticWord": "ⲙⲉⲧϣⲧⲱⲣⲉ",
+    "englishTransliteration": "metshtore",
+    "gloss": "surety, guarantee",
+    "definition": "surety, guarantee",
+    "reference": "425b",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "mnt-",
+      "gloss": "Präfix"
+    }
+  },
+  {
+    "headword": "(17) rmshtore",
+    "copticWord": "ⲣⲙϣⲧⲱⲣⲉ",
+    "englishTransliteration": "rmshtore",
+    "gloss": "guarantor",
+    "definition": "guarantor",
+    "reference": "425b",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "(25) reftitoot",
+    "copticWord": "ⲣⲉϥϯⲧⲟⲟⲧ⸗",
+    "englishTransliteration": "reftitoot",
+    "gloss": "helper",
+    "definition": "helper",
+    "reference": "427a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ref",
+      "gloss": "the one who . . ."
+    }
+  },
+  {
+    "headword": "(27) metreftitoot",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϯⲧⲟⲟⲧ⸗",
+    "englishTransliteration": "metreftitoot",
+    "gloss": "help",
+    "definition": "help",
+    "reference": "427a",
+    "partOfSpeech": "f",
+    "crossReference": {
+      "target": "ti",
+      "gloss": "give, pay, sell"
+    }
+  },
+  {
+    "headword": "(28) shptoot",
+    "copticWord": "ϣⲡⲧⲟⲟⲧ⸗",
+    "englishTransliteration": "shptoot",
+    "gloss": "grasp hand, greet, promise, betroth",
+    "definition": "grasp hand, greet, promise, betroth",
+    "reference": "427a",
+    "partOfSpeech": "vb",
+    "variants": [
+      {
+        "word": "sheptoot",
+        "copticWord": "ϣⲉⲡⲧⲟⲟⲧ⸗",
+        "englishTransliteration": "sheptoot"
+      }
+    ],
+    "crossReference": {
+      "target": "shop",
+      "gloss": "empfangen, fassen"
+    }
+  },
+  {
+    "headword": "(30) jitoot",
+    "copticWord": "ϫⲓⲧⲟⲟⲧ⸗",
+    "englishTransliteration": "jitoot",
+    "gloss": "receive a promise",
+    "definition": "receive a promise",
+    "partOfSpeech": "vb",
+    "crossReference": {
+      "target": "ji",
+      "gloss": "nehmen, erhalten"
+    }
+  }
+]

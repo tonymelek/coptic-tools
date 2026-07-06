@@ -7,12 +7,6 @@
     "definition": "Many, various"
   },
   {
-    "headword": "(2) yo",
-    "copticWord": "ⲑⲟ",
-    "englishTransliteration": "tho",
-    "reference": "396a"
-  },
-  {
     "headword": "m. Land",
     "copticWord": "ⲙ. Ⲗⲁⲛⲇ",
     "englishTransliteration": "m. Land",
@@ -65,17 +59,6 @@
   },
   {
     "headword": "yre",
-    "copticWord": "ⲑⲣⲉ",
-    "englishTransliteration": "thre",
-    "gloss": "To cause to do",
-    "definition": "To cause to do",
-    "crossReference": {
-      "target": "yro",
-      "gloss": "To cause to do"
-    }
-  },
-  {
-    "headword": "yre=",
     "copticWord": "ⲑⲣⲉ",
     "englishTransliteration": "thre",
     "gloss": "To cause to do",
@@ -323,14 +306,6 @@
     "englishTransliteration": "--- e",
     "gloss": "vi. To be driven, smitten into, be firm",
     "definition": "vt. to drive in, point;"
-  },
-  {
-    "headword": "--- n",
-    "copticWord": "--- ⲛ",
-    "englishTransliteration": "--- n",
-    "partOfSpeech": "vb",
-    "gloss": "To inlaid with",
-    "definition": "To inlaid with"
   },
   {
     "headword": "--- qen",

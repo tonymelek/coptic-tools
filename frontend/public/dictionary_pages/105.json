@@ -74,14 +74,6 @@
     "definition": "cause to drip, pour; --- epec/t: vb. To pour down; ---: m. What is purified, purity."
   },
   {
-    "headword": "(1) cwf",
-    "copticWord": "ⲥⲱϥ",
-    "englishTransliteration": "sōf",
-    "reference": "378b",
-    "gloss": "vt. To strain",
-    "definition": "vt. To strain"
-  },
-  {
     "headword": "cwci",
     "copticWord": "ⲥⲱⲥⲓ",
     "englishTransliteration": "sōsi",
@@ -91,44 +83,6 @@
       "target": "cwc",
       "gloss": "To upset"
     }
-  },
-  {
-    "headword": "(2) cwf",
-    "copticWord": "ⲥⲱϥ",
-    "englishTransliteration": "sōf",
-    "variants": [
-      {
-        "word": "cef",
-        "copticWord": "ⲥⲉϥ",
-        "englishTransliteration": "sef"
-      },
-      {
-        "word": "cof=",
-        "copticWord": "ⲥⲟϥ",
-        "englishTransliteration": "sof"
-      },
-      {
-        "word": "cof",
-        "note": "Q",
-        "copticWord": "ⲥⲟϥ",
-        "englishTransliteration": "sof"
-      },
-      {
-        "word": "p.c. caf",
-        "copticWord": "ⲡ.ⲥ. ⲥⲁϥ",
-        "englishTransliteration": "p.s. saf"
-      }
-    ],
-    "reference": "378b",
-    "gloss": "vi. To be defiled, polluted",
-    "definition": "vt. to defile, pollute; p.c. (in cafh/t) defiled in heart;",
-    "senses": [
-      {
-        "partOfSpeech": "m",
-        "gloss": "Pollution, abomination",
-        "definition": "Pollution, abomination"
-      }
-    ]
   },
   {
     "headword": "cwtem",
@@ -206,17 +160,6 @@
     "definition": "Defiler"
   },
   {
-    "headword": "cwf",
-    "copticWord": "ⲥⲱϥ",
-    "englishTransliteration": "sōf",
-    "gloss": "Drinking (pl)",
-    "definition": "Drinking (pl)",
-    "crossReference": {
-      "target": "cw",
-      "gloss": "Drinking (pl)"
-    }
-  },
-  {
     "headword": "(1) cwqem",
     "copticWord": "ⲥⲱϧⲉⲙ",
     "englishTransliteration": "sōkhem",
@@ -236,21 +179,6 @@
     "reference": "384b",
     "gloss": "vi. To sink, fall down",
     "definition": "vi. To sink, fall down"
-  },
-  {
-    "headword": "(2) cwqem",
-    "copticWord": "ⲥⲱϧⲉⲙ",
-    "englishTransliteration": "sōkhem",
-    "variants": [
-      {
-        "word": "cwqm=",
-        "copticWord": "ⲥⲱϧⲙ",
-        "englishTransliteration": "sōkhm"
-      }
-    ],
-    "reference": "384b",
-    "gloss": "vt. To pluck, draw",
-    "definition": "vt. To pluck, draw"
   },
   {
     "headword": "cwqi",
@@ -460,31 +388,5 @@
     "reference": "568a",
     "gloss": "vt. To pierce",
     "definition": "vt. To pierce"
-  },
-  {
-    "headword": "(2) cwjp",
-    "copticWord": "ⲥⲱϫⲡ",
-    "englishTransliteration": "sōjp",
-    "variants": [
-      {
-        "word": "cejp",
-        "copticWord": "ⲥⲉϫⲡ",
-        "englishTransliteration": "sejp"
-      },
-      {
-        "word": "cojp=",
-        "copticWord": "ⲥⲟϫⲡ",
-        "englishTransliteration": "sojp"
-      },
-      {
-        "word": "cojp",
-        "note": "Q",
-        "copticWord": "ⲥⲟϫⲡ",
-        "englishTransliteration": "sojp"
-      }
-    ],
-    "reference": "616b",
-    "gloss": "vi. To be over and above, remain over",
-    "definition": "vt. to leave over, behind; --- e-: vb. To remain over from, out of;"
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "headword": "tom=",
-    "copticWord": "ⲧⲟⲙ",
-    "englishTransliteration": "tom",
-    "gloss": "To join",
-    "definition": "To join",
-    "crossReference": {
-      "target": "twmi",
-      "gloss": "To join"
-    }
-  },
-  {
     "headword": "tomt (Q) v. (2)twmt - To be amazed. tomtem",
     "copticWord": "ⲧⲟⲙⲧ (Ϧ) ⲫ. (2)ⲧⲱⲙⲧ - Ⲧⲟ ⲃⲉ ⲁⲙⲁⲍⲉⲇ. ⲧⲟⲙⲧⲉⲙ",
     "englishTransliteration": "tomt (Kh) f. (2)tōmt - To ve amazed. tomtem",
@@ -73,14 +62,6 @@
     "partOfSpeech": "m",
     "gloss": "Purification. toubo= v. toubo - To be pure. touie- v. touio - To wean. touio, touie-, touio=: (444a)",
     "definition": "vt. To remove, wean. touio= v. touio - To remove. toulo v. youelo - To overflow. toun-: (446b); vt. To make to open. tounec- v. tounoc - To raise. tounoc, tounec-, tounoc-, tounoc=: (446b); vt. To wake, raise, set up; --- ejen: vt. To raise upon, incite against"
-  },
-  {
-    "headword": "ha",
-    "copticWord": "ϩⲁ",
-    "englishTransliteration": "ha",
-    "partOfSpeech": "vb",
-    "gloss": "To be pure from",
-    "definition": "--- qen-: vi. To be pure by, free from;"
   },
   {
     "headword": "tono",
@@ -153,26 +134,12 @@
     ]
   },
   {
-    "headword": "ebol ha",
-    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
-    "englishTransliteration": "evol ha",
-    "gloss": "vt. To raise from off",
-    "definition": "vt. To raise from off"
-  },
-  {
     "headword": "top=",
     "copticWord": "ⲧⲟⲡ",
     "englishTransliteration": "top",
     "reference": "422b",
     "gloss": "vt. To stitch, stop, caulk. top= v. (1)twb - To seal",
     "definition": "vt. To stitch, stop, caulk. top= v. (1)twb - To seal"
-  },
-  {
-    "headword": "hijen",
-    "copticWord": "ϩⲓϫⲉⲛ",
-    "englishTransliteration": "heegen",
-    "gloss": "vt. To raise upon",
-    "definition": "--- epswi: vt. To raise up; --- ehr/i: vt. To raise up"
   },
   {
     "headword": "jintounoc",
@@ -202,7 +169,18 @@
     "crossReference": {
       "target": "tounoc",
       "gloss": "To raise"
-    }
+    },
+    "variants": [
+      {
+        "headword": "(3) tounos (ejn-)",
+        "copticWord": "ⲧⲟⲩⲛⲟⲥ (ⲉϫⲛ-)",
+        "englishTransliteration": "tounos (ejn-)",
+        "gloss": "raise upon, incite against",
+        "definition": "raise upon, incite against",
+        "reference": "447a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "topc",
@@ -213,17 +191,6 @@
     "crossReference": {
       "target": "(1)twb",
       "gloss": "Seal's impress"
-    }
-  },
-  {
-    "headword": "tounoc=",
-    "copticWord": "ⲧⲟⲩⲛⲟⲥ",
-    "englishTransliteration": "tounos",
-    "gloss": "To raise",
-    "definition": "To raise",
-    "crossReference": {
-      "target": "tounoc",
-      "gloss": "To raise"
     }
   },
   {
@@ -269,13 +236,6 @@
     "definition": "vt. To add"
   },
   {
-    "headword": "e",
-    "copticWord": "ⲉ",
-    "englishTransliteration": "e",
-    "gloss": "vt. To add to",
-    "definition": "--- nem-: vt. To join with; ---: m. Addition."
-  },
-  {
     "headword": "torter",
     "copticWord": "ⲧⲟⲣⲧⲉⲣ",
     "englishTransliteration": "torter",
@@ -292,17 +252,6 @@
   },
   {
     "headword": "tot",
-    "copticWord": "ⲧⲟⲧ",
-    "englishTransliteration": "tot",
-    "gloss": "Suffix for 2nd pers. pl",
-    "definition": "Suffix for 2nd pers. pl",
-    "crossReference": {
-      "target": "twri",
-      "gloss": "Suffix for 2nd pers. pl"
-    }
-  },
-  {
-    "headword": "tot=",
     "copticWord": "ⲧⲟⲧ",
     "englishTransliteration": "tot",
     "gloss": "Suffix for 2nd pers. pl",
@@ -342,17 +291,6 @@
     "crossReference": {
       "target": "toubo",
       "gloss": "To become pure"
-    }
-  },
-  {
-    "headword": "touho=",
-    "copticWord": "ⲧⲟⲩϩⲟ",
-    "englishTransliteration": "touho",
-    "gloss": "To add",
-    "definition": "To add",
-    "crossReference": {
-      "target": "touho",
-      "gloss": "To add"
     }
   },
   {
@@ -417,29 +355,5 @@
     "reference": "448b",
     "gloss": "vt. To make whole, save",
     "definition": "vi. To be safe, saved; (Q) safe, preserved; --- e-: vi. To be saved from;"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "partOfSpeech": "vb",
-    "gloss": "To cleanse, be pure for",
-    "definition": "To cleanse, be pure for"
-  },
-  {
-    "headword": "eybe",
-    "copticWord": "ⲉⲑⲃⲉ",
-    "englishTransliteration": "ethve",
-    "partOfSpeech": "vb",
-    "gloss": "To saved for, through",
-    "definition": "To saved for, through"
-  },
-  {
-    "headword": "nten",
-    "copticWord": "ⲛⲧⲉⲛ",
-    "englishTransliteration": "nten",
-    "partOfSpeech": "vb",
-    "gloss": "To be saved from",
-    "definition": "To be saved from"
   }
 ]

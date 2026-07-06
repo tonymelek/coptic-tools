@@ -51,58 +51,6 @@
     }
   },
   {
-    "headword": "jorj=",
-    "copticWord": "ϫⲟⲣϫ",
-    "englishTransliteration": "jorj",
-    "gloss": "To hunt",
-    "definition": "To hunt",
-    "crossReference": {
-      "target": "(1)jwrj",
-      "gloss": "To hunt"
-    }
-  },
-  {
-    "headword": "(2) jom",
-    "copticWord": "ϫⲟⲙ",
-    "englishTransliteration": "jom",
-    "reference": "815b",
-    "partOfSpeech": "f",
-    "gloss": "Power, strength",
-    "definition": "Power, strength",
-    "senses": [
-      {
-        "label": "atjom",
-        "partOfSpeech": "adj",
-        "gloss": "Powerless, unable",
-        "definition": "n. Impotence; remnjom: m. mighty man; iri, er jom: vb. To do mighty deeds, wonders;"
-      },
-      {
-        "label": "]jom",
-        "partOfSpeech": "vb",
-        "gloss": "To give power",
-        "definition": "ouon sjom: vb. There is power, have power;"
-      },
-      {
-        "label": "mmon sjom",
-        "partOfSpeech": "vb",
-        "gloss": "There is not power, have not power",
-        "definition": "There is not power, have not power"
-      },
-      {
-        "label": "[ijom",
-        "partOfSpeech": "vb",
-        "gloss": "To get strength",
-        "definition": "To get strength"
-      },
-      {
-        "label": "jemjom",
-        "partOfSpeech": "vb",
-        "gloss": "To find power, be strong, be able",
-        "definition": "To find power, be strong, be able"
-      }
-    ]
-  },
-  {
     "headword": "jorjc",
     "copticWord": "ϫⲟⲣϫⲥ",
     "englishTransliteration": "jorjs",
@@ -262,27 +210,6 @@
     "definition": "Low, hollow place"
   },
   {
-    "headword": "jane",
-    "copticWord": "ϫⲁⲛⲉ",
-    "englishTransliteration": "gane",
-    "variants": [
-      {
-        "word": "jan/",
-        "copticWord": "ϫⲁⲛⲏ",
-        "englishTransliteration": "gani"
-      },
-      {
-        "type": "pl.",
-        "word": "janeu",
-        "copticWord": "ϫⲁⲛⲉⲩ",
-        "englishTransliteration": "ganev"
-      }
-    ],
-    "partOfSpeech": "mf",
-    "gloss": "Low, hollow place",
-    "definition": "Low, hollow place"
-  },
-  {
     "headword": "jonc",
     "copticWord": "ϫⲟⲛⲥ",
     "englishTransliteration": "jons",
@@ -366,13 +293,6 @@
     "definition": "vt. To salt, season, cure."
   },
   {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "gloss": "vt. To salt with",
-    "definition": "vt. To salt with"
-  },
-  {
     "headword": "joukh",
     "copticWord": "ϫⲟⲩⲕϩ",
     "englishTransliteration": "joukh",
@@ -409,16 +329,5 @@
     "reference": "778a",
     "gloss": "vb Q. To be hard, cruel",
     "definition": "vb Q. To be hard, cruel"
-  },
-  {
-    "headword": "jop=",
-    "copticWord": "ϫⲟⲡ",
-    "englishTransliteration": "jop",
-    "gloss": "To be seized",
-    "definition": "To be seized",
-    "crossReference": {
-      "target": "[wpi",
-      "gloss": "To be seized"
-    }
   }
 ]

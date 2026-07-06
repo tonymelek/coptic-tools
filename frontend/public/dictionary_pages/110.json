@@ -42,14 +42,6 @@
     }
   },
   {
-    "headword": "--- qen",
-    "copticWord": "--- ϧⲉⲛ",
-    "englishTransliteration": "--- khen",
-    "partOfSpeech": "vb",
-    "gloss": "To feed with",
-    "definition": "To feed with"
-  },
-  {
     "headword": "tertwr",
     "copticWord": "ⲧⲉⲣⲧⲱⲣ",
     "englishTransliteration": "tertōr",
@@ -68,17 +60,6 @@
     "partOfSpeech": "f",
     "gloss": "Forehead",
     "definition": "Forehead"
-  },
-  {
-    "headword": "temmo=",
-    "copticWord": "ⲧⲉⲙⲙⲟ",
-    "englishTransliteration": "temmo",
-    "gloss": "To feed",
-    "definition": "To feed",
-    "crossReference": {
-      "target": "temmo",
-      "gloss": "To feed"
-    }
   },
   {
     "headword": "t/",
@@ -286,17 +267,6 @@
     }
   },
   {
-    "headword": "tenywn=",
-    "copticWord": "ⲧⲉⲛⲑⲱⲛ",
-    "englishTransliteration": "tenthōn",
-    "gloss": "To be like",
-    "definition": "To be like",
-    "crossReference": {
-      "target": "yonten",
-      "gloss": "To be like"
-    }
-  },
-  {
     "headword": "tiqi",
     "copticWord": "ⲧⲓϧⲓ",
     "englishTransliteration": "tikhi",
@@ -378,17 +348,6 @@
     "crossReference": {
       "target": "temho",
       "gloss": "To set on fire"
-    }
-  },
-  {
-    "headword": "tenno=",
-    "copticWord": "ⲧⲉⲛⲛⲟ",
-    "englishTransliteration": "tenno",
-    "gloss": "To pound",
-    "definition": "To pound",
-    "crossReference": {
-      "target": "tenno",
-      "gloss": "To pound"
     }
   },
   {
@@ -559,24 +518,6 @@
     "crossReference": {
       "target": "twmi",
       "gloss": "To join"
-    }
-  },
-  {
-    "headword": "--- e",
-    "copticWord": "--- ⲉ",
-    "englishTransliteration": "--- e",
-    "gloss": "vt. to entrust with",
-    "definition": "--- nem-: vb. To trust to, confide in"
-  },
-  {
-    "headword": "tenhout=",
-    "copticWord": "ⲧⲉⲛϩⲟⲩⲧ",
-    "englishTransliteration": "tenhout",
-    "gloss": "To trust",
-    "definition": "To trust",
-    "crossReference": {
-      "target": "tenhout",
-      "gloss": "To trust"
     }
   }
 ]

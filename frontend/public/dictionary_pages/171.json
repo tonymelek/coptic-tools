@@ -161,15 +161,6 @@
     ]
   },
   {
-    "headword": "(2) [ici",
-    "copticWord": "ϭⲓⲥⲓ",
-    "englishTransliteration": "chisi",
-    "reference": "790b",
-    "partOfSpeech": "f",
-    "gloss": "Back",
-    "definition": "Back"
-  },
-  {
     "headword": "[it=",
     "copticWord": "ϭⲓⲧ",
     "englishTransliteration": "chit",
@@ -228,45 +219,6 @@
     "definition": "Tip of scorpion's tail"
   },
   {
-    "headword": "[isswou",
-    "copticWord": "ϭⲓϣϣⲱⲟⲩ",
-    "englishTransliteration": "chishshōou",
-    "gloss": "Yearn for",
-    "definition": "Yearn for",
-    "crossReference": {
-      "target": "sswou",
-      "gloss": "Yearn for"
-    }
-  },
-  {
-    "headword": "[ihboc",
-    "copticWord": "ϭⲓϩⲃⲟⲥ",
-    "englishTransliteration": "chihvos",
-    "gloss": "Clothing",
-    "definition": "Clothing",
-    "crossReference": {
-      "target": "hwbc",
-      "gloss": "Clothing"
-    }
-  },
-  {
-    "headword": "(2) [i",
-    "copticWord": "ϭⲓ",
-    "englishTransliteration": "chi",
-    "reference": "751b",
-    "partOfSpeech": "m",
-    "gloss": "Breast, pap",
-    "definition": "][i: vb. To suckle"
-  },
-  {
-    "headword": "ouem[i",
-    "copticWord": "ⲟⲩⲉⲙϭⲓ",
-    "englishTransliteration": "ouemchi",
-    "partOfSpeech": "adj",
-    "gloss": "suckling",
-    "definition": "---: vt. To suckle."
-  },
-  {
     "headword": "[ihbwc",
     "copticWord": "ϭⲓϩⲃⲱⲥ",
     "englishTransliteration": "chihvōs",
@@ -313,17 +265,6 @@
     "crossReference": {
       "target": "[wlk",
       "gloss": "Stretching"
-    }
-  },
-  {
-    "headword": "[i",
-    "copticWord": "ϭⲓ",
-    "englishTransliteration": "chi",
-    "gloss": "To take. [i/, si/: (803a)",
-    "definition": "m. Border, limit. [iie v. ki/ - He-goat.",
-    "crossReference": {
-      "target": "(1)[i",
-      "gloss": "To take. [i/, si/: (803a)"
     }
   },
   {

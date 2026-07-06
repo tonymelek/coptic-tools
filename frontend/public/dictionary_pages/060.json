@@ -8,17 +8,6 @@
     "definition": "To bear witness"
   },
   {
-    "headword": "meyreu",
-    "copticWord": "ⲙⲉⲑⲣⲉⲩ",
-    "englishTransliteration": "methrev",
-    "gloss": "Witnesses",
-    "definition": "Witnesses",
-    "crossReference": {
-      "target": "meyre",
-      "gloss": "Witnesses"
-    }
-  },
-  {
     "headword": "menn/t=",
     "copticWord": "ⲙⲉⲛⲛⲏⲧ",
     "englishTransliteration": "mennit",
@@ -63,17 +52,6 @@
     }
   },
   {
-    "headword": "menrit=",
-    "copticWord": "ⲙⲉⲛⲣⲓⲧ",
-    "englishTransliteration": "menrit",
-    "gloss": "To love",
-    "definition": "To love",
-    "crossReference": {
-      "target": "mei",
-      "gloss": "To love"
-    }
-  },
-  {
     "headword": "ment",
     "copticWord": "ⲙⲉⲛⲧ",
     "englishTransliteration": "ment",
@@ -100,13 +78,6 @@
     "partOfSpeech": "adj",
     "gloss": "Worthy of love",
     "definition": "Worthy of love"
-  },
-  {
-    "headword": "mai",
-    "copticWord": "ⲙⲁⲓ",
-    "englishTransliteration": "mai",
-    "gloss": "p.c. Loving",
-    "definition": "p.c. Loving"
   },
   {
     "headword": "metmai",
@@ -246,28 +217,6 @@
     }
   },
   {
-    "headword": "menh/=",
-    "copticWord": "ⲙⲉⲛϩⲏ",
-    "englishTransliteration": "menhi",
-    "gloss": "After",
-    "definition": "After",
-    "crossReference": {
-      "target": "menh/",
-      "gloss": "After"
-    }
-  },
-  {
-    "headword": "mer",
-    "copticWord": "ⲙⲉⲣ",
-    "englishTransliteration": "mer",
-    "gloss": "To bind",
-    "definition": "To bind",
-    "crossReference": {
-      "target": "mour",
-      "gloss": "To bind"
-    }
-  },
-  {
     "headword": "mela",
     "copticWord": "ⲙⲉⲗⲁ",
     "englishTransliteration": "mela",
@@ -310,26 +259,6 @@
     "definition": "Practice, exercise, lecture, branch or object of study, care, habit"
   },
   {
-    "headword": "ermeletan",
-    "copticWord": "ⲉⲣⲙⲉⲗⲉⲧⲁⲛ",
-    "englishTransliteration": "ermeletan",
-    "variants": [
-      {
-        "word": "ermelitan",
-        "copticWord": "ⲉⲣⲙⲉⲗⲓⲧⲁⲛ",
-        "englishTransliteration": "ermelitan"
-      },
-      {
-        "word": "erme-letin",
-        "copticWord": "ⲉⲣⲙⲉ-ⲗⲉⲧⲓⲛ",
-        "englishTransliteration": "erme-letin"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "to study, read, learn",
-    "definition": "to study, read, learn"
-  },
-  {
     "headword": "mel/ma",
     "copticWord": "ⲙⲉⲗⲏⲙⲁ",
     "englishTransliteration": "melima",
@@ -338,14 +267,6 @@
     "isGreek": true,
     "gloss": "Object of care, beloved object, care",
     "definition": "Object of care, beloved object, care"
-  },
-  {
-    "headword": "ermelin",
-    "copticWord": "ⲉⲣⲙⲉⲗⲓⲛ",
-    "englishTransliteration": "ermelin",
-    "partOfSpeech": "vb",
-    "gloss": "To care, to be concerned with",
-    "definition": "To care, to be concerned with"
   },
   {
     "headword": "meliaricion",

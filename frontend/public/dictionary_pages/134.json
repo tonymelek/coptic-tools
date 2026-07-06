@@ -8,14 +8,6 @@
     "definition": "Unlimited, boundless"
   },
   {
-    "headword": "erbi",
-    "copticWord": "ⲉⲣⲃⲓ",
-    "englishTransliteration": "ervi",
-    "partOfSpeech": "f",
-    "gloss": "Enclosure, pen esp. for sheep",
-    "definition": "Enclosure, pen esp. for sheep"
-  },
-  {
     "headword": "metrefwou nh/t",
     "copticWord": "ⲙⲉⲧⲣⲉϥⲱⲟⲩ ⲛϩⲏⲧ",
     "englishTransliteration": "metrefōou nhit",
@@ -63,14 +55,6 @@
     "partOfSpeech": "m",
     "gloss": "Gruel (of bread or lentils)",
     "definition": "Gruel (of bread or lentils)"
-  },
-  {
-    "headword": "ecki",
-    "copticWord": "ⲉⲥⲕⲓ",
-    "englishTransliteration": "eski",
-    "partOfSpeech": "f",
-    "gloss": "Delay",
-    "definition": "Delay"
   },
   {
     "headword": "wcq",
@@ -130,6 +114,15 @@
         "word": "hopt",
         "copticWord": "ϩⲟⲡⲧ",
         "englishTransliteration": "hopt"
+      },
+      {
+        "headword": "(2) otp ehoun",
+        "copticWord": "ⲱⲧⲡ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "otp ehoun",
+        "gloss": "imprison",
+        "definition": "imprison",
+        "reference": "531b-532a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "531b",
@@ -166,22 +159,6 @@
     "partOfSpeech": "m",
     "gloss": "Wrap (on loom)",
     "definition": "Wrap (on loom)"
-  },
-  {
-    "headword": "ayah",
-    "copticWord": "ⲁⲑⲁϩ",
-    "englishTransliteration": "athah",
-    "variants": [
-      {
-        "type": "pl.",
-        "word": "ayauh",
-        "copticWord": "ⲁⲑⲁⲩϩ",
-        "englishTransliteration": "athavh"
-      }
-    ],
-    "partOfSpeech": "m",
-    "gloss": "What is bound (upon man or beast)",
-    "definition": "burden;"
   },
   {
     "headword": "wsem",

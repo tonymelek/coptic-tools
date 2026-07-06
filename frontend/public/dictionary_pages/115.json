@@ -40,6 +40,21 @@
         "gloss": "Speaker of blasphemy",
         "definition": "Speaker of blasphemy"
       }
+    ],
+    "variants": [
+      {
+        "headword": "(2) oua nouot",
+        "copticWord": "ⲟⲩⲁ ⲛⲟⲩⲱⲧ",
+        "englishTransliteration": "oua nouot",
+        "gloss": "single one",
+        "definition": "single one",
+        "reference": "494a",
+        "partOfSpeech": "adj",
+        "crossReference": {
+          "target": "oua",
+          "gloss": "one, someone"
+        }
+      }
     ]
   },
   {
@@ -206,13 +221,6 @@
     "englishTransliteration": "epoui",
     "gloss": "To a distance",
     "definition": "To a distance"
-  },
-  {
-    "headword": "n",
-    "copticWord": "ⲛ",
-    "englishTransliteration": "n",
-    "gloss": "Away from",
-    "definition": "Away from"
   },
   {
     "headword": "hiouei",

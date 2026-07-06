@@ -91,7 +91,18 @@
     "englishTransliteration": "jinmoshi",
     "partOfSpeech": "m",
     "gloss": "Going, gait, conduct",
-    "definition": "Going, gait, conduct"
+    "definition": "Going, gait, conduct",
+    "variants": [
+      {
+        "headword": "(19) jinmoshi ebol",
+        "copticWord": "ϫⲓⲛⲙⲟϣⲓ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jinmoshi ebol",
+        "gloss": "going forth, depature",
+        "definition": "going forth, depature",
+        "reference": "205a",
+        "partOfSpeech": "m"
+      }
+    ]
   },
   {
     "headword": "most=",
@@ -103,15 +114,6 @@
       "target": "moust",
       "gloss": "To examine"
     }
-  },
-  {
-    "headword": "(1) moh",
-    "copticWord": "ⲙⲟϩ",
-    "englishTransliteration": "moh",
-    "reference": "208a",
-    "partOfSpeech": "m",
-    "gloss": "Nest, brood of young",
-    "definition": "Nest, brood of young"
   },
   {
     "headword": "mahoual",
@@ -129,63 +131,12 @@
     "definition": "Nest, dovecot"
   },
   {
-    "headword": "(2) moh",
-    "copticWord": "ⲙⲟϩ",
-    "englishTransliteration": "moh",
-    "variants": [
-      {
-        "word": "mah",
-        "copticWord": "ⲙⲁϩ",
-        "englishTransliteration": "mah"
-      },
-      {
-        "word": "mah=",
-        "copticWord": "ⲙⲁϩ",
-        "englishTransliteration": "mah"
-      },
-      {
-        "word": "(Q) meh",
-        "copticWord": "(Ϧ) ⲙⲉϩ",
-        "englishTransliteration": "(Kh) meh"
-      }
-    ],
-    "reference": "208a",
-    "gloss": "vt. To fill",
-    "definition": "fulfill, complete; pay; vi. to be full",
-    "senses": [
-      {
-        "label": "ebol",
-        "gloss": "vt. To fill, pay",
-        "definition": "vi. to be full, filled, paid; ---: m. Fulfilment, limit;"
-      },
-      {
-        "label": "eqoun",
-        "gloss": "vt. To fill up, supplement",
-        "definition": "jinmoh eqoun: m. Completion; ---: m. Fullness, contents;"
-      },
-      {
-        "label": "hanmoh",
-        "partOfSpeech": "n",
-        "gloss": "Channels, conduits",
-        "definition": "mah-: prfx to ordinal numeral to convert to cardinal numbers, lit. filling, completing."
-      }
-    ]
-  },
-  {
     "headword": "meh rw=",
     "copticWord": "ⲙⲉϩ ⲣⲱ",
     "englishTransliteration": "meh rō",
     "partOfSpeech": "vb",
     "gloss": "To fill mouth",
     "definition": "seize, bite"
-  },
-  {
-    "headword": "mahtot=",
-    "copticWord": "ⲙⲁϩⲧⲟⲧ",
-    "englishTransliteration": "mahtot",
-    "partOfSpeech": "vb",
-    "gloss": "To fill hand, lay hold on",
-    "definition": "To fill hand, lay hold on"
   },
   {
     "headword": "mahqa/t=",

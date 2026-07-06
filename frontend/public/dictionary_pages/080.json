@@ -64,17 +64,6 @@
     }
   },
   {
-    "headword": "osj=",
-    "copticWord": "ⲟϣϫ",
-    "englishTransliteration": "oshj",
-    "gloss": "To smear",
-    "definition": "To smear",
-    "crossReference": {
-      "target": "wsj",
-      "gloss": "To smear"
-    }
-  },
-  {
     "headword": "oryinon",
     "copticWord": "ⲟⲣⲑⲓⲛⲟⲛ",
     "englishTransliteration": "orthinon",
@@ -187,101 +176,6 @@
     "definition": "Small necklace"
   },
   {
-    "headword": "(2) ohi",
-    "copticWord": "ⲟϩⲓ",
-    "englishTransliteration": "ohi",
-    "variants": [
-      {
-        "word": "(Q) ohi",
-        "copticWord": "(Ϧ) ⲟϩⲓ",
-        "englishTransliteration": "(Kh) ohi"
-      }
-    ],
-    "reference": "536b",
-    "gloss": "vi. To stand, stay, wait",
-    "definition": "vi. To stand, stay, wait",
-    "senses": [
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "To abide by, wait for",
-        "definition": "To abide by, wait for"
-      },
-      {
-        "label": "nem",
-        "partOfSpeech": "vb",
-        "gloss": "To stay with",
-        "definition": "To stay with"
-      },
-      {
-        "label": "n",
-        "partOfSpeech": "vb",
-        "gloss": "To wait for, attend to",
-        "definition": "as, for;"
-      },
-      {
-        "label": "oube",
-        "partOfSpeech": "vb",
-        "gloss": "To stand before, against",
-        "definition": "To stand before, against"
-      },
-      {
-        "label": "qaten",
-        "partOfSpeech": "vb",
-        "gloss": "To stay with",
-        "definition": "To stay with"
-      },
-      {
-        "label": "hijen",
-        "partOfSpeech": "vb",
-        "gloss": "To stay upon",
-        "definition": "--- cabol: vb. To stay outside; --- evahou: vb. To stay behind;"
-      },
-      {
-        "label": "eqoun ehren",
-        "partOfSpeech": "vb",
-        "gloss": "To stand against",
-        "definition": "To stand against"
-      },
-      {
-        "label": "erat=",
-        "partOfSpeech": "vb",
-        "gloss": "To stand on foot, stand",
-        "definition": "To stand on foot, stand"
-      },
-      {
-        "label": "e",
-        "partOfSpeech": "vb",
-        "gloss": "To stand before, against, attend on",
-        "definition": "To stand before, against, attend on"
-      },
-      {
-        "label": "ejen",
-        "partOfSpeech": "vb",
-        "gloss": "To stand upon, against",
-        "definition": "nem-: vb. To stand with; nahren-: vb. To sdtand"
-      },
-      {
-        "label": "beside; oube",
-        "partOfSpeech": "vb",
-        "gloss": "To stand against",
-        "definition": "To stand against"
-      },
-      {
-        "label": "qaten",
-        "partOfSpeech": "vb",
-        "gloss": "To stand at, before",
-        "definition": "To stand at, before"
-      },
-      {
-        "label": "hijen",
-        "partOfSpeech": "vb",
-        "gloss": "To stand upon, at, beside",
-        "definition": "To stand upon, at, beside"
-      }
-    ]
-  },
-  {
     "headword": "oroboc",
     "copticWord": "ⲟⲣⲟⲃⲟⲥ",
     "englishTransliteration": "orovos",
@@ -337,27 +231,7 @@
     "definition": "]oci: vb. To suffer loss, hurt, be fined."
   },
   {
-    "headword": "(2) oci",
-    "copticWord": "ⲟⲥⲓ",
-    "englishTransliteration": "osi",
-    "reference": "257a",
-    "partOfSpeech": "n",
-    "gloss": "In pise noci 'tamarisk'",
-    "definition": "In pise noci 'tamarisk'"
-  },
-  {
     "headword": "ocq",
-    "copticWord": "ⲟⲥϧ",
-    "englishTransliteration": "oskh",
-    "gloss": "To reap",
-    "definition": "To reap",
-    "crossReference": {
-      "target": "wcq",
-      "gloss": "To reap"
-    }
-  },
-  {
-    "headword": "ocq=",
     "copticWord": "ⲟⲥϧ",
     "englishTransliteration": "oskh",
     "gloss": "To reap",
@@ -426,7 +300,18 @@
     "partOfSpeech": "adv",
     "isGreek": true,
     "gloss": "So, then, well, as I was saying",
-    "definition": "So, then, well, as I was saying"
+    "definition": "So, then, well, as I was saying",
+    "variants": [
+      {
+        "headword": "(5) oun ouon",
+        "copticWord": "ⲟⲩⲛ ⲟⲩⲟⲛ",
+        "englishTransliteration": "oun ouon",
+        "gloss": "there is someone",
+        "definition": "there is someone",
+        "reference": "482a",
+        "partOfSpeech": "vb"
+      }
+    ]
   },
   {
     "headword": "ouranoc",

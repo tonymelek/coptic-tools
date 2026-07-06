@@ -216,15 +216,6 @@
     "definition": "King"
   },
   {
-    "headword": "(2) bai",
-    "copticWord": "ⲃⲁⲓ",
-    "englishTransliteration": "vai",
-    "reference": "28a",
-    "partOfSpeech": "m",
-    "gloss": "Night raven",
-    "definition": "screech-owl."
-  },
-  {
     "headword": "bacilik/",
     "copticWord": "ⲃⲁⲥⲓⲗⲓⲕⲏ",
     "englishTransliteration": "vasiliki",
@@ -466,13 +457,6 @@
     }
   },
   {
-    "headword": "(2) batoc",
-    "copticWord": "ⲃⲁⲧⲟⲥ",
-    "englishTransliteration": "vatos",
-    "gloss": "(Heb)",
-    "definition": "m. A Hebrew liquid measure."
-  },
-  {
     "headword": "balmbeh",
     "copticWord": "ⲃⲁⲗⲙⲃⲉϩ",
     "englishTransliteration": "valmveh",
@@ -492,16 +476,6 @@
     "partOfSpeech": "m",
     "gloss": "Bald-headed person",
     "definition": "Bald-headed person"
-  },
-  {
-    "headword": "(3) batoc",
-    "copticWord": "ⲃⲁⲧⲟⲥ",
-    "englishTransliteration": "vatos",
-    "reference": "Gk",
-    "partOfSpeech": "adj",
-    "isGreek": true,
-    "gloss": "Accessible",
-    "definition": "Accessible"
   },
   {
     "headword": "balcamon",
@@ -571,17 +545,6 @@
     "partOfSpeech": "m",
     "gloss": "He-goat",
     "definition": "He-goat"
-  },
-  {
-    "headword": "bas=",
-    "copticWord": "ⲃⲁϣ",
-    "englishTransliteration": "vash",
-    "gloss": "To strip",
-    "definition": "To strip",
-    "crossReference": {
-      "target": "bws",
-      "gloss": "To strip"
-    }
   },
   {
     "headword": "basi",

@@ -101,13 +101,6 @@
     "definition": "fm. Movement"
   },
   {
-    "headword": "kemto",
-    "copticWord": "ⲕⲉⲙⲧⲟ",
-    "englishTransliteration": "kemto",
-    "gloss": "m",
-    "definition": "m"
-  },
-  {
     "headword": "kinamwmon",
     "copticWord": "ⲕⲓⲛⲁⲙⲱⲙⲟⲛ",
     "englishTransliteration": "kinamōmon",
@@ -140,21 +133,6 @@
     "isGreek": true,
     "gloss": "Danger, hazard, venture",
     "definition": "Danger, hazard, venture"
-  },
-  {
-    "headword": "erkinduneuin",
-    "copticWord": "ⲉⲣⲕⲓⲛⲇⲩⲛⲉⲩⲓⲛ",
-    "englishTransliteration": "erkindynevin",
-    "variants": [
-      {
-        "word": "kundineuin",
-        "copticWord": "ⲕⲩⲛⲇⲓⲛⲉⲩⲓⲛ",
-        "englishTransliteration": "kyndinevin"
-      }
-    ],
-    "partOfSpeech": "vb",
-    "gloss": "To be daring, run a risk, make a venture, be in dire peril, engage in war, venture",
-    "definition": "To be daring, run a risk, make a venture, be in dire peril, engage in war, venture"
   },
   {
     "headword": "]keh",
@@ -210,7 +188,22 @@
     "reference": "92a",
     "partOfSpeech": "f",
     "gloss": "River-bank",
-    "definition": "River-bank"
+    "definition": "River-bank",
+    "variants": [
+      {
+        "headword": "(3) ke epsho",
+        "copticWord": "ⲕⲏ ⲉⲡϣⲱ",
+        "englishTransliteration": "ke epsho",
+        "gloss": "lying, being in sandy condition (of wasteland)",
+        "definition": "lying, being in sandy condition (of wasteland)",
+        "reference": "549b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "ko",
+          "gloss": "setzen, stellen, legen, machen"
+        }
+      }
+    ]
   },
   {
     "headword": "kitwn",
@@ -231,32 +224,6 @@
     "partOfSpeech": "f",
     "gloss": "Breast",
     "definition": "Breast"
-  },
-  {
-    "headword": "(2)k/",
-    "copticWord": "ⲕⲏ",
-    "englishTransliteration": "ki",
-    "variants": [
-      {
-        "word": "k/c",
-        "copticWord": "ⲕⲏⲥ",
-        "englishTransliteration": "kis"
-      },
-      {
-        "word": "koc",
-        "copticWord": "ⲕⲟⲥ",
-        "englishTransliteration": "kos"
-      },
-      {
-        "word": "kon",
-        "copticWord": "ⲕⲟⲛ",
-        "englishTransliteration": "kon"
-      }
-    ],
-    "reference": "Gk",
-    "isGreek": true,
-    "gloss": "A relative suffix in Greek words",
-    "definition": "A relative suffix in Greek words"
   },
   {
     "headword": "(1)ki]",
@@ -290,22 +257,6 @@
     "partOfSpeech": "f",
     "gloss": "Jar, pitcher",
     "definition": "Jar, pitcher"
-  },
-  {
-    "headword": "(2) ki]",
-    "copticWord": "ⲕⲓϯ",
-    "englishTransliteration": "kiti",
-    "variants": [
-      {
-        "word": "ref",
-        "copticWord": "ⲣⲉϥ",
-        "englishTransliteration": "ref"
-      }
-    ],
-    "reference": "124a",
-    "partOfSpeech": "n",
-    "gloss": "Player, gambler",
-    "definition": "Player, gambler"
   },
   {
     "headword": "klamvwnia",
@@ -399,14 +350,6 @@
     "definition": "Heir, esp. heir in possession"
   },
   {
-    "headword": "erkl/ronomin",
-    "copticWord": "ⲉⲣⲕⲗⲏⲣⲟⲛⲟⲙⲓⲛ",
-    "englishTransliteration": "erklironomin",
-    "partOfSpeech": "vb",
-    "gloss": "To inherit",
-    "definition": "To inherit"
-  },
-  {
     "headword": "kl/roc",
     "copticWord": "ⲕⲗⲏⲣⲟⲥ",
     "englishTransliteration": "kliros",
@@ -415,22 +358,6 @@
     "isGreek": true,
     "gloss": "That which is assigned by lot, lot",
     "definition": "clergy; legacy, inheritance, heritable estate."
-  },
-  {
-    "headword": "(2)k/bi",
-    "copticWord": "ⲕⲏⲃⲓ",
-    "englishTransliteration": "keebi",
-    "variants": [
-      {
-        "word": "kebi",
-        "copticWord": "ⲕⲉⲃⲓ",
-        "englishTransliteration": "kevi"
-      }
-    ],
-    "reference": "99b",
-    "partOfSpeech": "m",
-    "gloss": "Honey cake",
-    "definition": "Honey cake"
   },
   {
     "headword": "k/kc",
@@ -583,14 +510,6 @@
     "isGreek": true,
     "gloss": "Calling, summon, invitation, calling in religious sense",
     "definition": "Calling, summon, invitation, calling in religious sense"
-  },
-  {
-    "headword": "--- e",
-    "copticWord": "--- ⲉ",
-    "englishTransliteration": "--- e",
-    "partOfSpeech": "vb",
-    "gloss": "To move, touch, make sign to",
-    "definition": "vt. To move;"
   },
   {
     "headword": "klinate",

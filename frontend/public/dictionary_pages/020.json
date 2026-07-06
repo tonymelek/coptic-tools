@@ -88,17 +88,6 @@
     ]
   },
   {
-    "headword": "bo]=",
-    "copticWord": "ⲃⲟϯ",
-    "englishTransliteration": "voti",
-    "gloss": "To send",
-    "definition": "To send",
-    "crossReference": {
-      "target": "ouw]",
-      "gloss": "To send"
-    }
-  },
-  {
     "headword": "brai",
     "copticWord": "ⲃⲣⲁⲓ",
     "englishTransliteration": "vrai",
@@ -204,7 +193,48 @@
     "reference": "28a",
     "partOfSpeech": "f",
     "gloss": "Tree where its fruit is specified as opposed to ss/n (tree in general",
-    "definition": "probably wood, plantation of trees)."
+    "definition": "probably wood, plantation of trees).",
+    "variants": [
+      {
+        "headword": "(7) bo neloole",
+        "copticWord": "ⲃⲱ ⲛⲉⲗⲟⲟⲗⲉ",
+        "englishTransliteration": "bo neloole",
+        "gloss": "vine",
+        "definition": "vine",
+        "reference": "55a",
+        "partOfSpeech": "f",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "-bo naloli",
+            "copticWord": "ⲃⲱ ⲛⲁⲗⲟⲗⲓ",
+            "englishTransliteration": "bo naloli"
+          }
+        ],
+        "crossReference": {
+          "target": "bo",
+          "gloss": "Baum, Strauch"
+        }
+      },
+      {
+        "headword": "(2) bo nknte",
+        "copticWord": "ⲃⲱ ⲛⲕⲛⲧⲉ",
+        "englishTransliteration": "bo nknte",
+        "gloss": "figtree",
+        "definition": "figtree",
+        "reference": "112b",
+        "partOfSpeech": "f"
+      },
+      {
+        "headword": "(2) bo nechloj",
+        "copticWord": "ⲃⲱ ⲛⲉϭⲗⲟϫ",
+        "englishTransliteration": "bo nechloj",
+        "gloss": "gourd plant",
+        "definition": "gourd plant",
+        "reference": "815a",
+        "partOfSpeech": "f"
+      }
+    ]
   },
   {
     "headword": "eb/l je",
@@ -228,46 +258,231 @@
         "note": "Q",
         "copticWord": "ⲃⲏⲕ",
         "englishTransliteration": "vik"
+      },
+      {
+        "headword": "(3) bok (e-)",
+        "copticWord": "ⲃⲱⲕ (ⲉ-)",
+        "englishTransliteration": "bok (e-)",
+        "gloss": "go, depart to, reach",
+        "definition": "go, depart to, reach",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(4) bok (ern-)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲣⲛ-)",
+        "englishTransliteration": "bok (ern-)",
+        "gloss": "go to (of places)",
+        "definition": "go to (of places)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(5) bok (erat-)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲣⲁⲧ-)",
+        "englishTransliteration": "bok (erat-)",
+        "gloss": "go to, visit, frequent (of persons)",
+        "definition": "go to, visit, frequent (of persons)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(6) bok (ejn-)",
+        "copticWord": "ⲃⲱⲕ (ⲉϫⲛ-)",
+        "englishTransliteration": "bok (ejn-)",
+        "gloss": "go upon",
+        "definition": "go upon",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(7) bok (ntn-)",
+        "copticWord": "ⲃⲱⲕ (ⲛⲧⲛ-)",
+        "englishTransliteration": "bok (ntn-)",
+        "gloss": "go from (quit)",
+        "definition": "go from (quit)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(8) bok (nnahrn-)",
+        "copticWord": "ⲃⲱⲕ (ⲛⲛⲁϩⲣⲛ-)",
+        "englishTransliteration": "bok (nnahrn-)",
+        "gloss": "go to (of persons)",
+        "definition": "go to (of persons)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(9) bok (sha-)",
+        "copticWord": "ⲃⲱⲕ (ϣⲁ-)",
+        "englishTransliteration": "bok (sha-)",
+        "gloss": "go to (of persons)",
+        "definition": "go to (of persons)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(10) bok (hi-)",
+        "copticWord": "ⲃⲱⲕ (ϩⲓ-)",
+        "englishTransliteration": "bok (hi-)",
+        "gloss": "go upon (a road)",
+        "definition": "go upon (a road)",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(11) bok (hitn-)",
+        "copticWord": "ⲃⲱⲕ (ϩⲓⲧⲛ-)",
+        "englishTransliteration": "bok (hitn-)",
+        "gloss": "go through, traverse, quit",
+        "definition": "go through, traverse, quit",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(12) bok (hahtn-)",
+        "copticWord": "ⲃⲱⲕ (ϩⲁϩⲧⲛ-)",
+        "englishTransliteration": "bok (hahtn-)",
+        "gloss": "go, appear before",
+        "definition": "go, appear before",
+        "reference": "29b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) bok (hijn-)",
+        "copticWord": "ⲃⲱⲕ (ϩⲓϫⲛ-)",
+        "englishTransliteration": "bok (hijn-)",
+        "gloss": "go from off",
+        "definition": "go from off",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(14) bok (ebol)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "bok (ebol)",
+        "gloss": "go forth",
+        "definition": "go forth",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(15) bok (ebol hn-)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲃⲟⲗ ϩⲛ-)",
+        "englishTransliteration": "bok (ebol hn-)",
+        "gloss": "go through",
+        "definition": "go through",
+        "reference": "29b",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(16) bok (ebol hitn-)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲃⲟⲗ ϩⲓⲧⲛ-)",
+        "englishTransliteration": "bok (ebol hitn-)",
+        "gloss": "go forth, quit",
+        "definition": "go forth, quit",
+        "reference": "29b-30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(17) bok (epahou)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲡⲁϩⲟⲩ)",
+        "englishTransliteration": "bok (epahou)",
+        "gloss": "go behind, recede",
+        "definition": "go behind, recede",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(18) bok (epeset)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲡⲉⲥⲏⲧ)",
+        "englishTransliteration": "bok (epeset)",
+        "gloss": "go down",
+        "definition": "go down",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(19) bok (ethe)",
+        "copticWord": "ⲃⲱⲕ (ⲉⲑⲏ)",
+        "englishTransliteration": "bok (ethe)",
+        "gloss": "go forward",
+        "definition": "go forward",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(20) bok (ehoun)",
+        "copticWord": "ⲃⲱⲕ (ⲉϩⲟⲩⲛ)",
+        "englishTransliteration": "bok (ehoun)",
+        "gloss": "go in, enter",
+        "definition": "go in, enter",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(21) bok (ehrai)",
+        "copticWord": "ⲃⲱⲕ (ⲉϩⲣⲁⲓ)",
+        "englishTransliteration": "bok (ehrai)",
+        "gloss": "go up",
+        "definition": "go up",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(22) bok (ehrai ejn-)",
+        "copticWord": "ⲃⲱⲕ (ⲉϩⲣⲁⲓ ⲉϫⲛ-)",
+        "englishTransliteration": "bok (ehrai ejn-)",
+        "gloss": "go up upon, along",
+        "definition": "go up upon, along",
+        "reference": "30a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(3) bok nmto",
+        "copticWord": "ⲃⲱⲕ ⲛⲙⲧⲱ",
+        "englishTransliteration": "bok nmto",
+        "gloss": "go to the depths, founder",
+        "definition": "go to the depths, founder",
+        "reference": "193a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "bok ntmto",
+            "copticWord": "ⲃⲱⲕ ⲛⲧⲙⲧⲱ",
+            "englishTransliteration": "bok ntmto"
+          }
+        ],
+        "crossReference": {
+          "target": "bok",
+          "gloss": "go, depart"
+        }
       }
     ],
     "reference": "29a",
     "partOfSpeech": "vb",
     "gloss": "To go, generally se is used",
     "definition": "To go, generally se is used"
-  },
-  {
-    "headword": "(2) bwk",
-    "copticWord": "ⲃⲱⲕ",
-    "englishTransliteration": "vōk",
-    "variants": [
-      {
-        "type": "f.",
-        "word": "bwki",
-        "copticWord": "ⲃⲱⲕⲓ",
-        "englishTransliteration": "vōki"
-      },
-      {
-        "type": "pl.",
-        "word": "ebiaik",
-        "copticWord": "ⲉⲃⲓⲁⲓⲕ",
-        "englishTransliteration": "eviaik"
-      },
-      {
-        "type": "sg as pl"
-      }
-    ],
-    "reference": "30a",
-    "partOfSpeech": "m",
-    "gloss": "Servant, slave",
-    "definition": "opposite remhe;",
-    "senses": [
-      {
-        "label": "erbwk",
-        "partOfSpeech": "vb",
-        "gloss": "To serve, labor",
-        "definition": "iri mbwk: vb. To enslave; metbwk: f. Servitude, slavery; metbal mbwk: f. Eye service."
-      }
-    ]
   },
   {
     "headword": "cabol",
@@ -299,14 +514,6 @@
     "partOfSpeech": "adj",
     "gloss": "Bad",
     "definition": "Bad"
-  },
-  {
-    "headword": "boni",
-    "copticWord": "ⲃⲟⲛⲓ",
-    "englishTransliteration": "voni",
-    "partOfSpeech": "f",
-    "gloss": "Evil, misfortunate",
-    "definition": "Evil, misfortunate"
   },
   {
     "headword": "ierboni",
@@ -351,6 +558,38 @@
         "word": "botc=",
         "copticWord": "ⲃⲟⲧⲥ",
         "englishTransliteration": "vots"
+      },
+      {
+        "headword": "(1) bots (ebol)",
+        "copticWord": "ⲃⲱⲧⲥ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "bots (ebol)",
+        "gloss": "draw up, set out, assess (?)",
+        "definition": "draw up, set out, assess (?)",
+        "reference": "46a",
+        "partOfSpeech": "vb",
+        "isGreek": true
+      },
+      {
+        "headword": "(3) bots (ebol e-)",
+        "copticWord": "ⲃⲱⲧⲥ (ⲉⲃⲟⲗ ⲉ-)",
+        "englishTransliteration": "bots (ebol e-)",
+        "gloss": "be drawn up (for battle), fight",
+        "definition": "be drawn up (for battle), fight",
+        "reference": "46a",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "variants": [
+          {
+            "word": "bots (ebol oube-)",
+            "copticWord": "ⲃⲱⲧⲥ (ⲉⲃⲟⲗ ⲟⲩⲃⲉ-)",
+            "englishTransliteration": "bots (ebol oube-)"
+          },
+          {
+            "word": "bots (ebol nem-)",
+            "copticWord": "ⲃⲱⲧⲥ (ⲉⲃⲟⲗ ⲛⲉⲙ-)",
+            "englishTransliteration": "bots (ebol nem-)"
+          }
+        ]
       }
     ],
     "reference": "46a",

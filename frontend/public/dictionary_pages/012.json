@@ -77,23 +77,6 @@
     "definition": "fellow, companion; each other, together, mutually."
   },
   {
-    "headword": "(2) apouc",
-    "copticWord": "ⲁⲡⲟⲩⲥ",
-    "englishTransliteration": "apous",
-    "variants": [
-      {
-        "word": "-oun",
-        "copticWord": "-ⲟⲩⲛ",
-        "englishTransliteration": "-oun"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "m",
-    "isGreek": true,
-    "gloss": "Lame, without foot or feet",
-    "definition": "Lame, without foot or feet"
-  },
-  {
     "headword": "apovacic",
     "copticWord": "ⲁⲡⲟⲫⲁⲥⲓⲥ",
     "englishTransliteration": "apofasis",
@@ -121,15 +104,6 @@
     "partOfSpeech": "m",
     "gloss": "Door-ring",
     "definition": "Door-ring"
-  },
-  {
-    "headword": "(2) ara",
-    "copticWord": "ⲁⲣⲁ",
-    "englishTransliteration": "ara",
-    "reference": "Gk",
-    "isGreek": true,
-    "gloss": "prep. Since, thence",
-    "definition": "prep. Since, thence"
   },
   {
     "headword": "ariopagoc",

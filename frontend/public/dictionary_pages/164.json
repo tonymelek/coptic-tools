@@ -1,33 +1,5 @@
 [
   {
-    "headword": "(2)je",
-    "copticWord": "ϫⲉ",
-    "englishTransliteration": "je",
-    "reference": "746b",
-    "gloss": "conj. (from jw to say) Namely",
-    "definition": "after verbs call or name; before direct statements or questions; because; if, whether; after Gk particles."
-  },
-  {
-    "headword": "(3) je",
-    "copticWord": "ϫⲉ",
-    "englishTransliteration": "je",
-    "reference": "802b",
-    "partOfSpeech": "part",
-    "gloss": "Then, therefore, but",
-    "definition": "again, once more."
-  },
-  {
-    "headword": "je",
-    "copticWord": "ϫⲉ",
-    "englishTransliteration": "je",
-    "gloss": "To say. jebiwou (Q) v. jwb - To be feeble. jebro, jevro, jepro: (827a)",
-    "definition": "f.",
-    "crossReference": {
-      "target": "(2)jw",
-      "gloss": "To say. jebiwou (Q) v. jwb - To be feeble. jebro, jevro, jepro: (827a)"
-    }
-  },
-  {
     "headword": "jebc",
     "copticWord": "ϫⲉⲃⲥ",
     "englishTransliteration": "jevs",
@@ -35,17 +7,6 @@
     "partOfSpeech": "mf",
     "gloss": "Coal",
     "definition": "Coal"
-  },
-  {
-    "headword": "jebsai",
-    "copticWord": "ϫⲉⲃϣⲁⲓ",
-    "englishTransliteration": "jevshai",
-    "gloss": "Nostrils",
-    "definition": "Nostrils",
-    "crossReference": {
-      "target": "(2)sai",
-      "gloss": "Nostrils"
-    }
   },
   {
     "headword": "jebjip",
@@ -294,17 +255,6 @@
     }
   },
   {
-    "headword": "jecki]",
-    "copticWord": "ϫⲉⲥⲕⲓϯ",
-    "englishTransliteration": "jeskiti",
-    "gloss": "half stater",
-    "definition": "half stater",
-    "crossReference": {
-      "target": "(1)ki]",
-      "gloss": "half stater"
-    }
-  },
-  {
     "headword": "jeu",
     "copticWord": "ϫⲉⲩ",
     "englishTransliteration": "jev",
@@ -474,29 +424,7 @@
     "definition": "vi. To let drip, drip"
   },
   {
-    "headword": "jeljwl",
-    "copticWord": "ϫⲉⲗϫⲱⲗ",
-    "englishTransliteration": "jeljōl",
-    "gloss": "To spread to dry",
-    "definition": "To spread to dry",
-    "crossReference": {
-      "target": "jeljel",
-      "gloss": "To spread to dry"
-    }
-  },
-  {
     "headword": "jem",
-    "copticWord": "ϫⲉⲙ",
-    "englishTransliteration": "jem",
-    "gloss": "To find",
-    "definition": "To find",
-    "crossReference": {
-      "target": "jimi",
-      "gloss": "To find"
-    }
-  },
-  {
-    "headword": "jem=",
     "copticWord": "ϫⲉⲙ",
     "englishTransliteration": "jem",
     "gloss": "To find",
@@ -629,27 +557,11 @@
     "definition": "Garment"
   },
   {
-    "headword": "(2)j/",
-    "copticWord": "ϫⲏ",
-    "englishTransliteration": "ji",
-    "reference": "747b",
-    "partOfSpeech": "m",
-    "gloss": "Emptiness, vanity",
-    "definition": "Emptiness, vanity"
-  },
-  {
     "headword": "jinj/",
     "copticWord": "ϫⲓⲛϫⲏ",
     "englishTransliteration": "jinji",
     "partOfSpeech": "m",
     "gloss": "Emptiness, vanity",
     "definition": "Emptiness, vanity"
-  },
-  {
-    "headword": "epj/",
-    "copticWord": "ⲉⲡϫⲏ",
-    "englishTransliteration": "epji",
-    "gloss": "For nought, in vain",
-    "definition": "For nought, in vain"
   }
 ]

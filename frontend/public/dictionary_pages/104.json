@@ -77,6 +77,15 @@
         "word": "cont=",
         "copticWord": "ⲥⲟⲛⲧ",
         "englishTransliteration": "sont"
+      },
+      {
+        "headword": "(2) sont (ebol)",
+        "copticWord": "ⲥⲱⲛⲧ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "sont (ebol)",
+        "gloss": "look forth, await",
+        "definition": "look forth, await",
+        "reference": "346a",
+        "partOfSpeech": "vb"
       }
     ],
     "reference": "345a",
@@ -95,15 +104,6 @@
         "definition": "refhicen]: m. Founder."
       }
     ]
-  },
-  {
-    "headword": "(2) cwp",
-    "copticWord": "ⲥⲱⲡ",
-    "englishTransliteration": "sōp",
-    "reference": "351a",
-    "partOfSpeech": "m",
-    "gloss": "Kohl-stick for appling kohl to eyes",
-    "definition": "Kohl-stick for appling kohl to eyes"
   },
   {
     "headword": "cwpi",
@@ -151,15 +151,6 @@
       }
     ],
     "reference": "353b"
-  },
-  {
-    "headword": "(2) cwnt",
-    "copticWord": "ⲥⲱⲛⲧ",
-    "englishTransliteration": "sōnt",
-    "reference": "346a",
-    "partOfSpeech": "m",
-    "gloss": "Custom, custom of women (i.e. menstruation)",
-    "definition": "Custom, custom of women (i.e. menstruation)"
   },
   {
     "headword": "cwrem",

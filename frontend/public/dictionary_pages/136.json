@@ -8,21 +8,6 @@
     "definition": "25th letter of the alphabet s: as a numeral = 600"
   },
   {
-    "headword": "sa",
-    "copticWord": "ϣⲁ",
-    "englishTransliteration": "sha",
-    "variants": [
-      {
-        "word": "saro=",
-        "copticWord": "ϣⲁⲣⲟ",
-        "englishTransliteration": "sharo"
-      }
-    ],
-    "reference": "541b",
-    "gloss": "prep. to, toward (persons)",
-    "definition": "to, at (of places, things etc.); till, at, by, for (time); up to, to length of in reckoning."
-  },
-  {
     "headword": "sayoul",
     "copticWord": "ϣⲁⲑⲟⲩⲗ",
     "englishTransliteration": "shathoul",
@@ -81,28 +66,6 @@
         "partOfSpeech": "m",
         "gloss": "Place of holding festival, church",
         "definition": "Place of holding festival, church"
-      }
-    ]
-  },
-  {
-    "headword": "(2) sai",
-    "copticWord": "ϣⲁⲓ",
-    "englishTransliteration": "shai",
-    "variants": [
-      {
-        "word": "sant=",
-        "copticWord": "ϣⲁⲛⲧ",
-        "englishTransliteration": "shant"
-      }
-    ],
-    "reference": "543b",
-    "partOfSpeech": "m",
-    "gloss": "Nose",
-    "definition": "Nose",
-    "senses": [
-      {
-        "gloss": ": adj. with cut nose",
-        "definition": ": adj. with cut nose"
       }
     ]
   },
@@ -287,17 +250,6 @@
     }
   },
   {
-    "headword": "sanous=",
-    "copticWord": "ϣⲁⲛⲟⲩϣ",
-    "englishTransliteration": "shanoush",
-    "gloss": "To nourish",
-    "definition": "To nourish",
-    "crossReference": {
-      "target": "sans",
-      "gloss": "To nourish"
-    }
-  },
-  {
     "headword": "sanoust(Q)",
     "copticWord": "ϣⲁⲛⲟⲩϣⲧ(Ϧ)",
     "englishTransliteration": "shanousht(Kh)",
@@ -323,17 +275,6 @@
     "partOfSpeech": "m",
     "gloss": "Reared with, akin",
     "definition": "Reared with, akin"
-  },
-  {
-    "headword": "sai",
-    "copticWord": "ϣⲁⲓ",
-    "englishTransliteration": "shai",
-    "gloss": "Festival",
-    "definition": "Festival",
-    "crossReference": {
-      "target": "(1)sai",
-      "gloss": "Festival"
-    }
   },
   {
     "headword": "sai o v. (1)sai - Great festival. sairi",

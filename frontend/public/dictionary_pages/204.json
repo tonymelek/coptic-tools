@@ -1,0 +1,4980 @@
+[
+  {
+    "headword": "charis",
+    "copticWord": "ⲭⲁⲣⲓⲥ",
+    "englishTransliteration": "charis",
+    "gloss": "grace, favor (general, or specific sense unclear)",
+    "definition": "grace, favor (general, or specific sense unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-char",
+        "copticWord": "ⲭⲁⲣ",
+        "englishTransliteration": "char"
+      },
+      {
+        "word": "charise",
+        "copticWord": "ⲭⲁⲣⲓⲥⲉ",
+        "englishTransliteration": "charise"
+      }
+    ]
+  },
+  {
+    "headword": "charitson",
+    "copticWord": "ⲭⲁⲣⲓⲧⲥⲱⲛ",
+    "englishTransliteration": "charitson",
+    "gloss": "weighing-machine",
+    "definition": "weighing-machine",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chartes",
+    "copticWord": "ⲭⲁⲣⲧⲏⲥ",
+    "englishTransliteration": "chartes",
+    "gloss": "papyrus",
+    "definition": "papyrus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-cha",
+        "copticWord": "ⲭⲁ",
+        "englishTransliteration": "cha"
+      },
+      {
+        "word": "chaltes",
+        "copticWord": "ⲭⲁⲗⲧⲏⲥ",
+        "englishTransliteration": "chaltes"
+      },
+      {
+        "word": "-char",
+        "copticWord": "ⲭⲁⲣ",
+        "englishTransliteration": "char"
+      },
+      {
+        "word": "-chart",
+        "copticWord": "ⲭⲁⲣⲧ",
+        "englishTransliteration": "chart"
+      },
+      {
+        "word": "charten",
+        "copticWord": "ⲭⲁⲣⲧⲏⲛ",
+        "englishTransliteration": "charten"
+      },
+      {
+        "word": "chartin",
+        "copticWord": "ⲭⲁⲣⲧⲓⲛ",
+        "englishTransliteration": "chartin"
+      },
+      {
+        "word": "chartis",
+        "copticWord": "ⲭⲁⲣⲧⲓⲥ",
+        "englishTransliteration": "chartis"
+      },
+      {
+        "word": "chartos",
+        "copticWord": "ⲭⲁⲣⲧⲟⲥ",
+        "englishTransliteration": "chartos"
+      }
+    ]
+  },
+  {
+    "headword": "chartin",
+    "copticWord": "ⲭⲁⲣⲧⲓⲛ",
+    "englishTransliteration": "chartin",
+    "gloss": "document (substantive)",
+    "definition": "document (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chaulos",
+    "copticWord": "ⲭⲁⲩⲗⲟⲥ",
+    "englishTransliteration": "chaulos",
+    "gloss": "stem (of a plant)",
+    "definition": "stem (of a plant)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "cheimarros",
+    "copticWord": "ⲭⲉⲓⲙⲁⲣⲣⲟⲥ",
+    "englishTransliteration": "cheimarros",
+    "gloss": "river",
+    "definition": "river",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "jimahros",
+        "copticWord": "ϫⲓⲙⲁϩⲣⲟⲥ",
+        "englishTransliteration": "jimahros"
+      },
+      {
+        "word": "jimaros",
+        "copticWord": "ϫⲓⲙⲁⲣⲟⲥ",
+        "englishTransliteration": "jimaros"
+      },
+      {
+        "word": "jimarros",
+        "copticWord": "ϫⲓⲙⲁⲣⲣⲟⲥ",
+        "englishTransliteration": "jimarros"
+      },
+      {
+        "word": "-cheimaros",
+        "copticWord": "ⲭⲉⲓⲙⲁⲣⲟⲥ",
+        "englishTransliteration": "cheimaros"
+      },
+      {
+        "word": "-chimaros",
+        "copticWord": "ⲭⲓⲙⲁⲣⲟⲥ",
+        "englishTransliteration": "chimaros"
+      }
+    ]
+  },
+  {
+    "headword": "cheirographon",
+    "copticWord": "ⲭⲉⲓⲣⲟⲅⲣⲁⲫⲟⲛ",
+    "englishTransliteration": "cheirographon",
+    "gloss": "record of debt",
+    "definition": "record of debt",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chirographon",
+        "copticWord": "ⲭⲓⲣⲟⲅⲣⲁⲫⲟⲛ",
+        "englishTransliteration": "chirographon"
+      },
+      {
+        "word": "-chirographon",
+        "copticWord": "ⲭⲓⲣⲟⲅⲣⲁⲫⲱⲛ",
+        "englishTransliteration": "chirographon"
+      }
+    ]
+  },
+  {
+    "headword": "cheirotonei",
+    "copticWord": "ⲭⲉⲓⲣⲟⲧⲟⲛⲉⲓ",
+    "englishTransliteration": "cheirotonei",
+    "gloss": "to ordain s.o.",
+    "definition": "to ordain s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "cheirodonei",
+        "copticWord": "ⲭⲉⲓⲣⲟⲇⲟⲛⲉⲓ",
+        "englishTransliteration": "cheirodonei"
+      },
+      {
+        "word": "-cherodonei",
+        "copticWord": "ⲭⲉⲣⲟⲇⲟⲛⲉⲓ",
+        "englishTransliteration": "cherodonei"
+      },
+      {
+        "word": "-chirodonei",
+        "copticWord": "ⲭⲓⲣⲟⲇⲟⲛⲉⲓ",
+        "englishTransliteration": "chirodonei"
+      },
+      {
+        "word": "-chirotoni",
+        "copticWord": "ⲭⲓⲣⲟⲧⲟⲛⲓ",
+        "englishTransliteration": "chirotoni"
+      },
+      {
+        "word": "-chirotone",
+        "copticWord": "ⲭⲓⲣⲱⲧⲟⲛⲉ",
+        "englishTransliteration": "chirotone"
+      }
+    ]
+  },
+  {
+    "headword": "cheirotonia",
+    "copticWord": "ⲭⲉⲓⲣⲟⲧⲟⲛⲓⲁ",
+    "englishTransliteration": "cheirotonia",
+    "gloss": "ordination",
+    "definition": "ordination",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chelos",
+    "copticWord": "ⲭⲉⲗⲟⲥ",
+    "englishTransliteration": "chelos",
+    "gloss": "juice of plants",
+    "definition": "juice of plants",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "cheilas",
+        "copticWord": "ⲭⲉⲓⲗⲁⲥ",
+        "englishTransliteration": "cheilas"
+      },
+      {
+        "word": "chellos",
+        "copticWord": "ⲭⲉⲗⲗⲟⲥ",
+        "englishTransliteration": "chellos"
+      },
+      {
+        "word": "chellos",
+        "copticWord": "ⲭⲏⲗⲗⲟⲥ",
+        "englishTransliteration": "chellos"
+      },
+      {
+        "word": "chulos",
+        "copticWord": "ⲭⲩⲗⲟⲥ",
+        "englishTransliteration": "chulos"
+      }
+    ]
+  },
+  {
+    "headword": "cheroubin",
+    "copticWord": "ⲭⲉⲣⲟⲩⲃⲓⲛ",
+    "englishTransliteration": "cheroubin",
+    "gloss": "cherub (type of angel)",
+    "definition": "cherub (type of angel)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chairoubin",
+        "copticWord": "ⲭⲁⲓⲣⲟⲩⲃⲓⲛ",
+        "englishTransliteration": "chairoubin"
+      },
+      {
+        "word": "cheiroubein",
+        "copticWord": "ⲭⲉⲓⲣⲟⲩⲃⲉⲓⲛ",
+        "englishTransliteration": "cheiroubein"
+      },
+      {
+        "word": "cheiroubin",
+        "copticWord": "ⲭⲉⲓⲣⲟⲩⲃⲓⲛ",
+        "englishTransliteration": "cheiroubin"
+      },
+      {
+        "word": "-cherobin",
+        "copticWord": "ⲭⲉⲣⲟⲃⲓⲛ",
+        "englishTransliteration": "cherobin"
+      },
+      {
+        "word": "cheroubein",
+        "copticWord": "ⲭⲉⲣⲟⲩⲃⲉⲓⲛ",
+        "englishTransliteration": "cheroubein"
+      },
+      {
+        "word": "cheroubim",
+        "copticWord": "ⲭⲉⲣⲟⲩⲃⲓⲙ",
+        "englishTransliteration": "cheroubim"
+      },
+      {
+        "word": "-cherobi",
+        "copticWord": "ⲭⲉⲣⲱⲃⲓ⳯",
+        "englishTransliteration": "cherobi"
+      },
+      {
+        "word": "-cherobin",
+        "copticWord": "ⲭⲉⲣⲱⲃⲓⲛ",
+        "englishTransliteration": "cherobin"
+      },
+      {
+        "word": "-chorobin",
+        "copticWord": "ⲭⲱⲣⲱⲃⲓⲛ",
+        "englishTransliteration": "chorobin"
+      }
+    ]
+  },
+  {
+    "headword": "chersos",
+    "copticWord": "ⲭⲉⲣⲥⲟⲥ",
+    "englishTransliteration": "chersos",
+    "gloss": "dry land",
+    "definition": "dry land",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chettaios",
+    "copticWord": "ⲭⲉⲧⲧⲁⲓⲟⲥ",
+    "englishTransliteration": "chettaios",
+    "gloss": "Hittite (substantive)",
+    "definition": "Hittite (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "cheras",
+    "copticWord": "ⲭⲏⲣⲁⲥ",
+    "englishTransliteration": "cheras",
+    "gloss": "young pig, porker (attributive)",
+    "definition": "young pig, porker (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chera",
+    "copticWord": "ⲭⲏⲣⲁ",
+    "englishTransliteration": "chera",
+    "gloss": "widow",
+    "definition": "widow",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chere",
+        "copticWord": "ⲭⲏⲣⲉ",
+        "englishTransliteration": "chere"
+      }
+    ]
+  },
+  {
+    "headword": "chereue",
+    "copticWord": "ⲭⲏⲣⲉⲩⲉ",
+    "englishTransliteration": "chereue",
+    "gloss": "to be widowed (ingressive; object: none)",
+    "definition": "to be widowed (ingressive; object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "chiliarchos",
+    "copticWord": "ⲭⲓⲗⲓⲁⲣⲭⲟⲥ",
+    "englishTransliteration": "chiliarchos",
+    "gloss": "chiliarch, military tribune",
+    "definition": "chiliarch, military tribune",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "jiliarchos",
+        "copticWord": "ϫⲓⲗⲓⲁⲣⲭⲟⲥ",
+        "englishTransliteration": "jiliarchos"
+      }
+    ]
+  },
+  {
+    "headword": "chimarrais",
+    "copticWord": "ⲭⲓⲙⲁⲣⲣⲁⲓⲥ",
+    "englishTransliteration": "chimarrais",
+    "gloss": "chimera (mythological beast) (Greek genitive morph.)",
+    "definition": "chimera (mythological beast) (Greek genitive morph.)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chimon",
+    "copticWord": "ⲭⲓⲙⲱⲛ",
+    "englishTransliteration": "chimon",
+    "gloss": "storm, winter (substantive)",
+    "definition": "storm, winter (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chion",
+    "copticWord": "ⲭⲓⲱⲛ",
+    "englishTransliteration": "chion",
+    "gloss": "snow",
+    "definition": "snow",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "jion",
+        "copticWord": "ϫⲓⲱⲛ",
+        "englishTransliteration": "jion"
+      }
+    ]
+  },
+  {
+    "headword": "chlamus",
+    "copticWord": "ⲭⲗⲁⲙⲩⲥ",
+    "englishTransliteration": "chlamus",
+    "gloss": "cloak, robe, mantle",
+    "definition": "cloak, robe, mantle",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "klamis",
+        "copticWord": "ⲕⲗⲁⲙⲓⲥ",
+        "englishTransliteration": "klamis"
+      },
+      {
+        "word": "kchlamus",
+        "copticWord": "ⲕⲭⲗⲁⲙⲩⲥ",
+        "englishTransliteration": "kchlamus"
+      },
+      {
+        "word": "chlameus",
+        "copticWord": "ⲭⲗⲁⲙⲉⲩⲥ",
+        "englishTransliteration": "chlameus"
+      }
+    ]
+  },
+  {
+    "headword": "chleuaze",
+    "copticWord": "ⲭⲗⲉⲩⲁⲍⲉ",
+    "englishTransliteration": "chleuaze",
+    "gloss": "to jest, scoff",
+    "definition": "to jest, scoff",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "choikos",
+    "copticWord": "ⲭⲟⲓⲕⲟⲥ",
+    "englishTransliteration": "choikos",
+    "gloss": "being of an earthly substance (as opposed to spiritual or psychic substance)\n     (substantive)",
+    "definition": "being of an earthly substance (as opposed to spiritual or psychic substance)\n     (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choirogulion",
+    "copticWord": "ⲭⲟⲓⲣⲟⲅⲩⲗⲓⲟⲛ",
+    "englishTransliteration": "choirogulion",
+    "gloss": "badger",
+    "definition": "badger",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "choirogrullion",
+        "copticWord": "ⲭⲟⲓⲣⲟⲅⲣⲩⲗⲗⲓⲟⲛ",
+        "englishTransliteration": "choirogrullion"
+      }
+    ]
+  },
+  {
+    "headword": "chole",
+    "copticWord": "ⲭⲟⲗⲏ",
+    "englishTransliteration": "chole",
+    "gloss": "gall, bile",
+    "definition": "gall, bile",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chalei",
+        "copticWord": "ⲭⲁⲗⲉⲓ",
+        "englishTransliteration": "chalei"
+      },
+      {
+        "word": "chole",
+        "copticWord": "ⲭⲱⲗⲏ",
+        "englishTransliteration": "chole"
+      },
+      {
+        "word": "cholu",
+        "copticWord": "ⲭⲱⲗⲩ",
+        "englishTransliteration": "cholu"
+      }
+    ]
+  },
+  {
+    "headword": "choneuton",
+    "copticWord": "ⲭⲟⲛⲉⲩⲧⲟⲛ",
+    "englishTransliteration": "choneuton",
+    "gloss": "molten image",
+    "definition": "molten image",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "joneuton",
+        "copticWord": "ϫⲱⲛⲉⲩⲧⲟⲛ",
+        "englishTransliteration": "joneuton"
+      }
+    ]
+  },
+  {
+    "headword": "chorde",
+    "copticWord": "ⲭⲟⲣⲇⲏ",
+    "englishTransliteration": "chorde",
+    "gloss": "(instrument with) chord, string;",
+    "definition": "(instrument with) chord, string;",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choregei",
+    "copticWord": "ⲭⲟⲣⲏⲅⲉⲓ",
+    "englishTransliteration": "choregei",
+    "gloss": "to supply s.o.",
+    "definition": "to supply s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "choregia",
+    "copticWord": "ⲭⲟⲣⲏⲅⲓⲁ",
+    "englishTransliteration": "choregia",
+    "gloss": "provision, providing",
+    "definition": "provision, providing",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choregos",
+    "copticWord": "ⲭⲟⲣⲏⲅⲟⲥ",
+    "englishTransliteration": "choregos",
+    "gloss": "donor, patron",
+    "definition": "donor, patron",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chorema",
+    "copticWord": "ⲭⲟⲣⲏⲙⲁ",
+    "englishTransliteration": "chorema",
+    "gloss": "(empty) space",
+    "definition": "(empty) space",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chorema",
+        "copticWord": "ⲭⲱⲣⲏⲙⲁ",
+        "englishTransliteration": "chorema"
+      }
+    ]
+  },
+  {
+    "headword": "chorion",
+    "copticWord": "ⲭⲟⲣⲓⲟⲛ",
+    "englishTransliteration": "chorion",
+    "gloss": "afterbirth, inner membrane",
+    "definition": "afterbirth, inner membrane",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choros",
+    "copticWord": "ⲭⲟⲣⲟⲥ",
+    "englishTransliteration": "choros",
+    "gloss": "choir, group",
+    "definition": "choir, group",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "choros",
+        "copticWord": "ⲭⲱⲣⲟⲥ",
+        "englishTransliteration": "choros"
+      },
+      {
+        "word": "choros",
+        "copticWord": "ⲭⲱⲣⲱⲥ",
+        "englishTransliteration": "choros"
+      }
+    ]
+  },
+  {
+    "headword": "chortos",
+    "copticWord": "ⲭⲟⲣⲧⲟⲥ",
+    "englishTransliteration": "chortos",
+    "gloss": "grass",
+    "definition": "grass",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choruma",
+    "copticWord": "ⲭⲟⲣⲩⲙⲁ",
+    "englishTransliteration": "choruma",
+    "gloss": "plot, estate, piece of land",
+    "definition": "plot, estate, piece of land",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chorema",
+        "copticWord": "ⲭⲱⲣⲏⲙⲁ",
+        "englishTransliteration": "chorema"
+      },
+      {
+        "word": "choruma",
+        "copticWord": "ⲭⲱⲣⲩⲙⲁ",
+        "englishTransliteration": "choruma"
+      }
+    ]
+  },
+  {
+    "headword": "chraios",
+    "copticWord": "ⲭⲣⲁⲓⲟⲥ",
+    "englishTransliteration": "chraios",
+    "gloss": "obligation, duty, debt",
+    "definition": "obligation, duty, debt",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chreos",
+        "copticWord": "ⲭⲣⲉⲟⲥ",
+        "englishTransliteration": "chreos"
+      },
+      {
+        "word": "-chreos",
+        "copticWord": "ⲭⲣⲉⲱⲥ",
+        "englishTransliteration": "chreos"
+      }
+    ]
+  },
+  {
+    "headword": "chrasthai",
+    "copticWord": "ⲭⲣⲁⲥⲑⲁⲓ",
+    "englishTransliteration": "chrasthai",
+    "gloss": "to use, make use (object: none)",
+    "definition": "to use, make use (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "chreia",
+    "copticWord": "ⲭⲣⲉⲓⲁ",
+    "englishTransliteration": "chreia",
+    "gloss": "duty, purpose, use",
+    "definition": "duty, purpose, use",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "jrea",
+        "copticWord": "ϫⲣⲏⲁ",
+        "englishTransliteration": "jrea"
+      },
+      {
+        "word": "-chrea",
+        "copticWord": "ⲭⲣⲏⲁ",
+        "englishTransliteration": "chrea"
+      },
+      {
+        "word": "-chria",
+        "copticWord": "ⲭⲣⲓⲁ",
+        "englishTransliteration": "chria"
+      },
+      {
+        "word": "-chro",
+        "copticWord": "ⲭⲣⲱ",
+        "englishTransliteration": "chro"
+      }
+    ]
+  },
+  {
+    "headword": "chreostei",
+    "copticWord": "ⲭⲣⲉⲱⲥⲧⲉⲓ",
+    "englishTransliteration": "chreostei",
+    "gloss": "to be indebted, to owe (object: none)",
+    "definition": "to be indebted, to owe (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chreio",
+        "copticWord": "ⲭⲣⲉⲓⲱ",
+        "englishTransliteration": "chreio"
+      },
+      {
+        "word": "-chreoste",
+        "copticWord": "ⲭⲣⲉⲟⲥⲧⲉ",
+        "englishTransliteration": "chreoste"
+      },
+      {
+        "word": "-chreoste",
+        "copticWord": "ⲭⲣⲉⲱⲥⲧⲉ",
+        "englishTransliteration": "chreoste"
+      },
+      {
+        "word": "-chrioste",
+        "copticWord": "ⲭⲣⲓⲱⲥⲧⲉ",
+        "englishTransliteration": "chrioste"
+      },
+      {
+        "word": "chriostei",
+        "copticWord": "ⲭⲣⲓⲱⲥⲧⲉⲓ",
+        "englishTransliteration": "chriostei"
+      },
+      {
+        "word": "-chriosti",
+        "copticWord": "ⲭⲣⲓⲱⲥⲧⲓ",
+        "englishTransliteration": "chriosti"
+      },
+      {
+        "word": "-chrost",
+        "copticWord": "ⲭⲣⲱⲥⲧ",
+        "englishTransliteration": "chrost"
+      },
+      {
+        "word": "-chroste",
+        "copticWord": "ⲭⲣⲱⲥⲧⲉ",
+        "englishTransliteration": "chroste"
+      }
+    ]
+  },
+  {
+    "headword": "chreostikon",
+    "copticWord": "ⲭⲣⲉⲱⲥⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "chreostikon",
+    "gloss": "(something) obligatory, necessary (substantive)",
+    "definition": "(something) obligatory, necessary (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chrematize",
+    "copticWord": "ⲭⲣⲏⲙⲁⲧⲓⲍⲉ",
+    "englishTransliteration": "chrematize",
+    "gloss": "to act on behalf of , legally represent s.o. regarding s.th.",
+    "definition": "to act on behalf of , legally represent s.o. regarding s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chresmatize",
+        "copticWord": "ⲭⲣⲉⲥⲙⲁⲧⲓⲍⲉ",
+        "englishTransliteration": "chresmatize"
+      }
+    ]
+  },
+  {
+    "headword": "chrema",
+    "copticWord": "ⲭⲣⲏⲙⲁ",
+    "englishTransliteration": "chrema",
+    "gloss": "property, wealth (most general sense)",
+    "definition": "property, wealth (most general sense)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chresmos",
+    "copticWord": "ⲭⲣⲏⲥⲙⲟⲥ",
+    "englishTransliteration": "chresmos",
+    "gloss": "oracle",
+    "definition": "oracle",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chresterion",
+    "copticWord": "ⲭⲣⲏⲥⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "chresterion",
+    "gloss": "furtniture, inventory (of house/plot) (plurale tantum)",
+    "definition": "furtniture, inventory (of house/plot) (plurale tantum)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chr",
+        "copticWord": "ⲭⲣ",
+        "englishTransliteration": "chr"
+      },
+      {
+        "word": "chresterion",
+        "copticWord": "ⲭⲣⲉⲥⲧⲏⲣⲓⲱⲛ",
+        "englishTransliteration": "chresterion"
+      },
+      {
+        "word": "-chres",
+        "copticWord": "ⲭⲣⲏⲥ",
+        "englishTransliteration": "chres"
+      },
+      {
+        "word": "christerion",
+        "copticWord": "ⲭⲣⲓⲥⲧⲏⲣⲓⲟⲛ",
+        "englishTransliteration": "christerion"
+      },
+      {
+        "word": "christurion",
+        "copticWord": "ⲭⲣⲓⲥⲧⲩⲣⲓⲟⲛ",
+        "englishTransliteration": "christurion"
+      }
+    ]
+  },
+  {
+    "headword": "chrestos",
+    "copticWord": "ⲭⲣⲏⲥⲧⲟⲥ",
+    "englishTransliteration": "chrestos",
+    "gloss": "benevolent, kind one (substantive)",
+    "definition": "benevolent, kind one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chresstos",
+        "copticWord": "ⲭⲣⲏⲥⲥⲧⲟⲥ",
+        "englishTransliteration": "chresstos"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣⲥ",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭ︤ⲣ︦ⲥ︥",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chs",
+        "copticWord": "ⲭⲥ",
+        "englishTransliteration": "chs"
+      },
+      {
+        "word": "-chs",
+        "copticWord": "ⲭ︤ⲥ︥",
+        "englishTransliteration": "chs"
+      }
+    ]
+  },
+  {
+    "headword": "chrisimon",
+    "copticWord": "ⲭⲣⲓⲥⲓⲙⲱⲛ",
+    "englishTransliteration": "chrisimon",
+    "gloss": "useful (attributive)",
+    "definition": "useful (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chresimon",
+        "copticWord": "ⲭⲣⲏⲥⲓⲙⲟⲛ",
+        "englishTransliteration": "chresimon"
+      }
+    ]
+  },
+  {
+    "headword": "chrisma",
+    "copticWord": "ⲭⲣⲓⲥⲙⲁ",
+    "englishTransliteration": "chrisma",
+    "gloss": "oil (initiatory, salvific)",
+    "definition": "oil (initiatory, salvific)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chreisma",
+        "copticWord": "ⲭⲣⲉⲓⲥⲙⲁ",
+        "englishTransliteration": "chreisma"
+      }
+    ]
+  },
+  {
+    "headword": "christiane",
+    "copticWord": "ⲭⲣⲓⲥⲧⲓⲁⲛⲏ",
+    "englishTransliteration": "christiane",
+    "gloss": "Christian (inverted attributive; attributive referent)",
+    "definition": "Christian (inverted attributive; attributive referent)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "christianos",
+    "copticWord": "ⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ",
+    "englishTransliteration": "christianos",
+    "gloss": "Christian (substantive)",
+    "definition": "Christian (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chrgestianos",
+        "copticWord": "ⲭⲣⲅⲏⲥⲧⲓⲁⲛⲟⲥ",
+        "englishTransliteration": "chrgestianos"
+      },
+      {
+        "word": "chreistianos",
+        "copticWord": "ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ",
+        "englishTransliteration": "chreistianos"
+      },
+      {
+        "word": "chrestianos",
+        "copticWord": "ⲭⲣⲉⲥⲧⲓⲁⲛⲟⲥ",
+        "englishTransliteration": "chrestianos"
+      },
+      {
+        "word": "-chrestianos",
+        "copticWord": "ⲭⲣⲏⲥϯⲁⲛⲟⲥ",
+        "englishTransliteration": "chrestianos"
+      },
+      {
+        "word": "chrestianos",
+        "copticWord": "ⲭⲣⲏⲥⲧⲓⲁⲛⲟⲥ",
+        "englishTransliteration": "chrestianos"
+      },
+      {
+        "word": "-christanos",
+        "copticWord": "ⲭⲣⲓⲥⲧⲁⲛⲟⲥ",
+        "englishTransliteration": "christanos"
+      },
+      {
+        "word": "chrusteianos",
+        "copticWord": "ⲭⲣⲩⲥⲧⲉⲓⲁⲛⲟⲥ",
+        "englishTransliteration": "chrusteianos"
+      },
+      {
+        "word": "-christianos",
+        "copticWord": "ⲭⲣⲓⲥϯⲁⲛⲟⲥ",
+        "englishTransliteration": "christianos"
+      }
+    ]
+  },
+  {
+    "headword": "christos",
+    "copticWord": "ⲭⲣⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "christos",
+    "gloss": "messiah, anointed one (of the Jewish Nation, -not- Jesus of Nazareth)",
+    "definition": "messiah, anointed one (of the Jewish Nation, -not- Jesus of Nazareth)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣⲥ︦",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-ch",
+        "copticWord": "ⲭ",
+        "englishTransliteration": "ch"
+      },
+      {
+        "word": "-chr",
+        "copticWord": "ⲭ︤ⲣ︥",
+        "englishTransliteration": "chr"
+      },
+      {
+        "word": "chreistos",
+        "copticWord": "ⲭⲣⲉⲓⲥⲧⲟⲥ",
+        "englishTransliteration": "chreistos"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣⲥ",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣⲥ︥",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣ︤ⲥ︥",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣ︦ⲥ︦",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣ̅ⲥ",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭⲣ̅ⲥ̅",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chrs",
+        "copticWord": "ⲭ︤ⲣ︦ⲥ︥",
+        "englishTransliteration": "chrs"
+      },
+      {
+        "word": "-chs",
+        "copticWord": "ⲭⲥ",
+        "englishTransliteration": "chs"
+      },
+      {
+        "word": "-chs",
+        "copticWord": "ⲭⲥ︥",
+        "englishTransliteration": "chs"
+      }
+    ]
+  },
+  {
+    "headword": "chronos",
+    "copticWord": "ⲭⲣⲟⲛⲟⲥ",
+    "englishTransliteration": "chronos",
+    "gloss": "time (abstract)",
+    "definition": "time (abstract)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chrono",
+        "copticWord": "ⲭⲣⲱⲛⲟ︦",
+        "englishTransliteration": "chrono"
+      },
+      {
+        "word": "chronos",
+        "copticWord": "ⲭⲣⲱⲛⲟⲥ",
+        "englishTransliteration": "chronos"
+      },
+      {
+        "word": "chronos",
+        "copticWord": "ⲭⲣⲱⲛⲱⲥ",
+        "englishTransliteration": "chronos"
+      }
+    ]
+  },
+  {
+    "headword": "chrusion",
+    "copticWord": "ⲭⲣⲩⲥⲓⲟⲛ",
+    "englishTransliteration": "chrusion",
+    "gloss": "piece of gold",
+    "definition": "piece of gold",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chrusothemon",
+    "copticWord": "ⲭⲣⲩⲥⲟⲑⲉⲙⲟⲛ",
+    "englishTransliteration": "chrusothemon",
+    "gloss": "chrysanthemum",
+    "definition": "chrysanthemum",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chrusolinthos",
+    "copticWord": "ⲭⲣⲩⲥⲟⲗⲓⲛⲑⲟⲥ",
+    "englishTransliteration": "chrusolinthos",
+    "gloss": "chrysolite, gold-stone (a green or yellow/green gem)",
+    "definition": "chrysolite, gold-stone (a green or yellow/green gem)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chrusolithos",
+        "copticWord": "ⲭⲣⲩⲥⲟⲗⲓⲑⲟⲥ",
+        "englishTransliteration": "chrusolithos"
+      }
+    ]
+  },
+  {
+    "headword": "chrusoplasos",
+    "copticWord": "ⲭⲣⲩⲥⲟⲡⲗⲁⲥⲱⲥ",
+    "englishTransliteration": "chrusoplasos",
+    "gloss": "chrysoprase",
+    "definition": "chrysoprase",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chrusostomos",
+    "copticWord": "ⲭⲣⲩⲥⲟⲥⲧⲟⲙⲟⲥ",
+    "englishTransliteration": "chrusostomos",
+    "gloss": "Golden Mouth, golden-tongued one (epithet of John, archbishop of Constantinople)",
+    "definition": "Golden Mouth, golden-tongued one (epithet of John, archbishop of Constantinople)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chrisostomos",
+        "copticWord": "ⲭⲣⲓⲥⲱⲥⲧⲱⲙⲟⲥ",
+        "englishTransliteration": "chrisostomos"
+      }
+    ]
+  },
+  {
+    "headword": "chroma",
+    "copticWord": "ⲭⲣⲱⲙⲁ",
+    "englishTransliteration": "chroma",
+    "gloss": "color, pigment",
+    "definition": "color, pigment",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "chro",
+    "copticWord": "ⲭⲣⲱ",
+    "englishTransliteration": "chro",
+    "gloss": "to be furnished with, possess s.th.",
+    "definition": "to be furnished with, possess s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-chr",
+        "copticWord": "ⲭⲣ",
+        "englishTransliteration": "chr"
+      },
+      {
+        "word": "chro",
+        "copticWord": "ⲭⲣⲟ",
+        "englishTransliteration": "chro"
+      },
+      {
+        "word": "chroh",
+        "copticWord": "ⲭⲣⲱϩ",
+        "englishTransliteration": "chroh"
+      },
+      {
+        "word": "-cho",
+        "copticWord": "ⲭⲱ",
+        "englishTransliteration": "cho"
+      }
+    ]
+  },
+  {
+    "headword": "chora",
+    "copticWord": "ⲭⲱⲣⲁ",
+    "englishTransliteration": "chora",
+    "gloss": "land (substantive)",
+    "definition": "land (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "chora",
+        "copticWord": "ⲭⲟⲣⲁ",
+        "englishTransliteration": "chora"
+      }
+    ]
+  },
+  {
+    "headword": "choreue",
+    "copticWord": "ⲭⲱⲣⲉⲩⲉ",
+    "englishTransliteration": "choreue",
+    "gloss": "to celebrate, praise, sing and dance (object: none)",
+    "definition": "to celebrate, praise, sing and dance (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "choreue",
+        "copticWord": "ⲭⲟⲣⲉⲩⲉ",
+        "englishTransliteration": "choreue"
+      },
+      {
+        "word": "choreui",
+        "copticWord": "ⲭⲟⲣⲉⲩⲓ",
+        "englishTransliteration": "choreui"
+      },
+      {
+        "word": "choreuei",
+        "copticWord": "ⲭⲱⲣⲉⲩⲉⲓ",
+        "englishTransliteration": "choreuei"
+      }
+    ]
+  },
+  {
+    "headword": "choregei",
+    "copticWord": "ⲭⲱⲣⲏⲅⲉⲓ",
+    "englishTransliteration": "choregei",
+    "gloss": "to inspire, encourage s.o.",
+    "definition": "to inspire, encourage s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "choreigei",
+        "copticWord": "ⲭⲱⲣⲉⲓⲅⲉⲓ",
+        "englishTransliteration": "choreigei"
+      },
+      {
+        "word": "-choregi",
+        "copticWord": "ⲭⲱⲣⲏⲅⲓ",
+        "englishTransliteration": "choregi"
+      }
+    ]
+  },
+  {
+    "headword": "chorin",
+    "copticWord": "ⲭⲱⲣⲓⲛ",
+    "englishTransliteration": "chorin",
+    "gloss": "to contain, bound s.th.",
+    "definition": "to contain, bound s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "chorion",
+    "copticWord": "ⲭⲱⲣⲓⲟⲛ",
+    "englishTransliteration": "chorion",
+    "gloss": "town, district",
+    "definition": "town, district",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "choris",
+    "copticWord": "ⲭⲱⲣⲓⲥ",
+    "englishTransliteration": "choris",
+    "gloss": "without, apart from, not including",
+    "definition": "without, apart from, not including",
+    "reference": "Gk",
+    "partOfSpeech": "prep",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "choris",
+        "copticWord": "ⲭⲟⲣⲓⲥ",
+        "englishTransliteration": "choris"
+      }
+    ]
+  },
+  {
+    "headword": "chori",
+    "copticWord": "ⲭⲱⲣⲓ",
+    "englishTransliteration": "chori",
+    "gloss": "to describe s.o.",
+    "definition": "to describe s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "psallei",
+    "copticWord": "ⲯⲁⲗⲗⲉⲓ",
+    "englishTransliteration": "psallei",
+    "gloss": "to sing, make music (object: none)",
+    "definition": "to sing, make music (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-psalle",
+        "copticWord": "ⲯⲁⲗⲗⲏ",
+        "englishTransliteration": "psalle"
+      },
+      {
+        "word": "-psale",
+        "copticWord": "ⲯⲁⲗⲉ",
+        "englishTransliteration": "psale"
+      },
+      {
+        "word": "-psalei",
+        "copticWord": "ⲯⲁⲗⲉⲓ",
+        "englishTransliteration": "psalei"
+      },
+      {
+        "word": "-psalin",
+        "copticWord": "ⲯⲁⲗⲓⲛ",
+        "englishTransliteration": "psalin"
+      },
+      {
+        "word": "-psalle",
+        "copticWord": "ⲯⲁⲗⲗⲉ",
+        "englishTransliteration": "psalle"
+      },
+      {
+        "word": "-psalli",
+        "copticWord": "ⲯⲁⲗⲗⲓ",
+        "englishTransliteration": "psalli"
+      }
+    ]
+  },
+  {
+    "headword": "psalli",
+    "copticWord": "ⲯⲁⲗⲗⲓ",
+    "englishTransliteration": "psalli",
+    "gloss": "song (object: none)",
+    "definition": "song (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-psali",
+        "copticWord": "ⲯⲁⲗⲓ",
+        "englishTransliteration": "psali"
+      }
+    ]
+  },
+  {
+    "headword": "psalmodia",
+    "copticWord": "ⲯⲁⲗⲙⲱⲇⲓⲁ",
+    "englishTransliteration": "psalmodia",
+    "gloss": "singing of psalms",
+    "definition": "singing of psalms",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psalmodos",
+    "copticWord": "ⲯⲁⲗⲙⲱⲇⲟⲥ",
+    "englishTransliteration": "psalmodos",
+    "gloss": "psalmist, cantor",
+    "definition": "psalmist, cantor",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "psalmatos",
+        "copticWord": "ⲯⲁⲗⲙⲁⲧⲟⲥ",
+        "englishTransliteration": "psalmatos"
+      },
+      {
+        "word": "psalmodos",
+        "copticWord": "ⲯⲁⲗⲙⲟⲇⲟⲥ",
+        "englishTransliteration": "psalmodos"
+      },
+      {
+        "word": "psalmotos",
+        "copticWord": "ⲯⲁⲗⲙⲟⲧⲟⲥ",
+        "englishTransliteration": "psalmotos"
+      }
+    ]
+  },
+  {
+    "headword": "psaltes",
+    "copticWord": "ⲯⲁⲗⲧⲏⲥ",
+    "englishTransliteration": "psaltes",
+    "gloss": "cantor, singer of psalms",
+    "definition": "cantor, singer of psalms",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psege",
+    "copticWord": "ⲯⲉⲅⲉ",
+    "englishTransliteration": "psege",
+    "gloss": "to blame s.o.",
+    "definition": "to blame s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "psektos",
+    "copticWord": "ⲯⲉⲕⲧⲱⲥ",
+    "englishTransliteration": "psektos",
+    "gloss": "in a blameworthy way",
+    "definition": "in a blameworthy way",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "pseudoprophetes",
+    "copticWord": "ⲯⲉⲩⲇⲟⲡⲣⲟⲫⲏⲧⲏⲥ",
+    "englishTransliteration": "pseudoprophetes",
+    "gloss": "false prophet",
+    "definition": "false prophet",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "pseudochristos",
+    "copticWord": "ⲯⲉⲩⲇⲟⲭⲣⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "pseudochristos",
+    "gloss": "false messiah",
+    "definition": "false messiah",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psephos",
+    "copticWord": "ⲯⲏⲫⲟⲥ",
+    "englishTransliteration": "psephos",
+    "gloss": "pebble (for choosing, voting)",
+    "definition": "pebble (for choosing, voting)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-pseph",
+        "copticWord": "ⲯⲏⲫ",
+        "englishTransliteration": "pseph"
+      }
+    ]
+  },
+  {
+    "headword": "psikostates",
+    "copticWord": "ⲯⲓⲕⲟⲥⲧⲁⲧⲏⲥ",
+    "englishTransliteration": "psikostates",
+    "gloss": "public weigher (of coinage)",
+    "definition": "public weigher (of coinage)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psilon",
+    "copticWord": "ⲯⲓⲗⲟⲛ",
+    "englishTransliteration": "psilon",
+    "gloss": "unaspirated, soft (consonant)",
+    "definition": "unaspirated, soft (consonant)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psimithion",
+    "copticWord": "ⲯⲓⲙⲓⲑⲓⲟⲛ",
+    "englishTransliteration": "psimithion",
+    "gloss": "white lead",
+    "definition": "white lead",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ppsimithion",
+        "copticWord": "ⲡⲯⲓⲙⲓⲑⲓⲟⲛ",
+        "englishTransliteration": "ppsimithion"
+      },
+      {
+        "word": "simithion",
+        "copticWord": "ⲥⲓⲙⲓⲑⲓⲟⲛ",
+        "englishTransliteration": "simithion"
+      },
+      {
+        "word": "-psimitthe",
+        "copticWord": "ⲯⲓⲙⲓⲧⲑⲉ",
+        "englishTransliteration": "psimitthe"
+      },
+      {
+        "word": "-psmithion",
+        "copticWord": "ⲯⲙⲓⲑⲓⲟⲛ",
+        "englishTransliteration": "psmithion"
+      }
+    ]
+  },
+  {
+    "headword": "psimithiou",
+    "copticWord": "ⲯⲓⲙⲓⲑⲓⲟⲩ",
+    "englishTransliteration": "psimithiou",
+    "gloss": "white lead",
+    "definition": "white lead",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "psimithiou",
+        "copticWord": "ⲡⲥⲓⲙⲓⲑⲓⲟⲩ",
+        "englishTransliteration": "psimithiou"
+      }
+    ]
+  },
+  {
+    "headword": "psittagin",
+    "copticWord": "ⲯⲓⲧⲧⲁⲅⲓⲛ",
+    "englishTransliteration": "psittagin",
+    "gloss": "pistachio",
+    "definition": "pistachio",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psuphisma",
+    "copticWord": "ⲯⲩⲫⲓⲥⲙⲁ",
+    "englishTransliteration": "psuphisma",
+    "gloss": "vote, voting",
+    "definition": "vote, voting",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psuche",
+    "copticWord": "ⲯⲩⲭⲏ",
+    "englishTransliteration": "psuche",
+    "gloss": "life, life-force",
+    "definition": "life, life-force",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phuche",
+        "copticWord": "ⲫⲩⲭⲏ",
+        "englishTransliteration": "phuche"
+      },
+      {
+        "word": "psiche",
+        "copticWord": "ⲯⲓⲭⲏ",
+        "englishTransliteration": "psiche"
+      },
+      {
+        "word": "psuchh",
+        "copticWord": "ⲯⲩⲭϩ",
+        "englishTransliteration": "psuchh"
+      },
+      {
+        "word": "psucheou",
+        "copticWord": "ⲯⲩⲭⲏⲟⲩ",
+        "englishTransliteration": "psucheou"
+      },
+      {
+        "word": "psucheu",
+        "copticWord": "ⲯⲩⲭⲏⲩ",
+        "englishTransliteration": "psucheu"
+      },
+      {
+        "word": "psuchooue",
+        "copticWord": "ⲯⲩⲭⲟⲟⲩⲉ",
+        "englishTransliteration": "psuchooue"
+      },
+      {
+        "word": "psuchu",
+        "copticWord": "ⲯⲩⲭⲩ",
+        "englishTransliteration": "psuchu"
+      },
+      {
+        "word": "-psche",
+        "copticWord": "ⲯⲭⲏ",
+        "englishTransliteration": "psche"
+      }
+    ]
+  },
+  {
+    "headword": "psuchike",
+    "copticWord": "ⲯⲩⲭⲓⲕⲏ",
+    "englishTransliteration": "psuchike",
+    "gloss": "of a soul-like (\"psychic\") substance; ensouled, animate (substantive; being of a psychic\n     substance, as specifically opposed to a \"spiritual\" or \"fleshly, material\" one)",
+    "definition": "of a soul-like (\"psychic\") substance; ensouled, animate (substantive; being of a psychic\n     substance, as specifically opposed to a \"spiritual\" or \"fleshly, material\" one)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psuchikon",
+    "copticWord": "ⲯⲩⲭⲓⲕⲟⲛ",
+    "englishTransliteration": "psuchikon",
+    "gloss": "one of a soul-like (\"psychic\") substance; ensouled, animate one (substantive)",
+    "definition": "one of a soul-like (\"psychic\") substance; ensouled, animate one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psuchikos",
+    "copticWord": "ⲯⲩⲭⲓⲕⲟⲥ",
+    "englishTransliteration": "psuchikos",
+    "gloss": "of a soul-like (\"psychic\") substance; ensouled, animate (substantive)",
+    "definition": "of a soul-like (\"psychic\") substance; ensouled, animate (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "psuchooue",
+    "copticWord": "ⲯⲩⲭⲟⲟⲩⲉ",
+    "englishTransliteration": "psuchooue",
+    "gloss": "life, life-force",
+    "definition": "life, life-force",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "psechoou",
+        "copticWord": "ⲡⲥⲏⲭⲟⲟⲩ",
+        "englishTransliteration": "psechoou"
+      },
+      {
+        "word": "-psecheou",
+        "copticWord": "ⲯⲏⲭⲏⲟⲩ",
+        "englishTransliteration": "psecheou"
+      },
+      {
+        "word": "psechooue",
+        "copticWord": "ⲯⲏⲭⲟⲟⲩⲉ",
+        "englishTransliteration": "psechooue"
+      },
+      {
+        "word": "psuchaoue",
+        "copticWord": "ⲯⲩⲭⲁⲟⲩⲉ",
+        "englishTransliteration": "psuchaoue"
+      },
+      {
+        "word": "-psuchau",
+        "copticWord": "ⲯⲩⲭⲁⲩ",
+        "englishTransliteration": "psuchau"
+      },
+      {
+        "word": "-psuchaue",
+        "copticWord": "ⲯⲩⲭⲁⲩⲉ",
+        "englishTransliteration": "psuchaue"
+      },
+      {
+        "word": "-psuchaui",
+        "copticWord": "ⲯⲩⲭⲁⲩⲓ",
+        "englishTransliteration": "psuchaui"
+      },
+      {
+        "word": "-psucheue",
+        "copticWord": "ⲯⲩⲭⲉⲩⲉ",
+        "englishTransliteration": "psucheue"
+      },
+      {
+        "word": "-psuche",
+        "copticWord": "ⲯⲩⲭⲏ",
+        "englishTransliteration": "psuche"
+      },
+      {
+        "word": "-psucheou",
+        "copticWord": "ⲯⲩⲭⲏⲟⲩ",
+        "englishTransliteration": "psucheou"
+      },
+      {
+        "word": "-psuchoou",
+        "copticWord": "ⲯⲩⲭⲟⲟⲩ",
+        "englishTransliteration": "psuchoou"
+      },
+      {
+        "word": "psuoooue",
+        "copticWord": "ⲯⲩⲱⲟⲟⲩⲉ",
+        "englishTransliteration": "psuoooue"
+      }
+    ]
+  },
+  {
+    "headword": "psora",
+    "copticWord": "ⲯⲱⲣⲁ",
+    "englishTransliteration": "psora",
+    "gloss": "psora, itch, mange, scurvy (name of the disease; afflicting the skin with red\n     patches)",
+    "definition": "psora, itch, mange, scurvy (name of the disease; afflicting the skin with red\n     patches)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-ps",
+        "copticWord": "ⲯ",
+        "englishTransliteration": "ps"
+      }
+    ]
+  },
+  {
+    "headword": "ode",
+    "copticWord": "ⲱⲇⲏ",
+    "englishTransliteration": "ode",
+    "gloss": "ode, song, psalm",
+    "definition": "ode, song, psalm",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hode",
+        "copticWord": "ϩⲱⲇⲏ",
+        "englishTransliteration": "hode"
+      },
+      {
+        "word": "ode",
+        "copticWord": "ⲟⲇⲏ",
+        "englishTransliteration": "ode"
+      }
+    ]
+  },
+  {
+    "headword": "okeanos",
+    "copticWord": "ⲱⲕⲉⲁⲛⲟⲥ",
+    "englishTransliteration": "okeanos",
+    "gloss": "ocean",
+    "definition": "ocean",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ogeanos",
+        "copticWord": "ⲟⲅⲉⲁⲛⲟⲥ",
+        "englishTransliteration": "ogeanos"
+      },
+      {
+        "word": "ogeanos",
+        "copticWord": "ⲱⲅⲉⲁⲛⲟⲥ",
+        "englishTransliteration": "ogeanos"
+      }
+    ]
+  },
+  {
+    "headword": "oknei",
+    "copticWord": "ⲱⲕⲛⲉⲓ",
+    "englishTransliteration": "oknei",
+    "gloss": "to hesitate, delay (object: none)",
+    "definition": "to hesitate, delay (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hokni",
+        "copticWord": "ϩⲟⲕⲛⲓ",
+        "englishTransliteration": "hokni"
+      }
+    ]
+  },
+  {
+    "headword": "oluktos",
+    "copticWord": "ⲱⲗⲩⲕⲧⲟⲥ",
+    "englishTransliteration": "oluktos",
+    "gloss": "that which was dug; (also:) a kind of salt",
+    "definition": "that which was dug; (also:) a kind of salt",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "omophoros",
+    "copticWord": "ⲱⲙⲟⲫⲟⲣⲟⲥ",
+    "englishTransliteration": "omophoros",
+    "gloss": "Porter (in Manichaean mythology)",
+    "definition": "Porter (in Manichaean mythology)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "one",
+    "copticWord": "ⲱⲛⲏ",
+    "englishTransliteration": "one",
+    "gloss": "deed of sale",
+    "definition": "deed of sale",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "opheleisthai",
+    "copticWord": "ⲱⲫⲉⲗⲉⲓⲥⲑⲁⲓ",
+    "englishTransliteration": "opheleisthai",
+    "gloss": "to benefit (object: none; formula always negative, with ⲛ-ⲗⲁⲁⲩ (\"not at all\"))",
+    "definition": "to benefit (object: none; formula always negative, with ⲛ-ⲗⲁⲁⲩ (\"not at all\"))",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "oupheleisthei",
+        "copticWord": "ⲟⲩⲫⲉⲗⲉⲓⲥⲑⲉⲓ",
+        "englishTransliteration": "oupheleisthei"
+      },
+      {
+        "word": "ophulisthai",
+        "copticWord": "ⲟⲫⲩⲗⲓⲥⲑⲁⲓ",
+        "englishTransliteration": "ophulisthai"
+      },
+      {
+        "word": "philistou",
+        "copticWord": "ⲫⲓⲗⲓⲥⲧⲟⲩ",
+        "englishTransliteration": "philistou"
+      },
+      {
+        "word": "-ophelei",
+        "copticWord": "ⲱⲫⲉⲗⲉⲓ",
+        "englishTransliteration": "ophelei"
+      },
+      {
+        "word": "-ophelisth",
+        "copticWord": "ⲱⲫⲉⲗⲓⲥⲑ",
+        "englishTransliteration": "ophelisth"
+      }
+    ]
+  },
+  {
+    "headword": "ophelei",
+    "copticWord": "ⲱⲫⲉⲗⲉⲓ",
+    "englishTransliteration": "ophelei",
+    "gloss": "to profit, benefit (object: none; formula always negative, with ⲛ-ⲗⲁⲁⲩ (\"not at\n     all\"))",
+    "definition": "to profit, benefit (object: none; formula always negative, with ⲛ-ⲗⲁⲁⲩ (\"not at\n     all\"))",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ophelei",
+        "copticWord": "ⲟⲫⲉⲗⲉⲓ",
+        "englishTransliteration": "ophelei"
+      },
+      {
+        "word": "opheleia",
+        "copticWord": "ⲟⲫⲉⲗⲉⲓⲁ",
+        "englishTransliteration": "opheleia"
+      },
+      {
+        "word": "ophulei",
+        "copticWord": "ⲟⲫⲩⲗⲉⲓ",
+        "englishTransliteration": "ophulei"
+      },
+      {
+        "word": "ophelie",
+        "copticWord": "ⲱⲫⲉⲗⲓⲉ",
+        "englishTransliteration": "ophelie"
+      },
+      {
+        "word": "-ophule",
+        "copticWord": "ⲱⲫⲩⲗⲉ",
+        "englishTransliteration": "ophule"
+      },
+      {
+        "word": "ophuleia",
+        "copticWord": "ⲱⲫⲩⲗⲉⲓⲁ",
+        "englishTransliteration": "ophuleia"
+      },
+      {
+        "word": "eupherei",
+        "copticWord": "ⲉⲩⲫⲉⲣⲉⲓ",
+        "englishTransliteration": "eupherei"
+      },
+      {
+        "word": "ophlei",
+        "copticWord": "ⲟⲫⲗⲉⲓ",
+        "englishTransliteration": "ophlei"
+      },
+      {
+        "word": "-opheli",
+        "copticWord": "ⲱⲫⲉⲗⲓ",
+        "englishTransliteration": "opheli"
+      }
+    ]
+  },
+  {
+    "headword": "ophelia",
+    "copticWord": "ⲱⲫⲉⲗⲓⲁ",
+    "englishTransliteration": "ophelia",
+    "gloss": "wellbeing/benefit/advantage of/for s.o.",
+    "definition": "wellbeing/benefit/advantage of/for s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ouphulia",
+        "copticWord": "ⲟⲩⲫⲩⲗⲓⲁ",
+        "englishTransliteration": "ouphulia"
+      },
+      {
+        "word": "opheleia",
+        "copticWord": "ⲱⲫⲉⲗⲉⲓⲁ",
+        "englishTransliteration": "opheleia"
+      },
+      {
+        "word": "ophelia",
+        "copticWord": "ⲱⲫⲏⲗⲓⲁ",
+        "englishTransliteration": "ophelia"
+      },
+      {
+        "word": "-ophule",
+        "copticWord": "ⲱⲫⲩⲗⲉ",
+        "englishTransliteration": "ophule"
+      }
+    ]
+  },
+  {
+    "headword": "ophikion",
+    "copticWord": "ⲱⲫⲓⲕⲓⲟⲛ",
+    "englishTransliteration": "ophikion",
+    "gloss": "office",
+    "definition": "office",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "frekon",
+    "copticWord": "ϥⲣⲉⲕⲟⲛ",
+    "englishTransliteration": "frekon",
+    "gloss": "herald",
+    "definition": "herald",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hagiaze",
+    "copticWord": "ϩⲁⲅⲓⲁⲍⲉ",
+    "englishTransliteration": "hagiaze",
+    "gloss": "to consecrate, sanctify s.th. (object: physical object)",
+    "definition": "to consecrate, sanctify s.th. (object: physical object)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hagiasse",
+        "copticWord": "ϩⲁⲅⲓⲁⲥⲥⲉ",
+        "englishTransliteration": "hagiasse"
+      },
+      {
+        "word": "hagiae",
+        "copticWord": "ϩⲁⲅⲓⲁⳅⲉ",
+        "englishTransliteration": "hagiae"
+      }
+    ]
+  },
+  {
+    "headword": "hagiasmos",
+    "copticWord": "ϩⲁⲅⲓⲁⲥⲙⲟⲥ",
+    "englishTransliteration": "hagiasmos",
+    "gloss": "blessing",
+    "definition": "blessing",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hagiosune",
+    "copticWord": "ϩⲁⲅⲓⲱⲥⲩⲛⲏ",
+    "englishTransliteration": "hagiosune",
+    "gloss": "holiness, sanctity (honorific appellation)",
+    "definition": "holiness, sanctity (honorific appellation)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hagiosune",
+        "copticWord": "ϩⲁⲅⲓⲟⲥⲩⲛⲏ",
+        "englishTransliteration": "hagiosune"
+      },
+      {
+        "word": "hagiosene",
+        "copticWord": "ϩⲁⲅⲓⲱⲥⲏⲛⲉ",
+        "englishTransliteration": "hagiosene"
+      },
+      {
+        "word": "agiosune",
+        "copticWord": "ⲁⲅⲓⲟⲥⲩⲛⲏ",
+        "englishTransliteration": "agiosune"
+      },
+      {
+        "word": "agiosune",
+        "copticWord": "ⲁⲅⲓⲱⲥⲩⲛⲏ",
+        "englishTransliteration": "agiosune"
+      }
+    ]
+  },
+  {
+    "headword": "hagiotatos",
+    "copticWord": "ϩⲁⲅⲓⲱⲧⲁⲧⲟⲥ",
+    "englishTransliteration": "hagiotatos",
+    "gloss": "most holy (inverted attributive; attributive referent)",
+    "definition": "most holy (inverted attributive; attributive referent)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hagio",
+        "copticWord": "ϩⲁⲅⲓⲱ",
+        "englishTransliteration": "hagio"
+      }
+    ]
+  },
+  {
+    "headword": "hagnon",
+    "copticWord": "ϩⲁⲅⲛⲟⲛ",
+    "englishTransliteration": "hagnon",
+    "gloss": "holy, sacrosanct one (substantive)",
+    "definition": "holy, sacrosanct one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hairesis",
+    "copticWord": "ϩⲁⲓⲣⲉⲥⲓⲥ",
+    "englishTransliteration": "hairesis",
+    "gloss": "party, faction (general, or specific sense unclear)",
+    "definition": "party, faction (general, or specific sense unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-heresis",
+        "copticWord": "ϩⲉⲣⲉⲥⲓⲥ",
+        "englishTransliteration": "heresis"
+      },
+      {
+        "word": "-hersis",
+        "copticWord": "ϩⲉⲣⲥⲓⲥ",
+        "englishTransliteration": "hersis"
+      },
+      {
+        "word": "-heresis",
+        "copticWord": "ϩⲏⲣⲏⲥⲓⲥ",
+        "englishTransliteration": "heresis"
+      },
+      {
+        "word": "thairesis",
+        "copticWord": "ⲑⲁⲓⲣⲉⲥⲓⲥ",
+        "englishTransliteration": "thairesis"
+      }
+    ]
+  },
+  {
+    "headword": "hairetikos",
+    "copticWord": "ϩⲁⲓⲣⲉⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "hairetikos",
+    "gloss": "heretical one, heretic (substantive)",
+    "definition": "heretical one, heretic (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hretikos",
+        "copticWord": "ϩⲣⲉⲧⲓⲕⲱⲥ",
+        "englishTransliteration": "hretikos"
+      }
+    ]
+  },
+  {
+    "headword": "halieus",
+    "copticWord": "ϩⲁⲗⲓⲉⲩⲥ",
+    "englishTransliteration": "halieus",
+    "gloss": "fisherman",
+    "definition": "fisherman",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "halusis",
+    "copticWord": "ϩⲁⲗⲩⲥⲓⲥ",
+    "englishTransliteration": "halusis",
+    "gloss": "chain",
+    "definition": "chain",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "alusis",
+        "copticWord": "ⲁⲗⲩⲥⲓⲥ",
+        "englishTransliteration": "alusis"
+      }
+    ]
+  },
+  {
+    "headword": "hama",
+    "copticWord": "ϩⲁⲙⲁ",
+    "englishTransliteration": "hama",
+    "gloss": "as soon as (temporal)",
+    "definition": "as soon as (temporal)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hamma",
+        "copticWord": "ϩⲁⲙⲙⲁ",
+        "englishTransliteration": "hamma"
+      }
+    ]
+  },
+  {
+    "headword": "hamen",
+    "copticWord": "ϩⲁⲙⲏⲛ",
+    "englishTransliteration": "hamen",
+    "gloss": "Amen (confirming statements)",
+    "definition": "Amen (confirming statements)",
+    "reference": "Gk",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "fth",
+        "copticWord": "ϥⲑ",
+        "englishTransliteration": "fth"
+      },
+      {
+        "word": "fth",
+        "copticWord": "ϥ︦ⲑ︦",
+        "englishTransliteration": "fth"
+      },
+      {
+        "word": "-ha",
+        "copticWord": "ϩⲁ",
+        "englishTransliteration": "ha"
+      },
+      {
+        "word": "-ham",
+        "copticWord": "ϩⲁⲙ",
+        "englishTransliteration": "ham"
+      },
+      {
+        "word": "hamen",
+        "copticWord": "ϩⲁⲙⲉⲛ",
+        "englishTransliteration": "hamen"
+      },
+      {
+        "word": "hame",
+        "copticWord": "ϩⲁⲙⲏ⳯",
+        "englishTransliteration": "hame"
+      },
+      {
+        "word": "hamehn",
+        "copticWord": "ϩⲁⲙⲏϩⲛ",
+        "englishTransliteration": "hamehn"
+      },
+      {
+        "word": "hamen",
+        "copticWord": "ϩ︦ⲁ︦ⲙ︦ⲏ︦ⲛ︦",
+        "englishTransliteration": "hamen"
+      },
+      {
+        "word": "hamn",
+        "copticWord": "ϩ︦ⲁ︦ⲙ︦ⲛ︦",
+        "englishTransliteration": "hamn"
+      },
+      {
+        "word": "amen",
+        "copticWord": "ⲁⲙⲏⲛ",
+        "englishTransliteration": "amen"
+      },
+      {
+        "word": "zamen",
+        "copticWord": "ⲍⲁⲙⲏⲛ",
+        "englishTransliteration": "zamen"
+      },
+      {
+        "word": "phamen",
+        "copticWord": "ⲫⲁⲙⲏⲛ",
+        "englishTransliteration": "phamen"
+      }
+    ]
+  },
+  {
+    "headword": "hapax",
+    "copticWord": "ϩⲁⲡⲁⲝ",
+    "englishTransliteration": "hapax",
+    "gloss": "If/when once (introduces conditional clause)",
+    "definition": "If/when once (introduces conditional clause)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true
+  },
+  {
+    "headword": "haploun",
+    "copticWord": "ϩⲁⲡⲗⲟⲩⲛ",
+    "englishTransliteration": "haploun",
+    "gloss": "simple (substantive; referent: divine transcendent character)",
+    "definition": "simple (substantive; referent: divine transcendent character)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-haplou",
+        "copticWord": "ϩⲁⲡⲗⲟⲩ",
+        "englishTransliteration": "haplou"
+      },
+      {
+        "word": "haplou",
+        "copticWord": "ϩⲁⲡⲗⲟⲩ⳯",
+        "englishTransliteration": "haplou"
+      },
+      {
+        "word": "heploun",
+        "copticWord": "ϩⲉⲡⲗⲟⲩⲛ",
+        "englishTransliteration": "heploun"
+      }
+    ]
+  },
+  {
+    "headword": "haplous",
+    "copticWord": "ϩⲁⲡⲗⲟⲩⲥ",
+    "englishTransliteration": "haplous",
+    "gloss": "simple, sincere (substantive)",
+    "definition": "simple, sincere (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "haplos",
+    "copticWord": "ϩⲁⲡⲗⲱⲥ",
+    "englishTransliteration": "haplos",
+    "gloss": "simply",
+    "definition": "simply",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "haplos",
+        "copticWord": "ϩⲁⲡⲗⲟⲥ",
+        "englishTransliteration": "haplos"
+      },
+      {
+        "word": "aplos",
+        "copticWord": "ⲁⲡⲗⲟⲥ",
+        "englishTransliteration": "aplos"
+      },
+      {
+        "word": "aplos",
+        "copticWord": "ⲁⲡⲗⲱⲥ",
+        "englishTransliteration": "aplos"
+      }
+    ]
+  },
+  {
+    "headword": "harma",
+    "copticWord": "ϩⲁⲣⲙⲁ",
+    "englishTransliteration": "harma",
+    "gloss": "chariot",
+    "definition": "chariot",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "arma",
+        "copticWord": "ⲁⲣⲙⲁ",
+        "englishTransliteration": "arma"
+      },
+      {
+        "word": "pharma",
+        "copticWord": "ⲫⲁⲣⲙⲁ",
+        "englishTransliteration": "pharma"
+      },
+      {
+        "word": "pherma",
+        "copticWord": "ⲫⲉⲣⲙⲁ",
+        "englishTransliteration": "pherma"
+      }
+    ]
+  },
+  {
+    "headword": "harmoze",
+    "copticWord": "ϩⲁⲣⲙⲟⲍⲉ",
+    "englishTransliteration": "harmoze",
+    "gloss": "to be put together by s.o.",
+    "definition": "to be put together by s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "harmose",
+        "copticWord": "ϩⲁⲣⲙⲟⲥⲉ",
+        "englishTransliteration": "harmose"
+      },
+      {
+        "word": "hormaze",
+        "copticWord": "ϩⲟⲣⲙⲁⲍⲉ",
+        "englishTransliteration": "hormaze"
+      }
+    ]
+  },
+  {
+    "headword": "harmonia",
+    "copticWord": "ϩⲁⲣⲙⲟⲛⲓⲁ",
+    "englishTransliteration": "harmonia",
+    "gloss": "harmony (of natural world)",
+    "definition": "harmony (of natural world)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "tharmonia",
+        "copticWord": "ⲑⲁⲣⲙⲟⲛⲓⲁ",
+        "englishTransliteration": "tharmonia"
+      }
+    ]
+  },
+  {
+    "headword": "harmos",
+    "copticWord": "ϩⲁⲣⲙⲟⲥ",
+    "englishTransliteration": "harmos",
+    "gloss": "joint (anatomical)",
+    "definition": "joint (anatomical)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "harpage",
+    "copticWord": "ϩⲁⲣⲡⲁⲅⲏ",
+    "englishTransliteration": "harpage",
+    "gloss": "theft (in the sense of fraud)",
+    "definition": "theft (in the sense of fraud)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "harpaze",
+    "copticWord": "ϩⲁⲣⲡⲁⲍⲉ",
+    "englishTransliteration": "harpaze",
+    "gloss": "to snatch, take away s.o.",
+    "definition": "to snatch, take away s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "harpasse",
+        "copticWord": "ϩⲁⲣⲡⲁⲥⲥⲉ",
+        "englishTransliteration": "harpasse"
+      },
+      {
+        "word": "arpaze",
+        "copticWord": "ⲁⲣⲡⲁⲍⲉ",
+        "englishTransliteration": "arpaze"
+      }
+    ]
+  },
+  {
+    "headword": "harpe",
+    "copticWord": "ϩⲁⲣⲡⲏ",
+    "englishTransliteration": "harpe",
+    "gloss": "kind of bird (bird of prey) (substantive)",
+    "definition": "kind of bird (bird of prey) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "harpe",
+        "copticWord": "ϩⲁⲣⲡⲉ",
+        "englishTransliteration": "harpe"
+      }
+    ]
+  },
+  {
+    "headword": "hapsis",
+    "copticWord": "ϩⲁⲯⲓⲥ",
+    "englishTransliteration": "hapsis",
+    "gloss": "arched niche (?)",
+    "definition": "arched niche (?)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hebdomas",
+    "copticWord": "ϩⲉⲃⲇⲟⲙⲁⲥ",
+    "englishTransliteration": "hebdomas",
+    "gloss": "seven",
+    "definition": "seven",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hbdomas",
+        "copticWord": "ϩⲃⲇⲟⲙⲁⲥ",
+        "englishTransliteration": "hbdomas"
+      },
+      {
+        "word": "hebdomas",
+        "copticWord": "ϩⲉⲃⲇⲱⲙⲁⲥ",
+        "englishTransliteration": "hebdomas"
+      },
+      {
+        "word": "ebdomas",
+        "copticWord": "ⲉⲃⲇⲱⲙⲁⲥ",
+        "englishTransliteration": "ebdomas"
+      },
+      {
+        "word": "thebdomas",
+        "copticWord": "ⲑⲉⲃⲇⲟⲙⲁⲥ",
+        "englishTransliteration": "thebdomas"
+      }
+    ]
+  },
+  {
+    "headword": "hebraia",
+    "copticWord": "ϩⲉⲃⲣⲁⲓⲁ",
+    "englishTransliteration": "hebraia",
+    "gloss": "Hebrew woman (substantive)",
+    "definition": "Hebrew woman (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hebraikon",
+    "copticWord": "ϩⲉⲃⲣⲁⲓⲕⲟⲛ",
+    "englishTransliteration": "hebraikon",
+    "gloss": "Hebrew (language)",
+    "definition": "Hebrew (language)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hebraios",
+    "copticWord": "ϩⲉⲃⲣⲁⲓⲟⲥ",
+    "englishTransliteration": "hebraios",
+    "gloss": "Hebrew one (substantive)",
+    "definition": "Hebrew one (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hebreos",
+        "copticWord": "ϩⲉⲃⲣⲉⲟⲥ",
+        "englishTransliteration": "hebreos"
+      }
+    ]
+  },
+  {
+    "headword": "hebresis",
+    "copticWord": "ϩⲉⲃⲣⲏⲥⲓⲥ",
+    "englishTransliteration": "hebresis",
+    "gloss": "act of aggression, barbarism, cruelty violence done to a person",
+    "definition": "act of aggression, barbarism, cruelty violence done to a person",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hethnikos",
+    "copticWord": "ϩⲉⲑⲛⲓⲕⲟⲥ",
+    "englishTransliteration": "hethnikos",
+    "gloss": "unbelieving, worldly (substantive)",
+    "definition": "unbelieving, worldly (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ethnikos",
+        "copticWord": "ⲉⲑⲛⲓⲕⲟⲥ",
+        "englishTransliteration": "ethnikos"
+      }
+    ]
+  },
+  {
+    "headword": "hethnos",
+    "copticWord": "ϩⲉⲑⲛⲟⲥ",
+    "englishTransliteration": "hethnos",
+    "gloss": "unclear: nation(s) or heathen or rather both",
+    "definition": "unclear: nation(s) or heathen or rather both",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hethos",
+        "copticWord": "ϩⲉⲑⲟⲥ",
+        "englishTransliteration": "hethos"
+      },
+      {
+        "word": "-hthnos",
+        "copticWord": "ϩⲑⲛⲟⲥ",
+        "englishTransliteration": "hthnos"
+      },
+      {
+        "word": "ehthnos",
+        "copticWord": "ⲉϩⲑⲛⲟⲥ",
+        "englishTransliteration": "ehthnos"
+      },
+      {
+        "word": "ethnos",
+        "copticWord": "ⲉⲑⲛⲟⲥ",
+        "englishTransliteration": "ethnos"
+      },
+      {
+        "word": "etthnos",
+        "copticWord": "ⲉⲧⲑⲛⲟⲥ",
+        "englishTransliteration": "etthnos"
+      },
+      {
+        "word": "phethnos",
+        "copticWord": "ⲫⲉⲑⲛⲟⲥ",
+        "englishTransliteration": "phethnos"
+      }
+    ]
+  },
+  {
+    "headword": "heimarmene",
+    "copticWord": "ϩⲉⲓⲙⲁⲣⲙⲉⲛⲏ",
+    "englishTransliteration": "heimarmene",
+    "gloss": "fate, destiny (governing power of the cosmos)",
+    "definition": "fate, destiny (governing power of the cosmos)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "shimarmene",
+        "copticWord": "ϣⲓⲙⲁⲣⲙⲉⲛⲏ",
+        "englishTransliteration": "shimarmene"
+      },
+      {
+        "word": "-himarmene",
+        "copticWord": "ϩⲓⲙⲁⲣⲙⲉⲛⲏ",
+        "englishTransliteration": "himarmene"
+      },
+      {
+        "word": "jimarmene",
+        "copticWord": "ϫⲓⲙⲁⲣⲙⲉⲛⲏ",
+        "englishTransliteration": "jimarmene"
+      },
+      {
+        "word": "thimar",
+        "copticWord": "ⲑⲓⲙⲁⲣ",
+        "englishTransliteration": "thimar"
+      }
+    ]
+  },
+  {
+    "headword": "hekatontarchos",
+    "copticWord": "ϩⲉⲕⲁⲧⲟⲛⲧⲁⲣⲭⲟⲥ",
+    "englishTransliteration": "hekatontarchos",
+    "gloss": "centurion, captain (officer commanding a group of 100 soldiers)",
+    "definition": "centurion, captain (officer commanding a group of 100 soldiers)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hukatontarchos",
+        "copticWord": "ϩⲩⲕⲁⲧⲟⲛⲧⲁⲣⲭⲟⲥ",
+        "englishTransliteration": "hukatontarchos"
+      },
+      {
+        "word": "ekatontarchos",
+        "copticWord": "ⲉⲕⲁⲧⲟⲛⲧⲁⲣⲭⲟⲥ",
+        "englishTransliteration": "ekatontarchos"
+      }
+    ]
+  },
+  {
+    "headword": "hekton",
+    "copticWord": "ϩⲉⲕⲧⲟⲛ",
+    "englishTransliteration": "hekton",
+    "gloss": "sixth (part) (substantive)",
+    "definition": "sixth (part) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hellenikon",
+    "copticWord": "ϩⲉⲗⲗⲏⲛⲓⲕⲟⲛ",
+    "englishTransliteration": "hellenikon",
+    "gloss": "Greek (language)",
+    "definition": "Greek (language)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hulenikon",
+        "copticWord": "ϩⲩⲗⲏⲛⲓⲕⲟⲛ",
+        "englishTransliteration": "hulenikon"
+      }
+    ]
+  },
+  {
+    "headword": "hellenos",
+    "copticWord": "ϩⲉⲗⲗⲏⲛⲟⲥ",
+    "englishTransliteration": "hellenos",
+    "gloss": "pagan, gentile",
+    "definition": "pagan, gentile",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hellen",
+    "copticWord": "ϩⲉⲗⲗⲏⲛ",
+    "englishTransliteration": "hellen",
+    "gloss": "Greek",
+    "definition": "Greek",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hellen",
+        "copticWord": "ϩⲉⲗⲗⲉⲛ",
+        "englishTransliteration": "hellen"
+      },
+      {
+        "word": "-helle",
+        "copticWord": "ϩⲉⲗⲗⲏ",
+        "englishTransliteration": "helle"
+      }
+    ]
+  },
+  {
+    "headword": "helmis",
+    "copticWord": "ϩⲉⲗⲙⲓⲥ",
+    "englishTransliteration": "helmis",
+    "gloss": "worm",
+    "definition": "worm",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "helos",
+    "copticWord": "ϩⲉⲗⲟⲥ",
+    "englishTransliteration": "helos",
+    "gloss": "marsh",
+    "definition": "marsh",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phelos",
+        "copticWord": "ⲫⲉⲗⲟⲥ",
+        "englishTransliteration": "phelos"
+      }
+    ]
+  },
+  {
+    "headword": "helpize",
+    "copticWord": "ϩⲉⲗⲡⲓⲍⲉ",
+    "englishTransliteration": "helpize",
+    "gloss": "to put one's hope in s.ο.; to trust s.o.",
+    "definition": "to put one's hope in s.ο.; to trust s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "helpise",
+        "copticWord": "ϩⲉⲗⲡⲓⲥⲉ",
+        "englishTransliteration": "helpise"
+      },
+      {
+        "word": "elpize",
+        "copticWord": "ⲉⲗⲡⲓⲍⲉ",
+        "englishTransliteration": "elpize"
+      },
+      {
+        "word": "thelpize",
+        "copticWord": "ⲑⲉⲗⲡⲓⲍⲉ",
+        "englishTransliteration": "thelpize"
+      }
+    ]
+  },
+  {
+    "headword": "helpis",
+    "copticWord": "ϩⲉⲗⲡⲓⲥ",
+    "englishTransliteration": "helpis",
+    "gloss": "hope",
+    "definition": "hope",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hlpis",
+        "copticWord": "ϩⲗⲡⲓⲥ",
+        "englishTransliteration": "hlpis"
+      },
+      {
+        "word": "elpis",
+        "copticWord": "ⲉⲗⲡⲓⲥ",
+        "englishTransliteration": "elpis"
+      },
+      {
+        "word": "thelpis",
+        "copticWord": "ⲑⲉⲗⲡⲓⲥ",
+        "englishTransliteration": "thelpis"
+      }
+    ]
+  },
+  {
+    "headword": "hemera",
+    "copticWord": "ϩⲉⲙⲏⲣⲁ",
+    "englishTransliteration": "hemera",
+    "gloss": "day, date",
+    "definition": "day, date",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hemera",
+        "copticWord": "ϩⲏⲙⲉⲣⲁ",
+        "englishTransliteration": "hemera"
+      },
+      {
+        "word": "thumera",
+        "copticWord": "ⲑⲩⲙⲉⲣⲁ",
+        "englishTransliteration": "thumera"
+      }
+    ]
+  },
+  {
+    "headword": "hemneuterion",
+    "copticWord": "ϩⲉⲙⲛⲉⲩⲧⲏⲣⲓⲱⲛ",
+    "englishTransliteration": "hemneuterion",
+    "gloss": "member of the (heavenly) choir",
+    "definition": "member of the (heavenly) choir",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "henas",
+    "copticWord": "ϩⲉⲛⲁⲥ",
+    "englishTransliteration": "henas",
+    "gloss": "unity, henad (transcendent)",
+    "definition": "unity, henad (transcendent)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hennas",
+        "copticWord": "ϩⲉⲛⲛⲁⲥ",
+        "englishTransliteration": "hennas"
+      }
+    ]
+  },
+  {
+    "headword": "hendekas",
+    "copticWord": "ϩⲉⲛⲇⲉⲕⲁⲥ",
+    "englishTransliteration": "hendekas",
+    "gloss": "hendecad (group of eleven)",
+    "definition": "hendecad (group of eleven)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hennas",
+    "copticWord": "ϩⲉⲛⲛⲁⲥ",
+    "englishTransliteration": "hennas",
+    "gloss": "ennead (group of nine)",
+    "definition": "ennead (group of nine)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thennas",
+        "copticWord": "ⲑⲉⲛⲛⲁⲥ",
+        "englishTransliteration": "thennas"
+      }
+    ]
+  },
+  {
+    "headword": "hexis",
+    "copticWord": "ϩⲉⲝⲓⲥ",
+    "englishTransliteration": "hexis",
+    "gloss": "body, frame",
+    "definition": "body, frame",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thexis",
+        "copticWord": "ⲑⲉⲝⲓⲥ",
+        "englishTransliteration": "thexis"
+      }
+    ]
+  },
+  {
+    "headword": "hepotismos",
+    "copticWord": "ϩⲉⲡⲱϯⲥⲙⲟⲥ",
+    "englishTransliteration": "hepotismos",
+    "gloss": "lit. subjection, bound under so. foot",
+    "definition": "lit. subjection, bound under so. foot",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hermeneutes",
+    "copticWord": "ϩⲉⲣⲙⲉⲛⲉⲩⲧⲏⲥ",
+    "englishTransliteration": "hermeneutes",
+    "gloss": "interpreter, translator",
+    "definition": "interpreter, translator",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hermeneia",
+    "copticWord": "ϩⲉⲣⲙⲏⲛⲉⲓⲁ",
+    "englishTransliteration": "hermeneia",
+    "gloss": "meaning, interpretation, translation",
+    "definition": "meaning, interpretation, translation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-herm",
+        "copticWord": "ϩⲉⲣⲙ",
+        "englishTransliteration": "herm"
+      },
+      {
+        "word": "-hermenia",
+        "copticWord": "ϩⲉⲣⲙⲏⲛⲓⲁ",
+        "englishTransliteration": "hermenia"
+      },
+      {
+        "word": "thermeneia",
+        "copticWord": "ⲑⲉⲣⲙⲏⲛⲉⲓⲁ",
+        "englishTransliteration": "thermeneia"
+      },
+      {
+        "word": "thermenia",
+        "copticWord": "ⲑⲉⲣⲙⲏⲛⲓⲁ",
+        "englishTransliteration": "thermenia"
+      }
+    ]
+  },
+  {
+    "headword": "hermeneue",
+    "copticWord": "ϩⲉⲣⲙⲏⲛⲉⲩⲉ",
+    "englishTransliteration": "hermeneue",
+    "gloss": "to interpret, explain, understand s.th.",
+    "definition": "to interpret, explain, understand s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hermeneue",
+        "copticWord": "ϩⲉⲣⲙⲉⲛⲉⲩⲉ",
+        "englishTransliteration": "hermeneue"
+      },
+      {
+        "word": "-hermeneu",
+        "copticWord": "ϩⲏⲣⲙⲏⲛⲉⲩ",
+        "englishTransliteration": "hermeneu"
+      }
+    ]
+  },
+  {
+    "headword": "hermes",
+    "copticWord": "ϩⲉⲣⲙⲏⲥ",
+    "englishTransliteration": "hermes",
+    "gloss": "Hermes (Trismegistos)",
+    "definition": "Hermes (Trismegistos)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phermes",
+        "copticWord": "ⲫⲉⲣⲙⲏⲥ",
+        "englishTransliteration": "phermes"
+      }
+    ]
+  },
+  {
+    "headword": "hetaze",
+    "copticWord": "ϩⲉⲧⲁⲍⲉ",
+    "englishTransliteration": "hetaze",
+    "gloss": "to test s.o.",
+    "definition": "to test s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hetase",
+        "copticWord": "ϩⲉⲧⲁⲥⲉ",
+        "englishTransliteration": "hetase"
+      },
+      {
+        "word": "hudaze",
+        "copticWord": "ϩⲩⲇⲁⲍⲉ",
+        "englishTransliteration": "hudaze"
+      }
+    ]
+  },
+  {
+    "headword": "hetaira",
+    "copticWord": "ϩⲉⲧⲁⲓⲣⲁ",
+    "englishTransliteration": "hetaira",
+    "gloss": "prostitute",
+    "definition": "prostitute",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hetera",
+        "copticWord": "ϩⲉⲧⲉⲣⲁ",
+        "englishTransliteration": "hetera"
+      }
+    ]
+  },
+  {
+    "headword": "heurema",
+    "copticWord": "ϩⲉⲩⲣⲉⲙⲁ",
+    "englishTransliteration": "heurema",
+    "gloss": "discovery",
+    "definition": "discovery",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "pheurema",
+        "copticWord": "ⲫⲉⲩⲣⲉⲙⲁ",
+        "englishTransliteration": "pheurema"
+      }
+    ]
+  },
+  {
+    "headword": "heos",
+    "copticWord": "ϩⲉⲱⲥ",
+    "englishTransliteration": "heos",
+    "gloss": "until (introduces limitative clause)",
+    "definition": "until (introduces limitative clause)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true
+  },
+  {
+    "headword": "hegemonia",
+    "copticWord": "ϩⲏⲅⲉⲙⲟⲛⲓⲁ",
+    "englishTransliteration": "hegemonia",
+    "gloss": "faculty of self-rule, self-discipline",
+    "definition": "faculty of self-rule, self-discipline",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thugemonia",
+        "copticWord": "ⲑⲩⲅⲉⲙⲟⲛⲓⲁ",
+        "englishTransliteration": "thugemonia"
+      }
+    ]
+  },
+  {
+    "headword": "hegemonikon",
+    "copticWord": "ϩⲏⲅⲉⲙⲱⲛⲓⲕⲟⲛ",
+    "englishTransliteration": "hegemonikon",
+    "gloss": "leading, guiding (attributive)",
+    "definition": "leading, guiding (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hegemonikon",
+        "copticWord": "ϩⲏⲅⲉⲙⲟⲛⲓⲕⲟⲛ",
+        "englishTransliteration": "hegemonikon"
+      }
+    ]
+  },
+  {
+    "headword": "hegemon",
+    "copticWord": "ϩⲏⲅⲉⲙⲱⲛ",
+    "englishTransliteration": "hegemon",
+    "gloss": "ruler, leader (substantive)",
+    "definition": "ruler, leader (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hegeman",
+        "copticWord": "ϩⲏⲅⲉⲙⲁⲛ",
+        "englishTransliteration": "hegeman"
+      },
+      {
+        "word": "hegemon",
+        "copticWord": "ϩⲏⲅⲉⲙⲟⲛ",
+        "englishTransliteration": "hegemon"
+      },
+      {
+        "word": "-hegemo",
+        "copticWord": "ϩⲏⲅⲉⲙⲱ",
+        "englishTransliteration": "hegemo"
+      },
+      {
+        "word": "hegemo",
+        "copticWord": "ϩⲏⲅⲉⲙⲱ⳯",
+        "englishTransliteration": "hegemo"
+      },
+      {
+        "word": "hugemon",
+        "copticWord": "ϩⲩⲅⲉⲙⲱⲛ",
+        "englishTransliteration": "hugemon"
+      },
+      {
+        "word": "egemon",
+        "copticWord": "ⲏⲅⲉⲙⲱⲛ",
+        "englishTransliteration": "egemon"
+      },
+      {
+        "word": "phegemon",
+        "copticWord": "ⲫⲏⲅⲉⲙⲟⲛ",
+        "englishTransliteration": "phegemon"
+      },
+      {
+        "word": "phekemon",
+        "copticWord": "ⲫⲏⲕⲉⲙⲱⲛ",
+        "englishTransliteration": "phekemon"
+      },
+      {
+        "word": "phikemon",
+        "copticWord": "ⲫⲓⲕⲉⲙⲱⲛ",
+        "englishTransliteration": "phikemon"
+      }
+    ]
+  },
+  {
+    "headword": "hegoumenos",
+    "copticWord": "ϩⲏⲅⲟⲩⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "hegoumenos",
+    "gloss": "(political) leader, ruler",
+    "definition": "(political) leader, ruler",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hego",
+        "copticWord": "ϩⲏⲅⲟ",
+        "englishTransliteration": "hego"
+      },
+      {
+        "word": "-hegou",
+        "copticWord": "ϩⲏⲅⲟⲩ",
+        "englishTransliteration": "hegou"
+      },
+      {
+        "word": "-hegoum",
+        "copticWord": "ϩⲏⲅⲟⲩⲙ",
+        "englishTransliteration": "hegoum"
+      },
+      {
+        "word": "hegoumenos",
+        "copticWord": "ϩⲏⲅⲟⲩⲙⲏⲛⲟⲥ",
+        "englishTransliteration": "hegoumenos"
+      },
+      {
+        "word": "-hekemon",
+        "copticWord": "ϩⲏⲕⲏⲙⲱⲛ",
+        "englishTransliteration": "hekemon"
+      },
+      {
+        "word": "hougoumenos",
+        "copticWord": "ϩⲟⲩⲅⲟⲩⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "hougoumenos"
+      },
+      {
+        "word": "-hugm",
+        "copticWord": "ϩⲩⲅⲙ",
+        "englishTransliteration": "hugm"
+      },
+      {
+        "word": "hugoumenos",
+        "copticWord": "ϩⲩⲅⲟⲩⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "hugoumenos"
+      },
+      {
+        "word": "ugoumenos",
+        "copticWord": "ⲩⲅⲟⲩⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "ugoumenos"
+      },
+      {
+        "word": "phegoumenos",
+        "copticWord": "ⲫⲏⲅⲟⲩⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "phegoumenos"
+      },
+      {
+        "word": "phugoumenos",
+        "copticWord": "ⲫⲩⲅⲟⲩⲙⲉⲛⲟⲥ",
+        "englishTransliteration": "phugoumenos"
+      }
+    ]
+  },
+  {
+    "headword": "hedone",
+    "copticWord": "ϩⲏⲇⲟⲛⲏ",
+    "englishTransliteration": "hedone",
+    "gloss": "pleasure, delight, enjoyment (not sinful)",
+    "definition": "pleasure, delight, enjoyment (not sinful)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hedonaue",
+        "copticWord": "ϩⲏⲇⲟⲛⲁⲩⲉ",
+        "englishTransliteration": "hedonaue"
+      },
+      {
+        "word": "hedone",
+        "copticWord": "ϩⲏⲇⲱⲛⲏ",
+        "englishTransliteration": "hedone"
+      },
+      {
+        "word": "hudone",
+        "copticWord": "ϩⲩⲇⲟⲛⲏ",
+        "englishTransliteration": "hudone"
+      },
+      {
+        "word": "thedone",
+        "copticWord": "ⲑⲏⲇⲟⲛⲏ",
+        "englishTransliteration": "thedone"
+      }
+    ]
+  },
+  {
+    "headword": "helikia",
+    "copticWord": "ϩⲏⲗⲓⲕⲓⲁ",
+    "englishTransliteration": "helikia",
+    "gloss": "period, time of life",
+    "definition": "period, time of life",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "helios",
+    "copticWord": "ϩⲏⲗⲓⲟⲥ",
+    "englishTransliteration": "helios",
+    "gloss": "sun",
+    "definition": "sun",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phelios",
+        "copticWord": "ⲫⲏⲗⲓⲟⲥ",
+        "englishTransliteration": "phelios"
+      }
+    ]
+  },
+  {
+    "headword": "helichia",
+    "copticWord": "ϩⲏⲗⲓϭⲓⲁ",
+    "englishTransliteration": "helichia",
+    "gloss": "childishness, youthful passion",
+    "definition": "childishness, youthful passion",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hepar",
+    "copticWord": "ϩⲏⲡⲁⲣ",
+    "englishTransliteration": "hepar",
+    "gloss": "liver",
+    "definition": "liver",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hupar",
+        "copticWord": "ϩⲩⲡⲁⲣ",
+        "englishTransliteration": "hupar"
+      }
+    ]
+  },
+  {
+    "headword": "hepoulumpsis",
+    "copticWord": "ϩⲏⲡⲟⲩⲗⲩⲙⲯⲓⲥ",
+    "englishTransliteration": "hepoulumpsis",
+    "gloss": "reputation",
+    "definition": "reputation",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "herodianos",
+    "copticWord": "ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ",
+    "englishTransliteration": "herodianos",
+    "gloss": "Herodian (partisan of Herod the Great and his family)",
+    "definition": "Herodian (partisan of Herod the Great and his family)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hetikon",
+    "copticWord": "ϩⲏⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "hetikon",
+    "gloss": "property, assets",
+    "definition": "property, assets",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hitikon",
+        "copticWord": "ϩⲓⲧⲓⲕⲟⲛ",
+        "englishTransliteration": "hitikon"
+      }
+    ]
+  },
+  {
+    "headword": "hetra",
+    "copticWord": "ϩⲏⲧⲣⲁ",
+    "englishTransliteration": "hetra",
+    "gloss": "abdomen, esp. the lower part of it",
+    "definition": "abdomen, esp. the lower part of it",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hiatros",
+    "copticWord": "ϩⲓⲁⲧⲣⲟⲥ",
+    "englishTransliteration": "hiatros",
+    "gloss": "physician",
+    "definition": "physician",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "huatros",
+        "copticWord": "ϩⲩⲁⲧⲣⲟⲥ",
+        "englishTransliteration": "huatros"
+      },
+      {
+        "word": "iatros",
+        "copticWord": "ⲓⲁⲧⲣⲟⲥ",
+        "englishTransliteration": "iatros"
+      }
+    ]
+  },
+  {
+    "headword": "hidion",
+    "copticWord": "ϩⲓⲇⲓⲟⲛ",
+    "englishTransliteration": "hidion",
+    "gloss": "own (possessive)",
+    "definition": "own (possessive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hidiotes",
+    "copticWord": "ϩⲓⲇⲓⲱⲧⲏⲥ",
+    "englishTransliteration": "hidiotes",
+    "gloss": "layperson, amateur",
+    "definition": "layperson, amateur",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hudiotes",
+        "copticWord": "ϩⲩⲇⲓⲟⲧⲏⲥ",
+        "englishTransliteration": "hudiotes"
+      }
+    ]
+  },
+  {
+    "headword": "hieratikon",
+    "copticWord": "ϩⲓⲉⲣⲁⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "hieratikon",
+    "gloss": "hieratic (attributive)",
+    "definition": "hieratic (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hieration",
+    "copticWord": "ϩⲓⲉⲣⲁⲧⲓⲟⲛ",
+    "englishTransliteration": "hieration",
+    "gloss": "sanctuary",
+    "definition": "sanctuary",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hiera",
+    "copticWord": "ϩⲓⲉⲣⲁ",
+    "englishTransliteration": "hiera",
+    "gloss": "holy",
+    "definition": "holy",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hieron",
+    "copticWord": "ϩⲓⲉⲣⲟⲛ",
+    "englishTransliteration": "hieron",
+    "gloss": "(Second) Temple (in Jerusalem)",
+    "definition": "(Second) Temple (in Jerusalem)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "phieron",
+        "copticWord": "ⲫⲓⲉⲣⲟⲛ",
+        "englishTransliteration": "phieron"
+      }
+    ]
+  },
+  {
+    "headword": "hierophantes",
+    "copticWord": "ϩⲓⲉⲣⲟⲫⲁⲛⲧⲏⲥ",
+    "englishTransliteration": "hierophantes",
+    "gloss": "revelator, hierophant (epithet of Moses)",
+    "definition": "revelator, hierophant (epithet of Moses)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hikanos",
+    "copticWord": "ϩⲓⲕⲁⲛⲟⲥ",
+    "englishTransliteration": "hikanos",
+    "gloss": "able, capable, potent (object: none)",
+    "definition": "able, capable, potent (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "shikanos",
+        "copticWord": "ϣⲓⲕⲁⲛⲟⲥ",
+        "englishTransliteration": "shikanos"
+      }
+    ]
+  },
+  {
+    "headword": "hikonikos",
+    "copticWord": "ϩⲓⲕⲟⲛⲓⲕⲟⲥ",
+    "englishTransliteration": "hikonikos",
+    "gloss": "symbolical (attributive use)",
+    "definition": "symbolical (attributive use)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hikon",
+    "copticWord": "ϩⲓⲕⲱⲛ",
+    "englishTransliteration": "hikon",
+    "gloss": "image (general, or specific sense unclear)",
+    "definition": "image (general, or specific sense unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "heikon",
+        "copticWord": "ϩⲉⲓⲕⲱⲛ",
+        "englishTransliteration": "heikon"
+      },
+      {
+        "word": "hiko",
+        "copticWord": "ϩⲓⲕⲱ⳯",
+        "englishTransliteration": "hiko"
+      },
+      {
+        "word": "eiko",
+        "copticWord": "ⲉⲓⲕⲱ",
+        "englishTransliteration": "eiko"
+      },
+      {
+        "word": "theikon",
+        "copticWord": "ⲑⲉⲓⲕⲱⲛ",
+        "englishTransliteration": "theikon"
+      },
+      {
+        "word": "thekon",
+        "copticWord": "ⲑⲉⲕⲱⲛ",
+        "englishTransliteration": "thekon"
+      },
+      {
+        "word": "thikon",
+        "copticWord": "ⲑⲓⲕⲟⲛ",
+        "englishTransliteration": "thikon"
+      },
+      {
+        "word": "thiko",
+        "copticWord": "ⲑⲓⲕⲱ",
+        "englishTransliteration": "thiko"
+      },
+      {
+        "word": "thikon",
+        "copticWord": "ⲑⲓⲕⲱⲛ",
+        "englishTransliteration": "thikon"
+      },
+      {
+        "word": "ikon",
+        "copticWord": "ⲓⲕⲟⲛ",
+        "englishTransliteration": "ikon"
+      },
+      {
+        "word": "ikon",
+        "copticWord": "ⲓⲕⲱⲛ",
+        "englishTransliteration": "ikon"
+      }
+    ]
+  },
+  {
+    "headword": "hilikrines",
+    "copticWord": "ϩⲓⲗⲓⲕⲣⲓⲛⲏⲥ",
+    "englishTransliteration": "hilikrines",
+    "gloss": "pure (substantive)",
+    "definition": "pure (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hilikrines",
+        "copticWord": "ϩⲓⲗⲓⲕⲣⲓⲛⲉⲥ",
+        "englishTransliteration": "hilikrines"
+      },
+      {
+        "word": "alikrines",
+        "copticWord": "ⲁⲗⲓⲕⲣⲓⲛⲉⲥ",
+        "englishTransliteration": "alikrines"
+      },
+      {
+        "word": "philikrines",
+        "copticWord": "ⲫⲓⲗⲓⲕⲣⲓⲛⲉⲥ",
+        "englishTransliteration": "philikrines"
+      }
+    ]
+  },
+  {
+    "headword": "himarmene",
+    "copticWord": "ϩⲓⲙⲁⲣⲙⲉⲛⲏ",
+    "englishTransliteration": "himarmene",
+    "gloss": "fate, chain of events",
+    "definition": "fate, chain of events",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "himeros",
+    "copticWord": "ϩⲓⲙⲉⲣⲟⲥ",
+    "englishTransliteration": "himeros",
+    "gloss": "yearning, desire (hypostasis)",
+    "definition": "yearning, desire (hypostasis)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "himireris",
+        "copticWord": "ϩⲓ︦ⲙ︦ⲓ︦ⲣ︦ⲏ︦ⲣ︦ⲓ︦ⲥ︦",
+        "englishTransliteration": "himireris"
+      }
+    ]
+  },
+  {
+    "headword": "hina",
+    "copticWord": "ϩⲓⲛⲁ",
+    "englishTransliteration": "hina",
+    "gloss": "so that, in order that (introduces purpose clause)",
+    "definition": "so that, in order that (introduces purpose clause)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "shina",
+        "copticWord": "ϣⲓⲛⲁ",
+        "englishTransliteration": "shina"
+      },
+      {
+        "word": "hinas",
+        "copticWord": "ϩⲓⲛⲁⲥ",
+        "englishTransliteration": "hinas"
+      },
+      {
+        "word": "ina",
+        "copticWord": "ⲓⲛⲁ",
+        "englishTransliteration": "ina"
+      }
+    ]
+  },
+  {
+    "headword": "hippeus",
+    "copticWord": "ϩⲓⲡⲡⲉⲩⲥ",
+    "englishTransliteration": "hippeus",
+    "gloss": "equestrian, person on horseback",
+    "definition": "equestrian, person on horseback",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hipeus",
+        "copticWord": "ϩⲓⲡⲉⲩⲥ",
+        "englishTransliteration": "hipeus"
+      },
+      {
+        "word": "-hippef",
+        "copticWord": "ϩⲓⲡⲡⲉϥ",
+        "englishTransliteration": "hippef"
+      },
+      {
+        "word": "-hupeus",
+        "copticWord": "ϩⲩⲡⲉⲩⲥ",
+        "englishTransliteration": "hupeus"
+      }
+    ]
+  },
+  {
+    "headword": "hippikos",
+    "copticWord": "ϩⲓⲡⲡⲓⲕⲟⲥ",
+    "englishTransliteration": "hippikos",
+    "gloss": "race-course, circus (substantive)",
+    "definition": "race-course, circus (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hisaggelos",
+    "copticWord": "ϩⲓⲥⲁⲅⲅⲉⲗⲟⲥ",
+    "englishTransliteration": "hisaggelos",
+    "gloss": "angel-like one, equal of angels (substantive)",
+    "definition": "angel-like one, equal of angels (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hisauros",
+    "copticWord": "ϩⲓⲥⲁⲩⲣⲟⲥ",
+    "englishTransliteration": "hisauros",
+    "gloss": "Isaurian one, person of Isauria (substantive)",
+    "definition": "Isaurian one, person of Isauria (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hisodunamis",
+    "copticWord": "ϩⲓⲥⲟⲇⲩⲛⲁⲙⲓⲥ",
+    "englishTransliteration": "hisodunamis",
+    "gloss": "equal power, being of equal strength",
+    "definition": "equal power, being of equal strength",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hison",
+    "copticWord": "ϩⲓⲥⲟⲛ",
+    "englishTransliteration": "hison",
+    "gloss": "copy, duplicate (of a text)",
+    "definition": "copy, duplicate (of a text)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hision",
+        "copticWord": "ϩⲓⲥⲓⲟⲛ",
+        "englishTransliteration": "hision"
+      },
+      {
+        "word": "hiso",
+        "copticWord": "ϩⲓⲥⲟ⳯",
+        "englishTransliteration": "hiso"
+      },
+      {
+        "word": "phison",
+        "copticWord": "ⲫⲓⲥⲟⲛ",
+        "englishTransliteration": "phison"
+      }
+    ]
+  },
+  {
+    "headword": "hisos",
+    "copticWord": "ϩⲓⲥⲟⲥ",
+    "englishTransliteration": "hisos",
+    "gloss": "equal (substantive)",
+    "definition": "equal (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hister",
+    "copticWord": "ϩⲓⲥⲧⲏⲣ",
+    "englishTransliteration": "hister",
+    "gloss": "to fall behind (in due payments)",
+    "definition": "to fall behind (in due payments)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "historize",
+    "copticWord": "ϩⲓⲥⲧⲟⲣⲓⲍⲉ",
+    "englishTransliteration": "historize",
+    "gloss": "to narrate, relate, render an account of s.th.",
+    "definition": "to narrate, relate, render an account of s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "histori",
+    "copticWord": "ϩⲓⲥⲧⲟⲣⲓ",
+    "englishTransliteration": "histori",
+    "gloss": "to explain s.th.",
+    "definition": "to explain s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hitalike",
+    "copticWord": "ϩⲓⲧⲁⲗⲓⲕⲏ",
+    "englishTransliteration": "hitalike",
+    "gloss": "\"The Italian\" (name of a Roman cohort) (substantive)",
+    "definition": "\"The Italian\" (name of a Roman cohort) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hisodunamos",
+    "copticWord": "ϩⲓⲥⲟⲇⲩⲛⲁⲙⲟⲥ",
+    "englishTransliteration": "hisodunamos",
+    "gloss": "of the same power (attributive)",
+    "definition": "of the same power (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hisochronos",
+    "copticWord": "ϩⲓⲥⲟⲭⲣⲟⲛⲟⲥ",
+    "englishTransliteration": "hisochronos",
+    "gloss": "coeval one, one of the same age (substantive)",
+    "definition": "coeval one, one of the same age (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hobolos",
+    "copticWord": "ϩⲟⲃⲟⲗⲟⲥ",
+    "englishTransliteration": "hobolos",
+    "gloss": "obol (coin)",
+    "definition": "obol (coin)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hodos",
+    "copticWord": "ϩⲟⲇⲟⲥ",
+    "englishTransliteration": "hodos",
+    "gloss": "road, path, way",
+    "definition": "road, path, way",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thodos",
+        "copticWord": "ⲑⲟⲇⲟⲥ",
+        "englishTransliteration": "thodos"
+      }
+    ]
+  },
+  {
+    "headword": "hoion",
+    "copticWord": "ϩⲟⲓⲟⲛ",
+    "englishTransliteration": "hoion",
+    "gloss": "like, such as",
+    "definition": "like, such as",
+    "reference": "Gk",
+    "partOfSpeech": "prep",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "oion",
+        "copticWord": "ⲟⲓⲟⲛ",
+        "englishTransliteration": "oion"
+      }
+    ]
+  },
+  {
+    "headword": "holigon",
+    "copticWord": "ϩⲟⲗⲓⲅⲟⲛ",
+    "englishTransliteration": "holigon",
+    "gloss": "few, little (substantive)",
+    "definition": "few, little (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "holokautoma",
+    "copticWord": "ϩⲟⲗⲟⲕⲁⲩⲧⲱⲙⲁ",
+    "englishTransliteration": "holokautoma",
+    "gloss": "burnt offering",
+    "definition": "burnt offering",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "holokautoma",
+        "copticWord": "ϩⲟⲗⲟⲕⲁⲩⲧⲟⲙⲁ",
+        "englishTransliteration": "holokautoma"
+      }
+    ]
+  },
+  {
+    "headword": "holokottinos",
+    "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲧⲓⲛⲟⲥ",
+    "englishTransliteration": "holokottinos",
+    "gloss": "holokottinos, solidus / dinar (solidus: Byzantine gold coin; in Islamic times:\n     dinar)",
+    "definition": "holokottinos, solidus / dinar (solidus: Byzantine gold coin; in Islamic times:\n     dinar)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-halak",
+        "copticWord": "ϩⲁⲗⲁⲕ",
+        "englishTransliteration": "halak"
+      },
+      {
+        "word": "-halakotinos",
+        "copticWord": "ϩⲁⲗⲁⲕⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "halakotinos"
+      },
+      {
+        "word": "-hokotin",
+        "copticWord": "ϩⲟⲕⲟⲧⲓⲛ",
+        "englishTransliteration": "hokotin"
+      },
+      {
+        "word": "-hol",
+        "copticWord": "ϩⲟⲗ",
+        "englishTransliteration": "hol"
+      },
+      {
+        "word": "-holochotinos",
+        "copticWord": "ϩⲟⲗⲟϭⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holochotinos"
+      },
+      {
+        "word": "-holok",
+        "copticWord": "ϩⲟⲗⲟⲕ",
+        "englishTransliteration": "holok"
+      },
+      {
+        "word": "-holok",
+        "copticWord": "ϩⲟⲗⲟⲕ︦",
+        "englishTransliteration": "holok"
+      },
+      {
+        "word": "-holoko",
+        "copticWord": "ϩⲟⲗⲟⲕⲟ",
+        "englishTransliteration": "holoko"
+      },
+      {
+        "word": "-holokotinos",
+        "copticWord": "ϩⲟⲗⲟⲕⲟϯⲛⲟⲥ",
+        "englishTransliteration": "holokotinos"
+      },
+      {
+        "word": "-holokote",
+        "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲉ",
+        "englishTransliteration": "holokote"
+      },
+      {
+        "word": "holokoteinos",
+        "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲉⲓⲛⲟⲥ",
+        "englishTransliteration": "holokoteinos"
+      },
+      {
+        "word": "-holokotinos",
+        "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holokotinos"
+      },
+      {
+        "word": "-holokotins",
+        "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲓⲛⲥ",
+        "englishTransliteration": "holokotins"
+      },
+      {
+        "word": "-holokotse",
+        "copticWord": "ϩⲟⲗⲟⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "holokotse"
+      },
+      {
+        "word": "-holoks",
+        "copticWord": "ϩⲟⲗⲟⲕⲥ",
+        "englishTransliteration": "holoks"
+      },
+      {
+        "word": "-holokt",
+        "copticWord": "ϩⲟⲗⲟⲕⲧ",
+        "englishTransliteration": "holokt"
+      },
+      {
+        "word": "-holokt",
+        "copticWord": "ϩⲟⲗⲟⲕⲧ⳽",
+        "englishTransliteration": "holokt"
+      },
+      {
+        "word": "-holoktinos",
+        "copticWord": "ϩⲟⲗⲟⲕⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holoktinos"
+      },
+      {
+        "word": "-houlokotse",
+        "copticWord": "ϩⲟⲩⲗⲟⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "houlokotse"
+      },
+      {
+        "word": "-holok",
+        "copticWord": "ϩⲱⲗⲟⲕ",
+        "englishTransliteration": "holok"
+      },
+      {
+        "word": "-holokotin",
+        "copticWord": "ϩⲱⲗⲟⲕⲟⲧⲓⲛ",
+        "englishTransliteration": "holokotin"
+      },
+      {
+        "word": "-holokotinos",
+        "copticWord": "ϩⲱⲗⲟⲕⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holokotinos"
+      },
+      {
+        "word": "-holoktinos",
+        "copticWord": "ϩⲱⲗⲟⲕⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holoktinos"
+      },
+      {
+        "word": "-holokotinos",
+        "copticWord": "ϩⲱⲗⲱⲕⲱⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "holokotinos"
+      },
+      {
+        "word": "phalakoje",
+        "copticWord": "ⲫⲁⲗⲁⲕⲟϫⲉ",
+        "englishTransliteration": "phalakoje"
+      },
+      {
+        "word": "phalakotse",
+        "copticWord": "ⲫⲁⲗⲁⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "phalakotse"
+      },
+      {
+        "word": "pholkotse",
+        "copticWord": "ⲫⲟⲗⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "pholkotse"
+      },
+      {
+        "word": "pholok",
+        "copticWord": "ⲫⲟⲗⲟⲕ",
+        "englishTransliteration": "pholok"
+      },
+      {
+        "word": "pholokdinos",
+        "copticWord": "ⲫⲟⲗⲟⲕⲇⲓⲛⲟⲥ",
+        "englishTransliteration": "pholokdinos"
+      },
+      {
+        "word": "pholokotinos",
+        "copticWord": "ⲫⲟⲗⲟⲕⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "pholokotinos"
+      },
+      {
+        "word": "pholokotse",
+        "copticWord": "ⲫⲟⲗⲟⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "pholokotse"
+      },
+      {
+        "word": "pholochotinos",
+        "copticWord": "ⲫⲱⲗⲟϭⲟⲧⲓⲛⲟⲥ",
+        "englishTransliteration": "pholochotinos"
+      },
+      {
+        "word": "pholokotse",
+        "copticWord": "ⲫⲱⲗⲟⲕⲟⲧⲥⲉ",
+        "englishTransliteration": "pholokotse"
+      }
+    ]
+  },
+  {
+    "headword": "holon",
+    "copticWord": "ϩⲟⲗⲟⲛ",
+    "englishTransliteration": "holon",
+    "gloss": "whole, universe, entirety (pluralia tantum) (substantive)",
+    "definition": "whole, universe, entirety (pluralia tantum) (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "holon",
+        "copticWord": "ϩⲟⲗⲱⲛ",
+        "englishTransliteration": "holon"
+      }
+    ]
+  },
+  {
+    "headword": "holoserikkon",
+    "copticWord": "ϩⲟⲗⲟⲥⲏⲣⲓⲕⲕⲟⲛ",
+    "englishTransliteration": "holoserikkon",
+    "gloss": "silk (attributive)",
+    "definition": "silk (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "holos",
+    "copticWord": "ϩⲟⲗⲱⲥ",
+    "englishTransliteration": "holos",
+    "gloss": "altogether, at all",
+    "definition": "altogether, at all",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "holos",
+        "copticWord": "ϩⲟⲗⲟⲥ",
+        "englishTransliteration": "holos"
+      },
+      {
+        "word": "holes",
+        "copticWord": "ϩⲱⲗⲉⲥ",
+        "englishTransliteration": "holes"
+      },
+      {
+        "word": "holos",
+        "copticWord": "ϩⲱⲗⲟⲥ",
+        "englishTransliteration": "holos"
+      },
+      {
+        "word": "holos",
+        "copticWord": "ϩⲱⲗⲱⲥ",
+        "englishTransliteration": "holos"
+      }
+    ]
+  },
+  {
+    "headword": "homilia",
+    "copticWord": "ϩⲟⲙⲓⲗⲓⲁ",
+    "englishTransliteration": "homilia",
+    "gloss": "conversation, discussion",
+    "definition": "conversation, discussion",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "homelia",
+        "copticWord": "ϩⲟⲙⲉⲗⲓⲁ",
+        "englishTransliteration": "homelia"
+      },
+      {
+        "word": "homileia",
+        "copticWord": "ϩⲟⲙⲓⲗⲉⲓⲁ",
+        "englishTransliteration": "homileia"
+      },
+      {
+        "word": "omilia",
+        "copticWord": "ⲟⲙⲓⲗⲓⲁ",
+        "englishTransliteration": "omilia"
+      }
+    ]
+  },
+  {
+    "headword": "homologei",
+    "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲉⲓ",
+    "englishTransliteration": "homologei",
+    "gloss": "to profess, claim, declare (general, or specific sense unclear)",
+    "definition": "to profess, claim, declare (general, or specific sense unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hamalogi",
+        "copticWord": "ϩⲁⲙⲁⲗⲟⲅⲓ",
+        "englishTransliteration": "hamalogi"
+      },
+      {
+        "word": "hamologei",
+        "copticWord": "ϩⲁⲙⲱⲗⲟⲅⲉⲓ",
+        "englishTransliteration": "hamologei"
+      },
+      {
+        "word": "-hemologe",
+        "copticWord": "ϩⲉⲙⲟⲗⲟⲅⲉ",
+        "englishTransliteration": "hemologe"
+      },
+      {
+        "word": "hemoulogei",
+        "copticWord": "ϩⲉⲙⲟⲩⲗⲟⲅⲉⲓ",
+        "englishTransliteration": "hemoulogei"
+      },
+      {
+        "word": "homolegei",
+        "copticWord": "ϩⲟⲙⲟⲗⲉⲅⲉⲓ",
+        "englishTransliteration": "homolegei"
+      },
+      {
+        "word": "-homologe",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲉ",
+        "englishTransliteration": "homologe"
+      },
+      {
+        "word": "-homologi",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲓ",
+        "englishTransliteration": "homologi"
+      },
+      {
+        "word": "-homoloke",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲕⲉ",
+        "englishTransliteration": "homoloke"
+      },
+      {
+        "word": "homololei",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲗⲉⲓ",
+        "englishTransliteration": "homololei"
+      },
+      {
+        "word": "homoiloge",
+        "copticWord": "ϩⲱⲙⲟⲓⲗⲱⲅⲉ",
+        "englishTransliteration": "homoiloge"
+      },
+      {
+        "word": "-homologe",
+        "copticWord": "ϩⲱⲙⲟⲗⲱⲅⲉ",
+        "englishTransliteration": "homologe"
+      },
+      {
+        "word": "homologei",
+        "copticWord": "ϩⲱⲙⲱⲗⲱⲅⲉⲓ",
+        "englishTransliteration": "homologei"
+      },
+      {
+        "word": "homologeia",
+        "copticWord": "ϩⲱⲙⲱⲗⲱⲅⲉⲓⲁ",
+        "englishTransliteration": "homologeia"
+      },
+      {
+        "word": "omologei",
+        "copticWord": "ⲟⲙⲟⲗⲟⲅⲉⲓ",
+        "englishTransliteration": "omologei"
+      },
+      {
+        "word": "omoloke",
+        "copticWord": "ⲱⲙⲟⲗⲟⲕⲉ",
+        "englishTransliteration": "omoloke"
+      }
+    ]
+  },
+  {
+    "headword": "homologetes",
+    "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲏⲧⲏⲥ",
+    "englishTransliteration": "homologetes",
+    "gloss": "confessor (of the Faith)",
+    "definition": "confessor (of the Faith)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "homologites",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲓⲧⲏⲥ",
+        "englishTransliteration": "homologites"
+      },
+      {
+        "word": "homoloketes",
+        "copticWord": "ϩⲱⲙⲟⲗⲟⲕⲏⲧⲏⲥ",
+        "englishTransliteration": "homoloketes"
+      }
+    ]
+  },
+  {
+    "headword": "homologia",
+    "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "homologia",
+    "gloss": "confession, declaration",
+    "definition": "confession, declaration",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-homolgia",
+        "copticWord": "ϩⲟⲙⲟⲗⲅⲓⲁ",
+        "englishTransliteration": "homolgia"
+      },
+      {
+        "word": "homologeia",
+        "copticWord": "ϩⲟⲙⲟⲗⲟⲅⲉⲓⲁ",
+        "englishTransliteration": "homologeia"
+      },
+      {
+        "word": "thomologia",
+        "copticWord": "ⲑⲟⲙⲟⲗⲟⲅⲓⲁ",
+        "englishTransliteration": "thomologia"
+      },
+      {
+        "word": "omologia",
+        "copticWord": "ⲟⲙⲟⲗⲟⲅⲓⲁ",
+        "englishTransliteration": "omologia"
+      }
+    ]
+  },
+  {
+    "headword": "homonoia",
+    "copticWord": "ϩⲟⲙⲟⲛⲟⲓⲁ",
+    "englishTransliteration": "homonoia",
+    "gloss": "harmony",
+    "definition": "harmony",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-homonia",
+        "copticWord": "ϩⲟⲙⲟⲛⲓⲁ",
+        "englishTransliteration": "homonia"
+      },
+      {
+        "word": "thomonoia",
+        "copticWord": "ⲑⲟⲙⲟⲛⲟⲓⲁ",
+        "englishTransliteration": "thomonoia"
+      }
+    ]
+  },
+  {
+    "headword": "homonoi",
+    "copticWord": "ϩⲟⲙⲟⲛⲟⲓ",
+    "englishTransliteration": "homonoi",
+    "gloss": "to live in harmony, to act harmoniously (object: none)",
+    "definition": "to live in harmony, to act harmoniously (object: none)",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "homoousion",
+    "copticWord": "ϩⲟⲙⲟⲟⲩⲥⲓⲟⲛ",
+    "englishTransliteration": "homoousion",
+    "gloss": "consubstantial thing",
+    "definition": "consubstantial thing",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "homaousion",
+        "copticWord": "ϩⲟⲙⲁⲟⲩⲥⲓⲟⲛ",
+        "englishTransliteration": "homaousion"
+      },
+      {
+        "word": "homouousion",
+        "copticWord": "ϩⲟⲙⲟⲩⲟⲩⲥⲓⲟⲛ",
+        "englishTransliteration": "homouousion"
+      },
+      {
+        "word": "hoomoousion",
+        "copticWord": "ϩⲟⲟⲙⲟⲟⲩⲥⲓⲟⲛ",
+        "englishTransliteration": "hoomoousion"
+      }
+    ]
+  },
+  {
+    "headword": "homoousios",
+    "copticWord": "ϩⲟⲙⲟⲟⲩⲥⲓⲟⲥ",
+    "englishTransliteration": "homoousios",
+    "gloss": "consubstantial (substantive)",
+    "definition": "consubstantial (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-homosios",
+        "copticWord": "ϩⲟⲙⲟⲥⲓⲟⲥ",
+        "englishTransliteration": "homosios"
+      },
+      {
+        "word": "-homousios",
+        "copticWord": "ϩⲟⲙⲟⲩⲥⲓⲟⲥ",
+        "englishTransliteration": "homousios"
+      },
+      {
+        "word": "homoiosios",
+        "copticWord": "ϩⲱⲙⲟⲓⲟⲥⲓⲟⲥ",
+        "englishTransliteration": "homoiosios"
+      },
+      {
+        "word": "omoousios",
+        "copticWord": "ⲟⲙⲟⲟⲩⲥⲓⲟⲥ",
+        "englishTransliteration": "omoousios"
+      }
+    ]
+  },
+  {
+    "headword": "homopneuma",
+    "copticWord": "ϩⲟⲙⲟⲡⲛⲉⲩⲙⲁ",
+    "englishTransliteration": "homopneuma",
+    "gloss": "fellow spirit, common soul (like-minded individuals)",
+    "definition": "fellow spirit, common soul (like-minded individuals)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "homopna",
+        "copticWord": "ϩⲟⲙⲟⲡ︦ⲛ︦ⲁ︦",
+        "englishTransliteration": "homopna"
+      }
+    ]
+  },
+  {
+    "headword": "homos",
+    "copticWord": "ϩⲟⲙⲱⲥ",
+    "englishTransliteration": "homos",
+    "gloss": "nevertheless, all the same",
+    "definition": "nevertheless, all the same",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "hoplize",
+    "copticWord": "ϩⲟⲡⲗⲓⲍⲉ",
+    "englishTransliteration": "hoplize",
+    "gloss": "to arm s.o. with s.th.",
+    "definition": "to arm s.o. with s.th.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hoplon",
+    "copticWord": "ϩⲟⲡⲗⲟⲛ",
+    "englishTransliteration": "hoplon",
+    "gloss": "arms (specific sort of arms unclear)",
+    "definition": "arms (specific sort of arms unclear)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hoplon",
+        "copticWord": "ϩⲟⲡⲗⲱⲛ",
+        "englishTransliteration": "hoplon"
+      },
+      {
+        "word": "oplon",
+        "copticWord": "ⲟⲡⲗⲟⲛ",
+        "englishTransliteration": "oplon"
+      }
+    ]
+  },
+  {
+    "headword": "hopote",
+    "copticWord": "ϩⲟⲡⲟⲧⲉ",
+    "englishTransliteration": "hopote",
+    "gloss": "whereas, when in fact (introduces conditional clause)",
+    "definition": "whereas, when in fact (introduces conditional clause)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true
+  },
+  {
+    "headword": "hopou",
+    "copticWord": "ϩⲟⲡⲟⲩ",
+    "englishTransliteration": "hopou",
+    "gloss": "when, whereas",
+    "definition": "when, whereas",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true
+  },
+  {
+    "headword": "hopos",
+    "copticWord": "ϩⲟⲡⲱⲥ",
+    "englishTransliteration": "hopos",
+    "gloss": "in order to, in order that (introduces purpose clause)",
+    "definition": "in order to, in order that (introduces purpose clause)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hopos",
+        "copticWord": "ϩⲟⲡⲟⲥ",
+        "englishTransliteration": "hopos"
+      },
+      {
+        "word": "opos",
+        "copticWord": "ⲟⲡⲱⲥ",
+        "englishTransliteration": "opos"
+      }
+    ]
+  },
+  {
+    "headword": "horasis",
+    "copticWord": "ϩⲟⲣⲁⲥⲓⲥ",
+    "englishTransliteration": "horasis",
+    "gloss": "vision (the act of sight)",
+    "definition": "vision (the act of sight)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "horasis",
+        "copticWord": "ϩⲱⲣⲁⲥⲓⲥ",
+        "englishTransliteration": "horasis"
+      },
+      {
+        "word": "thorasis",
+        "copticWord": "ⲑⲟⲣⲁⲥⲓⲥ",
+        "englishTransliteration": "thorasis"
+      },
+      {
+        "word": "orasis",
+        "copticWord": "ⲟⲣⲁⲥⲓⲥ",
+        "englishTransliteration": "orasis"
+      }
+    ]
+  },
+  {
+    "headword": "horaton",
+    "copticWord": "ϩⲟⲣⲁⲧⲟⲛ",
+    "englishTransliteration": "horaton",
+    "gloss": "visible thing, being",
+    "definition": "visible thing, being",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "horize",
+    "copticWord": "ϩⲟⲣⲓⲍⲉ",
+    "englishTransliteration": "horize",
+    "gloss": "to set apart, delimit s.o.",
+    "definition": "to set apart, delimit s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "horaze",
+        "copticWord": "ϩⲱⲣⲁⲍⲉ",
+        "englishTransliteration": "horaze"
+      },
+      {
+        "word": "horize",
+        "copticWord": "ϩⲱⲣⲓⲍⲉ",
+        "englishTransliteration": "horize"
+      }
+    ]
+  },
+  {
+    "headword": "horme",
+    "copticWord": "ϩⲟⲣⲙⲏ",
+    "englishTransliteration": "horme",
+    "gloss": "impulse, inclination, desire",
+    "definition": "impulse, inclination, desire",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "thorme",
+        "copticWord": "ⲑⲟⲣⲙⲏ",
+        "englishTransliteration": "thorme"
+      },
+      {
+        "word": "orme",
+        "copticWord": "ⲱⲣⲙⲏ",
+        "englishTransliteration": "orme"
+      }
+    ]
+  },
+  {
+    "headword": "hormiskos",
+    "copticWord": "ϩⲟⲣⲙⲓⲥⲕⲟⲥ",
+    "englishTransliteration": "hormiskos",
+    "gloss": "small necklace",
+    "definition": "small necklace",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "ormiskos",
+        "copticWord": "ⲟⲣⲙⲓⲥⲕⲟⲥ",
+        "englishTransliteration": "ormiskos"
+      }
+    ]
+  },
+  {
+    "headword": "horoma",
+    "copticWord": "ϩⲟⲣⲟⲙⲁ",
+    "englishTransliteration": "horoma",
+    "gloss": "sight",
+    "definition": "sight",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "horama",
+        "copticWord": "ϩⲟⲣⲁⲙⲁ",
+        "englishTransliteration": "horama"
+      },
+      {
+        "word": "phoroma",
+        "copticWord": "ⲫⲟⲣⲟⲙⲁ",
+        "englishTransliteration": "phoroma"
+      }
+    ]
+  },
+  {
+    "headword": "horos",
+    "copticWord": "ϩⲟⲣⲟⲥ",
+    "englishTransliteration": "horos",
+    "gloss": "rule, ordinance, law, stricture",
+    "definition": "rule, ordinance, law, stricture",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "horous",
+        "copticWord": "ϩⲟⲣⲟⲩⲥ",
+        "englishTransliteration": "horous"
+      },
+      {
+        "word": "-hrr",
+        "copticWord": "ϩⲣⲣ",
+        "englishTransliteration": "hrr"
+      }
+    ]
+  },
+  {
+    "headword": "hosiotatos",
+    "copticWord": "ϩⲟⲥⲓⲱⲧⲁⲧⲟⲥ",
+    "englishTransliteration": "hosiotatos",
+    "gloss": "most holy (lat. sanctissimus) (substantive; re: honorific predicate)",
+    "definition": "most holy (lat. sanctissimus) (substantive; re: honorific predicate)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "osiotates",
+        "copticWord": "ⲟⲥⲓⲟⲧⲁⲧⲏⲥ",
+        "englishTransliteration": "osiotates"
+      },
+      {
+        "word": "osiot",
+        "copticWord": "ⲟⲥⲓⲱⲧ",
+        "englishTransliteration": "osiot"
+      },
+      {
+        "word": "osiotatos",
+        "copticWord": "ⲱⲥⲓⲱⲧⲁⲧⲟⲥ",
+        "englishTransliteration": "osiotatos"
+      }
+    ]
+  },
+  {
+    "headword": "hoson",
+    "copticWord": "ϩⲟⲥⲟⲛ",
+    "englishTransliteration": "hoson",
+    "gloss": "as long as (introduces temporal clauses)",
+    "definition": "as long as (introduces temporal clauses)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hoson",
+        "copticWord": "ϩⲟⲥⲱⲛ",
+        "englishTransliteration": "hoson"
+      },
+      {
+        "word": "hoson",
+        "copticWord": "ϩⲱⲥⲟⲛ",
+        "englishTransliteration": "hoson"
+      },
+      {
+        "word": "-hoso",
+        "copticWord": "ϩⲟⲥⲟ",
+        "englishTransliteration": "hoso"
+      },
+      {
+        "word": "ephoson",
+        "copticWord": "ⲉⲫⲟⲥⲟⲛ",
+        "englishTransliteration": "ephoson"
+      }
+    ]
+  },
+  {
+    "headword": "hotan",
+    "copticWord": "ϩⲟⲧⲁⲛ",
+    "englishTransliteration": "hotan",
+    "gloss": "when (introduces temporal clause concerning future event)",
+    "definition": "when (introduces temporal clause concerning future event)",
+    "reference": "Gk",
+    "partOfSpeech": "conj",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hota",
+        "copticWord": "ϩⲟⲧⲁ",
+        "englishTransliteration": "hota"
+      },
+      {
+        "word": "hoton",
+        "copticWord": "ϩⲟⲧⲟⲛ",
+        "englishTransliteration": "hoton"
+      },
+      {
+        "word": "hotan",
+        "copticWord": "ϩⲱⲧⲁⲛ",
+        "englishTransliteration": "hotan"
+      },
+      {
+        "word": "otan",
+        "copticWord": "ⲟⲧⲁⲛ",
+        "englishTransliteration": "otan"
+      }
+    ]
+  },
+  {
+    "headword": "hrabtos",
+    "copticWord": "ϩⲣⲁⲃⲧⲱⲥ",
+    "englishTransliteration": "hrabtos",
+    "gloss": "staff, stave, wand",
+    "definition": "staff, stave, wand",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hraftos",
+        "copticWord": "ϩⲣⲁϥⲧⲟⲥ",
+        "englishTransliteration": "hraftos"
+      }
+    ]
+  },
+  {
+    "headword": "hramnos",
+    "copticWord": "ϩⲣⲁⲙⲛⲟⲥ",
+    "englishTransliteration": "hramnos",
+    "gloss": "thorn-bush, prickly shrub",
+    "definition": "thorn-bush, prickly shrub",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hracha",
+    "copticWord": "ϩⲣⲁⲭⲁ",
+    "englishTransliteration": "hracha",
+    "gloss": "numbskull, fool",
+    "definition": "numbskull, fool",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hreon",
+    "copticWord": "ϩⲣⲉⲟⲛ",
+    "englishTransliteration": "hreon",
+    "gloss": "drinking-cup or horn",
+    "definition": "drinking-cup or horn",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hrepize",
+    "copticWord": "ϩⲣⲉⲡⲓⲍⲉ",
+    "englishTransliteration": "hrepize",
+    "gloss": "to flap (wings) in s.o.'s direction",
+    "definition": "to flap (wings) in s.o.'s direction",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hreumatise",
+    "copticWord": "ϩⲣⲉⲩⲙⲁⲧⲓⲥⲉ",
+    "englishTransliteration": "hreumatise",
+    "gloss": "suffer from a flux",
+    "definition": "suffer from a flux",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hreuma",
+    "copticWord": "ϩⲣⲉⲩⲙⲁ",
+    "englishTransliteration": "hreuma",
+    "gloss": "flux, stream, rheumatism",
+    "definition": "flux, stream, rheumatism",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hreumau",
+        "copticWord": "ϩⲣⲉⲩⲙⲁⲩ",
+        "englishTransliteration": "hreumau"
+      },
+      {
+        "word": "reumoe",
+        "copticWord": "ⲣⲉⲩⲙⲟⲏ",
+        "englishTransliteration": "reumoe"
+      }
+    ]
+  },
+  {
+    "headword": "hreton",
+    "copticWord": "ϩⲣⲏⲧⲟⲛ",
+    "englishTransliteration": "hreton",
+    "gloss": "saying, utterance",
+    "definition": "saying, utterance",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hretor",
+    "copticWord": "ϩⲣⲏⲧⲱⲣ",
+    "englishTransliteration": "hretor",
+    "gloss": "public speaker, advocate (substantive)",
+    "definition": "public speaker, advocate (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hrodinon",
+    "copticWord": "ϩⲣⲟⲇⲓⲛⲟⲛ",
+    "englishTransliteration": "hrodinon",
+    "gloss": "rose-oil",
+    "definition": "rose-oil",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "-hrotinon",
+        "copticWord": "ϩⲣⲟϯⲛⲟⲛ",
+        "englishTransliteration": "hrotinon"
+      },
+      {
+        "word": "-hrodion",
+        "copticWord": "ϩⲣⲟⲇⲓⲟⲛ",
+        "englishTransliteration": "hrodion"
+      },
+      {
+        "word": "hrotinon",
+        "copticWord": "ϩⲣⲱⲧⲓⲛⲟⲛ",
+        "englishTransliteration": "hrotinon"
+      },
+      {
+        "word": "rodinon",
+        "copticWord": "ⲣⲟⲇⲓⲛⲟⲛ",
+        "englishTransliteration": "rodinon"
+      },
+      {
+        "word": "rodinon",
+        "copticWord": "ⲣⲱⲇⲓⲛⲟⲛ",
+        "englishTransliteration": "rodinon"
+      }
+    ]
+  },
+  {
+    "headword": "hromaikon",
+    "copticWord": "ϩⲣⲱⲙⲁⲓⲕⲟⲛ",
+    "englishTransliteration": "hromaikon",
+    "gloss": "Roman thing, character, custom (substantive)",
+    "definition": "Roman thing, character, custom (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hromaios",
+    "copticWord": "ϩⲣⲱⲙⲁⲓⲟⲥ",
+    "englishTransliteration": "hromaios",
+    "gloss": "Roman",
+    "definition": "Roman",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "romeos",
+        "copticWord": "ⲣⲱⲙⲉⲟⲥ",
+        "englishTransliteration": "romeos"
+      }
+    ]
+  },
+  {
+    "headword": "huakinthinon",
+    "copticWord": "ϩⲩⲁⲕⲓⲛⲑⲓⲛⲟⲛ",
+    "englishTransliteration": "huakinthinon",
+    "gloss": "royal blue (substantive)",
+    "definition": "royal blue (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "huakinthos",
+    "copticWord": "ϩⲩⲁⲕⲓⲛⲑⲟⲥ",
+    "englishTransliteration": "huakinthos",
+    "gloss": "jacinth (precious blue gem)",
+    "definition": "jacinth (precious blue gem)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hubrize",
+    "copticWord": "ϩⲩⲃⲣⲓⲍⲉ",
+    "englishTransliteration": "hubrize",
+    "gloss": "to insult, abuse s.o.",
+    "definition": "to insult, abuse s.o.",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true
+  },
+  {
+    "headword": "hubristes",
+    "copticWord": "ϩⲩⲃⲣⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "hubristes",
+    "gloss": "wanton, violent person",
+    "definition": "wanton, violent person",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hudria",
+    "copticWord": "ϩⲩⲇⲣⲓⲁ",
+    "englishTransliteration": "hudria",
+    "gloss": "jar, water-vessel",
+    "definition": "jar, water-vessel",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hedria",
+        "copticWord": "ϩⲉⲇⲣⲓⲁ",
+        "englishTransliteration": "hedria"
+      },
+      {
+        "word": "thudria",
+        "copticWord": "ⲑⲩⲇⲣⲓⲁ",
+        "englishTransliteration": "thudria"
+      }
+    ]
+  },
+  {
+    "headword": "hudropikos",
+    "copticWord": "ϩⲩⲇⲣⲟⲡⲓⲕⲟⲥ",
+    "englishTransliteration": "hudropikos",
+    "gloss": "dropsical (attributive)",
+    "definition": "dropsical (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hutropikos",
+        "copticWord": "ϩⲩⲧⲣⲟⲡⲓⲕⲟⲥ",
+        "englishTransliteration": "hutropikos"
+      }
+    ]
+  },
+  {
+    "headword": "hule",
+    "copticWord": "ϩⲩⲗⲏ",
+    "englishTransliteration": "hule",
+    "gloss": "wart, callus",
+    "definition": "wart, callus",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "hale",
+        "copticWord": "ϩⲁⲗⲏ",
+        "englishTransliteration": "hale"
+      },
+      {
+        "word": "hele",
+        "copticWord": "ϩⲏⲗⲉ",
+        "englishTransliteration": "hele"
+      },
+      {
+        "word": "hule",
+        "copticWord": "ϩⲩⲗⲉ",
+        "englishTransliteration": "hule"
+      },
+      {
+        "word": "thele",
+        "copticWord": "ⲑⲉⲗⲏ",
+        "englishTransliteration": "thele"
+      },
+      {
+        "word": "thele",
+        "copticWord": "ⲑⲏⲗⲏ",
+        "englishTransliteration": "thele"
+      },
+      {
+        "word": "thule",
+        "copticWord": "ⲑⲩⲗⲉ",
+        "englishTransliteration": "thule"
+      },
+      {
+        "word": "thule",
+        "copticWord": "ⲑⲩⲗⲏ",
+        "englishTransliteration": "thule"
+      }
+    ]
+  },
+  {
+    "headword": "hulike",
+    "copticWord": "ϩⲩⲗⲓⲕⲏ",
+    "englishTransliteration": "hulike",
+    "gloss": "material one, one composed of matter; hylic (substantive; as specifically opposed to the\n     \"spiritual\" and/or \"psychic\" substance)",
+    "definition": "material one, one composed of matter; hylic (substantive; as specifically opposed to the\n     \"spiritual\" and/or \"psychic\" substance)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hulikon",
+    "copticWord": "ϩⲩⲗⲓⲕⲟⲛ",
+    "englishTransliteration": "hulikon",
+    "gloss": "material, composed of matter (attributive)",
+    "definition": "material, composed of matter (attributive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true
+  },
+  {
+    "headword": "hulikos",
+    "copticWord": "ϩⲩⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "hulikos",
+    "gloss": "material one, one composed of matter (substantive)",
+    "definition": "material one, one composed of matter (substantive)",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "variants": [
+      {
+        "word": "helikon",
+        "copticWord": "ϩⲏⲗⲓⲕⲟⲛ",
+        "englishTransliteration": "helikon"
+      },
+      {
+        "word": "-hulike",
+        "copticWord": "ϩⲩⲗⲓⲕⲏ",
+        "englishTransliteration": "hulike"
+      },
+      {
+        "word": "hulikon",
+        "copticWord": "ϩⲩⲗⲓⲕⲟⲛ",
+        "englishTransliteration": "hulikon"
+      }
+    ]
+  }
+]

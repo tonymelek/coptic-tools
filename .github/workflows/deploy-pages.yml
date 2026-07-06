@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'frontend/**'
+      - 'scripts/build-github-pages.mjs'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 

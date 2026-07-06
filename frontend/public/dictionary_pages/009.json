@@ -9,22 +9,6 @@
     "definition": "lit. The great one of"
   },
   {
-    "headword": "(2) an",
-    "copticWord": "ⲁⲛ",
-    "englishTransliteration": "an",
-    "variants": [
-      {
-        "type": "pl.",
-        "word": "anan",
-        "copticWord": "ⲁⲛⲁⲛ",
-        "englishTransliteration": "anan"
-      }
-    ],
-    "reference": "10b",
-    "gloss": "Prfx in collective numerals",
-    "definition": "Prfx in collective numerals"
-  },
-  {
     "headword": "anam/i",
     "copticWord": "ⲁⲛⲁⲙⲏⲓ",
     "englishTransliteration": "anamii",
@@ -32,14 +16,6 @@
     "partOfSpeech": "m",
     "gloss": "Precious stone, jewel. anan- v. an- - prfx in collective numerals. anantwri v. antwri - Minor. analum'ic = anal/'ic - Ascension",
     "definition": "Precious stone, jewel. anan- v. an- - prfx in collective numerals. anantwri v. antwri - Minor. analum'ic = anal/'ic - Ascension"
-  },
-  {
-    "headword": "(3) an",
-    "copticWord": "ⲁⲛ",
-    "englishTransliteration": "an",
-    "reference": "10b",
-    "gloss": "neg. part. following subj. and predicate",
-    "definition": "not."
   },
   {
     "headword": "(1) anapai",
@@ -65,14 +41,6 @@
     "isGreek": true,
     "gloss": "Repose, rest, ease. anarouhi v. rouhi - Evening",
     "definition": "Repose, rest, ease. anarouhi v. rouhi - Evening"
-  },
-  {
-    "headword": "(4) an",
-    "copticWord": "ⲁⲛ",
-    "englishTransliteration": "an",
-    "reference": "56b",
-    "gloss": "interrog. part., precedes subj",
-    "definition": "interrog. part., precedes subj"
   },
   {
     "headword": "ana",
